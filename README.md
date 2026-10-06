@@ -36,7 +36,7 @@ Set `LANGUAGES` under **Settings → Secrets and variables → Actions → Varia
 
 ### Available folder codes
 
-`en`, `zh-CN`, `pt-BR`, `ru`, `es-ES`, `bg`, `cs`, `da`, `nl`, `fi`, `fr`, `de`, `el`, `hu`, `it`, `ja`, `ko`, `es-MX`, `no`, `pl`, `pt-PT`, `ro`, `sv`, `zh-TW`, `th`, `tr`, `uk`, `vi`
+`en`, `zh-CN`, `pt-BR`, `ru`, `es`, `bg`, `cs`, `da`, `nl`, `fi`, `fr`, `de`, `el`, `hu`, `it`, `ja`, `ko`, `es-MX`, `no`, `pl`, `pt-PT`, `ro`, `sv`, `zh-TW`, `th`, `tr`, `uk`, `vi`
 
 Full list with display names in [`constants.js`](constants.js).
 

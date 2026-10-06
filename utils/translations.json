@@ -251,7 +251,7 @@
         "skin_souvenir": "{item_name}（纪念品） | {pattern} ({wear})",
         "highlight_charm": "{charm_name}（纪念品） | {keychain_name} | {highlight_name}"
     },
-    "es-ES": {
+    "es": {
         "collectible_genuine": "{item_name} {genuine}",
         "rare_special": "{item_name} ★ | {pattern}",
         "rare_special_with_wear": "{item_name} ★ | {pattern} ({wear})",

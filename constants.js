@@ -45,7 +45,7 @@ export const LANGUAGES_URL = [
     },
     {
         language: "spanish",
-        folder: "es-ES",
+        folder: "es",
         url: getLanguageUrl("spanish"),
     },
     {

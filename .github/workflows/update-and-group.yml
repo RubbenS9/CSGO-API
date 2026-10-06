@@ -11,7 +11,7 @@ on:
         default: false
         type: boolean
       languages:
-        description: "Comma-separated folder codes (e.g. en,es-ES,ru) or 'all'. Empty = use vars.LANGUAGES, then en,es-ES,ru."
+        description: "Comma-separated folder codes (e.g. en,es,ru) or 'all'. Empty = use vars.LANGUAGES, then en,es,ru."
         required: false
         default: ""
         type: string
@@ -25,7 +25,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      LANGUAGES: ${{ github.event.inputs.languages || vars.LANGUAGES || 'en,es-ES,ru' }}
+      LANGUAGES: ${{ github.event.inputs.languages || vars.LANGUAGES || 'en,es,ru' }}
       FORCE_FLAG: ${{ github.event.inputs.force == 'true' && '--force' || '' }}
 
     steps:
