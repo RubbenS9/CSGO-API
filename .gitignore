@@ -1,3 +1,9 @@
 # dependencies
 **/node_modules
 **/trash
+
+# Published lists stay in public/api. These aggregates stay local.
+public/api/**/all.json
+public/api/**/inventory.json
+public/api/**/skins_not_grouped.json
+public/api/**/collections.json
