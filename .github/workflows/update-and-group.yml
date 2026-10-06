@@ -1,6 +1,9 @@
 name: Update and Group JSON API
 
 on:
+  schedule:
+    # Sunday 22:00 UTC = midnight at the end of Sunday in Spain (CEST, UTC+2).
+    - cron: "0 22 * * 0"
   repository_dispatch:
     types: [game-images-updated]
   workflow_dispatch:
@@ -23,6 +26,8 @@ concurrency:
 jobs:
   update-and-group:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     env:
       LANGUAGES: ${{ github.event.inputs.languages || vars.LANGUAGES || 'en,es,ru' }}
