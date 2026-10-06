@@ -51,7 +51,7 @@ Object with all items accessible by their id.
 ### List skins
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/skins.json
+GET https://raw.githubusercontent.com/RubbenS9/CSGO-API/main/public/api/en/weapons.json
 ```
 
 Example response:

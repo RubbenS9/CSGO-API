@@ -184,7 +184,7 @@ const waitForFile = async (filePath, maxRetries = 5, retryDelay = 2000) => {
 
 export const getInventory = async () => {
     const { folder } = languageData;
-    const skinsFilePath = path.join(process.cwd(), `./public/api/${folder}/skins.json`);
+    const skinsFilePath = path.join(process.cwd(), `./public/api/${folder}/weapons.json`);
     const cratesFilePath = path.join(process.cwd(), `./public/api/${folder}/crates.json`);
     const collectiblesFilePath = path.join(process.cwd(), `./public/api/${folder}/collectibles.json`);
     const stickersFilePath = path.join(process.cwd(), `./public/api/${folder}/stickers.json`);

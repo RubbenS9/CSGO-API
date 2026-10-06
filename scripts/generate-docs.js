@@ -20,9 +20,9 @@ const endpoints = [
         id: "list-skins",
         title: "List skins",
         description: "Returns an array of all weapon skins grouped by pattern and wear condition.",
-        endpoint: "/skins.json",
-        url: "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/skins.json",
-        jsonFile: "public/api/en/skins.json",
+        endpoint: "/weapons.json",
+        url: "https://raw.githubusercontent.com/RubbenS9/CSGO-API/main/public/api/en/weapons.json",
+        jsonFile: "public/api/en/weapons.json",
     },
     {
         id: "list-skins-not-grouped",

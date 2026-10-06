@@ -221,5 +221,5 @@ export const getSkins = async () => {
         })),
     ].filter(skin => !skin.name.includes("null") && skin.rarity.id);
 
-    await saveDataJson(`./public/api/${folder}/skins.json`, skins);
+    await saveDataJson(`./public/api/${folder}/weapons.json`, skins);
 };
