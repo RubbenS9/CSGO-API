@@ -882,5 +882,5 @@ export const getBaseWeapons = () => {
         },
     ].sort((a, b) => a.def_index - b.def_index);
 
-    saveDataJson(`./public/api/${folder}/base_weapons.json`, baseWeapons);
+    return saveDataJson(`./public/api/${folder}/base_weapons.json`, baseWeapons);
 };

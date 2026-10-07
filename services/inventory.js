@@ -26,6 +26,7 @@ const formatInventoryData = ({
 
         items["skins"][skin.weapon.weapon_id][skin.paint_index] = {
             name: skin.name,
+            marketHashName: skin.marketHashName,
             rarity: skin.rarity,
             marketable: true,
             image: skin.image,
@@ -39,6 +40,7 @@ const formatInventoryData = ({
 
         items["crates"][crate.id.replace("crate-", "")] = {
             name: crate.name,
+            marketHashName: crate.marketHashName,
             rarity: crate.rarity,
             marketable: !!crate.market_hash_name,
             image: crate.image,
@@ -52,6 +54,7 @@ const formatInventoryData = ({
 
         items["collectibles"][collectible.id.replace("collectible-", "")] = {
             name: collectible.name,
+            marketHashName: collectible.marketHashName,
             rarity: collectible.rarity,
             marketable: !!collectible.market_hash_name,
             image: collectible.image,
@@ -65,6 +68,7 @@ const formatInventoryData = ({
 
         items["stickers"][sticker.id.replace("sticker-", "")] = {
             name: sticker.name,
+            marketHashName: sticker.marketHashName,
             rarity: sticker.rarity,
             marketable: !!sticker.market_hash_name,
             image: sticker.image,
@@ -78,6 +82,7 @@ const formatInventoryData = ({
 
         items["graffiti"][graffiti.id.replace("graffiti-", "")] = {
             name: graffiti.name,
+            marketHashName: graffiti.marketHashName,
             rarity: graffiti.rarity,
             marketable: !!graffiti.market_hash_name,
             image: graffiti.image,
@@ -92,6 +97,7 @@ const formatInventoryData = ({
 
             items["music_kits"][musicKit.id.replace("music_kit-", "")] = {
                 name: musicKit.name,
+                marketHashName: musicKit.marketHashName,
                 rarity: musicKit.rarity,
                 marketable: !!musicKit.market_hash_name,
                 image: musicKit.image,
@@ -103,6 +109,7 @@ const formatInventoryData = ({
         if (!items["keychains"]) items["keychains"] = {};
         items["keychains"][keychain.id.replace("keychain-", "")] = {
             name: keychain.name,
+            marketHashName: keychain.marketHashName,
             rarity: keychain.rarity,
             marketable: !!keychain.market_hash_name,
             image: keychain.image,
@@ -113,6 +120,7 @@ const formatInventoryData = ({
         if (!items["highlights"]) items["highlights"] = {};
         items["highlights"][highlight.id.replace("highlight-", "")] = {
             name: highlight.name,
+            marketHashName: highlight.marketHashName,
             rarity: highlight.rarity ?? null,
             marketable: !!highlight.market_hash_name,
             image: highlight.image,
@@ -123,6 +131,7 @@ const formatInventoryData = ({
         if (!items["agents"]) items["agents"] = {};
         items["agents"][agent.id.replace("agent-", "")] = {
             name: agent.name,
+            marketHashName: agent.marketHashName,
             rarity: agent.rarity,
             marketable: !!agent.market_hash_name,
             image: agent.image,
@@ -133,6 +142,7 @@ const formatInventoryData = ({
         if (!items["patches"]) items["patches"] = {};
         items["patches"][patch.id.replace("patch-", "")] = {
             name: patch.name,
+            marketHashName: patch.marketHashName,
             rarity: patch.rarity,
             marketable: !!patch.market_hash_name,
             image: patch.image,
@@ -143,6 +153,7 @@ const formatInventoryData = ({
         if (!items["keys"]) items["keys"] = {};
         items["keys"][key.id.replace("key-", "")] = {
             name: key.name,
+            marketHashName: key.marketHashName,
             rarity: key.rarity ?? null,
             marketable: !!key.market_hash_name,
             image: key.image,
@@ -153,6 +164,7 @@ const formatInventoryData = ({
         if (!items["sticker_slabs"]) items["sticker_slabs"] = {};
         items["sticker_slabs"][stickerSlab.id.replace("sticker_slab-", "")] = {
             name: stickerSlab.name,
+            marketHashName: stickerSlab.marketHashName,
             rarity: stickerSlab.rarity,
             marketable: !!stickerSlab.market_hash_name,
             image: stickerSlab.image,
@@ -163,6 +175,7 @@ const formatInventoryData = ({
         if (!items["tools"]) items["tools"] = {};
         items["tools"][tool.id.replace("tool-", "")] = {
             name: tool.name,
+            marketHashName: tool.marketHashName,
             rarity: tool.rarity ?? null,
             marketable: !!tool.market_hash_name,
             image: tool.image,
@@ -227,7 +240,7 @@ export const getInventory = async () => {
             stickerSlabs,
             tools,
         });
-        saveDataJson(`./public/api/${folder}/inventory.json`, inventory);
+        await saveDataJson(`./public/api/${folder}/inventory.json`, inventory);
     } catch (error) {
         console.error(error.message);
     }

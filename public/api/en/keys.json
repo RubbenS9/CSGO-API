@@ -32,7 +32,8 @@
   "original": {
    "item_name": "#CSGO_Tool_WeaponCase_Key",
    "image_inventory": "econ/tools/weapon_case_key"
-  }
+  },
+  "marketHashName": "CS:GO Case Key"
  },
  {
   "id": "key-1204",
@@ -62,7 +63,8 @@
   "original": {
    "item_name": "#CSGO_esports_crate_key_1",
    "image_inventory": "econ/tools/weapon_case_key_special_1"
-  }
+  },
+  "marketHashName": "eSports Key"
  },
  {
   "id": "key-1212",
@@ -87,7 +89,8 @@
   "original": {
    "item_name": "#CSGO_sticker_crate_key_1",
    "image_inventory": "econ/tools/sticker_crate_key"
-  }
+  },
+  "marketHashName": "CS:GO Capsule Key"
  },
  {
   "id": "key-1214",
@@ -107,7 +110,8 @@
   "original": {
    "item_name": "#CSGO_community_crate_key_1",
    "image_inventory": "econ/tools/crate_key_community_1"
-  }
+  },
+  "marketHashName": "Winter Offensive Case Key"
  },
  {
   "id": "key-1303",
@@ -127,7 +131,8 @@
   "original": {
    "item_name": "#CSGO_community_crate_key_2",
    "image_inventory": "econ/tools/crate_key_community_2"
-  }
+  },
+  "marketHashName": "Operation Phoenix Case Key"
  },
  {
   "id": "key-1304",
@@ -147,7 +152,8 @@
   "original": {
    "item_name": "#CSGO_sticker_crate_key_community01",
    "image_inventory": "econ/tools/sticker_crate_key_community01"
-  }
+  },
+  "marketHashName": "Community Sticker Capsule 1 Key"
  },
  {
   "id": "key-1305",
@@ -167,7 +173,8 @@
   "original": {
    "item_name": "#CSGO_community_crate_key_3",
    "image_inventory": "econ/tools/crate_key_community_3"
-  }
+  },
+  "marketHashName": "Huntsman Case Key"
  },
  {
   "id": "key-1309",
@@ -187,7 +194,8 @@
   "original": {
    "item_name": "#CSGO_community_crate_key_4",
    "image_inventory": "econ/tools/crate_key_community_4"
-  }
+  },
+  "marketHashName": "Operation Breakout Case Key"
  },
  {
   "id": "key-1322",
@@ -207,7 +215,8 @@
   "original": {
    "item_name": "#CSGO_community_crate_key_5",
    "image_inventory": "econ/tools/crate_key_community_5"
-  }
+  },
+  "marketHashName": "Operation Vanguard Case Key"
  },
  {
   "id": "key-1323",
@@ -227,7 +236,8 @@
   "original": {
    "item_name": "#CSGO_community_crate_key_6",
    "image_inventory": "econ/tools/crate_key_community_6"
-  }
+  },
+  "marketHashName": "Chroma Case Key"
  },
  {
   "id": "key-1325",
@@ -247,7 +257,8 @@
   "original": {
    "item_name": "#CSGO_community_crate_key_7",
    "image_inventory": "econ/tools/crate_key_community_7"
-  }
+  },
+  "marketHashName": "Chroma 2 Case Key"
  },
  {
   "id": "key-1330",
@@ -267,7 +278,8 @@
   "original": {
    "item_name": "#CSGO_community_crate_key_8",
    "image_inventory": "econ/tools/crate_key_community_8"
-  }
+  },
+  "marketHashName": "Falchion Case Key"
  },
  {
   "id": "key-1333",
@@ -287,7 +299,8 @@
   "original": {
    "item_name": "#CSGO_community_crate_key_9",
    "image_inventory": "econ/tools/crate_key_community_9"
-  }
+  },
+  "marketHashName": "Shadow Case Key"
  },
  {
   "id": "key-1334",
@@ -307,7 +320,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_10_key",
    "image_inventory": "econ/tools/crate_key_community_10"
-  }
+  },
+  "marketHashName": "Revolver Case Key"
  },
  {
   "id": "key-1347",
@@ -327,7 +341,8 @@
   "original": {
    "item_name": "#CSGO_crate_key_community_12",
    "image_inventory": "econ/tools/crate_key_community_12"
-  }
+  },
+  "marketHashName": "Chroma 3 Case Key"
  },
  {
   "id": "key-1350",
@@ -347,7 +362,8 @@
   "original": {
    "item_name": "#CSGO_crate_key_community_13",
    "image_inventory": "econ/tools/crate_key_community_13"
-  }
+  },
+  "marketHashName": "Gamma Case Key"
  },
  {
   "id": "key-1351",
@@ -367,7 +383,8 @@
   "original": {
    "item_name": "#CSGO_crate_key_gamma_2",
    "image_inventory": "econ/tools/crate_key_gamma_2"
-  }
+  },
+  "marketHashName": "Gamma 2 Case Key"
  },
  {
   "id": "key-1356",
@@ -387,7 +404,8 @@
   "original": {
    "item_name": "#CSGO_crate_key_community_15",
    "image_inventory": "econ/tools/crate_key_community_15"
-  }
+  },
+  "marketHashName": "Glove Case Key"
  },
  {
   "id": "key-1364",
@@ -407,7 +425,8 @@
   "original": {
    "item_name": "#CSGO_crate_key_community_16",
    "image_inventory": "econ/tools/crate_key_community_16"
-  }
+  },
+  "marketHashName": "Spectrum Case Key"
  },
  {
   "id": "key-1365",
@@ -427,7 +446,8 @@
   "original": {
    "item_name": "#CSGO_crate_key_community_17",
    "image_inventory": "econ/tools/crate_key_community_17"
-  }
+  },
+  "marketHashName": "Operation Hydra Case Key"
  },
  {
   "id": "key-1366",
@@ -447,7 +467,8 @@
   "original": {
    "item_name": "#CSGO_crate_key_community_18",
    "image_inventory": "econ/tools/crate_key_community_18"
-  }
+  },
+  "marketHashName": "Spectrum 2 Case Key"
  },
  {
   "id": "key-1373",
@@ -467,7 +488,8 @@
   "original": {
    "item_name": "#CSGO_crate_key_community_19",
    "image_inventory": "econ/tools/crate_key_community_19"
-  }
+  },
+  "marketHashName": "Clutch Case Key"
  },
  {
   "id": "key-1374",
@@ -487,7 +509,8 @@
   "original": {
    "item_name": "#CSGO_crate_key_community_20",
    "image_inventory": "econ/tools/crate_key_community_20"
-  }
+  },
+  "marketHashName": "Horizon Case Key"
  },
  {
   "id": "key-1375",
@@ -507,7 +530,8 @@
   "original": {
    "item_name": "#CSGO_crate_key_community_21",
    "image_inventory": "econ/tools/crate_key_community_21"
-  }
+  },
+  "marketHashName": "Danger Zone Case Key"
  },
  {
   "id": "key-1383",
@@ -527,7 +551,8 @@
   "original": {
    "item_name": "#CSGO_crate_key_community_22",
    "image_inventory": "econ/tools/crate_key_community_22"
-  }
+  },
+  "marketHashName": "Prisma Case Key"
  },
  {
   "id": "key-1384",
@@ -547,7 +572,8 @@
   "original": {
    "item_name": "#CSGO_crate_key_community_23",
    "image_inventory": "econ/tools/crate_key_community_23"
-  }
+  },
+  "marketHashName": "Shattered Web Case Key"
  },
  {
   "id": "key-1385",
@@ -567,7 +593,8 @@
   "original": {
    "item_name": "#CSGO_crate_key_community_24",
    "image_inventory": "econ/tools/crate_key_community_24"
-  }
+  },
+  "marketHashName": "CS20 Case Key"
  },
  {
   "id": "key-1386",
@@ -587,7 +614,8 @@
   "original": {
    "item_name": "#CSGO_crate_key_community_25",
    "image_inventory": "econ/tools/crate_key_community_25"
-  }
+  },
+  "marketHashName": "Prisma 2 Case Key"
  },
  {
   "id": "key-1387",
@@ -607,7 +635,8 @@
   "original": {
    "item_name": "#CSGO_crate_key_community_26",
    "image_inventory": "econ/tools/crate_key_community_26"
-  }
+  },
+  "marketHashName": "Fracture Case Key"
  },
  {
   "id": "key-1388",
@@ -627,7 +656,8 @@
   "original": {
    "item_name": "#CSGO_crate_key_community_27",
    "image_inventory": "econ/tools/crate_key_community_27"
-  }
+  },
+  "marketHashName": "Operation Broken Fang Case Key"
  },
  {
   "id": "key-1389",
@@ -647,7 +677,8 @@
   "original": {
    "item_name": "#CSGO_crate_key_community_28",
    "image_inventory": "econ/tools/crate_key_community_28"
-  }
+  },
+  "marketHashName": "Snakebite Case Key"
  },
  {
   "id": "key-1390",
@@ -667,7 +698,8 @@
   "original": {
    "item_name": "#CSGO_crate_key_community_29",
    "image_inventory": "econ/tools/crate_key_community_29"
-  }
+  },
+  "marketHashName": "Operation Riptide Case Key"
  },
  {
   "id": "key-1391",
@@ -687,7 +719,8 @@
   "original": {
    "item_name": "#CSGO_crate_key_community_30",
    "image_inventory": "econ/tools/crate_key_community_30"
-  }
+  },
+  "marketHashName": "Dreams & Nightmares Case Key"
  },
  {
   "id": "key-1392",
@@ -707,7 +740,8 @@
   "original": {
    "item_name": "#CSGO_crate_key_community_31",
    "image_inventory": "econ/tools/crate_key_community_31"
-  }
+  },
+  "marketHashName": "Recoil Case Key"
  },
  {
   "id": "key-1393",
@@ -727,7 +761,8 @@
   "original": {
    "item_name": "#CSGO_crate_key_community_32",
    "image_inventory": "econ/tools/crate_key_community_32"
-  }
+  },
+  "marketHashName": "Revolution Case Key"
  },
  {
   "id": "key-1394",
@@ -747,7 +782,8 @@
   "original": {
    "item_name": "#CSGO_crate_key_community_33",
    "image_inventory": "econ/tools/crate_key_community_33"
-  }
+  },
+  "marketHashName": "Kilowatt Case Key"
  },
  {
   "id": "key-7000",
@@ -767,7 +803,8 @@
   "original": {
    "item_name": "#CSGO_crate_key_community_11",
    "image_inventory": "econ/tools/crate_key_community_11"
-  }
+  },
+  "marketHashName": "Operation Wildfire Case Key"
  },
  {
   "id": "key-7002",
@@ -787,7 +824,8 @@
   "original": {
    "item_name": "#CSGO_crate_key_community_34",
    "image_inventory": "econ/tools/crate_key_community_34"
-  }
+  },
+  "marketHashName": "Gallery Case Key"
  },
  {
   "id": "key-7008",
@@ -807,6 +845,7 @@
   "original": {
    "item_name": "#CSGO_crate_key_community_35",
    "image_inventory": "econ/tools/crate_key_community_35"
-  }
+  },
+  "marketHashName": "Fever Case Key"
  }
 ]

@@ -98,5 +98,5 @@ export const getMusicKits = () => {
 
     const musicKits = musicDefinitions.map(parseItem).reduce((acc, kits) => acc.concat(kits), []);
 
-    saveDataJson(`./public/api/${folder}/music_kits.json`, musicKits);
+    return saveDataJson(`./public/api/${folder}/music_kits.json`, musicKits);
 };

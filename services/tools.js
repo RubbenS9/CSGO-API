@@ -72,5 +72,5 @@ export const getTools = () => {
         },
     ];
 
-    saveDataJson(`./public/api/${folder}/tools.json`, tools);
+    return saveDataJson(`./public/api/${folder}/tools.json`, tools);
 };

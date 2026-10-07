@@ -22,7 +22,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_ava",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_ava"
-  }
+  },
+  "marketHashName": "Charm | Lil' Ava"
  },
  {
   "id": "keychain-2",
@@ -47,7 +48,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_banana",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_banana"
-  }
+  },
+  "marketHashName": "Charm | That's Bananas"
  },
  {
   "id": "keychain-3",
@@ -72,7 +74,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_cat",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_cat"
-  }
+  },
+  "marketHashName": "Charm | Lil' Whiskers"
  },
  {
   "id": "keychain-4",
@@ -97,7 +100,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_catbeach",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_catbeach"
-  }
+  },
+  "marketHashName": "Charm | Lil' Sandy"
  },
  {
   "id": "keychain-5",
@@ -122,7 +126,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_chicken",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_chicken"
-  }
+  },
+  "marketHashName": "Charm | Chicken Lil'"
  },
  {
   "id": "keychain-6",
@@ -147,7 +152,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_guerilla",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_guerilla"
-  }
+  },
+  "marketHashName": "Charm | Lil' Crass"
  },
  {
   "id": "keychain-7",
@@ -172,7 +178,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_howl",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_howl"
-  }
+  },
+  "marketHashName": "Charm | Hot Howl"
  },
  {
   "id": "keychain-8",
@@ -197,7 +204,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_kev",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_kev"
-  }
+  },
+  "marketHashName": "Charm | Big Kev"
  },
  {
   "id": "keychain-9",
@@ -222,7 +230,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_monster",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_monster"
-  }
+  },
+  "marketHashName": "Charm | Lil' Monster"
  },
  {
   "id": "keychain-10",
@@ -247,7 +256,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_sam_catchup",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_sam_catchup"
-  }
+  },
+  "marketHashName": "Charm | Hot Sauce"
  },
  {
   "id": "keychain-11",
@@ -272,7 +282,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_sam_diamond",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_sam_diamond"
-  }
+  },
+  "marketHashName": "Charm | Diamond Dog"
  },
  {
   "id": "keychain-12",
@@ -297,7 +308,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_sam_salty",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_sam_salty"
-  }
+  },
+  "marketHashName": "Charm | Pinch O' Salt"
  },
  {
   "id": "keychain-13",
@@ -322,7 +334,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_sam_shape",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_sam_shape"
-  }
+  },
+  "marketHashName": "Charm | Diner Dog"
  },
  {
   "id": "keychain-14",
@@ -347,7 +360,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_sam_toile",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_sam_toile"
-  }
+  },
+  "marketHashName": "Charm | Lil' Teacup"
  },
  {
   "id": "keychain-15",
@@ -372,7 +386,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_sas",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_sas"
-  }
+  },
+  "marketHashName": "Charm | Lil' SAS"
  },
  {
   "id": "keychain-16",
@@ -397,7 +412,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_wurst",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_wurst"
-  }
+  },
+  "marketHashName": "Charm | Hot Wurst"
  },
  {
   "id": "keychain-17",
@@ -422,7 +438,8 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_ak_base",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_ak_base"
-  }
+  },
+  "marketHashName": "Charm | Baby's AK"
  },
  {
   "id": "keychain-18",
@@ -447,7 +464,8 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_ak_jelly",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_ak_jelly"
-  }
+  },
+  "marketHashName": "Charm | Die-cast AK"
  },
  {
   "id": "keychain-19",
@@ -472,7 +490,8 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_awp_plastic",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_awp_plastic"
-  }
+  },
+  "marketHashName": "Charm | Pocket AWP"
  },
  {
   "id": "keychain-20",
@@ -497,7 +516,8 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_awp_spoon",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_awp_spoon"
-  }
+  },
+  "marketHashName": "Charm | Titeenium AWP"
  },
  {
   "id": "keychain-21",
@@ -522,7 +542,8 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_ctknife_gold",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_ctknife_gold"
-  }
+  },
+  "marketHashName": "Charm | Baby Karat CT"
  },
  {
   "id": "keychain-22",
@@ -547,7 +568,8 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_ctknife_wood",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_ctknife_wood"
-  }
+  },
+  "marketHashName": "Charm | Whittle Knife"
  },
  {
   "id": "keychain-23",
@@ -572,7 +594,8 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_m4a1s_comic",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_m4a1s_comic"
-  }
+  },
+  "marketHashName": "Charm | POP Art"
  },
  {
   "id": "keychain-24",
@@ -597,7 +620,8 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_m4a1s_ss",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_m4a1s_ss"
-  }
+  },
+  "marketHashName": "Charm | Lil' Squirt"
  },
  {
   "id": "keychain-25",
@@ -622,7 +646,8 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_mac10_glitter",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_mac10_glitter"
-  }
+  },
+  "marketHashName": "Charm | Disco MAC"
  },
  {
   "id": "keychain-26",
@@ -647,7 +672,8 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_mac10_tile",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_mac10_tile"
-  }
+  },
+  "marketHashName": "Charm | Backsplash"
  },
  {
   "id": "keychain-27",
@@ -672,7 +698,8 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_tec9_cap",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_tec9_cap"
-  }
+  },
+  "marketHashName": "Charm | Lil' Cap Gun"
  },
  {
   "id": "keychain-28",
@@ -697,7 +724,8 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_tec9_magma",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_tec9_magma"
-  }
+  },
+  "marketHashName": "Charm | Hot Hands"
  },
  {
   "id": "keychain-29",
@@ -722,7 +750,8 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_tknife_crystal",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_tknife_crystal"
-  }
+  },
+  "marketHashName": "Charm | Semi-Precious"
  },
  {
   "id": "keychain-30",
@@ -747,7 +776,8 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_tknife_gold",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_tknife_gold"
-  }
+  },
+  "marketHashName": "Charm | Baby Karat T"
  },
  {
   "id": "keychain-31",
@@ -772,7 +802,8 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_usp_jewel",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_usp_jewel"
-  }
+  },
+  "marketHashName": "Charm | Glamour Shot"
  },
  {
   "id": "keychain-32",
@@ -797,7 +828,8 @@
   "original": {
    "loc_name": "#keychain_kc_wpn_usp_yarn",
    "image_inventory": "econ/keychains/weapon_1/kc_wpn_usp_yarn"
-  }
+  },
+  "marketHashName": "Charm | Stitch-Loaded"
  },
  {
   "id": "keychain-33",
@@ -822,7 +854,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_bigfoot",
    "image_inventory": "econ/keychains/missinglink/kc_missinglink_bigfoot"
-  }
+  },
+  "marketHashName": "Charm | Lil' Squatch"
  },
  {
   "id": "keychain-38",
@@ -847,7 +880,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_ancientcurse",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_ancientcurse"
-  }
+  },
+  "marketHashName": "Charm | Lil' Curse"
  },
  {
   "id": "keychain-39",
@@ -872,7 +906,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_babyserpent",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_babyserpent"
-  }
+  },
+  "marketHashName": "Charm | Lil' Serpent"
  },
  {
   "id": "keychain-40",
@@ -897,7 +932,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_basketball",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_basketball"
-  }
+  },
+  "marketHashName": "Charm | Lil' Baller"
  },
  {
   "id": "keychain-41",
@@ -922,7 +958,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_bodybag",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_bodybag"
-  }
+  },
+  "marketHashName": "Charm | Dead Weight"
  },
  {
   "id": "keychain-42",
@@ -947,7 +984,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_cactus",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_cactus"
-  }
+  },
+  "marketHashName": "Charm | Lil' Prick"
  },
  {
   "id": "keychain-43",
@@ -972,7 +1010,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_charmburger",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_charmburger"
-  }
+  },
+  "marketHashName": "Charm | Lil' Buns"
  },
  {
   "id": "keychain-44",
@@ -997,7 +1036,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_cigar",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_cigar"
-  }
+  },
+  "marketHashName": "Charm | Lil' Smokey"
  },
  {
   "id": "keychain-45",
@@ -1022,7 +1062,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_cthulhu",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_cthulhu"
-  }
+  },
+  "marketHashName": "Charm | Lil' Eldritch"
  },
  {
   "id": "keychain-46",
@@ -1047,7 +1088,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_happy",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_happy"
-  }
+  },
+  "marketHashName": "Charm | Lil' Happy"
  },
  {
   "id": "keychain-47",
@@ -1072,7 +1114,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_lilhothead",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_lilhothead"
-  }
+  },
+  "marketHashName": "Charm | Magmatude"
  },
  {
   "id": "keychain-48",
@@ -1097,7 +1140,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_lillol",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_lillol"
-  }
+  },
+  "marketHashName": "Charm | Lil' Cackle"
  },
  {
   "id": "keychain-49",
@@ -1122,7 +1166,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_melted",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_melted"
-  }
+  },
+  "marketHashName": "Charm | Quick Silver"
  },
  {
   "id": "keychain-50",
@@ -1147,7 +1192,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_pencil",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_pencil"
-  }
+  },
+  "marketHashName": "Charm | Lil' No. 2"
  },
  {
   "id": "keychain-51",
@@ -1172,7 +1218,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_pinata",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_pinata"
-  }
+  },
+  "marketHashName": "Charm | Piñatita"
  },
  {
   "id": "keychain-52",
@@ -1197,7 +1244,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_popsicle",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_popsicle"
-  }
+  },
+  "marketHashName": "Charm | Pocket Pop"
  },
  {
   "id": "keychain-53",
@@ -1222,7 +1270,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_sentai",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_sentai"
-  }
+  },
+  "marketHashName": "Charm | Lil' Hero"
  },
  {
   "id": "keychain-54",
@@ -1247,7 +1296,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_sillyelephant",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_sillyelephant"
-  }
+  },
+  "marketHashName": "Charm | Lil' Tusk"
  },
  {
   "id": "keychain-55",
@@ -1272,7 +1322,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_slime",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_slime"
-  }
+  },
+  "marketHashName": "Charm | Lil' Goop"
  },
  {
   "id": "keychain-56",
@@ -1297,7 +1348,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_surfsup",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_surfsup"
-  }
+  },
+  "marketHashName": "Charm | Hang Loose"
  },
  {
   "id": "keychain-57",
@@ -1322,7 +1374,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_winemaker",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_winemaker"
-  }
+  },
+  "marketHashName": "Charm | Lil' Vino"
  },
  {
   "id": "keychain-58",
@@ -1347,7 +1400,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_retrovision",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_retrovision"
-  }
+  },
+  "marketHashName": "Charm | Lil' Moments"
  },
  {
   "id": "keychain-59",
@@ -1372,7 +1426,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_muteghost",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_muteghost"
-  }
+  },
+  "marketHashName": "Charm | Lil' Boo"
  },
  {
   "id": "keychain-60",
@@ -1397,7 +1452,8 @@
   "original": {
    "loc_name": "#keychain_kc_missinglink_lilhatchling",
    "image_inventory": "econ/keychains/missinglink_community_01/kc_missinglink_lilhatchling"
-  }
+  },
+  "marketHashName": "Charm | Lil' Chirp"
  },
  {
   "id": "keychain-61",
@@ -1422,7 +1478,8 @@
   "original": {
    "loc_name": "#keychain_kc_db_200iq",
    "image_inventory": "econ/keychains/drboom/kc_db_200iq"
-  }
+  },
+  "marketHashName": "Charm | Big Brain"
  },
  {
   "id": "keychain-62",
@@ -1447,7 +1504,8 @@
   "original": {
    "loc_name": "#keychain_kc_db_biomech",
    "image_inventory": "econ/keychains/drboom/kc_db_biomech"
-  }
+  },
+  "marketHashName": "Charm | Biomech"
  },
  {
   "id": "keychain-63",
@@ -1472,7 +1530,8 @@
   "original": {
    "loc_name": "#keychain_kc_db_hellcat",
    "image_inventory": "econ/keychains/drboom/kc_db_hellcat"
-  }
+  },
+  "marketHashName": "Charm | Splatter Cat"
  },
  {
   "id": "keychain-64",
@@ -1497,7 +1556,8 @@
   "original": {
    "loc_name": "#keychain_kc_db_terror",
    "image_inventory": "econ/keychains/drboom/kc_db_terror"
-  }
+  },
+  "marketHashName": "Charm | Gritty"
  },
  {
   "id": "keychain-65",
@@ -1522,7 +1582,8 @@
   "original": {
    "loc_name": "#keychain_kc_db_ugly",
    "image_inventory": "econ/keychains/drboom/kc_db_ugly"
-  }
+  },
+  "marketHashName": "Charm | Fluffy"
  },
  {
   "id": "keychain-66",
@@ -1547,7 +1608,8 @@
   "original": {
    "loc_name": "#keychain_kc_db_wood",
    "image_inventory": "econ/keychains/drboom/kc_db_wood"
-  }
+  },
+  "marketHashName": "Charm | Whittle Guy"
  },
  {
   "id": "keychain-67",
@@ -1572,7 +1634,8 @@
   "original": {
    "loc_name": "#keychain_kc_db_yinyang",
    "image_inventory": "econ/keychains/drboom/kc_db_yinyang"
-  }
+  },
+  "marketHashName": "Charm | Lil' Zen"
  },
  {
   "id": "keychain-68",
@@ -1597,7 +1660,8 @@
   "original": {
    "loc_name": "#keychain_kc_db_aztec",
    "image_inventory": "econ/keychains/drboom/kc_db_aztec"
-  }
+  },
+  "marketHashName": "Charm | Lil' Facelift"
  },
  {
   "id": "keychain-69",
@@ -1622,7 +1686,8 @@
   "original": {
    "loc_name": "#keychain_kc_db_bombacat",
    "image_inventory": "econ/keychains/drboom/kc_db_bombacat"
-  }
+  },
+  "marketHashName": "Charm | Lil' Chomper"
  },
  {
   "id": "keychain-70",
@@ -1647,7 +1712,8 @@
   "original": {
    "loc_name": "#keychain_kc_db_clown",
    "image_inventory": "econ/keychains/drboom/kc_db_clown"
-  }
+  },
+  "marketHashName": "Charm | Lil' Bloody"
  },
  {
   "id": "keychain-71",
@@ -1672,7 +1738,8 @@
   "original": {
    "loc_name": "#keychain_kc_db_dimsum",
    "image_inventory": "econ/keychains/drboom/kc_db_dimsum"
-  }
+  },
+  "marketHashName": "Charm | Lil' Dumplin'"
  },
  {
   "id": "keychain-72",
@@ -1697,7 +1764,8 @@
   "original": {
    "loc_name": "#keychain_kc_db_eviscerate",
    "image_inventory": "econ/keychains/drboom/kc_db_eviscerate"
-  }
+  },
+  "marketHashName": "Charm | Bomb Tag"
  },
  {
   "id": "keychain-73",
@@ -1722,7 +1790,8 @@
   "original": {
    "loc_name": "#keychain_kc_db_dripfade",
    "image_inventory": "econ/keychains/drboom/kc_db_dripfade"
-  }
+  },
+  "marketHashName": "Charm | Glitter Bomb"
  },
  {
   "id": "keychain-74",
@@ -1747,7 +1816,8 @@
   "original": {
    "loc_name": "#keychain_kc_db_eco",
    "image_inventory": "econ/keychains/drboom/kc_db_eco"
-  }
+  },
+  "marketHashName": "Charm | Lil' Eco"
  },
  {
   "id": "keychain-75",
@@ -1772,7 +1842,8 @@
   "original": {
    "loc_name": "#keychain_kc_db_eyecritter",
    "image_inventory": "econ/keychains/drboom/kc_db_eyecritter"
-  }
+  },
+  "marketHashName": "Charm | Hungry Eyes"
  },
  {
   "id": "keychain-76",
@@ -1797,7 +1868,8 @@
   "original": {
    "loc_name": "#keychain_kc_db_occult",
    "image_inventory": "econ/keychains/drboom/kc_db_occult"
-  }
+  },
+  "marketHashName": "Charm | Eye of Ball"
  },
  {
   "id": "keychain-77",
@@ -1822,7 +1894,8 @@
   "original": {
    "loc_name": "#keychain_kc_db_yeti",
    "image_inventory": "econ/keychains/drboom/kc_db_yeti"
-  }
+  },
+  "marketHashName": "Charm | Lil' Yeti"
  },
  {
   "id": "keychain-78",
@@ -1847,7 +1920,8 @@
   "original": {
    "loc_name": "#keychain_kc_db_8ball",
    "image_inventory": "econ/keychains/drboom/kc_db_8ball"
-  }
+  },
+  "marketHashName": "Charm | 8 Ball IGL"
  },
  {
   "id": "keychain-79",
@@ -1872,7 +1946,8 @@
   "original": {
    "loc_name": "#keychain_kc_db_flash",
    "image_inventory": "econ/keychains/drboom/kc_db_flash"
-  }
+  },
+  "marketHashName": "Charm | Flash Bomb"
  },
  {
   "id": "keychain-80",
@@ -1897,7 +1972,8 @@
   "original": {
    "loc_name": "#keychain_kc_db_incendiary",
    "image_inventory": "econ/keychains/drboom/kc_db_incendiary"
-  }
+  },
+  "marketHashName": "Charm | Lil' Ferno"
  },
  {
   "id": "keychain-81",
@@ -1922,7 +1998,8 @@
   "original": {
    "loc_name": "#keychain_kc_db_lighter",
    "image_inventory": "econ/keychains/drboom/kc_db_lighter"
-  }
+  },
+  "marketHashName": "Charm | Butane Buddy"
  },
  {
   "id": "keychain-82",
@@ -1947,6 +2024,7 @@
   "original": {
    "loc_name": "#keychain_kc_db_drbrian",
    "image_inventory": "econ/keychains/drboom/kc_db_drbrian"
-  }
+  },
+  "marketHashName": "Charm | Dr. Brian"
  }
 ]

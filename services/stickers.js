@@ -227,5 +227,5 @@ export const getStickers = () => {
 
     const stickers = stickerKits.filter(isSticker).map(parseItem);
 
-    saveDataJson(`./public/api/${folder}/stickers.json`, stickers);
+    return saveDataJson(`./public/api/${folder}/stickers.json`, stickers);
 };

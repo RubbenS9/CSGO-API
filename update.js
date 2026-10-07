@@ -78,35 +78,37 @@ if (isForce) {
 
 await loadData();
 
-await Promise.all(
-    languages.map(async language => {
-        console.log(`Language: ${language.language}`);
+const orderedLanguages = [...languages].sort((a, b) => Number(b.folder === "en") - Number(a.folder === "en"));
 
-        try {
-            await loadTranslations(language);
+for (const language of orderedLanguages) {
+    console.log(`Language: ${language.language}`);
 
-            getAgents();
-            getCollectibles();
-            getCollections();
-            getCrates();
-            getGraffiti();
-            getKeys();
-            getMusicKits();
-            getPatches();
-            getSkins();
-            getSkinsNotGrouped();
-            getStickers();
-            getStickerSlabs();
-            getKeychains();
-            getTools();
-            getBaseWeapons();
-            getHighlights();
-            getInventory();
-        } catch (error) {
-            console.log(error);
-        }
-    })
-);
+    try {
+        await loadTranslations(language);
+
+        await Promise.all([
+            getAgents(),
+            getCollectibles(),
+            getCollections(),
+            getCrates(),
+            getGraffiti(),
+            getKeys(),
+            getMusicKits(),
+            getPatches(),
+            getSkins(),
+            getSkinsNotGrouped(),
+            getStickers(),
+            getStickerSlabs(),
+            getKeychains(),
+            getTools(),
+            getBaseWeapons(),
+            getHighlights(),
+        ]);
+        await getInventory();
+    } catch (error) {
+        console.log(error);
+    }
+}
 
 try {
     fs.writeFileSync("./manifestIdUpdate.txt", latestManifestId.toString());

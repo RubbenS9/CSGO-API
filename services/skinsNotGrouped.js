@@ -299,5 +299,5 @@ export const getSkinsNotGrouped = () => {
             .flatMap(level1 => level1),
     ].filter(skin => !skin.name.includes("null") && skin.rarity.id);
 
-    saveDataJson(`./public/api/${folder}/skins_not_grouped.json`, skins);
+    return saveDataJson(`./public/api/${folder}/skins_not_grouped.json`, skins);
 };

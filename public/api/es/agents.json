@@ -26,7 +26,8 @@
   "original": {
    "name": "customplayer_tm_professional_varf5",
    "image_inventory": "econ/characters/customplayer_tm_professional_varf5"
-  }
+  },
+  "marketHashName": "Bloody Darryl The Strapped | The Professionals"
  },
  {
   "id": "agent-4619",
@@ -55,7 +56,8 @@
   "original": {
    "name": "customplayer_ctm_st6_variantj",
    "image_inventory": "econ/characters/customplayer_ctm_st6_variantj"
-  }
+  },
+  "marketHashName": "'Blueberries' Buckshot | NSWC SEAL"
  },
  {
   "id": "agent-4680",
@@ -84,7 +86,8 @@
   "original": {
    "name": "customplayer_ctm_st6_variantl",
    "image_inventory": "econ/characters/customplayer_ctm_st6_variantl"
-  }
+  },
+  "marketHashName": "'Two Times' McCoy | TACP Cavalry"
  },
  {
   "id": "agent-4711",
@@ -113,7 +116,8 @@
   "original": {
    "name": "customplayer_ctm_swat_variante",
    "image_inventory": "econ/characters/customplayer_ctm_swat_variante"
-  }
+  },
+  "marketHashName": "Cmdr. Mae 'Dead Cold' Jamison | SWAT"
  },
  {
   "id": "agent-4712",
@@ -142,7 +146,8 @@
   "original": {
    "name": "customplayer_ctm_swat_variantf",
    "image_inventory": "econ/characters/customplayer_ctm_swat_variantf"
-  }
+  },
+  "marketHashName": "1st Lieutenant Farlow | SWAT"
  },
  {
   "id": "agent-4713",
@@ -171,7 +176,8 @@
   "original": {
    "name": "customplayer_ctm_swat_variantg",
    "image_inventory": "econ/characters/customplayer_ctm_swat_variantg"
-  }
+  },
+  "marketHashName": "John 'Van Healen' Kask | SWAT"
  },
  {
   "id": "agent-4714",
@@ -200,7 +206,8 @@
   "original": {
    "name": "customplayer_ctm_swat_varianth",
    "image_inventory": "econ/characters/customplayer_ctm_swat_varianth"
-  }
+  },
+  "marketHashName": "Bio-Haz Specialist | SWAT"
  },
  {
   "id": "agent-4715",
@@ -229,7 +236,8 @@
   "original": {
    "name": "customplayer_ctm_swat_varianti",
    "image_inventory": "econ/characters/customplayer_ctm_swat_varianti"
-  }
+  },
+  "marketHashName": "Sergeant Bombson | SWAT"
  },
  {
   "id": "agent-4716",
@@ -258,7 +266,8 @@
   "original": {
    "name": "customplayer_ctm_swat_variantj",
    "image_inventory": "econ/characters/customplayer_ctm_swat_variantj"
-  }
+  },
+  "marketHashName": "Chem-Haz Specialist | SWAT"
  },
  {
   "id": "agent-4718",
@@ -287,7 +296,8 @@
   "original": {
    "name": "customplayer_tm_balkan_variantk",
    "image_inventory": "econ/characters/customplayer_tm_balkan_variantk"
-  }
+  },
+  "marketHashName": "Rezan the Redshirt | Sabre"
  },
  {
   "id": "agent-4726",
@@ -316,7 +326,8 @@
   "original": {
    "name": "customplayer_tm_professional_varf",
    "image_inventory": "econ/characters/customplayer_tm_professional_varf"
-  }
+  },
+  "marketHashName": "Sir Bloody Miami Darryl | The Professionals"
  },
  {
   "id": "agent-4727",
@@ -345,7 +356,8 @@
   "original": {
    "name": "customplayer_tm_professional_varg",
    "image_inventory": "econ/characters/customplayer_tm_professional_varg"
-  }
+  },
+  "marketHashName": "Safecracker Voltzmann | The Professionals"
  },
  {
   "id": "agent-4728",
@@ -374,7 +386,8 @@
   "original": {
    "name": "customplayer_tm_professional_varh",
    "image_inventory": "econ/characters/customplayer_tm_professional_varh"
-  }
+  },
+  "marketHashName": "Little Kev | The Professionals"
  },
  {
   "id": "agent-4730",
@@ -403,7 +416,8 @@
   "original": {
    "name": "customplayer_tm_professional_varj",
    "image_inventory": "econ/characters/customplayer_tm_professional_varj"
-  }
+  },
+  "marketHashName": "Getaway Sally | The Professionals"
  },
  {
   "id": "agent-4732",
@@ -432,7 +446,8 @@
   "original": {
    "name": "customplayer_tm_professional_vari",
    "image_inventory": "econ/characters/customplayer_tm_professional_vari"
-  }
+  },
+  "marketHashName": "Number K | The Professionals"
  },
  {
   "id": "agent-4733",
@@ -461,7 +476,8 @@
   "original": {
    "name": "customplayer_tm_professional_varf1",
    "image_inventory": "econ/characters/customplayer_tm_professional_varf1"
-  }
+  },
+  "marketHashName": "Sir Bloody Silent Darryl | The Professionals"
  },
  {
   "id": "agent-4734",
@@ -490,7 +506,8 @@
   "original": {
    "name": "customplayer_tm_professional_varf2",
    "image_inventory": "econ/characters/customplayer_tm_professional_varf2"
-  }
+  },
+  "marketHashName": "Sir Bloody Skullhead Darryl | The Professionals"
  },
  {
   "id": "agent-4735",
@@ -519,7 +536,8 @@
   "original": {
    "name": "customplayer_tm_professional_varf3",
    "image_inventory": "econ/characters/customplayer_tm_professional_varf3"
-  }
+  },
+  "marketHashName": "Sir Bloody Darryl Royale | The Professionals"
  },
  {
   "id": "agent-4736",
@@ -548,7 +566,8 @@
   "original": {
    "name": "customplayer_tm_professional_varf4",
    "image_inventory": "econ/characters/customplayer_tm_professional_varf4"
-  }
+  },
+  "marketHashName": "Sir Bloody Loudmouth Darryl | The Professionals"
  },
  {
   "id": "agent-4749",
@@ -577,7 +596,8 @@
   "original": {
    "name": "customplayer_ctm_gendarmerie_varianta",
    "image_inventory": "econ/characters/customplayer_ctm_gendarmerie_varianta"
-  }
+  },
+  "marketHashName": "Sous-Lieutenant Medic | Gendarmerie Nationale"
  },
  {
   "id": "agent-4750",
@@ -606,7 +626,8 @@
   "original": {
    "name": "customplayer_ctm_gendarmerie_variantb",
    "image_inventory": "econ/characters/customplayer_ctm_gendarmerie_variantb"
-  }
+  },
+  "marketHashName": "Chem-Haz Capitaine | Gendarmerie Nationale"
  },
  {
   "id": "agent-4751",
@@ -635,7 +656,8 @@
   "original": {
    "name": "customplayer_ctm_gendarmerie_variantc",
    "image_inventory": "econ/characters/customplayer_ctm_gendarmerie_variantc"
-  }
+  },
+  "marketHashName": "Chef d'Escadron Rouchard | Gendarmerie Nationale"
  },
  {
   "id": "agent-4752",
@@ -664,7 +686,8 @@
   "original": {
    "name": "customplayer_ctm_gendarmerie_variantd",
    "image_inventory": "econ/characters/customplayer_ctm_gendarmerie_variantd"
-  }
+  },
+  "marketHashName": "Aspirant | Gendarmerie Nationale"
  },
  {
   "id": "agent-4753",
@@ -693,7 +716,8 @@
   "original": {
    "name": "customplayer_ctm_gendarmerie_variante",
    "image_inventory": "econ/characters/customplayer_ctm_gendarmerie_variante"
-  }
+  },
+  "marketHashName": "Officer Jacques Beltram | Gendarmerie Nationale"
  },
  {
   "id": "agent-4756",
@@ -722,7 +746,8 @@
   "original": {
    "name": "customplayer_ctm_swat_variantk",
    "image_inventory": "econ/characters/customplayer_ctm_swat_variantk"
-  }
+  },
+  "marketHashName": "Lieutenant 'Tree Hugger' Farlow | SWAT"
  },
  {
   "id": "agent-4757",
@@ -751,7 +776,8 @@
   "original": {
    "name": "customplayer_ctm_diver_varianta",
    "image_inventory": "econ/characters/customplayer_ctm_diver_varianta"
-  }
+  },
+  "marketHashName": "Cmdr. Davida 'Goggles' Fernandez | SEAL Frogman"
  },
  {
   "id": "agent-4771",
@@ -780,7 +806,8 @@
   "original": {
    "name": "customplayer_ctm_diver_variantb",
    "image_inventory": "econ/characters/customplayer_ctm_diver_variantb"
-  }
+  },
+  "marketHashName": "Cmdr. Frank 'Wet Sox' Baroud | SEAL Frogman"
  },
  {
   "id": "agent-4772",
@@ -809,7 +836,8 @@
   "original": {
    "name": "customplayer_ctm_diver_variantc",
    "image_inventory": "econ/characters/customplayer_ctm_diver_variantc"
-  }
+  },
+  "marketHashName": "Lieutenant Rex Krikey | SEAL Frogman"
  },
  {
   "id": "agent-4773",
@@ -838,7 +866,8 @@
   "original": {
    "name": "customplayer_tm_jungle_raider_varianta",
    "image_inventory": "econ/characters/customplayer_tm_jungle_raider_varianta"
-  }
+  },
+  "marketHashName": "Elite Trapper Solman | Guerrilla Warfare"
  },
  {
   "id": "agent-4774",
@@ -867,7 +896,8 @@
   "original": {
    "name": "customplayer_tm_jungle_raider_variantb",
    "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantb"
-  }
+  },
+  "marketHashName": "Crasswater The Forgotten | Guerrilla Warfare"
  },
  {
   "id": "agent-4775",
@@ -896,7 +926,8 @@
   "original": {
    "name": "customplayer_tm_jungle_raider_variantc",
    "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantc"
-  }
+  },
+  "marketHashName": "Arno The Overgrown | Guerrilla Warfare"
  },
  {
   "id": "agent-4776",
@@ -925,7 +956,8 @@
   "original": {
    "name": "customplayer_tm_jungle_raider_variantd",
    "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantd"
-  }
+  },
+  "marketHashName": "Col. Mangos Dabisi | Guerrilla Warfare"
  },
  {
   "id": "agent-4777",
@@ -954,7 +986,8 @@
   "original": {
    "name": "customplayer_tm_jungle_raider_variante",
    "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variante"
-  }
+  },
+  "marketHashName": "Vypa Sista of the Revolution | Guerrilla Warfare"
  },
  {
   "id": "agent-4778",
@@ -983,7 +1016,8 @@
   "original": {
    "name": "customplayer_tm_jungle_raider_variantf",
    "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantf"
-  }
+  },
+  "marketHashName": "Trapper Aggressor | Guerrilla Warfare"
  },
  {
   "id": "agent-4780",
@@ -1012,7 +1046,8 @@
   "original": {
    "name": "customplayer_tm_jungle_raider_variantb2",
    "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantb2"
-  }
+  },
+  "marketHashName": "'Medium Rare' Crasswater | Guerrilla Warfare"
  },
  {
   "id": "agent-4781",
@@ -1041,7 +1076,8 @@
   "original": {
    "name": "customplayer_tm_jungle_raider_variantf2",
    "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantf2"
-  }
+  },
+  "marketHashName": "Trapper | Guerrilla Warfare"
  },
  {
   "id": "agent-5105",
@@ -1070,7 +1106,8 @@
   "original": {
    "name": "customplayer_tm_leet_variantg",
    "image_inventory": "econ/characters/customplayer_tm_leet_variantg"
-  }
+  },
+  "marketHashName": "Ground Rebel  | Elite Crew"
  },
  {
   "id": "agent-5106",
@@ -1099,7 +1136,8 @@
   "original": {
    "name": "customplayer_tm_leet_varianth",
    "image_inventory": "econ/characters/customplayer_tm_leet_varianth"
-  }
+  },
+  "marketHashName": "Osiris | Elite Crew"
  },
  {
   "id": "agent-5107",
@@ -1128,7 +1166,8 @@
   "original": {
    "name": "customplayer_tm_leet_varianti",
    "image_inventory": "econ/characters/customplayer_tm_leet_varianti"
-  }
+  },
+  "marketHashName": "Prof. Shahmat | Elite Crew"
  },
  {
   "id": "agent-5108",
@@ -1157,7 +1196,8 @@
   "original": {
    "name": "customplayer_tm_leet_variantf",
    "image_inventory": "econ/characters/customplayer_tm_leet_variantf"
-  }
+  },
+  "marketHashName": "The Elite Mr. Muhlik | Elite Crew"
  },
  {
   "id": "agent-5109",
@@ -1186,7 +1226,8 @@
   "original": {
    "name": "customplayer_tm_leet_variantj",
    "image_inventory": "econ/characters/customplayer_tm_leet_variantj"
-  }
+  },
+  "marketHashName": "Jungle Rebel | Elite Crew"
  },
  {
   "id": "agent-5205",
@@ -1215,7 +1256,8 @@
   "original": {
    "name": "customplayer_tm_phoenix_varianth",
    "image_inventory": "econ/characters/customplayer_tm_phoenix_varianth"
-  }
+  },
+  "marketHashName": "Soldier | Phoenix"
  },
  {
   "id": "agent-5206",
@@ -1244,7 +1286,8 @@
   "original": {
    "name": "customplayer_tm_phoenix_variantf",
    "image_inventory": "econ/characters/customplayer_tm_phoenix_variantf"
-  }
+  },
+  "marketHashName": "Enforcer | Phoenix"
  },
  {
   "id": "agent-5207",
@@ -1273,7 +1316,8 @@
   "original": {
    "name": "customplayer_tm_phoenix_variantg",
    "image_inventory": "econ/characters/customplayer_tm_phoenix_variantg"
-  }
+  },
+  "marketHashName": "Slingshot | Phoenix"
  },
  {
   "id": "agent-5208",
@@ -1302,7 +1346,8 @@
   "original": {
    "name": "customplayer_tm_phoenix_varianti",
    "image_inventory": "econ/characters/customplayer_tm_phoenix_varianti"
-  }
+  },
+  "marketHashName": "Street Soldier | Phoenix"
  },
  {
   "id": "agent-5305",
@@ -1331,7 +1376,8 @@
   "original": {
    "name": "customplayer_ctm_fbi_variantf",
    "image_inventory": "econ/characters/customplayer_ctm_fbi_variantf"
-  }
+  },
+  "marketHashName": "Operator | FBI SWAT"
  },
  {
   "id": "agent-5306",
@@ -1360,7 +1406,8 @@
   "original": {
    "name": "customplayer_ctm_fbi_variantg",
    "image_inventory": "econ/characters/customplayer_ctm_fbi_variantg"
-  }
+  },
+  "marketHashName": "Markus Delrow | FBI HRT"
  },
  {
   "id": "agent-5307",
@@ -1389,7 +1436,8 @@
   "original": {
    "name": "customplayer_ctm_fbi_varianth",
    "image_inventory": "econ/characters/customplayer_ctm_fbi_varianth"
-  }
+  },
+  "marketHashName": "Michael Syfers  | FBI Sniper"
  },
  {
   "id": "agent-5308",
@@ -1418,7 +1466,8 @@
   "original": {
    "name": "customplayer_ctm_fbi_variantb",
    "image_inventory": "econ/characters/customplayer_ctm_fbi_variantb"
-  }
+  },
+  "marketHashName": "Special Agent Ava | FBI"
  },
  {
   "id": "agent-5400",
@@ -1447,7 +1496,8 @@
   "original": {
    "name": "customplayer_ctm_st6_variantk",
    "image_inventory": "econ/characters/customplayer_ctm_st6_variantk"
-  }
+  },
+  "marketHashName": "3rd Commando Company | KSK"
  },
  {
   "id": "agent-5401",
@@ -1476,7 +1526,8 @@
   "original": {
    "name": "customplayer_ctm_st6_variante",
    "image_inventory": "econ/characters/customplayer_ctm_st6_variante"
-  }
+  },
+  "marketHashName": "Seal Team 6 Soldier | NSWC SEAL"
  },
  {
   "id": "agent-5402",
@@ -1505,7 +1556,8 @@
   "original": {
    "name": "customplayer_ctm_st6_variantg",
    "image_inventory": "econ/characters/customplayer_ctm_st6_variantg"
-  }
+  },
+  "marketHashName": "Buckshot | NSWC SEAL"
  },
  {
   "id": "agent-5403",
@@ -1534,7 +1586,8 @@
   "original": {
    "name": "customplayer_ctm_st6_variantm",
    "image_inventory": "econ/characters/customplayer_ctm_st6_variantm"
-  }
+  },
+  "marketHashName": "'Two Times' McCoy | USAF TACP"
  },
  {
   "id": "agent-5404",
@@ -1563,7 +1616,8 @@
   "original": {
    "name": "customplayer_ctm_st6_varianti",
    "image_inventory": "econ/characters/customplayer_ctm_st6_varianti"
-  }
+  },
+  "marketHashName": "Lt. Commander Ricksaw | NSWC SEAL"
  },
  {
   "id": "agent-5405",
@@ -1592,7 +1646,8 @@
   "original": {
    "name": "customplayer_ctm_st6_variantn",
    "image_inventory": "econ/characters/customplayer_ctm_st6_variantn"
-  }
+  },
+  "marketHashName": "Primeiro Tenente | Brazilian 1st Battalion"
  },
  {
   "id": "agent-5500",
@@ -1621,7 +1676,8 @@
   "original": {
    "name": "customplayer_tm_balkan_variantf",
    "image_inventory": "econ/characters/customplayer_tm_balkan_variantf"
-  }
+  },
+  "marketHashName": "Dragomir | Sabre"
  },
  {
   "id": "agent-5501",
@@ -1650,7 +1706,8 @@
   "original": {
    "name": "customplayer_tm_balkan_varianti",
    "image_inventory": "econ/characters/customplayer_tm_balkan_varianti"
-  }
+  },
+  "marketHashName": "Maximus | Sabre"
  },
  {
   "id": "agent-5502",
@@ -1679,7 +1736,8 @@
   "original": {
    "name": "customplayer_tm_balkan_variantg",
    "image_inventory": "econ/characters/customplayer_tm_balkan_variantg"
-  }
+  },
+  "marketHashName": "Rezan The Ready | Sabre"
  },
  {
   "id": "agent-5503",
@@ -1708,7 +1766,8 @@
   "original": {
    "name": "customplayer_tm_balkan_variantj",
    "image_inventory": "econ/characters/customplayer_tm_balkan_variantj"
-  }
+  },
+  "marketHashName": "Blackwolf | Sabre"
  },
  {
   "id": "agent-5504",
@@ -1737,7 +1796,8 @@
   "original": {
    "name": "customplayer_tm_balkan_varianth",
    "image_inventory": "econ/characters/customplayer_tm_balkan_varianth"
-  }
+  },
+  "marketHashName": "'The Doctor' Romanov | Sabre"
  },
  {
   "id": "agent-5505",
@@ -1766,7 +1826,8 @@
   "original": {
    "name": "customplayer_tm_balkan_variantl",
    "image_inventory": "econ/characters/customplayer_tm_balkan_variantl"
-  }
+  },
+  "marketHashName": "Dragomir | Sabre Footsoldier"
  },
  {
   "id": "agent-5601",
@@ -1795,7 +1856,8 @@
   "original": {
    "name": "customplayer_ctm_sas_variantf",
    "image_inventory": "econ/characters/customplayer_ctm_sas_variantf"
-  }
+  },
+  "marketHashName": "B Squadron Officer | SAS"
  },
  {
   "id": "agent-5602",
@@ -1824,6 +1886,7 @@
   "original": {
    "name": "customplayer_ctm_sas_variantg",
    "image_inventory": "econ/characters/customplayer_ctm_sas_variantg"
-  }
+  },
+  "marketHashName": "D Squadron Officer | NZSAS"
  }
 ]

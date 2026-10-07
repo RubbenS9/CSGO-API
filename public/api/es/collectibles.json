@@ -16,7 +16,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_FiveYearService",
    "image_inventory": "econ/status_icons/5yearcoin"
-  }
+  },
+  "marketHashName": "5 Year Veteran Coin"
  },
  {
   "id": "collectible-875",
@@ -35,7 +36,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_DH2013_Champion",
    "image_inventory": "econ/status_icons/dreamhack_2013_champion"
-  }
+  },
+  "marketHashName": "Champion at DreamHack 2013"
  },
  {
   "id": "collectible-876",
@@ -54,7 +56,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_DH2013_Finalist",
    "image_inventory": "econ/status_icons/dreamhack_2013_finalist"
-  }
+  },
+  "marketHashName": "Finalist at DreamHack 2013"
  },
  {
   "id": "collectible-877",
@@ -73,7 +76,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_DH2013_SemiFinalist",
    "image_inventory": "econ/status_icons/dreamhack_2013_semifinalist"
-  }
+  },
+  "marketHashName": "Semifinalist at DreamHack 2013"
  },
  {
   "id": "collectible-878",
@@ -92,7 +96,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_DH2013_QuarterFinalist",
    "image_inventory": "econ/status_icons/dreamhack_2013_quarterfinalist"
-  }
+  },
+  "marketHashName": "Quarterfinalist at DreamHack 2013"
  },
  {
   "id": "collectible-879",
@@ -111,7 +116,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Kat2014_Champion",
    "image_inventory": "econ/status_icons/katowice_2014_champion"
-  }
+  },
+  "marketHashName": "Champion at EMS One Katowice 2014"
  },
  {
   "id": "collectible-880",
@@ -130,7 +136,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Kat2014_Finalist",
    "image_inventory": "econ/status_icons/katowice_2014_finalist"
-  }
+  },
+  "marketHashName": "Finalist at EMS One Katowice 2014"
  },
  {
   "id": "collectible-881",
@@ -149,7 +156,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Kat2014_SemiFinalist",
    "image_inventory": "econ/status_icons/katowice_2014_semifinalist"
-  }
+  },
+  "marketHashName": "Semifinalist at EMS One Katowice 2014"
  },
  {
   "id": "collectible-882",
@@ -168,7 +176,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Kat2014_QuarterFinalist",
    "image_inventory": "econ/status_icons/katowice_2014_quarterfinalist"
-  }
+  },
+  "marketHashName": "Quarterfinalist at EMS One Katowice 2014"
  },
  {
   "id": "collectible-883",
@@ -187,7 +196,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2014_Champion",
    "image_inventory": "econ/status_icons/cologne_trophy_champion"
-  }
+  },
+  "marketHashName": "Champion at ESL One Cologne 2014"
  },
  {
   "id": "collectible-884",
@@ -206,7 +216,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2014_Finalist",
    "image_inventory": "econ/status_icons/cologne_trophy_finalist"
-  }
+  },
+  "marketHashName": "Finalist at ESL One Cologne 2014"
  },
  {
   "id": "collectible-885",
@@ -225,7 +236,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2014_SemiFinalist",
    "image_inventory": "econ/status_icons/cologne_trophy_semifinalist"
-  }
+  },
+  "marketHashName": "Semifinalist at ESL One Cologne 2014"
  },
  {
   "id": "collectible-886",
@@ -244,7 +256,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2014_QuarterFinalist",
    "image_inventory": "econ/status_icons/cologne_trophy_quarterfinalist"
-  }
+  },
+  "marketHashName": "Quarterfinalist at ESL One Cologne 2014"
  },
  {
   "id": "collectible-887",
@@ -263,7 +276,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2014_PickEmBronze",
    "image_inventory": "econ/status_icons/cologne_prediction_bronze"
-  }
+  },
+  "marketHashName": "Bronze Cologne 2014 Pick'Em Trophy"
  },
  {
   "id": "collectible-888",
@@ -282,7 +296,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2014_PickEmSilver",
    "image_inventory": "econ/status_icons/cologne_prediction_silver"
-  }
+  },
+  "marketHashName": "Silver Cologne 2014 Pick'Em Trophy"
  },
  {
   "id": "collectible-889",
@@ -301,7 +316,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2014_PickEmGold",
    "image_inventory": "econ/status_icons/cologne_prediction_gold"
-  }
+  },
+  "marketHashName": "Gold Cologne 2014 Pick'Em Trophy"
  },
  {
   "id": "collectible-890",
@@ -320,7 +336,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_DHW2014_Champion",
    "image_inventory": "econ/status_icons/dhw_2014_champion"
-  }
+  },
+  "marketHashName": "Champion at DreamHack Winter 2014"
  },
  {
   "id": "collectible-891",
@@ -339,7 +356,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_DHW2014_Finalist",
    "image_inventory": "econ/status_icons/dhw_2014_finalist"
-  }
+  },
+  "marketHashName": "Finalist at DreamHack Winter 2014"
  },
  {
   "id": "collectible-892",
@@ -358,7 +376,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_DHW2014_SemiFinalist",
    "image_inventory": "econ/status_icons/dhw_2014_semifinalist"
-  }
+  },
+  "marketHashName": "Semifinalist at DreamHack Winter 2014"
  },
  {
   "id": "collectible-893",
@@ -377,7 +396,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_DHW2014_QuarterFinalist",
    "image_inventory": "econ/status_icons/dhw_2014_quarterfinalist"
-  }
+  },
+  "marketHashName": "Quarterfinalist at DreamHack Winter 2014"
  },
  {
   "id": "collectible-894",
@@ -396,7 +416,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_DHW2014_PickEmBronze",
    "image_inventory": "econ/status_icons/dhw14_prediction_bronze"
-  }
+  },
+  "marketHashName": "Bronze DreamHack 2014 Pick'Em Trophy"
  },
  {
   "id": "collectible-895",
@@ -415,7 +436,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_DHW2014_PickEmSilver",
    "image_inventory": "econ/status_icons/dhw14_prediction_silver"
-  }
+  },
+  "marketHashName": "Silver DreamHack 2014 Pick'Em Trophy"
  },
  {
   "id": "collectible-896",
@@ -434,7 +456,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_DHW2014_PickEmGold",
    "image_inventory": "econ/status_icons/dhw14_prediction_gold"
-  }
+  },
+  "marketHashName": "Gold DreamHack 2014 Pick'Em Trophy"
  },
  {
   "id": "collectible-897",
@@ -453,7 +476,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Kat2015_Champion",
    "image_inventory": "econ/status_icons/kat_2015_champion"
-  }
+  },
+  "marketHashName": "Champion at ESL One Katowice 2015"
  },
  {
   "id": "collectible-898",
@@ -472,7 +496,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Kat2015_Finalist",
    "image_inventory": "econ/status_icons/kat_2015_finalist"
-  }
+  },
+  "marketHashName": "Finalist at ESL One Katowice 2015"
  },
  {
   "id": "collectible-899",
@@ -491,7 +516,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Kat2015_SemiFinalist",
    "image_inventory": "econ/status_icons/kat_2015_semifinalist"
-  }
+  },
+  "marketHashName": "Semifinalist at ESL One Katowice 2015"
  },
  {
   "id": "collectible-900",
@@ -510,7 +536,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Kat2015_QuarterFinalist",
    "image_inventory": "econ/status_icons/kat_2015_quarterfinalist"
-  }
+  },
+  "marketHashName": "Quarterfinalist at ESL One Katowice 2015"
  },
  {
   "id": "collectible-901",
@@ -529,7 +556,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Kat2015_PickEmBronze",
    "image_inventory": "econ/status_icons/kat_2015_prediction_bronze"
-  }
+  },
+  "marketHashName": "Bronze Katowice 2015 Pick'Em Trophy"
  },
  {
   "id": "collectible-902",
@@ -548,7 +576,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Kat2015_PickEmSilver",
    "image_inventory": "econ/status_icons/kat_2015_prediction_silver"
-  }
+  },
+  "marketHashName": "Silver Katowice 2015 Pick'Em Trophy"
  },
  {
   "id": "collectible-903",
@@ -567,7 +596,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Kat2015_PickEmGold",
    "image_inventory": "econ/status_icons/kat_2015_prediction_gold"
-  }
+  },
+  "marketHashName": "Gold Katowice 2015 Pick'Em Trophy"
  },
  {
   "id": "collectible-904",
@@ -586,7 +616,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2015_Champion",
    "image_inventory": "econ/status_icons/col_2015_champion"
-  }
+  },
+  "marketHashName": "Champion at ESL One Cologne 2015"
  },
  {
   "id": "collectible-905",
@@ -605,7 +636,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2015_Finalist",
    "image_inventory": "econ/status_icons/col_2015_finalist"
-  }
+  },
+  "marketHashName": "Finalist at ESL One Cologne 2015"
  },
  {
   "id": "collectible-906",
@@ -624,7 +656,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2015_SemiFinalist",
    "image_inventory": "econ/status_icons/col_2015_semifinalist"
-  }
+  },
+  "marketHashName": "Semifinalist at ESL One Cologne 2015"
  },
  {
   "id": "collectible-907",
@@ -643,7 +676,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2015_QuarterFinalist",
    "image_inventory": "econ/status_icons/col_2015_quarterfinalist"
-  }
+  },
+  "marketHashName": "Quarterfinalist at ESL One Cologne 2015"
  },
  {
   "id": "collectible-908",
@@ -662,7 +696,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2015_PickEmBronze",
    "image_inventory": "econ/status_icons/col_2015_prediction_bronze"
-  }
+  },
+  "marketHashName": "Bronze Cologne 2015 Pick'Em Trophy"
  },
  {
   "id": "collectible-909",
@@ -681,7 +716,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2015_PickEmSilver",
    "image_inventory": "econ/status_icons/col_2015_prediction_silver"
-  }
+  },
+  "marketHashName": "Silver Cologne 2015 Pick'Em Trophy"
  },
  {
   "id": "collectible-910",
@@ -700,7 +736,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2015_PickEmGold",
    "image_inventory": "econ/status_icons/col_2015_prediction_gold"
-  }
+  },
+  "marketHashName": "Gold Cologne 2015 Pick'Em Trophy"
  },
  {
   "id": "collectible-911",
@@ -719,7 +756,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cluj2015_PickEmBronze",
    "image_inventory": "econ/status_icons/cluj_2015_prediction_bronze"
-  }
+  },
+  "marketHashName": "Bronze Cluj-Napoca 2015 Pick'Em Trophy"
  },
  {
   "id": "collectible-912",
@@ -738,7 +776,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cluj2015_PickEmSilver",
    "image_inventory": "econ/status_icons/cluj_2015_prediction_silver"
-  }
+  },
+  "marketHashName": "Silver Cluj-Napoca 2015 Pick'Em Trophy"
  },
  {
   "id": "collectible-913",
@@ -757,7 +796,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cluj2015_PickEmGold",
    "image_inventory": "econ/status_icons/cluj_2015_prediction_gold"
-  }
+  },
+  "marketHashName": "Gold Cluj-Napoca 2015 Pick'Em Trophy"
  },
  {
   "id": "collectible-914",
@@ -776,7 +816,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cluj2015_FantasyBronze",
    "image_inventory": "econ/status_icons/cluj_2015_fantasy_bronze"
-  }
+  },
+  "marketHashName": "Bronze Cluj-Napoca 2015 Fantasy Trophy"
  },
  {
   "id": "collectible-915",
@@ -795,7 +836,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cluj2015_FantasySilver",
    "image_inventory": "econ/status_icons/cluj_2015_fantasy_silver"
-  }
+  },
+  "marketHashName": "Silver Cluj-Napoca 2015 Fantasy Trophy"
  },
  {
   "id": "collectible-916",
@@ -814,7 +856,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cluj2015_FantasyGold",
    "image_inventory": "econ/status_icons/cluj_2015_fantasy_gold"
-  }
+  },
+  "marketHashName": "Gold Cluj-Napoca 2015 Fantasy Trophy"
  },
  {
   "id": "collectible-917",
@@ -833,7 +876,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cluj2015_Champion",
    "image_inventory": "econ/status_icons/trophy_majors"
-  }
+  },
+  "marketHashName": "Champion at DreamHack Cluj-Napoca 2015"
  },
  {
   "id": "collectible-918",
@@ -852,7 +896,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cluj2015_Finalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Finalist at DreamHack Cluj-Napoca 2015"
  },
  {
   "id": "collectible-919",
@@ -871,7 +916,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cluj2015_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Semifinalist at DreamHack Cluj-Napoca 2015"
  },
  {
   "id": "collectible-920",
@@ -890,7 +936,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cluj2015_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Quarterfinalist at DreamHack Cluj-Napoca 2015"
  },
  {
   "id": "collectible-921",
@@ -909,7 +956,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Columbus2016_PickEmBronze",
    "image_inventory": "econ/status_icons/mlg_2016_pickem_bronze"
-  }
+  },
+  "marketHashName": "Bronze Columbus 2016 Pick'Em Trophy"
  },
  {
   "id": "collectible-922",
@@ -928,7 +976,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Columbus2016_PickEmSilver",
    "image_inventory": "econ/status_icons/mlg_2016_pickem_silver"
-  }
+  },
+  "marketHashName": "Silver Columbus 2016 Pick'Em Trophy"
  },
  {
   "id": "collectible-923",
@@ -947,7 +996,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Columbus2016_PickEmGold",
    "image_inventory": "econ/status_icons/mlg_2016_pickem_gold"
-  }
+  },
+  "marketHashName": "Gold Columbus 2016 Pick'Em Trophy"
  },
  {
   "id": "collectible-924",
@@ -966,7 +1016,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Columbus2016_FantasyBronze",
    "image_inventory": "econ/status_icons/mlg_2016_fantasy_bronze"
-  }
+  },
+  "marketHashName": "Bronze Columbus 2016 Fantasy Trophy"
  },
  {
   "id": "collectible-925",
@@ -985,7 +1036,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Columbus2016_FantasySilver",
    "image_inventory": "econ/status_icons/mlg_2016_fantasy_silver"
-  }
+  },
+  "marketHashName": "Silver Columbus 2016 Fantasy Trophy"
  },
  {
   "id": "collectible-926",
@@ -1004,7 +1056,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Columbus2016_FantasyGold",
    "image_inventory": "econ/status_icons/mlg_2016_fantasy_gold"
-  }
+  },
+  "marketHashName": "Gold Columbus 2016 Fantasy Trophy"
  },
  {
   "id": "collectible-927",
@@ -1023,7 +1076,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Columbus2016_Champion",
    "image_inventory": "econ/status_icons/trophy_majors"
-  }
+  },
+  "marketHashName": "Champion at MLG Columbus 2016"
  },
  {
   "id": "collectible-928",
@@ -1042,7 +1096,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Columbus2016_Finalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Finalist at MLG Columbus 2016"
  },
  {
   "id": "collectible-929",
@@ -1061,7 +1116,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Columbus2016_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Semifinalist at MLG Columbus 2016"
  },
  {
   "id": "collectible-930",
@@ -1080,7 +1136,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Columbus2016_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Quarterfinalist at MLG Columbus 2016"
  },
  {
   "id": "collectible-931",
@@ -1099,7 +1156,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2016_Champion",
    "image_inventory": "econ/status_icons/trophy_majors"
-  }
+  },
+  "marketHashName": "Champion at ESL One Cologne 2016"
  },
  {
   "id": "collectible-932",
@@ -1118,7 +1176,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2016_Finalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Finalist at ESL One Cologne 2016"
  },
  {
   "id": "collectible-933",
@@ -1137,7 +1196,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2016_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Semifinalist at ESL One Cologne 2016"
  },
  {
   "id": "collectible-934",
@@ -1156,7 +1216,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2016_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Quarterfinalist at ESL One Cologne 2016"
  },
  {
   "id": "collectible-935",
@@ -1175,7 +1236,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2016_PickEmBronze",
    "image_inventory": "econ/status_icons/cologne_pickem_2016_bronze"
-  }
+  },
+  "marketHashName": "Bronze Cologne 2016 Pick'Em Trophy"
  },
  {
   "id": "collectible-936",
@@ -1194,7 +1256,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2016_PickEmSilver",
    "image_inventory": "econ/status_icons/cologne_pickem_2016_silver"
-  }
+  },
+  "marketHashName": "Silver Cologne 2016 Pick'Em Trophy"
  },
  {
   "id": "collectible-937",
@@ -1213,7 +1276,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2016_PickEmGold",
    "image_inventory": "econ/status_icons/cologne_pickem_2016_gold"
-  }
+  },
+  "marketHashName": "Gold Cologne 2016 Pick'Em Trophy"
  },
  {
   "id": "collectible-938",
@@ -1232,7 +1296,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2016_FantasyBronze",
    "image_inventory": "econ/status_icons/cologne_fantasy_2016_bronze"
-  }
+  },
+  "marketHashName": "Bronze Cologne 2016 Fantasy Trophy"
  },
  {
   "id": "collectible-939",
@@ -1251,7 +1316,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2016_FantasySilver",
    "image_inventory": "econ/status_icons/cologne_fantasy_2016_silver"
-  }
+  },
+  "marketHashName": "Silver Cologne 2016 Fantasy Trophy"
  },
  {
   "id": "collectible-940",
@@ -1270,7 +1336,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Cologne2016_FantasyGold",
    "image_inventory": "econ/status_icons/cologne_fantasy_2016_gold"
-  }
+  },
+  "marketHashName": "Gold Cologne 2016 Fantasy Trophy"
  },
  {
   "id": "collectible-941",
@@ -1289,7 +1356,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Atlanta2017_Champion",
    "image_inventory": "econ/status_icons/trophy_majors"
-  }
+  },
+  "marketHashName": "Champion at ELEAGUE Atlanta 2017"
  },
  {
   "id": "collectible-942",
@@ -1308,7 +1376,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Atlanta2017_Finalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Finalist at ELEAGUE Atlanta 2017"
  },
  {
   "id": "collectible-943",
@@ -1327,7 +1396,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Atlanta2017_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Semifinalist at ELEAGUE Atlanta 2017"
  },
  {
   "id": "collectible-944",
@@ -1346,7 +1416,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Atlanta2017_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Quarterfinalist at ELEAGUE Atlanta 2017"
  },
  {
   "id": "collectible-945",
@@ -1365,7 +1436,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Atlanta2017_PickEmBronze",
    "image_inventory": "econ/status_icons/atlanta_pickem_2017_bronze"
-  }
+  },
+  "marketHashName": "Bronze Atlanta 2017 Pick'Em Trophy"
  },
  {
   "id": "collectible-946",
@@ -1384,7 +1456,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Atlanta2017_PickEmSilver",
    "image_inventory": "econ/status_icons/atlanta_pickem_2017_silver"
-  }
+  },
+  "marketHashName": "Silver Atlanta 2017 Pick'Em Trophy"
  },
  {
   "id": "collectible-947",
@@ -1403,7 +1476,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Atlanta2017_PickEmGold",
    "image_inventory": "econ/status_icons/atlanta_pickem_2017_gold"
-  }
+  },
+  "marketHashName": "Gold Atlanta 2017 Pick'Em Trophy"
  },
  {
   "id": "collectible-948",
@@ -1422,7 +1496,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Krakow2017_Champion",
    "image_inventory": "econ/status_icons/trophy_majors"
-  }
+  },
+  "marketHashName": "Champion at PGL Krakow 2017"
  },
  {
   "id": "collectible-949",
@@ -1441,7 +1516,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Krakow2017_Finalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Finalist at PGL Krakow 2017"
  },
  {
   "id": "collectible-950",
@@ -1460,7 +1536,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Krakow2017_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Semifinalist at PGL Krakow 2017"
  },
  {
   "id": "collectible-951",
@@ -1479,7 +1556,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Krakow2017_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Quarterfinalist at PGL Krakow 2017"
  },
  {
   "id": "collectible-952",
@@ -1498,7 +1576,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Krakow2017_PickEmBronze",
    "image_inventory": "econ/status_icons/krakow_pickem_2017_bronze"
-  }
+  },
+  "marketHashName": "Bronze Krakow 2017 Pick'Em Trophy"
  },
  {
   "id": "collectible-953",
@@ -1517,7 +1596,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Krakow2017_PickEmSilver",
    "image_inventory": "econ/status_icons/krakow_pickem_2017_silver"
-  }
+  },
+  "marketHashName": "Silver Krakow 2017 Pick'Em Trophy"
  },
  {
   "id": "collectible-954",
@@ -1536,7 +1616,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Krakow2017_PickEmGold",
    "image_inventory": "econ/status_icons/krakow_pickem_2017_gold"
-  }
+  },
+  "marketHashName": "Gold Krakow 2017 Pick'Em Trophy"
  },
  {
   "id": "collectible-955",
@@ -1555,7 +1636,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Boston2018_Champion",
    "image_inventory": "econ/status_icons/trophy_majors"
-  }
+  },
+  "marketHashName": "Champion at ELEAGUE Boston 2018"
  },
  {
   "id": "collectible-956",
@@ -1574,7 +1656,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Boston2018_Finalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Finalist at ELEAGUE Boston 2018"
  },
  {
   "id": "collectible-957",
@@ -1593,7 +1676,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Boston2018_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Semifinalist at ELEAGUE Boston 2018"
  },
  {
   "id": "collectible-958",
@@ -1612,7 +1696,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Boston2018_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Quarterfinalist at ELEAGUE Boston 2018"
  },
  {
   "id": "collectible-959",
@@ -1631,7 +1716,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Boston2018_PickEmBronze",
    "image_inventory": "econ/status_icons/boston_pickem_2018_bronze"
-  }
+  },
+  "marketHashName": "Bronze Boston 2018 Pick'Em Trophy"
  },
  {
   "id": "collectible-960",
@@ -1650,7 +1736,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Boston2018_PickEmSilver",
    "image_inventory": "econ/status_icons/boston_pickem_2018_silver"
-  }
+  },
+  "marketHashName": "Silver Boston 2018 Pick'Em Trophy"
  },
  {
   "id": "collectible-961",
@@ -1669,7 +1756,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Boston2018_PickEmGold",
    "image_inventory": "econ/status_icons/boston_pickem_2018_gold"
-  }
+  },
+  "marketHashName": "Gold Boston 2018 Pick'Em Trophy"
  },
  {
   "id": "collectible-962",
@@ -1688,7 +1776,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_London2018_Champion",
    "image_inventory": "econ/status_icons/trophy_majors"
-  }
+  },
+  "marketHashName": "Champion at FACEIT London 2018"
  },
  {
   "id": "collectible-963",
@@ -1707,7 +1796,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_London2018_Finalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Finalist at FACEIT London 2018"
  },
  {
   "id": "collectible-964",
@@ -1726,7 +1816,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_London2018_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Semifinalist at FACEIT London 2018"
  },
  {
   "id": "collectible-965",
@@ -1745,7 +1836,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_London2018_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Quarterfinalist at FACEIT London 2018"
  },
  {
   "id": "collectible-966",
@@ -1764,7 +1856,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_London2018_PickEmBronze",
    "image_inventory": "econ/status_icons/london_pickem_2018_bronze"
-  }
+  },
+  "marketHashName": "Bronze London 2018 Pick'Em Trophy"
  },
  {
   "id": "collectible-967",
@@ -1783,7 +1876,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_London2018_PickEmSilver",
    "image_inventory": "econ/status_icons/london_pickem_2018_silver"
-  }
+  },
+  "marketHashName": "Silver London 2018 Pick'Em Trophy"
  },
  {
   "id": "collectible-968",
@@ -1802,7 +1896,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_London2018_PickEmGold",
    "image_inventory": "econ/status_icons/london_pickem_2018_gold"
-  }
+  },
+  "marketHashName": "Gold London 2018 Pick'Em Trophy"
  },
  {
   "id": "collectible-969",
@@ -1821,7 +1916,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_TenYearService",
    "image_inventory": "econ/status_icons/10yearcoin"
-  }
+  },
+  "marketHashName": "10 Year Veteran Coin"
  },
  {
   "id": "collectible-970",
@@ -1840,7 +1936,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_FortiusQuoFidelius",
    "image_inventory": "econ/status_icons/prime_badge"
-  }
+  },
+  "marketHashName": "Loyalty Badge"
  },
  {
   "id": "collectible-971",
@@ -1859,7 +1956,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Katowice2019_Champion",
    "image_inventory": "econ/status_icons/trophy_majors"
-  }
+  },
+  "marketHashName": "Champion at IEM Katowice 2019"
  },
  {
   "id": "collectible-972",
@@ -1878,7 +1976,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Katowice2019_Finalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Finalist at IEM Katowice 2019"
  },
  {
   "id": "collectible-973",
@@ -1897,7 +1996,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Katowice2019_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Semifinalist at IEM Katowice 2019"
  },
  {
   "id": "collectible-974",
@@ -1916,7 +2016,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Katowice2019_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Quarterfinalist at IEM Katowice 2019"
  },
  {
   "id": "collectible-975",
@@ -1935,7 +2036,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Berlin2019_Champion",
    "image_inventory": "econ/status_icons/trophy_majors"
-  }
+  },
+  "marketHashName": "Champion at StarLadder Berlin 2019"
  },
  {
   "id": "collectible-976",
@@ -1954,7 +2056,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Berlin2019_Finalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Finalist at StarLadder Berlin 2019"
  },
  {
   "id": "collectible-977",
@@ -1973,7 +2076,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Berlin2019_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Semifinalist at StarLadder Berlin 2019"
  },
  {
   "id": "collectible-978",
@@ -1992,7 +2096,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Berlin2019_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Quarterfinalist at StarLadder Berlin 2019"
  },
  {
   "id": "collectible-979",
@@ -2011,7 +2116,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Stockh2021_Champion",
    "image_inventory": "econ/status_icons/trophy_majors"
-  }
+  },
+  "marketHashName": "Champion at PGL Stockholm 2021"
  },
  {
   "id": "collectible-980",
@@ -2030,7 +2136,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Stockh2021_Finalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Finalist at PGL Stockholm 2021"
  },
  {
   "id": "collectible-981",
@@ -2049,7 +2156,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Stockh2021_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Semifinalist at PGL Stockholm 2021"
  },
  {
   "id": "collectible-982",
@@ -2068,7 +2176,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Stockh2021_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Quarterfinalist at PGL Stockholm 2021"
  },
  {
   "id": "collectible-983",
@@ -2087,7 +2196,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Antwerp2022_Champion",
    "image_inventory": "econ/status_icons/trophy_majors"
-  }
+  },
+  "marketHashName": "Champion at PGL Antwerp 2022"
  },
  {
   "id": "collectible-984",
@@ -2106,7 +2216,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Antwerp2022_Finalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Finalist at PGL Antwerp 2022"
  },
  {
   "id": "collectible-985",
@@ -2125,7 +2236,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Antwerp2022_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Semifinalist at PGL Antwerp 2022"
  },
  {
   "id": "collectible-986",
@@ -2144,7 +2256,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Antwerp2022_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Quarterfinalist at PGL Antwerp 2022"
  },
  {
   "id": "collectible-987",
@@ -2163,7 +2276,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
    "image_inventory": "econ/status_icons/cupcake_10_year"
-  }
+  },
+  "marketHashName": "10 Year Birthday Coin"
  },
  {
   "id": "collectible-988",
@@ -2182,7 +2296,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Rio2022_Champion",
    "image_inventory": "econ/status_icons/trophy_majors"
-  }
+  },
+  "marketHashName": "Champion at IEM Rio 2022"
  },
  {
   "id": "collectible-989",
@@ -2201,7 +2316,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Rio2022_Finalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Finalist at IEM Rio 2022"
  },
  {
   "id": "collectible-990",
@@ -2220,7 +2336,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Rio2022_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Semifinalist at IEM Rio 2022"
  },
  {
   "id": "collectible-991",
@@ -2239,7 +2356,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Rio2022_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Quarterfinalist at IEM Rio 2022"
  },
  {
   "id": "collectible-992",
@@ -2258,7 +2376,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Paris2023_Champion",
    "image_inventory": "econ/status_icons/trophy_majors"
-  }
+  },
+  "marketHashName": "Champion at BLAST.tv Paris 2023"
  },
  {
   "id": "collectible-993",
@@ -2277,7 +2396,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Paris2023_Finalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Finalist at BLAST.tv Paris 2023"
  },
  {
   "id": "collectible-994",
@@ -2296,7 +2416,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Paris2023_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Semifinalist at BLAST.tv Paris 2023"
  },
  {
   "id": "collectible-995",
@@ -2315,7 +2436,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_Paris2023_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_majors_finalists"
-  }
+  },
+  "marketHashName": "Quarterfinalist at BLAST.tv Paris 2023"
  },
  {
   "id": "collectible-996",
@@ -2334,7 +2456,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_CoinCsgo",
    "image_inventory": "econ/status_icons/coin_csgo"
-  }
+  },
+  "marketHashName": "Global Offensive Badge"
  },
  {
   "id": "collectible-1000",
@@ -2353,7 +2476,8 @@
   "original": {
    "item_name": "#CSGO_Ticket_CommunitySeasonOneSpring2013",
    "image_inventory": "econ/status_icons/community_support_pass"
-  }
+  },
+  "marketHashName": "Operation Payback Pass"
  },
  {
   "id": "collectible-1001",
@@ -2372,7 +2496,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin1",
    "image_inventory": "econ/status_icons/community_support_pass_coin1"
-  }
+  },
+  "marketHashName": "Operation Payback Challenge Coin"
  },
  {
   "id": "collectible-1002",
@@ -2391,7 +2516,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin2",
    "image_inventory": "econ/status_icons/community_support_pass_coin2"
-  }
+  },
+  "marketHashName": "Silver Operation Payback Coin"
  },
  {
   "id": "collectible-1003",
@@ -2410,7 +2536,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonOneSpring2013_Coin3",
    "image_inventory": "econ/status_icons/community_support_pass_coin3"
-  }
+  },
+  "marketHashName": "Gold Operation Payback Coin"
  },
  {
   "id": "collectible-1004",
@@ -2429,7 +2556,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenMuseum",
    "image_inventory": "econ/status_icons/maptoken_museum"
-  }
+  },
+  "marketHashName": "Museum Map Coin"
  },
  {
   "id": "collectible-1005",
@@ -2448,7 +2576,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenDowntown",
    "image_inventory": "econ/status_icons/maptoken_downtown"
-  }
+  },
+  "marketHashName": "Downtown Map Coin"
  },
  {
   "id": "collectible-1006",
@@ -2467,7 +2596,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenThunder",
    "image_inventory": "econ/status_icons/maptoken_thunder"
-  }
+  },
+  "marketHashName": "Thunder Map Coin"
  },
  {
   "id": "collectible-1007",
@@ -2486,7 +2616,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenFavela",
    "image_inventory": "econ/status_icons/maptoken_favela"
-  }
+  },
+  "marketHashName": "Favela Map Coin"
  },
  {
   "id": "collectible-1008",
@@ -2505,7 +2636,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenMotel",
    "image_inventory": "econ/status_icons/maptoken_motel"
-  }
+  },
+  "marketHashName": "Motel Map Coin"
  },
  {
   "id": "collectible-1009",
@@ -2524,7 +2656,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenSeaside",
    "image_inventory": "econ/status_icons/maptoken_seaside"
-  }
+  },
+  "marketHashName": "Seaside Map Coin"
  },
  {
   "id": "collectible-1010",
@@ -2543,7 +2676,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenLibrary",
    "image_inventory": "econ/status_icons/maptoken_library"
-  }
+  },
+  "marketHashName": "Library Map Coin"
  },
  {
   "id": "collectible-1012",
@@ -2562,7 +2696,8 @@
   "original": {
    "item_name": "#CSGO_Ticket_CommunitySeasonTwoAutumn2013",
    "image_inventory": "econ/status_icons/operation_bravo_pass"
-  }
+  },
+  "marketHashName": "Operation Bravo Pass"
  },
  {
   "id": "collectible-1013",
@@ -2581,7 +2716,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin1",
    "image_inventory": "econ/status_icons/operation_bravo_bronze"
-  }
+  },
+  "marketHashName": "Operation Bravo Challenge Coin"
  },
  {
   "id": "collectible-1014",
@@ -2600,7 +2736,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin2",
    "image_inventory": "econ/status_icons/operation_bravo_silver"
-  }
+  },
+  "marketHashName": "Silver Operation Bravo Coin"
  },
  {
   "id": "collectible-1015",
@@ -2619,7 +2756,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonTwoAutumn2013_Coin3",
    "image_inventory": "econ/status_icons/operation_bravo_gold"
-  }
+  },
+  "marketHashName": "Gold Operation Bravo Coin"
  },
  {
   "id": "collectible-1016",
@@ -2638,7 +2776,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenAgency",
    "image_inventory": "econ/status_icons/maptoken_agency"
-  }
+  },
+  "marketHashName": "Agency Map Coin"
  },
  {
   "id": "collectible-1017",
@@ -2657,7 +2796,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenAli",
    "image_inventory": "econ/status_icons/maptoken_ali"
-  }
+  },
+  "marketHashName": "Ali Map Coin"
  },
  {
   "id": "collectible-1018",
@@ -2676,7 +2816,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenCache",
    "image_inventory": "econ/status_icons/maptoken_cache"
-  }
+  },
+  "marketHashName": "Cache Map Coin"
  },
  {
   "id": "collectible-1019",
@@ -2695,7 +2836,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenChinatown",
    "image_inventory": "econ/status_icons/maptoken_chinatown"
-  }
+  },
+  "marketHashName": "Chinatown Map Coin"
  },
  {
   "id": "collectible-1020",
@@ -2714,7 +2856,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenGwalior",
    "image_inventory": "econ/status_icons/maptoken_gwalior"
-  }
+  },
+  "marketHashName": "Gwalior Map Coin"
  },
  {
   "id": "collectible-1021",
@@ -2733,7 +2876,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenRuins",
    "image_inventory": "econ/status_icons/maptoken_ruins"
-  }
+  },
+  "marketHashName": "Ruins Map Coin"
  },
  {
   "id": "collectible-1022",
@@ -2752,7 +2896,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenSiege",
    "image_inventory": "econ/status_icons/maptoken_siege"
-  }
+  },
+  "marketHashName": "Siege Map Coin"
  },
  {
   "id": "collectible-1023",
@@ -2771,7 +2916,8 @@
   "original": {
    "item_name": "#CSGO_Ticket_CommunitySeasonThreeSpring2014",
    "image_inventory": "econ/status_icons/operation_phoenix_pass"
-  }
+  },
+  "marketHashName": "Operation Phoenix Pass"
  },
  {
   "id": "collectible-1024",
@@ -2790,7 +2936,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin1",
    "image_inventory": "econ/status_icons/operation_phoenix_bronze"
-  }
+  },
+  "marketHashName": "Operation Phoenix Challenge Coin"
  },
  {
   "id": "collectible-1025",
@@ -2809,7 +2956,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin2",
    "image_inventory": "econ/status_icons/operation_phoenix_silver"
-  }
+  },
+  "marketHashName": "Silver Operation Phoenix Coin"
  },
  {
   "id": "collectible-1026",
@@ -2828,7 +2976,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonThreeSpring2014_Coin3",
    "image_inventory": "econ/status_icons/operation_phoenix_gold"
-  }
+  },
+  "marketHashName": "Gold Operation Phoenix Coin"
  },
  {
   "id": "collectible-1027",
@@ -2847,7 +2996,8 @@
   "original": {
    "item_name": "#CSGO_Ticket_CommunitySeasonFourSummer2014",
    "image_inventory": "econ/status_icons/operation_breakout_pass"
-  }
+  },
+  "marketHashName": "Operation Breakout All Access Pass"
  },
  {
   "id": "collectible-1028",
@@ -2866,7 +3016,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin1",
    "image_inventory": "econ/status_icons/operation_breakout_bronze"
-  }
+  },
+  "marketHashName": "Operation Breakout Challenge Coin"
  },
  {
   "id": "collectible-1029",
@@ -2885,7 +3036,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin2",
    "image_inventory": "econ/status_icons/operation_breakout_silver"
-  }
+  },
+  "marketHashName": "Silver Operation Breakout Coin"
  },
  {
   "id": "collectible-1030",
@@ -2904,7 +3056,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonFourSummer2014_Coin3",
    "image_inventory": "econ/status_icons/operation_breakout_gold"
-  }
+  },
+  "marketHashName": "Gold Operation Breakout Coin"
  },
  {
   "id": "collectible-1031",
@@ -2923,7 +3076,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenCastle",
    "image_inventory": "econ/status_icons/maptoken_castle"
-  }
+  },
+  "marketHashName": "Castle Map Coin"
  },
  {
   "id": "collectible-1032",
@@ -2942,7 +3096,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenBlackGold",
    "image_inventory": "econ/status_icons/maptoken_blackgold"
-  }
+  },
+  "marketHashName": "Black Gold Map Coin"
  },
  {
   "id": "collectible-1033",
@@ -2961,7 +3116,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenRush",
    "image_inventory": "econ/status_icons/maptoken_rush"
-  }
+  },
+  "marketHashName": "Rush Map Coin"
  },
  {
   "id": "collectible-1034",
@@ -2980,7 +3136,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenMist",
    "image_inventory": "econ/status_icons/maptoken_mist"
-  }
+  },
+  "marketHashName": "Mist Map Coin"
  },
  {
   "id": "collectible-1035",
@@ -2999,7 +3156,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenInsertion",
    "image_inventory": "econ/status_icons/maptoken_insertion"
-  }
+  },
+  "marketHashName": "Insertion Map Coin"
  },
  {
   "id": "collectible-1036",
@@ -3018,7 +3176,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenOvergrown",
    "image_inventory": "econ/status_icons/maptoken_overgrown"
-  }
+  },
+  "marketHashName": "Overgrown Map Coin"
  },
  {
   "id": "collectible-1037",
@@ -3037,7 +3196,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenMarquis",
    "image_inventory": "econ/status_icons/maptoken_marquis"
-  }
+  },
+  "marketHashName": "Marquis Map Coin"
  },
  {
   "id": "collectible-1038",
@@ -3056,7 +3216,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenWorkout",
    "image_inventory": "econ/status_icons/maptoken_workout"
-  }
+  },
+  "marketHashName": "Workout Map Coin"
  },
  {
   "id": "collectible-1039",
@@ -3075,7 +3236,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenBackalley",
    "image_inventory": "econ/status_icons/maptoken_backalley"
-  }
+  },
+  "marketHashName": "Backalley Map Coin"
  },
  {
   "id": "collectible-1040",
@@ -3094,7 +3256,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenSeason",
    "image_inventory": "econ/status_icons/maptoken_season"
-  }
+  },
+  "marketHashName": "Season Map Coin"
  },
  {
   "id": "collectible-1041",
@@ -3113,7 +3276,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenBazaar",
    "image_inventory": "econ/status_icons/maptoken_bazaar"
-  }
+  },
+  "marketHashName": "Bazaar Map Coin"
  },
  {
   "id": "collectible-1042",
@@ -3132,7 +3296,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenFacade",
    "image_inventory": "econ/status_icons/maptoken_facade"
-  }
+  },
+  "marketHashName": "Facade Map Coin"
  },
  {
   "id": "collectible-1043",
@@ -3151,7 +3316,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenLog",
    "image_inventory": "econ/status_icons/maptoken_log"
-  }
+  },
+  "marketHashName": "Log Map Coin"
  },
  {
   "id": "collectible-1044",
@@ -3170,7 +3336,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenRails",
    "image_inventory": "econ/status_icons/maptoken_rails"
-  }
+  },
+  "marketHashName": "Rails Map Coin"
  },
  {
   "id": "collectible-1045",
@@ -3189,7 +3356,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenResort",
    "image_inventory": "econ/status_icons/maptoken_resort"
-  }
+  },
+  "marketHashName": "Resort Map Coin"
  },
  {
   "id": "collectible-1046",
@@ -3208,7 +3376,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenZoo",
    "image_inventory": "econ/status_icons/maptoken_zoo"
-  }
+  },
+  "marketHashName": "Zoo Map Coin"
  },
  {
   "id": "collectible-1047",
@@ -3227,7 +3396,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenSantorini",
    "image_inventory": "econ/status_icons/maptoken_santorini"
-  }
+  },
+  "marketHashName": "Santorini Map Coin"
  },
  {
   "id": "collectible-1048",
@@ -3246,7 +3416,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenCoast",
    "image_inventory": "econ/status_icons/maptoken_coast"
-  }
+  },
+  "marketHashName": "Coast Map Coin"
  },
  {
   "id": "collectible-1049",
@@ -3265,7 +3436,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenMikla",
    "image_inventory": "econ/status_icons/maptoken_mikla"
-  }
+  },
+  "marketHashName": "Mikla Map Coin"
  },
  {
   "id": "collectible-1050",
@@ -3284,7 +3456,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenRoyal",
    "image_inventory": "econ/status_icons/maptoken_royal"
-  }
+  },
+  "marketHashName": "Royal Map Coin"
  },
  {
   "id": "collectible-1051",
@@ -3303,7 +3476,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenEmpire",
    "image_inventory": "econ/status_icons/maptoken_empire"
-  }
+  },
+  "marketHashName": "Empire Map Coin"
  },
  {
   "id": "collectible-1052",
@@ -3322,7 +3496,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenTulip",
    "image_inventory": "econ/status_icons/maptoken_tulip"
-  }
+  },
+  "marketHashName": "Tulip Map Coin"
  },
  {
   "id": "collectible-1053",
@@ -3341,7 +3516,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenCruise",
    "image_inventory": "econ/status_icons/maptoken_cruise"
-  }
+  },
+  "marketHashName": "Cruise Map Coin"
  },
  {
   "id": "collectible-1054",
@@ -3360,7 +3536,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenSubzero",
    "image_inventory": "econ/status_icons/maptoken_subzero"
-  }
+  },
+  "marketHashName": "Subzero Map Coin"
  },
  {
   "id": "collectible-1055",
@@ -3379,7 +3556,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenBiome",
    "image_inventory": "econ/status_icons/maptoken_biome"
-  }
+  },
+  "marketHashName": "Biome Map Coin"
  },
  {
   "id": "collectible-1056",
@@ -3398,7 +3576,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenAbbey",
    "image_inventory": "econ/status_icons/maptoken_abbey"
-  }
+  },
+  "marketHashName": "Abbey Map Coin"
  },
  {
   "id": "collectible-1057",
@@ -3417,7 +3596,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenRuby",
    "image_inventory": "econ/status_icons/maptoken_ruby"
-  }
+  },
+  "marketHashName": "Ruby Map Coin"
  },
  {
   "id": "collectible-1058",
@@ -3436,7 +3616,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenBreach",
    "image_inventory": "econ/status_icons/maptoken_breach"
-  }
+  },
+  "marketHashName": "Breach Map Coin"
  },
  {
   "id": "collectible-1059",
@@ -3455,7 +3636,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenStudio",
    "image_inventory": "econ/status_icons/maptoken_studio"
-  }
+  },
+  "marketHashName": "Studio Map Coin"
  },
  {
   "id": "collectible-1060",
@@ -3474,7 +3656,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenJungle",
    "image_inventory": "econ/status_icons/maptoken_jungle"
-  }
+  },
+  "marketHashName": "Jungle Map Coin"
  },
  {
   "id": "collectible-1061",
@@ -3493,7 +3676,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenAnubis",
    "image_inventory": "econ/status_icons/maptoken_anubis"
-  }
+  },
+  "marketHashName": "Anubis Map Coin"
  },
  {
   "id": "collectible-1062",
@@ -3512,7 +3696,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenChlorine",
    "image_inventory": "econ/status_icons/maptoken_chlorine"
-  }
+  },
+  "marketHashName": "Chlorine Map Coin"
  },
  {
   "id": "collectible-1063",
@@ -3531,7 +3716,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenMutiny",
    "image_inventory": "econ/status_icons/maptoken_mutiny"
-  }
+  },
+  "marketHashName": "Mutiny Map Coin"
  },
  {
   "id": "collectible-1064",
@@ -3550,7 +3736,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenSwamp",
    "image_inventory": "econ/status_icons/maptoken_swamp"
-  }
+  },
+  "marketHashName": "Swamp Map Coin"
  },
  {
   "id": "collectible-1065",
@@ -3569,7 +3756,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenFrostbite",
    "image_inventory": "econ/status_icons/maptoken_frostbite"
-  }
+  },
+  "marketHashName": "Frostbite Map Coin"
  },
  {
   "id": "collectible-1066",
@@ -3588,7 +3776,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenEngage",
    "image_inventory": "econ/status_icons/maptoken_engage"
-  }
+  },
+  "marketHashName": "Engage Map Coin"
  },
  {
   "id": "collectible-1067",
@@ -3607,7 +3796,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenApollo",
    "image_inventory": "econ/status_icons/maptoken_apollo"
-  }
+  },
+  "marketHashName": "Apollo Map Coin"
  },
  {
   "id": "collectible-1068",
@@ -3626,7 +3816,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenGuard",
    "image_inventory": "econ/status_icons/maptoken_guard"
-  }
+  },
+  "marketHashName": "Guard Map Coin"
  },
  {
   "id": "collectible-1069",
@@ -3645,7 +3836,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenElysion",
    "image_inventory": "econ/status_icons/maptoken_elysion"
-  }
+  },
+  "marketHashName": "Elysion Map Coin"
  },
  {
   "id": "collectible-1070",
@@ -3664,7 +3856,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenGrind",
    "image_inventory": "econ/status_icons/maptoken_grind"
-  }
+  },
+  "marketHashName": "Grind Map Coin"
  },
  {
   "id": "collectible-1071",
@@ -3683,7 +3876,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenMocha",
    "image_inventory": "econ/status_icons/maptoken_mocha"
-  }
+  },
+  "marketHashName": "Mocha Map Coin"
  },
  {
   "id": "collectible-1072",
@@ -3702,7 +3896,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenCalavera",
    "image_inventory": "econ/status_icons/maptoken_calavera"
-  }
+  },
+  "marketHashName": "Calavera Map Coin"
  },
  {
   "id": "collectible-1073",
@@ -3721,7 +3916,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenPitstop",
    "image_inventory": "econ/status_icons/maptoken_pitstop"
-  }
+  },
+  "marketHashName": "Pitstop Map Coin"
  },
  {
   "id": "collectible-1074",
@@ -3740,7 +3936,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenBasalt",
    "image_inventory": "econ/status_icons/maptoken_basalt"
-  }
+  },
+  "marketHashName": "Basalt Map Coin"
  },
  {
   "id": "collectible-1075",
@@ -3759,7 +3956,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenInsertion2",
    "image_inventory": "econ/status_icons/maptoken_insertion2"
-  }
+  },
+  "marketHashName": "Insertion II Map Coin"
  },
  {
   "id": "collectible-1076",
@@ -3778,7 +3976,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenRavine",
    "image_inventory": "econ/status_icons/maptoken_ravine"
-  }
+  },
+  "marketHashName": "Ravine Map Coin"
  },
  {
   "id": "collectible-1077",
@@ -3797,7 +3996,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenExtraction",
    "image_inventory": "econ/status_icons/maptoken_extraction"
-  }
+  },
+  "marketHashName": "Extraction Map Coin"
  },
  {
   "id": "collectible-1078",
@@ -3816,7 +4016,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenCounty",
    "image_inventory": "econ/status_icons/maptoken_county"
-  }
+  },
+  "marketHashName": "County Map Coin"
  },
  {
   "id": "collectible-1079",
@@ -3835,7 +4036,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenIris",
    "image_inventory": "econ/status_icons/maptoken_iris"
-  }
+  },
+  "marketHashName": "Iris Map Coin"
  },
  {
   "id": "collectible-1080",
@@ -3854,7 +4056,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenClimb",
    "image_inventory": "econ/status_icons/maptoken_climb"
-  }
+  },
+  "marketHashName": "Climb Map Coin"
  },
  {
   "id": "collectible-1081",
@@ -3873,7 +4076,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenCrete",
    "image_inventory": "econ/status_icons/maptoken_crete"
-  }
+  },
+  "marketHashName": "Crete Map Coin"
  },
  {
   "id": "collectible-1082",
@@ -3892,7 +4096,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenHive",
    "image_inventory": "econ/status_icons/maptoken_hive"
-  }
+  },
+  "marketHashName": "Hive Map Coin"
  },
  {
   "id": "collectible-1083",
@@ -3911,7 +4116,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenVineyard",
    "image_inventory": "econ/status_icons/maptoken_vineyard"
-  }
+  },
+  "marketHashName": "Vineyard Map Coin"
  },
  {
   "id": "collectible-1084",
@@ -3930,7 +4136,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenEmber",
    "image_inventory": "econ/status_icons/maptoken_ember"
-  }
+  },
+  "marketHashName": "Ember Map Coin"
  },
  {
   "id": "collectible-1085",
@@ -3949,7 +4156,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenTuscan",
    "image_inventory": "econ/status_icons/maptoken_tuscan"
-  }
+  },
+  "marketHashName": "Tuscan Map Coin"
  },
  {
   "id": "collectible-1086",
@@ -3968,7 +4176,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenPrime",
    "image_inventory": "econ/status_icons/maptoken_prime"
-  }
+  },
+  "marketHashName": "Cascade Map Coin"
  },
  {
   "id": "collectible-1087",
@@ -3987,7 +4196,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenBlagai",
    "image_inventory": "econ/status_icons/maptoken_blagai"
-  }
+  },
+  "marketHashName": "Blagai Map Coin"
  },
  {
   "id": "collectible-1088",
@@ -4006,7 +4216,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenBoyard",
    "image_inventory": "econ/status_icons/maptoken_boyard"
-  }
+  },
+  "marketHashName": "Boyard Map Coin"
  },
  {
   "id": "collectible-1089",
@@ -4025,7 +4236,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenChalice",
    "image_inventory": "econ/status_icons/maptoken_chalice"
-  }
+  },
+  "marketHashName": "Chalice Map Coin"
  },
  {
   "id": "collectible-1315",
@@ -4044,7 +4256,8 @@
   "original": {
    "item_name": "#CSGO_Ticket_CommunitySeasonFiveSummer2014",
    "image_inventory": "econ/status_icons/operation_vanguard_pass"
-  }
+  },
+  "marketHashName": "Operation Vanguard Access Pass"
  },
  {
   "id": "collectible-1316",
@@ -4063,7 +4276,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin1",
    "image_inventory": "econ/status_icons/operation_vanguard_bronze"
-  }
+  },
+  "marketHashName": "Operation Vanguard Challenge Coin"
  },
  {
   "id": "collectible-1317",
@@ -4082,7 +4296,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin2",
    "image_inventory": "econ/status_icons/operation_vanguard_silver"
-  }
+  },
+  "marketHashName": "Silver Operation Vanguard Coin"
  },
  {
   "id": "collectible-1318",
@@ -4101,7 +4316,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonFiveSummer2014_Coin3",
    "image_inventory": "econ/status_icons/operation_vanguard_gold"
-  }
+  },
+  "marketHashName": "Gold Operation Vanguard Coin"
  },
  {
   "id": "collectible-1326",
@@ -4120,7 +4336,8 @@
   "original": {
    "item_name": "#CSGO_Ticket_CommunitySeasonSix2015",
    "image_inventory": "econ/status_icons/operation_6_pass"
-  }
+  },
+  "marketHashName": "Operation Bloodhound Access Pass"
  },
  {
   "id": "collectible-1327",
@@ -4139,7 +4356,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonSix2015_Coin1",
    "image_inventory": "econ/status_icons/operation_6_bronze"
-  }
+  },
+  "marketHashName": "Operation Bloodhound Challenge Coin"
  },
  {
   "id": "collectible-1328",
@@ -4158,7 +4376,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonSix2015_Coin2",
    "image_inventory": "econ/status_icons/operation_6_silver"
-  }
+  },
+  "marketHashName": "Silver Operation Bloodhound Coin"
  },
  {
   "id": "collectible-1329",
@@ -4177,7 +4396,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonSix2015_Coin3",
    "image_inventory": "econ/status_icons/operation_6_gold"
-  }
+  },
+  "marketHashName": "Gold Operation Bloodhound Coin"
  },
  {
   "id": "collectible-1331",
@@ -4196,7 +4416,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2015",
    "image_inventory": "econ/status_icons/service_medal_2015"
-  }
+  },
+  "marketHashName": "2015 Service Medal"
  },
  {
   "id": "collectible-1332",
@@ -4215,7 +4436,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2015",
    "image_inventory": "econ/status_icons/service_medal_2015_2"
-  }
+  },
+  "marketHashName": "2015 Service Medal"
  },
  {
   "id": "collectible-1335",
@@ -4234,7 +4456,8 @@
   "original": {
    "item_name": "#CSGO_Ticket_CommunitySeasonSeven2016",
    "image_inventory": "econ/status_icons/operation_7_pass"
-  }
+  },
+  "marketHashName": "Operation Wildfire Access Pass"
  },
  {
   "id": "collectible-1336",
@@ -4253,7 +4476,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin1",
    "image_inventory": "econ/status_icons/operation_7_bronze"
-  }
+  },
+  "marketHashName": "Operation Wildfire Challenge Coin"
  },
  {
   "id": "collectible-1337",
@@ -4272,7 +4496,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin2",
    "image_inventory": "econ/status_icons/operation_7_silver"
-  }
+  },
+  "marketHashName": "Silver Operation Wildfire Coin"
  },
  {
   "id": "collectible-1338",
@@ -4291,7 +4516,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonSeven2016_Coin3",
    "image_inventory": "econ/status_icons/operation_7_gold"
-  }
+  },
+  "marketHashName": "Gold Operation Wildfire Coin"
  },
  {
   "id": "collectible-1339",
@@ -4310,7 +4536,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2016",
    "image_inventory": "econ/status_icons/service_medal_2016_lvl1"
-  }
+  },
+  "marketHashName": "2016 Service Medal"
  },
  {
   "id": "collectible-1340",
@@ -4329,7 +4556,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2016",
    "image_inventory": "econ/status_icons/service_medal_2016_lvl2"
-  }
+  },
+  "marketHashName": "2016 Service Medal"
  },
  {
   "id": "collectible-1341",
@@ -4348,7 +4576,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2016",
    "image_inventory": "econ/status_icons/service_medal_2016_lvl3"
-  }
+  },
+  "marketHashName": "2016 Service Medal"
  },
  {
   "id": "collectible-1342",
@@ -4367,7 +4596,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2016",
    "image_inventory": "econ/status_icons/service_medal_2016_lvl4"
-  }
+  },
+  "marketHashName": "2016 Service Medal"
  },
  {
   "id": "collectible-1343",
@@ -4386,7 +4616,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2016",
    "image_inventory": "econ/status_icons/service_medal_2016_lvl5"
-  }
+  },
+  "marketHashName": "2016 Service Medal"
  },
  {
   "id": "collectible-1344",
@@ -4405,7 +4636,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2016",
    "image_inventory": "econ/status_icons/service_medal_2016_lvl6"
-  }
+  },
+  "marketHashName": "2016 Service Medal"
  },
  {
   "id": "collectible-1352",
@@ -4424,7 +4656,8 @@
   "original": {
    "item_name": "#CSGO_Ticket_CommunitySeasonEight2017",
    "image_inventory": "econ/status_icons/operation_8_pass"
-  }
+  },
+  "marketHashName": "Operation Hydra Access Pass"
  },
  {
   "id": "collectible-1357",
@@ -4443,7 +4676,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2017",
    "image_inventory": "econ/status_icons/service_medal_2017_lvl1"
-  }
+  },
+  "marketHashName": "2017 Service Medal"
  },
  {
   "id": "collectible-1358",
@@ -4462,7 +4696,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2017",
    "image_inventory": "econ/status_icons/service_medal_2017_lvl2"
-  }
+  },
+  "marketHashName": "2017 Service Medal"
  },
  {
   "id": "collectible-1359",
@@ -4481,7 +4716,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2017",
    "image_inventory": "econ/status_icons/service_medal_2017_lvl3"
-  }
+  },
+  "marketHashName": "2017 Service Medal"
  },
  {
   "id": "collectible-1360",
@@ -4500,7 +4736,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2017",
    "image_inventory": "econ/status_icons/service_medal_2017_lvl4"
-  }
+  },
+  "marketHashName": "2017 Service Medal"
  },
  {
   "id": "collectible-1361",
@@ -4519,7 +4756,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2017",
    "image_inventory": "econ/status_icons/service_medal_2017_lvl5"
-  }
+  },
+  "marketHashName": "2017 Service Medal"
  },
  {
   "id": "collectible-1362",
@@ -4538,7 +4776,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2017",
    "image_inventory": "econ/status_icons/service_medal_2017_lvl6"
-  }
+  },
+  "marketHashName": "2017 Service Medal"
  },
  {
   "id": "collectible-1363",
@@ -4557,7 +4796,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2017",
    "image_inventory": "econ/status_icons/service_medal_2017_lvl7"
-  }
+  },
+  "marketHashName": "2017 Service Medal"
  },
  {
   "id": "collectible-1367",
@@ -4576,7 +4816,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2018",
    "image_inventory": "econ/status_icons/service_medal_2018_lvl1"
-  }
+  },
+  "marketHashName": "2018 Service Medal"
  },
  {
   "id": "collectible-1368",
@@ -4595,7 +4836,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2018",
    "image_inventory": "econ/status_icons/service_medal_2018_lvl2"
-  }
+  },
+  "marketHashName": "2018 Service Medal"
  },
  {
   "id": "collectible-1369",
@@ -4614,7 +4856,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2018",
    "image_inventory": "econ/status_icons/service_medal_2018_lvl3"
-  }
+  },
+  "marketHashName": "2018 Service Medal"
  },
  {
   "id": "collectible-1370",
@@ -4633,7 +4876,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2018",
    "image_inventory": "econ/status_icons/service_medal_2018_lvl4"
-  }
+  },
+  "marketHashName": "2018 Service Medal"
  },
  {
   "id": "collectible-1371",
@@ -4652,7 +4896,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2018",
    "image_inventory": "econ/status_icons/service_medal_2018_lvl5"
-  }
+  },
+  "marketHashName": "2018 Service Medal"
  },
  {
   "id": "collectible-1372",
@@ -4671,7 +4916,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2018",
    "image_inventory": "econ/status_icons/service_medal_2018_lvl6"
-  }
+  },
+  "marketHashName": "2018 Service Medal"
  },
  {
   "id": "collectible-1376",
@@ -4690,7 +4936,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2019",
    "image_inventory": "econ/status_icons/service_medal_2019_lvl1"
-  }
+  },
+  "marketHashName": "2019 Service Medal"
  },
  {
   "id": "collectible-1377",
@@ -4709,7 +4956,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2019",
    "image_inventory": "econ/status_icons/service_medal_2019_lvl2"
-  }
+  },
+  "marketHashName": "2019 Service Medal"
  },
  {
   "id": "collectible-1378",
@@ -4728,7 +4976,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2019",
    "image_inventory": "econ/status_icons/service_medal_2019_lvl3"
-  }
+  },
+  "marketHashName": "2019 Service Medal"
  },
  {
   "id": "collectible-1379",
@@ -4747,7 +4996,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2019",
    "image_inventory": "econ/status_icons/service_medal_2019_lvl4"
-  }
+  },
+  "marketHashName": "2019 Service Medal"
  },
  {
   "id": "collectible-1380",
@@ -4766,7 +5016,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2019",
    "image_inventory": "econ/status_icons/service_medal_2019_lvl5"
-  }
+  },
+  "marketHashName": "2019 Service Medal"
  },
  {
   "id": "collectible-1381",
@@ -4785,7 +5036,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2019",
    "image_inventory": "econ/status_icons/service_medal_2019_lvl6"
-  }
+  },
+  "marketHashName": "2019 Service Medal"
  },
  {
   "id": "collectible-4353",
@@ -4804,7 +5056,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonEight2017_Coin1",
    "image_inventory": "econ/status_icons/operation_8_bronze"
-  }
+  },
+  "marketHashName": "Operation Hydra Challenge Coin"
  },
  {
   "id": "collectible-4354",
@@ -4823,7 +5076,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonEight2017_Coin2",
    "image_inventory": "econ/status_icons/operation_8_silver"
-  }
+  },
+  "marketHashName": "Silver Operation Hydra Coin"
  },
  {
   "id": "collectible-4355",
@@ -4842,7 +5096,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonEight2017_Coin3",
    "image_inventory": "econ/status_icons/operation_8_gold"
-  }
+  },
+  "marketHashName": "Gold Operation Hydra Coin"
  },
  {
   "id": "collectible-4356",
@@ -4861,7 +5116,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonEight2017_Coin4",
    "image_inventory": "econ/status_icons/operation_8_platinum"
-  }
+  },
+  "marketHashName": "Diamond Operation Hydra Coin"
  },
  {
   "id": "collectible-4549",
@@ -4880,7 +5136,8 @@
   "original": {
    "item_name": "#CSGO_Ticket_CommunitySeasonNine2019",
    "image_inventory": "econ/status_icons/operation_9_pass"
-  }
+  },
+  "marketHashName": "Operation Shattered Web Premium Pass"
  },
  {
   "id": "collectible-4550",
@@ -4899,7 +5156,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonNine2019_Coin1",
    "image_inventory": "econ/status_icons/operation_9_bronze"
-  }
+  },
+  "marketHashName": "Operation Shattered Web Challenge Coin"
  },
  {
   "id": "collectible-4551",
@@ -4918,7 +5176,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonNine2019_Coin2",
    "image_inventory": "econ/status_icons/operation_9_silver"
-  }
+  },
+  "marketHashName": "Silver Operation Shattered Web Coin"
  },
  {
   "id": "collectible-4552",
@@ -4937,7 +5196,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonNine2019_Coin3",
    "image_inventory": "econ/status_icons/operation_9_gold"
-  }
+  },
+  "marketHashName": "Gold Operation Shattered Web Coin"
  },
  {
   "id": "collectible-4553",
@@ -4956,7 +5216,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonNine2019_Coin4",
    "image_inventory": "econ/status_icons/operation_9_platinum"
-  }
+  },
+  "marketHashName": "Diamond Operation Shattered Web Coin"
  },
  {
   "id": "collectible-4554",
@@ -4975,7 +5236,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_katowice2019",
    "image_inventory": "econ/status_icons/katowice_pickem_2019_pass"
-  }
+  },
+  "marketHashName": "Katowice 2019 Viewer Pass"
  },
  {
   "id": "collectible-4555",
@@ -4994,7 +5256,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_katowice2019",
    "image_inventory": "econ/status_icons/katowice_pickem_2019_bronze"
-  }
+  },
+  "marketHashName": "Katowice 2019 Coin"
  },
  {
   "id": "collectible-4556",
@@ -5013,7 +5276,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_katowice2019_Silver",
    "image_inventory": "econ/status_icons/katowice_pickem_2019_silver"
-  }
+  },
+  "marketHashName": "Katowice 2019 Silver Coin"
  },
  {
   "id": "collectible-4557",
@@ -5032,7 +5296,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_katowice2019_Gold",
    "image_inventory": "econ/status_icons/katowice_pickem_2019_gold"
-  }
+  },
+  "marketHashName": "Katowice 2019 Gold Coin"
  },
  {
   "id": "collectible-4558",
@@ -5051,7 +5316,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_katowice2019_Crystal",
    "image_inventory": "econ/status_icons/katowice_pickem_2019_crystal"
-  }
+  },
+  "marketHashName": "Katowice 2019 Diamond Coin"
  },
  {
   "id": "collectible-4622",
@@ -5070,7 +5336,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_berlin2019",
    "image_inventory": "econ/status_icons/starladder_pickem_2019_pass"
-  }
+  },
+  "marketHashName": "Berlin 2019 Viewer Pass"
  },
  {
   "id": "collectible-4623",
@@ -5089,7 +5356,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_berlin2019",
    "image_inventory": "econ/status_icons/starladder_pickem_2019_bronze"
-  }
+  },
+  "marketHashName": "Berlin 2019 Coin"
  },
  {
   "id": "collectible-4624",
@@ -5108,7 +5376,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_berlin2019_Silver",
    "image_inventory": "econ/status_icons/starladder_pickem_2019_silver"
-  }
+  },
+  "marketHashName": "Berlin 2019 Silver Coin"
  },
  {
   "id": "collectible-4625",
@@ -5127,7 +5396,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_berlin2019_Gold",
    "image_inventory": "econ/status_icons/starladder_pickem_2019_gold"
-  }
+  },
+  "marketHashName": "Berlin 2019 Gold Coin"
  },
  {
   "id": "collectible-4626",
@@ -5146,7 +5416,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_berlin2019_Crystal",
    "image_inventory": "econ/status_icons/starladder_pickem_2019_crystal"
-  }
+  },
+  "marketHashName": "Berlin 2019 Diamond Coin"
  },
  {
   "id": "collectible-4627",
@@ -5165,7 +5436,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_berlin2019_pack",
    "image_inventory": "econ/status_icons/starladder_pickem_2019_pass_pack"
-  }
+  },
+  "marketHashName": "Berlin 2019 Viewer Pass + 3 Souvenir Tokens"
  },
  {
   "id": "collectible-4628",
@@ -5184,7 +5456,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_berlin2019_charge",
    "image_inventory": "econ/status_icons/starladder_pickem_2019_pass_charge"
-  }
+  },
+  "marketHashName": "Berlin 2019 Souvenir Token"
  },
  {
   "id": "collectible-4671",
@@ -5203,7 +5476,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars1",
    "image_inventory": "econ/status_icons/operation_9_plusstars1"
-  }
+  },
+  "marketHashName": "1 Star for Operation Shattered Web"
  },
  {
   "id": "collectible-4672",
@@ -5222,7 +5496,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars10",
    "image_inventory": "econ/status_icons/operation_9_plusstars10"
-  }
+  },
+  "marketHashName": "10 Stars for Operation Shattered Web"
  },
  {
   "id": "collectible-4673",
@@ -5241,7 +5516,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonNine2019_PlusStars100",
    "image_inventory": "econ/status_icons/operation_9_plusstars100"
-  }
+  },
+  "marketHashName": "100 Stars for Operation Shattered Web"
  },
  {
   "id": "collectible-4674",
@@ -5260,7 +5536,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2020",
    "image_inventory": "econ/status_icons/service_medal_2020_lvl1"
-  }
+  },
+  "marketHashName": "2020 Service Medal"
  },
  {
   "id": "collectible-4675",
@@ -5279,7 +5556,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2020",
    "image_inventory": "econ/status_icons/service_medal_2020_lvl2"
-  }
+  },
+  "marketHashName": "2020 Service Medal"
  },
  {
   "id": "collectible-4676",
@@ -5298,7 +5576,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2020",
    "image_inventory": "econ/status_icons/service_medal_2020_lvl3"
-  }
+  },
+  "marketHashName": "2020 Service Medal"
  },
  {
   "id": "collectible-4677",
@@ -5317,7 +5596,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2020",
    "image_inventory": "econ/status_icons/service_medal_2020_lvl4"
-  }
+  },
+  "marketHashName": "2020 Service Medal"
  },
  {
   "id": "collectible-4678",
@@ -5336,7 +5616,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2020",
    "image_inventory": "econ/status_icons/service_medal_2020_lvl5"
-  }
+  },
+  "marketHashName": "2020 Service Medal"
  },
  {
   "id": "collectible-4679",
@@ -5355,7 +5636,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2020",
    "image_inventory": "econ/status_icons/service_medal_2020_lvl6"
-  }
+  },
+  "marketHashName": "2020 Service Medal"
  },
  {
   "id": "collectible-4682",
@@ -5374,7 +5656,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_alyx_04",
    "image_inventory": "econ/status_icons/collectible_pin_alyx_04"
-  }
+  },
+  "marketHashName": "Civil Protection Pin"
  },
  {
   "id": "collectible-4683",
@@ -5393,7 +5676,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_alyx_07",
    "image_inventory": "econ/status_icons/collectible_pin_alyx_07"
-  }
+  },
+  "marketHashName": "Sustenance! Pin"
  },
  {
   "id": "collectible-4684",
@@ -5412,7 +5696,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_alyx_09",
    "image_inventory": "econ/status_icons/collectible_pin_alyx_09"
-  }
+  },
+  "marketHashName": "Vortigaunt Pin"
  },
  {
   "id": "collectible-4685",
@@ -5431,7 +5716,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_alyx_05",
    "image_inventory": "econ/status_icons/collectible_pin_alyx_05"
-  }
+  },
+  "marketHashName": "Headcrab Glyph Pin"
  },
  {
   "id": "collectible-4686",
@@ -5450,7 +5736,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_alyx_12",
    "image_inventory": "econ/status_icons/collectible_pin_alyx_12"
-  }
+  },
+  "marketHashName": "Health Pin"
  },
  {
   "id": "collectible-4687",
@@ -5469,7 +5756,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_alyx_01",
    "image_inventory": "econ/status_icons/collectible_pin_alyx_01"
-  }
+  },
+  "marketHashName": "Lambda Pin"
  },
  {
   "id": "collectible-4688",
@@ -5488,7 +5776,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_alyx_02",
    "image_inventory": "econ/status_icons/collectible_pin_alyx_02"
-  }
+  },
+  "marketHashName": "Copper Lambda Pin"
  },
  {
   "id": "collectible-4689",
@@ -5507,7 +5796,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_alyx_03",
    "image_inventory": "econ/status_icons/collectible_pin_alyx_03"
-  }
+  },
+  "marketHashName": "CMB Pin"
  },
  {
   "id": "collectible-4690",
@@ -5526,7 +5816,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_alyx_06",
    "image_inventory": "econ/status_icons/collectible_pin_alyx_06"
-  }
+  },
+  "marketHashName": "Black Mesa Pin"
  },
  {
   "id": "collectible-4691",
@@ -5545,7 +5836,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_alyx_08",
    "image_inventory": "econ/status_icons/collectible_pin_alyx_08"
-  }
+  },
+  "marketHashName": "Combine Helmet Pin"
  },
  {
   "id": "collectible-4692",
@@ -5564,7 +5856,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_alyx_11",
    "image_inventory": "econ/status_icons/collectible_pin_alyx_11"
-  }
+  },
+  "marketHashName": "City 17 Pin"
  },
  {
   "id": "collectible-4699",
@@ -5583,7 +5876,8 @@
   "original": {
    "item_name": "#CSGO_Ticket_CommunitySeasonTen2020",
    "image_inventory": "econ/status_icons/operation_10_pass"
-  }
+  },
+  "marketHashName": "Operation Broken Fang Premium Pass"
  },
  {
   "id": "collectible-4700",
@@ -5602,7 +5896,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonTen2020_Coin1",
    "image_inventory": "econ/status_icons/operation_10_bronze"
-  }
+  },
+  "marketHashName": "Operation Broken Fang Challenge Coin"
  },
  {
   "id": "collectible-4701",
@@ -5621,7 +5916,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonTen2020_Coin2",
    "image_inventory": "econ/status_icons/operation_10_silver"
-  }
+  },
+  "marketHashName": "Silver Operation Broken Fang Coin"
  },
  {
   "id": "collectible-4702",
@@ -5640,7 +5936,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonTen2020_Coin3",
    "image_inventory": "econ/status_icons/operation_10_gold"
-  }
+  },
+  "marketHashName": "Gold Operation Broken Fang Coin"
  },
  {
   "id": "collectible-4703",
@@ -5659,7 +5956,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonTen2020_Coin4",
    "image_inventory": "econ/status_icons/operation_10_platinum"
-  }
+  },
+  "marketHashName": "Diamond Operation Broken Fang Coin"
  },
  {
   "id": "collectible-4704",
@@ -5678,7 +5976,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars1",
    "image_inventory": "econ/status_icons/operation_10_plusstars1"
-  }
+  },
+  "marketHashName": "1 Star for Operation Broken Fang"
  },
  {
   "id": "collectible-4705",
@@ -5697,7 +5996,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars10",
    "image_inventory": "econ/status_icons/operation_10_plusstars10"
-  }
+  },
+  "marketHashName": "10 Stars for Operation Broken Fang"
  },
  {
   "id": "collectible-4706",
@@ -5716,7 +6016,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonTen2020_PlusStars100",
    "image_inventory": "econ/status_icons/operation_10_plusstars100"
-  }
+  },
+  "marketHashName": "100 Stars for Operation Broken Fang"
  },
  {
   "id": "collectible-4737",
@@ -5735,7 +6036,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2021",
    "image_inventory": "econ/status_icons/service_medal_2021_lvl1"
-  }
+  },
+  "marketHashName": "2021 Service Medal"
  },
  {
   "id": "collectible-4738",
@@ -5754,7 +6056,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2021",
    "image_inventory": "econ/status_icons/service_medal_2021_lvl2"
-  }
+  },
+  "marketHashName": "2021 Service Medal"
  },
  {
   "id": "collectible-4739",
@@ -5773,7 +6076,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2021",
    "image_inventory": "econ/status_icons/service_medal_2021_lvl3"
-  }
+  },
+  "marketHashName": "2021 Service Medal"
  },
  {
   "id": "collectible-4740",
@@ -5792,7 +6096,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2021",
    "image_inventory": "econ/status_icons/service_medal_2021_lvl4"
-  }
+  },
+  "marketHashName": "2021 Service Medal"
  },
  {
   "id": "collectible-4741",
@@ -5811,7 +6116,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2021",
    "image_inventory": "econ/status_icons/service_medal_2021_lvl5"
-  }
+  },
+  "marketHashName": "2021 Service Medal"
  },
  {
   "id": "collectible-4742",
@@ -5830,7 +6136,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2021",
    "image_inventory": "econ/status_icons/service_medal_2021_lvl6"
-  }
+  },
+  "marketHashName": "2021 Service Medal"
  },
  {
   "id": "collectible-4758",
@@ -5849,7 +6156,8 @@
   "original": {
    "item_name": "#CSGO_Ticket_CommunitySeasonEleven2021",
    "image_inventory": "econ/status_icons/operation_11_pass"
-  }
+  },
+  "marketHashName": "Operation Riptide Premium Pass"
  },
  {
   "id": "collectible-4759",
@@ -5868,7 +6176,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin1",
    "image_inventory": "econ/status_icons/operation_11_bronze"
-  }
+  },
+  "marketHashName": "Operation Riptide Challenge Coin"
  },
  {
   "id": "collectible-4760",
@@ -5887,7 +6196,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin2",
    "image_inventory": "econ/status_icons/operation_11_silver"
-  }
+  },
+  "marketHashName": "Silver Operation Riptide Coin"
  },
  {
   "id": "collectible-4761",
@@ -5906,7 +6216,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin3",
    "image_inventory": "econ/status_icons/operation_11_gold"
-  }
+  },
+  "marketHashName": "Gold Operation Riptide Coin"
  },
  {
   "id": "collectible-4762",
@@ -5925,7 +6236,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin4",
    "image_inventory": "econ/status_icons/operation_11_platinum"
-  }
+  },
+  "marketHashName": "Diamond Operation Riptide Coin"
  },
  {
   "id": "collectible-4763",
@@ -5944,7 +6256,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars1",
    "image_inventory": "econ/status_icons/operation_11_plusstars1"
-  }
+  },
+  "marketHashName": "1 Star for Operation Riptide"
  },
  {
   "id": "collectible-4764",
@@ -5963,7 +6276,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars10",
    "image_inventory": "econ/status_icons/operation_11_plusstars10"
-  }
+  },
+  "marketHashName": "10 Stars for Operation Riptide"
  },
  {
   "id": "collectible-4765",
@@ -5982,7 +6296,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars100",
    "image_inventory": "econ/status_icons/operation_11_plusstars100"
-  }
+  },
+  "marketHashName": "100 Stars for Operation Riptide"
  },
  {
   "id": "collectible-4796",
@@ -6001,7 +6316,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_stockh2021",
    "image_inventory": "econ/status_icons/pgl_pickem_2021_pass"
-  }
+  },
+  "marketHashName": "Stockholm 2021 Viewer Pass"
  },
  {
   "id": "collectible-4797",
@@ -6020,7 +6336,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_stockh2021",
    "image_inventory": "econ/status_icons/pgl_pickem_2021_bronze"
-  }
+  },
+  "marketHashName": "Stockholm 2021 Coin"
  },
  {
   "id": "collectible-4798",
@@ -6039,7 +6356,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_stockh2021_Silver",
    "image_inventory": "econ/status_icons/pgl_pickem_2021_silver"
-  }
+  },
+  "marketHashName": "Stockholm 2021 Silver Coin"
  },
  {
   "id": "collectible-4799",
@@ -6058,7 +6376,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_stockh2021_Gold",
    "image_inventory": "econ/status_icons/pgl_pickem_2021_gold"
-  }
+  },
+  "marketHashName": "Stockholm 2021 Gold Coin"
  },
  {
   "id": "collectible-4800",
@@ -6077,7 +6396,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_stockh2021_Crystal",
    "image_inventory": "econ/status_icons/pgl_pickem_2021_crystal"
-  }
+  },
+  "marketHashName": "Stockholm 2021 Diamond Coin"
  },
  {
   "id": "collectible-4801",
@@ -6096,7 +6416,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_stockh2021_pack",
    "image_inventory": "econ/status_icons/pgl_pickem_2021_pass_pack"
-  }
+  },
+  "marketHashName": "Stockholm 2021 Viewer Pass + 3 Souvenir Tokens"
  },
  {
   "id": "collectible-4802",
@@ -6115,7 +6436,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_stockh2021_charge",
    "image_inventory": "econ/status_icons/pgl_pickem_2021_pass_charge"
-  }
+  },
+  "marketHashName": "Stockholm 2021 Souvenir Token"
  },
  {
   "id": "collectible-4819",
@@ -6134,7 +6456,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2022",
    "image_inventory": "econ/status_icons/service_medal_2022_lvl1"
-  }
+  },
+  "marketHashName": "2022 Service Medal"
  },
  {
   "id": "collectible-4820",
@@ -6153,7 +6476,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2022",
    "image_inventory": "econ/status_icons/service_medal_2022_lvl2"
-  }
+  },
+  "marketHashName": "2022 Service Medal"
  },
  {
   "id": "collectible-4821",
@@ -6172,7 +6496,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2022",
    "image_inventory": "econ/status_icons/service_medal_2022_lvl3"
-  }
+  },
+  "marketHashName": "2022 Service Medal"
  },
  {
   "id": "collectible-4822",
@@ -6191,7 +6516,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2022",
    "image_inventory": "econ/status_icons/service_medal_2022_lvl4"
-  }
+  },
+  "marketHashName": "2022 Service Medal"
  },
  {
   "id": "collectible-4823",
@@ -6210,7 +6536,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2022",
    "image_inventory": "econ/status_icons/service_medal_2022_lvl5"
-  }
+  },
+  "marketHashName": "2022 Service Medal"
  },
  {
   "id": "collectible-4824",
@@ -6229,7 +6556,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2022",
    "image_inventory": "econ/status_icons/service_medal_2022_lvl6"
-  }
+  },
+  "marketHashName": "2022 Service Medal"
  },
  {
   "id": "collectible-4825",
@@ -6248,7 +6576,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_antwerp2022",
    "image_inventory": "econ/status_icons/pgl_pickem_2022_pass"
-  }
+  },
+  "marketHashName": "Antwerp 2022 Viewer Pass"
  },
  {
   "id": "collectible-4826",
@@ -6267,7 +6596,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_antwerp2022",
    "image_inventory": "econ/status_icons/pgl_pickem_2022_bronze"
-  }
+  },
+  "marketHashName": "Antwerp 2022 Coin"
  },
  {
   "id": "collectible-4827",
@@ -6286,7 +6616,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_antwerp2022_Silver",
    "image_inventory": "econ/status_icons/pgl_pickem_2022_silver"
-  }
+  },
+  "marketHashName": "Antwerp 2022 Silver Coin"
  },
  {
   "id": "collectible-4828",
@@ -6305,7 +6636,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_antwerp2022_Gold",
    "image_inventory": "econ/status_icons/pgl_pickem_2022_gold"
-  }
+  },
+  "marketHashName": "Antwerp 2022 Gold Coin"
  },
  {
   "id": "collectible-4829",
@@ -6324,7 +6656,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_antwerp2022_Crystal",
    "image_inventory": "econ/status_icons/pgl_pickem_2022_crystal"
-  }
+  },
+  "marketHashName": "Antwerp 2022 Diamond Coin"
  },
  {
   "id": "collectible-4830",
@@ -6343,7 +6676,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_antwerp2022_pack",
    "image_inventory": "econ/status_icons/pgl_pickem_2022_pass_pack"
-  }
+  },
+  "marketHashName": "Antwerp 2022 Viewer Pass + 3 Souvenir Tokens"
  },
  {
   "id": "collectible-4831",
@@ -6362,7 +6696,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_antwerp2022_charge",
    "image_inventory": "econ/status_icons/pgl_pickem_2022_pass_charge"
-  }
+  },
+  "marketHashName": "Antwerp 2022 Souvenir Token"
  },
  {
   "id": "collectible-4850",
@@ -6381,7 +6716,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_rio2022",
    "image_inventory": "econ/status_icons/iem_pickem_2022_pass"
-  }
+  },
+  "marketHashName": "Rio 2022 Viewer Pass"
  },
  {
   "id": "collectible-4851",
@@ -6400,7 +6736,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_rio2022",
    "image_inventory": "econ/status_icons/iem_pickem_2022_bronze"
-  }
+  },
+  "marketHashName": "Rio 2022 Coin"
  },
  {
   "id": "collectible-4852",
@@ -6419,7 +6756,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_rio2022_Silver",
    "image_inventory": "econ/status_icons/iem_pickem_2022_silver"
-  }
+  },
+  "marketHashName": "Rio 2022 Silver Coin"
  },
  {
   "id": "collectible-4853",
@@ -6438,7 +6776,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_rio2022_Gold",
    "image_inventory": "econ/status_icons/iem_pickem_2022_gold"
-  }
+  },
+  "marketHashName": "Rio 2022 Gold Coin"
  },
  {
   "id": "collectible-4854",
@@ -6457,7 +6796,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_rio2022_Crystal",
    "image_inventory": "econ/status_icons/iem_pickem_2022_crystal"
-  }
+  },
+  "marketHashName": "Rio 2022 Diamond Coin"
  },
  {
   "id": "collectible-4855",
@@ -6476,7 +6816,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_rio2022_pack",
    "image_inventory": "econ/status_icons/iem_pickem_2022_pass_pack"
-  }
+  },
+  "marketHashName": "Rio 2022 Viewer Pass + 3 Souvenir Tokens"
  },
  {
   "id": "collectible-4856",
@@ -6495,7 +6836,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_rio2022_charge",
    "image_inventory": "econ/status_icons/iem_pickem_2022_pass_charge"
-  }
+  },
+  "marketHashName": "Rio 2022 Souvenir Token"
  },
  {
   "id": "collectible-4873",
@@ -6514,7 +6856,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2023",
    "image_inventory": "econ/status_icons/service_medal_2023_lvl1"
-  }
+  },
+  "marketHashName": "2023 Service Medal"
  },
  {
   "id": "collectible-4874",
@@ -6533,7 +6876,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2023",
    "image_inventory": "econ/status_icons/service_medal_2023_lvl2"
-  }
+  },
+  "marketHashName": "2023 Service Medal"
  },
  {
   "id": "collectible-4875",
@@ -6552,7 +6896,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2023",
    "image_inventory": "econ/status_icons/service_medal_2023_lvl3"
-  }
+  },
+  "marketHashName": "2023 Service Medal"
  },
  {
   "id": "collectible-4876",
@@ -6571,7 +6916,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2023",
    "image_inventory": "econ/status_icons/service_medal_2023_lvl4"
-  }
+  },
+  "marketHashName": "2023 Service Medal"
  },
  {
   "id": "collectible-4877",
@@ -6590,7 +6936,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2023",
    "image_inventory": "econ/status_icons/service_medal_2023_lvl5"
-  }
+  },
+  "marketHashName": "2023 Service Medal"
  },
  {
   "id": "collectible-4878",
@@ -6609,7 +6956,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2023",
    "image_inventory": "econ/status_icons/service_medal_2023_lvl6"
-  }
+  },
+  "marketHashName": "2023 Service Medal"
  },
  {
   "id": "collectible-4883",
@@ -6628,7 +6976,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_paris2023",
    "image_inventory": "econ/status_icons/blast_pickem_2023_pass"
-  }
+  },
+  "marketHashName": "Paris 2023 Viewer Pass"
  },
  {
   "id": "collectible-4884",
@@ -6647,7 +6996,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_paris2023",
    "image_inventory": "econ/status_icons/blast_pickem_2023_bronze"
-  }
+  },
+  "marketHashName": "Paris 2023 Coin"
  },
  {
   "id": "collectible-4885",
@@ -6666,7 +7016,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_paris2023_Silver",
    "image_inventory": "econ/status_icons/blast_pickem_2023_silver"
-  }
+  },
+  "marketHashName": "Paris 2023 Silver Coin"
  },
  {
   "id": "collectible-4886",
@@ -6685,7 +7036,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_paris2023_Gold",
    "image_inventory": "econ/status_icons/blast_pickem_2023_gold"
-  }
+  },
+  "marketHashName": "Paris 2023 Gold Coin"
  },
  {
   "id": "collectible-4887",
@@ -6704,7 +7056,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_paris2023_Crystal",
    "image_inventory": "econ/status_icons/blast_pickem_2023_crystal"
-  }
+  },
+  "marketHashName": "Paris 2023 Diamond Coin"
  },
  {
   "id": "collectible-4888",
@@ -6723,7 +7076,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_paris2023_pack",
    "image_inventory": "econ/status_icons/blast_pickem_2023_pass_pack"
-  }
+  },
+  "marketHashName": "Paris 2023 Viewer Pass + 3 Souvenir Tokens"
  },
  {
   "id": "collectible-4889",
@@ -6742,7 +7096,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_paris2023_charge",
    "image_inventory": "econ/status_icons/blast_pickem_2023_pass_charge"
-  }
+  },
+  "marketHashName": "Paris 2023 Souvenir Token"
  },
  {
   "id": "collectible-4906",
@@ -6761,7 +7116,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2024",
    "image_inventory": "econ/status_icons/service_medal_2024_lvl1"
-  }
+  },
+  "marketHashName": "2024 Service Medal"
  },
  {
   "id": "collectible-4907",
@@ -6780,7 +7136,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2024",
    "image_inventory": "econ/status_icons/service_medal_2024_lvl2"
-  }
+  },
+  "marketHashName": "2024 Service Medal"
  },
  {
   "id": "collectible-4908",
@@ -6799,7 +7156,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2024",
    "image_inventory": "econ/status_icons/service_medal_2024_lvl3"
-  }
+  },
+  "marketHashName": "2024 Service Medal"
  },
  {
   "id": "collectible-4909",
@@ -6818,7 +7176,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2024",
    "image_inventory": "econ/status_icons/service_medal_2024_lvl4"
-  }
+  },
+  "marketHashName": "2024 Service Medal"
  },
  {
   "id": "collectible-4910",
@@ -6837,7 +7196,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2024",
    "image_inventory": "econ/status_icons/service_medal_2024_lvl5"
-  }
+  },
+  "marketHashName": "2024 Service Medal"
  },
  {
   "id": "collectible-4911",
@@ -6856,7 +7216,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2024",
    "image_inventory": "econ/status_icons/service_medal_2024_lvl6"
-  }
+  },
+  "marketHashName": "2024 Service Medal"
  },
  {
   "id": "collectible-4916",
@@ -6875,7 +7236,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_cph2024",
    "image_inventory": "econ/status_icons/pgl_pickem_2024_pass"
-  }
+  },
+  "marketHashName": "Copenhagen 2024 Viewer Pass"
  },
  {
   "id": "collectible-4917",
@@ -6894,7 +7256,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_cph2024",
    "image_inventory": "econ/status_icons/pgl_pickem_2024_bronze"
-  }
+  },
+  "marketHashName": "Copenhagen 2024 Coin"
  },
  {
   "id": "collectible-4918",
@@ -6913,7 +7276,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_cph2024_Silver",
    "image_inventory": "econ/status_icons/pgl_pickem_2024_silver"
-  }
+  },
+  "marketHashName": "Copenhagen 2024 Silver Coin"
  },
  {
   "id": "collectible-4919",
@@ -6932,7 +7296,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_cph2024_Gold",
    "image_inventory": "econ/status_icons/pgl_pickem_2024_gold"
-  }
+  },
+  "marketHashName": "Copenhagen 2024 Gold Coin"
  },
  {
   "id": "collectible-4920",
@@ -6951,7 +7316,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_cph2024_Crystal",
    "image_inventory": "econ/status_icons/pgl_pickem_2024_crystal"
-  }
+  },
+  "marketHashName": "Copenhagen 2024 Diamond Coin"
  },
  {
   "id": "collectible-4921",
@@ -6970,7 +7336,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_cph2024_pack",
    "image_inventory": "econ/status_icons/pgl_pickem_2024_pass_pack"
-  }
+  },
+  "marketHashName": "Copenhagen 2024 Viewer Pass + 3 Souvenir Tokens"
  },
  {
   "id": "collectible-4922",
@@ -6989,7 +7356,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_cph2024_charge",
    "image_inventory": "econ/status_icons/pgl_pickem_2024_pass_charge"
-  }
+  },
+  "marketHashName": "Copenhagen 2024 Souvenir Package"
  },
  {
   "id": "collectible-4933",
@@ -7008,7 +7376,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_cph2024_Champion",
    "image_inventory": "econ/status_icons/trophy_cs2_champions"
-  }
+  },
+  "marketHashName": "Champion at PGL Copenhagen 2024"
  },
  {
   "id": "collectible-4934",
@@ -7027,7 +7396,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_cph2024_Finalist",
    "image_inventory": "econ/status_icons/trophy_cs2_finalists"
-  }
+  },
+  "marketHashName": "Finalist at PGL Copenhagen 2024"
  },
  {
   "id": "collectible-4935",
@@ -7046,7 +7416,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_cph2024_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_cs2_finalists"
-  }
+  },
+  "marketHashName": "Semifinalist at PGL Copenhagen 2024"
  },
  {
   "id": "collectible-4936",
@@ -7065,7 +7436,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_cph2024_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_cs2_finalists"
-  }
+  },
+  "marketHashName": "Quarterfinalist at PGL Copenhagen 2024"
  },
  {
   "id": "collectible-4941",
@@ -7084,7 +7456,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenThera",
    "image_inventory": "econ/status_icons/maptoken_thera"
-  }
+  },
+  "marketHashName": "Thera Map Coin"
  },
  {
   "id": "collectible-4942",
@@ -7103,7 +7476,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenMills",
    "image_inventory": "econ/status_icons/maptoken_mills"
-  }
+  },
+  "marketHashName": "Mills Map Coin"
  },
  {
   "id": "collectible-4943",
@@ -7122,7 +7496,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenAssembly",
    "image_inventory": "econ/status_icons/maptoken_assembly"
-  }
+  },
+  "marketHashName": "Assembly Map Coin"
  },
  {
   "id": "collectible-4944",
@@ -7141,7 +7516,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenMemento",
    "image_inventory": "econ/status_icons/maptoken_memento"
-  }
+  },
+  "marketHashName": "Memento Map Coin"
  },
  {
   "id": "collectible-4945",
@@ -7160,7 +7536,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenPoolDay",
    "image_inventory": "econ/status_icons/maptoken_poolday"
-  }
+  },
+  "marketHashName": "Pool Day Map Coin"
  },
  {
   "id": "collectible-4951",
@@ -7179,7 +7556,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2025",
    "image_inventory": "econ/status_icons/service_medal_2025_lvl1"
-  }
+  },
+  "marketHashName": "2025 Service Medal"
  },
  {
   "id": "collectible-4952",
@@ -7198,7 +7576,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2025",
    "image_inventory": "econ/status_icons/service_medal_2025_lvl2"
-  }
+  },
+  "marketHashName": "2025 Service Medal"
  },
  {
   "id": "collectible-4953",
@@ -7217,7 +7596,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2025",
    "image_inventory": "econ/status_icons/service_medal_2025_lvl3"
-  }
+  },
+  "marketHashName": "2025 Service Medal"
  },
  {
   "id": "collectible-4954",
@@ -7236,7 +7616,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2025",
    "image_inventory": "econ/status_icons/service_medal_2025_lvl4"
-  }
+  },
+  "marketHashName": "2025 Service Medal"
  },
  {
   "id": "collectible-4955",
@@ -7255,7 +7636,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2025",
    "image_inventory": "econ/status_icons/service_medal_2025_lvl5"
-  }
+  },
+  "marketHashName": "2025 Service Medal"
  },
  {
   "id": "collectible-4956",
@@ -7274,7 +7656,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2025",
    "image_inventory": "econ/status_icons/service_medal_2025_lvl6"
-  }
+  },
+  "marketHashName": "2025 Service Medal"
  },
  {
   "id": "collectible-4957",
@@ -7293,7 +7676,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_sha2024",
    "image_inventory": "econ/status_icons/pw_pickem_2024_pass"
-  }
+  },
+  "marketHashName": "Shanghai 2024 Viewer Pass"
  },
  {
   "id": "collectible-4958",
@@ -7312,7 +7696,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_sha2024",
    "image_inventory": "econ/status_icons/pw_pickem_2024_bronze"
-  }
+  },
+  "marketHashName": "Shanghai 2024 Coin"
  },
  {
   "id": "collectible-4959",
@@ -7331,7 +7716,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_sha2024_Silver",
    "image_inventory": "econ/status_icons/pw_pickem_2024_silver"
-  }
+  },
+  "marketHashName": "Shanghai 2024 Silver Coin"
  },
  {
   "id": "collectible-4960",
@@ -7350,7 +7736,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_sha2024_Gold",
    "image_inventory": "econ/status_icons/pw_pickem_2024_gold"
-  }
+  },
+  "marketHashName": "Shanghai 2024 Gold Coin"
  },
  {
   "id": "collectible-4961",
@@ -7369,7 +7756,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_sha2024_Crystal",
    "image_inventory": "econ/status_icons/pw_pickem_2024_crystal"
-  }
+  },
+  "marketHashName": "Shanghai 2024 Diamond Coin"
  },
  {
   "id": "collectible-4962",
@@ -7388,7 +7776,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_sha2024_pack",
    "image_inventory": "econ/status_icons/pw_pickem_2024_pass_pack"
-  }
+  },
+  "marketHashName": "Shanghai 2024 Viewer Pass + 3 Souvenir Tokens"
  },
  {
   "id": "collectible-4963",
@@ -7407,7 +7796,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_sha2024_charge",
    "image_inventory": "econ/status_icons/pw_pickem_2024_pass_charge"
-  }
+  },
+  "marketHashName": "Shanghai 2024 Souvenir Package"
  },
  {
   "id": "collectible-4974",
@@ -7426,7 +7816,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_sha2024_Champion",
    "image_inventory": "econ/status_icons/trophy_cs2_champions"
-  }
+  },
+  "marketHashName": "Champion at Perfect World Shanghai 2024"
  },
  {
   "id": "collectible-4975",
@@ -7445,7 +7836,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_sha2024_Finalist",
    "image_inventory": "econ/status_icons/trophy_cs2_finalists"
-  }
+  },
+  "marketHashName": "Finalist at Perfect World Shanghai 2024"
  },
  {
   "id": "collectible-4976",
@@ -7464,7 +7856,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_sha2024_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_cs2_finalists"
-  }
+  },
+  "marketHashName": "Semifinalist at Perfect World Shanghai 2024"
  },
  {
   "id": "collectible-4977",
@@ -7483,7 +7876,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_sha2024_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_cs2_finalists"
-  }
+  },
+  "marketHashName": "Quarterfinalist at Perfect World Shanghai 2024"
  },
  {
   "id": "collectible-4982",
@@ -7502,7 +7896,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenWhistle",
    "image_inventory": "econ/status_icons/maptoken_whistle"
-  }
+  },
+  "marketHashName": "Whistle Map Coin"
  },
  {
   "id": "collectible-4983",
@@ -7521,7 +7916,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenPalais",
    "image_inventory": "econ/status_icons/maptoken_palais"
-  }
+  },
+  "marketHashName": "Palais Map Coin"
  },
  {
   "id": "collectible-4984",
@@ -7540,7 +7936,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenEdin",
    "image_inventory": "econ/status_icons/maptoken_edin"
-  }
+  },
+  "marketHashName": "Edin Map Coin"
  },
  {
   "id": "collectible-4985",
@@ -7559,7 +7956,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenBasaltCS2",
    "image_inventory": "econ/status_icons/maptoken_basaltcs2"
-  }
+  },
+  "marketHashName": "Basalt Map Coin"
  },
  {
   "id": "collectible-4986",
@@ -7579,7 +7977,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason1Coin",
    "image_inventory": "econ/premier_seasons/premier_season_1_coin_eg"
-  }
+  },
+  "marketHashName": "Premier Season One Medal"
  },
  {
   "id": "collectible-4987",
@@ -7599,7 +7998,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_eg"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-4988",
@@ -7619,7 +8019,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_11"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-4989",
@@ -7639,7 +8040,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_12"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-4990",
@@ -7659,7 +8061,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_13"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-4991",
@@ -7679,7 +8082,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_14"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-4992",
@@ -7699,7 +8103,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_15"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-4993",
@@ -7719,7 +8124,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_21"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-4994",
@@ -7739,7 +8145,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_22"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-4995",
@@ -7759,7 +8166,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_23"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-4996",
@@ -7779,7 +8187,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_24"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-4997",
@@ -7799,7 +8208,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_25"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-4998",
@@ -7819,7 +8229,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_31"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-4999",
@@ -7839,7 +8250,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_32"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-5000",
@@ -7859,7 +8271,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_33"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-5001",
@@ -7879,7 +8292,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_34"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-5002",
@@ -7899,7 +8313,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_35"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-5003",
@@ -7919,7 +8334,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_41"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-5004",
@@ -7939,7 +8355,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_42"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-5005",
@@ -7959,7 +8376,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_43"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-5006",
@@ -7979,7 +8397,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_44"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-5007",
@@ -7999,7 +8418,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_45"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-5008",
@@ -8019,7 +8439,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_51"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-5009",
@@ -8039,7 +8460,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_52"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-5010",
@@ -8059,7 +8481,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_53"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-5011",
@@ -8079,7 +8502,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_54"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-5012",
@@ -8099,7 +8523,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_55"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-5013",
@@ -8119,7 +8544,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_61"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-5014",
@@ -8139,7 +8565,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_62"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-5015",
@@ -8159,7 +8586,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_63"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-5016",
@@ -8179,7 +8607,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_64"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-5017",
@@ -8199,7 +8628,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_65"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-5018",
@@ -8219,7 +8649,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_71"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-5019",
@@ -8239,7 +8670,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_72"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-5020",
@@ -8259,7 +8691,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_73"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-5021",
@@ -8279,7 +8712,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_74"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-5022",
@@ -8299,7 +8733,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason2Coin",
    "image_inventory": "econ/premier_seasons/premier_season_2_coin_75"
-  }
+  },
+  "marketHashName": "Premier Season Two Medal"
  },
  {
   "id": "collectible-5110",
@@ -8318,7 +8753,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_aus2025",
    "image_inventory": "econ/tournaments/aus2025/aus2025_pass"
-  }
+  },
+  "marketHashName": "Austin 2025 Viewer Pass"
  },
  {
   "id": "collectible-5111",
@@ -8337,7 +8773,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_aus2025",
    "image_inventory": "econ/tournaments/aus2025/aus2025_coin_bronze"
-  }
+  },
+  "marketHashName": "Austin 2025 Coin"
  },
  {
   "id": "collectible-5112",
@@ -8356,7 +8793,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_aus2025_Silver",
    "image_inventory": "econ/tournaments/aus2025/aus2025_coin_silver"
-  }
+  },
+  "marketHashName": "Austin 2025 Silver Coin"
  },
  {
   "id": "collectible-5113",
@@ -8375,7 +8813,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_aus2025_Gold",
    "image_inventory": "econ/tournaments/aus2025/aus2025_coin_gold"
-  }
+  },
+  "marketHashName": "Austin 2025 Gold Coin"
  },
  {
   "id": "collectible-5114",
@@ -8394,7 +8833,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_aus2025_Crystal",
    "image_inventory": "econ/tournaments/aus2025/aus2025_coin_crystal"
-  }
+  },
+  "marketHashName": "Austin 2025 Diamond Coin"
  },
  {
   "id": "collectible-5115",
@@ -8413,7 +8853,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_aus2025_pack",
    "image_inventory": "econ/tournaments/aus2025/aus2025_pass_pack"
-  }
+  },
+  "marketHashName": "Austin 2025 Viewer Pass + 3 Souvenir Tokens"
  },
  {
   "id": "collectible-5116",
@@ -8432,7 +8873,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_aus2025_charge",
    "image_inventory": "econ/tournaments/aus2025/aus2025_pass_charge"
-  }
+  },
+  "marketHashName": "Austin 2025 Souvenir Package"
  },
  {
   "id": "collectible-5127",
@@ -8451,7 +8893,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_aus2025_Champion",
    "image_inventory": "econ/status_icons/trophy_cs2_champions"
-  }
+  },
+  "marketHashName": "Champion at BLAST.tv Austin 2025"
  },
  {
   "id": "collectible-5128",
@@ -8470,7 +8913,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_aus2025_Finalist",
    "image_inventory": "econ/status_icons/trophy_cs2_finalists"
-  }
+  },
+  "marketHashName": "Finalist at BLAST.tv Austin 2025"
  },
  {
   "id": "collectible-5129",
@@ -8489,7 +8933,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_aus2025_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_cs2_finalists"
-  }
+  },
+  "marketHashName": "Semifinalist at BLAST.tv Austin 2025"
  },
  {
   "id": "collectible-5130",
@@ -8508,7 +8953,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_aus2025_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_cs2_finalists"
-  }
+  },
+  "marketHashName": "Quarterfinalist at BLAST.tv Austin 2025"
  },
  {
   "id": "collectible-5135",
@@ -8527,7 +8973,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenAgencyCS2",
    "image_inventory": "econ/status_icons/maptoken_agencycs2"
-  }
+  },
+  "marketHashName": "Agency Map Coin"
  },
  {
   "id": "collectible-5136",
@@ -8546,7 +8993,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenJura",
    "image_inventory": "econ/status_icons/maptoken_jura"
-  }
+  },
+  "marketHashName": "Jura Map Coin"
  },
  {
   "id": "collectible-5137",
@@ -8565,7 +9013,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenGrail",
    "image_inventory": "econ/status_icons/maptoken_grail"
-  }
+  },
+  "marketHashName": "Grail Map Coin"
  },
  {
   "id": "collectible-5138",
@@ -8584,7 +9033,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenDogtown",
    "image_inventory": "econ/status_icons/maptoken_dogtown"
-  }
+  },
+  "marketHashName": "Dogtown Map Coin"
  },
  {
   "id": "collectible-5139",
@@ -8603,7 +9053,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenBrewery",
    "image_inventory": "econ/status_icons/maptoken_brewery"
-  }
+  },
+  "marketHashName": "Brewery Map Coin"
  },
  {
   "id": "collectible-5140",
@@ -8623,7 +9074,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_eg"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5141",
@@ -8643,7 +9095,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_11"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5142",
@@ -8663,7 +9116,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_12"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5143",
@@ -8683,7 +9137,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_13"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5144",
@@ -8703,7 +9158,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_14"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5145",
@@ -8723,7 +9179,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_15"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5146",
@@ -8743,7 +9200,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_21"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5147",
@@ -8763,7 +9221,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_22"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5148",
@@ -8783,7 +9242,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_23"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5149",
@@ -8803,7 +9263,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_24"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5150",
@@ -8823,7 +9284,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_25"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5151",
@@ -8843,7 +9305,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_31"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5152",
@@ -8863,7 +9326,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_32"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5153",
@@ -8883,7 +9347,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_33"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5154",
@@ -8903,7 +9368,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_34"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5155",
@@ -8923,7 +9389,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_35"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5156",
@@ -8943,7 +9410,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_41"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5157",
@@ -8963,7 +9431,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_42"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5158",
@@ -8983,7 +9452,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_43"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5159",
@@ -9003,7 +9473,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_44"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5160",
@@ -9023,7 +9494,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_45"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5161",
@@ -9043,7 +9515,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_51"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5162",
@@ -9063,7 +9536,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_52"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5163",
@@ -9083,7 +9557,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_53"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5164",
@@ -9103,7 +9578,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_54"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5165",
@@ -9123,7 +9599,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_55"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5166",
@@ -9143,7 +9620,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_61"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5167",
@@ -9163,7 +9641,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_62"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5168",
@@ -9183,7 +9662,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_63"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5169",
@@ -9203,7 +9683,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_64"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5170",
@@ -9223,7 +9704,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_65"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5171",
@@ -9243,7 +9725,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_71"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5172",
@@ -9263,7 +9746,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_72"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5173",
@@ -9283,7 +9767,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_73"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5174",
@@ -9303,7 +9788,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_74"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5175",
@@ -9323,7 +9809,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason3Coin",
    "image_inventory": "econ/premier_seasons/premier_season_3_coin_75"
-  }
+  },
+  "marketHashName": "Premier Season Three Medal"
  },
  {
   "id": "collectible-5177",
@@ -9342,7 +9829,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenGolden",
    "image_inventory": "econ/status_icons/maptoken_golden"
-  }
+  },
+  "marketHashName": "Golden Map Coin"
  },
  {
   "id": "collectible-5178",
@@ -9361,7 +9849,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenRooftop",
    "image_inventory": "econ/status_icons/maptoken_rooftop"
-  }
+  },
+  "marketHashName": "Rooftop Map Coin"
  },
  {
   "id": "collectible-5179",
@@ -9380,7 +9869,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenPalacio",
    "image_inventory": "econ/status_icons/maptoken_palacio"
-  }
+  },
+  "marketHashName": "Palacio Map Coin"
  },
  {
   "id": "collectible-5209",
@@ -9399,7 +9889,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_bud2025",
    "image_inventory": "econ/tournaments/bud2025/bud2025_pass"
-  }
+  },
+  "marketHashName": "Budapest 2025 Viewer Pass"
  },
  {
   "id": "collectible-5210",
@@ -9418,7 +9909,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_bud2025",
    "image_inventory": "econ/tournaments/bud2025/bud2025_coin_bronze"
-  }
+  },
+  "marketHashName": "Budapest 2025 Coin"
  },
  {
   "id": "collectible-5211",
@@ -9437,7 +9929,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_bud2025_Silver",
    "image_inventory": "econ/tournaments/bud2025/bud2025_coin_silver"
-  }
+  },
+  "marketHashName": "Budapest 2025 Silver Coin"
  },
  {
   "id": "collectible-5212",
@@ -9456,7 +9949,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_bud2025_Gold",
    "image_inventory": "econ/tournaments/bud2025/bud2025_coin_gold"
-  }
+  },
+  "marketHashName": "Budapest 2025 Gold Coin"
  },
  {
   "id": "collectible-5213",
@@ -9475,7 +9969,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_bud2025_Crystal",
    "image_inventory": "econ/tournaments/bud2025/bud2025_coin_crystal"
-  }
+  },
+  "marketHashName": "Budapest 2025 Diamond Coin"
  },
  {
   "id": "collectible-5214",
@@ -9494,7 +9989,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_bud2025_pack",
    "image_inventory": "econ/tournaments/bud2025/bud2025_pass_pack"
-  }
+  },
+  "marketHashName": "Budapest 2025 Viewer Pass + 3 Souvenir Tokens"
  },
  {
   "id": "collectible-5215",
@@ -9513,7 +10009,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_bud2025_charge",
    "image_inventory": "econ/tournaments/bud2025/bud2025_pass_charge"
-  }
+  },
+  "marketHashName": "Budapest 2025 Souvenir Package"
  },
  {
   "id": "collectible-5226",
@@ -9532,7 +10029,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_bud2025_Champion",
    "image_inventory": "econ/status_icons/trophy_cs2_champions"
-  }
+  },
+  "marketHashName": "Champion at StarLadder Budapest 2025"
  },
  {
   "id": "collectible-5227",
@@ -9551,7 +10049,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_bud2025_Finalist",
    "image_inventory": "econ/status_icons/trophy_cs2_finalists"
-  }
+  },
+  "marketHashName": "Finalist at StarLadder Budapest 2025"
  },
  {
   "id": "collectible-5228",
@@ -9570,7 +10069,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_bud2025_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_cs2_finalists"
-  }
+  },
+  "marketHashName": "Semifinalist at StarLadder Budapest 2025"
  },
  {
   "id": "collectible-5229",
@@ -9589,7 +10089,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_bud2025_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_cs2_finalists"
-  }
+  },
+  "marketHashName": "Quarterfinalist at StarLadder Budapest 2025"
  },
  {
   "id": "collectible-5234",
@@ -9609,7 +10110,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_eg"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5235",
@@ -9629,7 +10131,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_11"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5236",
@@ -9649,7 +10152,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_12"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5237",
@@ -9669,7 +10173,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_13"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5238",
@@ -9689,7 +10194,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_14"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5239",
@@ -9709,7 +10215,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_15"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5240",
@@ -9729,7 +10236,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_21"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5241",
@@ -9749,7 +10257,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_22"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5242",
@@ -9769,7 +10278,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_23"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5243",
@@ -9789,7 +10299,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_24"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5244",
@@ -9809,7 +10320,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_25"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5245",
@@ -9829,7 +10341,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_31"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5246",
@@ -9849,7 +10362,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_32"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5247",
@@ -9869,7 +10383,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_33"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5248",
@@ -9889,7 +10404,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_34"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5249",
@@ -9909,7 +10425,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_35"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5250",
@@ -9929,7 +10446,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_41"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5251",
@@ -9949,7 +10467,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_42"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5252",
@@ -9969,7 +10488,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_43"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5253",
@@ -9989,7 +10509,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_44"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5254",
@@ -10009,7 +10530,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_45"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5255",
@@ -10029,7 +10551,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_51"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5256",
@@ -10049,7 +10572,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_52"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5257",
@@ -10069,7 +10593,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_53"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5258",
@@ -10089,7 +10614,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_54"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5259",
@@ -10109,7 +10635,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_55"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5260",
@@ -10129,7 +10656,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_61"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5261",
@@ -10149,7 +10677,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_62"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5262",
@@ -10169,7 +10698,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_63"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5263",
@@ -10189,7 +10719,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_64"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5264",
@@ -10209,7 +10740,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_65"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5265",
@@ -10229,7 +10761,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_71"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5266",
@@ -10249,7 +10782,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_72"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5267",
@@ -10269,7 +10803,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_73"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5268",
@@ -10289,7 +10824,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_74"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5269",
@@ -10309,7 +10845,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason4Coin",
    "image_inventory": "econ/premier_seasons/premier_season_4_coin_75"
-  }
+  },
+  "marketHashName": "Premier Season Four Medal"
  },
  {
   "id": "collectible-5270",
@@ -10328,7 +10865,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2026",
    "image_inventory": "econ/status_icons/service_medal_2026_lvl1"
-  }
+  },
+  "marketHashName": "2026 Service Medal"
  },
  {
   "id": "collectible-5271",
@@ -10347,7 +10885,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2026",
    "image_inventory": "econ/status_icons/service_medal_2026_lvl2"
-  }
+  },
+  "marketHashName": "2026 Service Medal"
  },
  {
   "id": "collectible-5272",
@@ -10366,7 +10905,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2026",
    "image_inventory": "econ/status_icons/service_medal_2026_lvl3"
-  }
+  },
+  "marketHashName": "2026 Service Medal"
  },
  {
   "id": "collectible-5273",
@@ -10385,7 +10925,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2026",
    "image_inventory": "econ/status_icons/service_medal_2026_lvl4"
-  }
+  },
+  "marketHashName": "2026 Service Medal"
  },
  {
   "id": "collectible-5274",
@@ -10404,7 +10945,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2026",
    "image_inventory": "econ/status_icons/service_medal_2026_lvl5"
-  }
+  },
+  "marketHashName": "2026 Service Medal"
  },
  {
   "id": "collectible-5275",
@@ -10423,7 +10965,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_GlobalGeneral2026",
    "image_inventory": "econ/status_icons/service_medal_2026_lvl6"
-  }
+  },
+  "marketHashName": "2026 Service Medal"
  },
  {
   "id": "collectible-5276",
@@ -10442,7 +10985,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenWarden",
    "image_inventory": "econ/status_icons/maptoken_warden"
-  }
+  },
+  "marketHashName": "Warden Map Coin"
  },
  {
   "id": "collectible-5277",
@@ -10461,7 +11005,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenStronghold",
    "image_inventory": "econ/status_icons/maptoken_stronghold"
-  }
+  },
+  "marketHashName": "Stronghold Map Coin"
  },
  {
   "id": "collectible-5278",
@@ -10480,7 +11025,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenAlpine",
    "image_inventory": "econ/status_icons/maptoken_alpine"
-  }
+  },
+  "marketHashName": "Alpine Map Coin"
  },
  {
   "id": "collectible-5279",
@@ -10499,7 +11045,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenPoseidon",
    "image_inventory": "econ/status_icons/maptoken_poseidon"
-  }
+  },
+  "marketHashName": "Poseidon Map Coin"
  },
  {
   "id": "collectible-5280",
@@ -10518,7 +11065,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenSanctum",
    "image_inventory": "econ/status_icons/maptoken_sanctum"
-  }
+  },
+  "marketHashName": "Sanctum Map Coin"
  },
  {
   "id": "collectible-5281",
@@ -10537,7 +11085,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenBoulder",
    "image_inventory": "econ/status_icons/maptoken_boulder"
-  }
+  },
+  "marketHashName": "Boulder Map Coin"
  },
  {
   "id": "collectible-5282",
@@ -10556,7 +11105,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenFachwerk",
    "image_inventory": "econ/status_icons/maptoken_fachwerk"
-  }
+  },
+  "marketHashName": "Fachwerk Map Coin"
  },
  {
   "id": "collectible-5283",
@@ -10575,7 +11125,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenShelter",
    "image_inventory": "econ/status_icons/maptoken_shelter"
-  }
+  },
+  "marketHashName": "Shelter Map Coin"
  },
  {
   "id": "collectible-5284",
@@ -10594,7 +11145,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenDebris",
    "image_inventory": "econ/status_icons/maptoken_debris"
-  }
+  },
+  "marketHashName": "Debris Map Coin"
  },
  {
   "id": "collectible-5285",
@@ -10613,7 +11165,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_MapTokenElDorado",
    "image_inventory": "econ/status_icons/maptoken_eldorado"
-  }
+  },
+  "marketHashName": "El Dorado Map Coin"
  },
  {
   "id": "collectible-5310",
@@ -10632,7 +11185,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_cologne2026",
    "image_inventory": "econ/tournaments/cologne2026/cologne2026_pass"
-  }
+  },
+  "marketHashName": "Cologne 2026 Viewer Pass"
  },
  {
   "id": "collectible-5311",
@@ -10651,7 +11205,8 @@
   "original": {
    "item_name": "#CSGO_TournamentPass_cologne2026_pack",
    "image_inventory": "econ/tournaments/cologne2026/cologne2026_pass_pack"
-  }
+  },
+  "marketHashName": "Cologne 2026 Viewer Pass + 900 Tokens"
  },
  {
   "id": "collectible-5312",
@@ -10670,7 +11225,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_cologne2026",
    "image_inventory": "econ/tournaments/cologne2026/cologne2026_coin_bronze"
-  }
+  },
+  "marketHashName": "Cologne 2026 Coin"
  },
  {
   "id": "collectible-5313",
@@ -10689,7 +11245,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_cologne2026_Silver",
    "image_inventory": "econ/tournaments/cologne2026/cologne2026_coin_silver"
-  }
+  },
+  "marketHashName": "Cologne 2026 Silver Coin"
  },
  {
   "id": "collectible-5314",
@@ -10708,7 +11265,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_cologne2026_Gold",
    "image_inventory": "econ/tournaments/cologne2026/cologne2026_coin_gold"
-  }
+  },
+  "marketHashName": "Cologne 2026 Gold Coin"
  },
  {
   "id": "collectible-5315",
@@ -10727,7 +11285,8 @@
   "original": {
    "item_name": "#CSGO_TournamentJournal_cologne2026_Crystal",
    "image_inventory": "econ/tournaments/cologne2026/cologne2026_coin_crystal"
-  }
+  },
+  "marketHashName": "Cologne 2026 Diamond Coin"
  },
  {
   "id": "collectible-5319",
@@ -10746,7 +11305,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_cologne2026_Champion",
    "image_inventory": "econ/status_icons/trophy_cs2_champions"
-  }
+  },
+  "marketHashName": "Champion at IEM Cologne 2026"
  },
  {
   "id": "collectible-5320",
@@ -10765,7 +11325,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_cologne2026_Finalist",
    "image_inventory": "econ/status_icons/trophy_cs2_finalists"
-  }
+  },
+  "marketHashName": "Finalist at IEM Cologne 2026"
  },
  {
   "id": "collectible-5321",
@@ -10784,7 +11345,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_cologne2026_Semifinalist",
    "image_inventory": "econ/status_icons/trophy_cs2_finalists"
-  }
+  },
+  "marketHashName": "Semifinalist at IEM Cologne 2026"
  },
  {
   "id": "collectible-5322",
@@ -10803,7 +11365,8 @@
   "original": {
    "item_name": "#CSGO_CollectibleCoin_cologne2026_Quarterfinalist",
    "image_inventory": "econ/status_icons/trophy_cs2_finalists"
-  }
+  },
+  "marketHashName": "Quarterfinalist at IEM Cologne 2026"
  },
  {
   "id": "collectible-5330",
@@ -10823,7 +11386,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_eg"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5331",
@@ -10843,7 +11407,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_11"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5332",
@@ -10863,7 +11428,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_12"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5333",
@@ -10883,7 +11449,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_13"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5334",
@@ -10903,7 +11470,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_14"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5335",
@@ -10923,7 +11491,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_15"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5336",
@@ -10943,7 +11512,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_21"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5337",
@@ -10963,7 +11533,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_22"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5338",
@@ -10983,7 +11554,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_23"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5339",
@@ -11003,7 +11575,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_24"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5340",
@@ -11023,7 +11596,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_25"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5341",
@@ -11043,7 +11617,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_31"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5342",
@@ -11063,7 +11638,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_32"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5343",
@@ -11083,7 +11659,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_33"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5344",
@@ -11103,7 +11680,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_34"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5345",
@@ -11123,7 +11701,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_35"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5346",
@@ -11143,7 +11722,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_41"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5347",
@@ -11163,7 +11743,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_42"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5348",
@@ -11183,7 +11764,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_43"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5349",
@@ -11203,7 +11785,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_44"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5350",
@@ -11223,7 +11806,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_45"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5351",
@@ -11243,7 +11827,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_51"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5352",
@@ -11263,7 +11848,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_52"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5353",
@@ -11283,7 +11869,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_53"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5354",
@@ -11303,7 +11890,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_54"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5355",
@@ -11323,7 +11911,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_55"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5356",
@@ -11343,7 +11932,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_61"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5357",
@@ -11363,7 +11953,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_62"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5358",
@@ -11383,7 +11974,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_63"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5359",
@@ -11403,7 +11995,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_64"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5360",
@@ -11423,7 +12016,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_65"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5361",
@@ -11443,7 +12037,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_71"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5362",
@@ -11463,7 +12058,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_72"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5363",
@@ -11483,7 +12079,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_73"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5364",
@@ -11503,7 +12100,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_74"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-5365",
@@ -11523,7 +12121,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_PremierSeason5Coin",
    "image_inventory": "econ/premier_seasons/premier_season_5_coin_75"
-  }
+  },
+  "marketHashName": "Premier Season Five Medal"
  },
  {
   "id": "collectible-6001",
@@ -11542,7 +12141,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_DustII",
    "image_inventory": "econ/status_icons/collectible_pin_dust2"
-  }
+  },
+  "marketHashName": "Genuine Dust II Pin"
  },
  {
   "id": "collectible-6002",
@@ -11561,7 +12161,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_GuardianElite",
    "image_inventory": "econ/status_icons/collectible_pin_guardianelite"
-  }
+  },
+  "marketHashName": "Genuine Guardian Elite Pin"
  },
  {
   "id": "collectible-6003",
@@ -11580,7 +12181,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Mirage",
    "image_inventory": "econ/status_icons/collectible_pin_mirage"
-  }
+  },
+  "marketHashName": "Genuine Mirage Pin"
  },
  {
   "id": "collectible-6004",
@@ -11599,7 +12201,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Inferno",
    "image_inventory": "econ/status_icons/collectible_pin_inferno"
-  }
+  },
+  "marketHashName": "Genuine Inferno Pin"
  },
  {
   "id": "collectible-6005",
@@ -11618,7 +12221,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Italy",
    "image_inventory": "econ/status_icons/collectible_pin_italy"
-  }
+  },
+  "marketHashName": "Genuine Italy Pin"
  },
  {
   "id": "collectible-6006",
@@ -11637,7 +12241,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Victory",
    "image_inventory": "econ/status_icons/collectible_pin_victory"
-  }
+  },
+  "marketHashName": "Genuine Victory Pin"
  },
  {
   "id": "collectible-6007",
@@ -11656,7 +12261,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Militia",
    "image_inventory": "econ/status_icons/collectible_pin_militia"
-  }
+  },
+  "marketHashName": "Genuine Militia Pin"
  },
  {
   "id": "collectible-6008",
@@ -11675,7 +12281,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Nuke",
    "image_inventory": "econ/status_icons/collectible_pin_nuke"
-  }
+  },
+  "marketHashName": "Genuine Nuke Pin"
  },
  {
   "id": "collectible-6009",
@@ -11694,7 +12301,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Train",
    "image_inventory": "econ/status_icons/collectible_pin_train"
-  }
+  },
+  "marketHashName": "Genuine Train Pin"
  },
  {
   "id": "collectible-6010",
@@ -11713,7 +12321,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Guardian",
    "image_inventory": "econ/status_icons/collectible_pin_guardian"
-  }
+  },
+  "marketHashName": "Genuine Guardian Pin"
  },
  {
   "id": "collectible-6011",
@@ -11732,7 +12341,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Tactics",
    "image_inventory": "econ/status_icons/collectible_pin_tactics"
-  }
+  },
+  "marketHashName": "Genuine Tactics Pin"
  },
  {
   "id": "collectible-6012",
@@ -11751,7 +12361,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_guardian_2",
    "image_inventory": "econ/status_icons/collectible_pin_guardian_2"
-  }
+  },
+  "marketHashName": "Genuine Guardian 2 Pin"
  },
  {
   "id": "collectible-6013",
@@ -11770,7 +12381,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_bravo",
    "image_inventory": "econ/status_icons/collectible_pin_bravo"
-  }
+  },
+  "marketHashName": "Genuine Bravo Pin"
  },
  {
   "id": "collectible-6014",
@@ -11789,7 +12401,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_baggage",
    "image_inventory": "econ/status_icons/collectible_pin_baggage"
-  }
+  },
+  "marketHashName": "Genuine Baggage Pin"
  },
  {
   "id": "collectible-6015",
@@ -11808,7 +12421,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_phoenix",
    "image_inventory": "econ/status_icons/collectible_pin_phoenix"
-  }
+  },
+  "marketHashName": "Genuine Phoenix Pin"
  },
  {
   "id": "collectible-6016",
@@ -11827,7 +12441,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_office",
    "image_inventory": "econ/status_icons/collectible_pin_office"
-  }
+  },
+  "marketHashName": "Genuine Office Pin"
  },
  {
   "id": "collectible-6017",
@@ -11846,7 +12461,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_cobblestone",
    "image_inventory": "econ/status_icons/collectible_pin_cobblestone"
-  }
+  },
+  "marketHashName": "Genuine Cobblestone Pin"
  },
  {
   "id": "collectible-6018",
@@ -11865,7 +12481,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_overpass",
    "image_inventory": "econ/status_icons/collectible_pin_overpass"
-  }
+  },
+  "marketHashName": "Genuine Overpass Pin"
  },
  {
   "id": "collectible-6019",
@@ -11884,7 +12501,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_bloodhound",
    "image_inventory": "econ/status_icons/collectible_pin_bloodhound"
-  }
+  },
+  "marketHashName": "Genuine Bloodhound Pin"
  },
  {
   "id": "collectible-6020",
@@ -11903,7 +12521,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_cache",
    "image_inventory": "econ/status_icons/collectible_pin_cache"
-  }
+  },
+  "marketHashName": "Genuine Cache Pin"
  },
  {
   "id": "collectible-6021",
@@ -11922,7 +12541,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_valeria",
    "image_inventory": "econ/status_icons/collectible_pin_valeria"
-  }
+  },
+  "marketHashName": "Genuine Valeria Phoenix Pin"
  },
  {
   "id": "collectible-6022",
@@ -11941,7 +12561,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_chroma",
    "image_inventory": "econ/status_icons/collectible_pin_chroma"
-  }
+  },
+  "marketHashName": "Genuine Chroma Pin"
  },
  {
   "id": "collectible-6023",
@@ -11960,7 +12581,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_guardian_3",
    "image_inventory": "econ/status_icons/collectible_pin_guardian_3"
-  }
+  },
+  "marketHashName": "Genuine Guardian 3 Pin"
  },
  {
   "id": "collectible-6024",
@@ -11979,7 +12601,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_canals",
    "image_inventory": "econ/status_icons/collectible_pin_canals"
-  }
+  },
+  "marketHashName": "Genuine Canals Pin"
  },
  {
   "id": "collectible-6025",
@@ -11998,7 +12621,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_welcome_to_the_clutch",
    "image_inventory": "econ/status_icons/collectible_pin_welcome_to_the_clutch"
-  }
+  },
+  "marketHashName": "Genuine Welcome to the Clutch Pin"
  },
  {
   "id": "collectible-6026",
@@ -12017,7 +12641,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_death_sentence",
    "image_inventory": "econ/status_icons/collectible_pin_death_sentence"
-  }
+  },
+  "marketHashName": "Genuine Death Sentence Pin"
  },
  {
   "id": "collectible-6027",
@@ -12036,7 +12661,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_inferno_2",
    "image_inventory": "econ/status_icons/collectible_pin_inferno_2"
-  }
+  },
+  "marketHashName": "Genuine Inferno 2 Pin"
  },
  {
   "id": "collectible-6028",
@@ -12055,7 +12681,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_wildfire",
    "image_inventory": "econ/status_icons/collectible_pin_wildfire"
-  }
+  },
+  "marketHashName": "Genuine Wildfire Pin"
  },
  {
   "id": "collectible-6029",
@@ -12074,7 +12701,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_easy_peasy",
    "image_inventory": "econ/status_icons/collectible_pin_easy_peasy"
-  }
+  },
+  "marketHashName": "Genuine Easy Peasy Pin"
  },
  {
   "id": "collectible-6030",
@@ -12093,7 +12721,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_aces_high",
    "image_inventory": "econ/status_icons/collectible_pin_aces_high"
-  }
+  },
+  "marketHashName": "Genuine Aces High Pin"
  },
  {
   "id": "collectible-6031",
@@ -12112,7 +12741,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_hydra",
    "image_inventory": "econ/status_icons/collectible_pin_hydra"
-  }
+  },
+  "marketHashName": "Genuine Hydra Pin"
  },
  {
   "id": "collectible-6032",
@@ -12131,7 +12761,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_howl",
    "image_inventory": "econ/status_icons/collectible_pin_howl"
-  }
+  },
+  "marketHashName": "Genuine Howl Pin"
  },
  {
   "id": "collectible-6033",
@@ -12150,7 +12781,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_brigadier_general",
    "image_inventory": "econ/status_icons/collectible_pin_brigadier_general"
-  }
+  },
+  "marketHashName": "Genuine Brigadier General Pin"
  },
  {
   "id": "collectible-6034",
@@ -12169,7 +12801,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_alyx_10",
    "image_inventory": "econ/status_icons/collectible_pin_alyx_10"
-  }
+  },
+  "marketHashName": "Genuine Alyx Pin"
  },
  {
   "id": "collectible-6101",
@@ -12188,7 +12821,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_DustII",
    "image_inventory": "econ/status_icons/collectible_pin_dust2"
-  }
+  },
+  "marketHashName": "Dust II Pin"
  },
  {
   "id": "collectible-6102",
@@ -12207,7 +12841,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_GuardianElite",
    "image_inventory": "econ/status_icons/collectible_pin_guardianelite"
-  }
+  },
+  "marketHashName": "Guardian Elite Pin"
  },
  {
   "id": "collectible-6103",
@@ -12226,7 +12861,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Mirage",
    "image_inventory": "econ/status_icons/collectible_pin_mirage"
-  }
+  },
+  "marketHashName": "Mirage Pin"
  },
  {
   "id": "collectible-6104",
@@ -12245,7 +12881,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Inferno",
    "image_inventory": "econ/status_icons/collectible_pin_inferno"
-  }
+  },
+  "marketHashName": "Inferno Pin"
  },
  {
   "id": "collectible-6105",
@@ -12264,7 +12901,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Italy",
    "image_inventory": "econ/status_icons/collectible_pin_italy"
-  }
+  },
+  "marketHashName": "Italy Pin"
  },
  {
   "id": "collectible-6106",
@@ -12283,7 +12921,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Victory",
    "image_inventory": "econ/status_icons/collectible_pin_victory"
-  }
+  },
+  "marketHashName": "Victory Pin"
  },
  {
   "id": "collectible-6107",
@@ -12302,7 +12941,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Militia",
    "image_inventory": "econ/status_icons/collectible_pin_militia"
-  }
+  },
+  "marketHashName": "Militia Pin"
  },
  {
   "id": "collectible-6108",
@@ -12321,7 +12961,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Nuke",
    "image_inventory": "econ/status_icons/collectible_pin_nuke"
-  }
+  },
+  "marketHashName": "Nuke Pin"
  },
  {
   "id": "collectible-6109",
@@ -12340,7 +12981,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Train",
    "image_inventory": "econ/status_icons/collectible_pin_train"
-  }
+  },
+  "marketHashName": "Train Pin"
  },
  {
   "id": "collectible-6110",
@@ -12359,7 +13001,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Guardian",
    "image_inventory": "econ/status_icons/collectible_pin_guardian"
-  }
+  },
+  "marketHashName": "Guardian Pin"
  },
  {
   "id": "collectible-6111",
@@ -12378,7 +13021,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_Tactics",
    "image_inventory": "econ/status_icons/collectible_pin_tactics"
-  }
+  },
+  "marketHashName": "Tactics Pin"
  },
  {
   "id": "collectible-6112",
@@ -12397,7 +13041,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_guardian_2",
    "image_inventory": "econ/status_icons/collectible_pin_guardian_2"
-  }
+  },
+  "marketHashName": "Guardian 2 Pin"
  },
  {
   "id": "collectible-6113",
@@ -12416,7 +13061,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_bravo",
    "image_inventory": "econ/status_icons/collectible_pin_bravo"
-  }
+  },
+  "marketHashName": "Bravo Pin"
  },
  {
   "id": "collectible-6114",
@@ -12435,7 +13081,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_baggage",
    "image_inventory": "econ/status_icons/collectible_pin_baggage"
-  }
+  },
+  "marketHashName": "Baggage Pin"
  },
  {
   "id": "collectible-6115",
@@ -12454,7 +13101,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_phoenix",
    "image_inventory": "econ/status_icons/collectible_pin_phoenix"
-  }
+  },
+  "marketHashName": "Phoenix Pin"
  },
  {
   "id": "collectible-6116",
@@ -12473,7 +13121,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_office",
    "image_inventory": "econ/status_icons/collectible_pin_office"
-  }
+  },
+  "marketHashName": "Office Pin"
  },
  {
   "id": "collectible-6117",
@@ -12492,7 +13141,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_cobblestone",
    "image_inventory": "econ/status_icons/collectible_pin_cobblestone"
-  }
+  },
+  "marketHashName": "Cobblestone Pin"
  },
  {
   "id": "collectible-6118",
@@ -12511,7 +13161,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_overpass",
    "image_inventory": "econ/status_icons/collectible_pin_overpass"
-  }
+  },
+  "marketHashName": "Overpass Pin"
  },
  {
   "id": "collectible-6119",
@@ -12530,7 +13181,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_bloodhound",
    "image_inventory": "econ/status_icons/collectible_pin_bloodhound"
-  }
+  },
+  "marketHashName": "Bloodhound Pin"
  },
  {
   "id": "collectible-6120",
@@ -12549,7 +13201,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_cache",
    "image_inventory": "econ/status_icons/collectible_pin_cache"
-  }
+  },
+  "marketHashName": "Cache Pin"
  },
  {
   "id": "collectible-6121",
@@ -12568,7 +13221,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_valeria",
    "image_inventory": "econ/status_icons/collectible_pin_valeria"
-  }
+  },
+  "marketHashName": "Valeria Phoenix Pin"
  },
  {
   "id": "collectible-6122",
@@ -12587,7 +13241,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_chroma",
    "image_inventory": "econ/status_icons/collectible_pin_chroma"
-  }
+  },
+  "marketHashName": "Chroma Pin"
  },
  {
   "id": "collectible-6123",
@@ -12606,7 +13261,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_guardian_3",
    "image_inventory": "econ/status_icons/collectible_pin_guardian_3"
-  }
+  },
+  "marketHashName": "Guardian 3 Pin"
  },
  {
   "id": "collectible-6124",
@@ -12625,7 +13281,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_canals",
    "image_inventory": "econ/status_icons/collectible_pin_canals"
-  }
+  },
+  "marketHashName": "Canals Pin"
  },
  {
   "id": "collectible-6125",
@@ -12644,7 +13301,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_welcome_to_the_clutch",
    "image_inventory": "econ/status_icons/collectible_pin_welcome_to_the_clutch"
-  }
+  },
+  "marketHashName": "Welcome to the Clutch Pin"
  },
  {
   "id": "collectible-6126",
@@ -12663,7 +13321,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_death_sentence",
    "image_inventory": "econ/status_icons/collectible_pin_death_sentence"
-  }
+  },
+  "marketHashName": "Death Sentence Pin"
  },
  {
   "id": "collectible-6127",
@@ -12682,7 +13341,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_inferno_2",
    "image_inventory": "econ/status_icons/collectible_pin_inferno_2"
-  }
+  },
+  "marketHashName": "Inferno 2 Pin"
  },
  {
   "id": "collectible-6128",
@@ -12701,7 +13361,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_wildfire",
    "image_inventory": "econ/status_icons/collectible_pin_wildfire"
-  }
+  },
+  "marketHashName": "Wildfire Pin"
  },
  {
   "id": "collectible-6129",
@@ -12720,7 +13381,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_easy_peasy",
    "image_inventory": "econ/status_icons/collectible_pin_easy_peasy"
-  }
+  },
+  "marketHashName": "Easy Peasy Pin"
  },
  {
   "id": "collectible-6130",
@@ -12739,7 +13401,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_aces_high",
    "image_inventory": "econ/status_icons/collectible_pin_aces_high"
-  }
+  },
+  "marketHashName": "Aces High Pin"
  },
  {
   "id": "collectible-6131",
@@ -12758,7 +13421,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_hydra",
    "image_inventory": "econ/status_icons/collectible_pin_hydra"
-  }
+  },
+  "marketHashName": "Hydra Pin"
  },
  {
   "id": "collectible-6132",
@@ -12777,7 +13441,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_howl",
    "image_inventory": "econ/status_icons/collectible_pin_howl"
-  }
+  },
+  "marketHashName": "Howl Pin"
  },
  {
   "id": "collectible-6133",
@@ -12796,7 +13461,8 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_brigadier_general",
    "image_inventory": "econ/status_icons/collectible_pin_brigadier_general"
-  }
+  },
+  "marketHashName": "Brigadier General Pin"
  },
  {
   "id": "collectible-6134",
@@ -12815,6 +13481,7 @@
   "original": {
    "item_name": "#CSGO_Collectible_Pin_alyx_10",
    "image_inventory": "econ/status_icons/collectible_pin_alyx_10"
-  }
+  },
+  "marketHashName": "Alyx Pin"
  }
 ]

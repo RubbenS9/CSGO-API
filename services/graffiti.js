@@ -137,5 +137,5 @@ export const getGraffiti = () => {
         .map(parseItemSealedGraffiti)
         .flatMap(level1 => level1);
 
-    saveDataJson(`./public/api/${folder}/graffiti.json`, graffiti);
+    return saveDataJson(`./public/api/${folder}/graffiti.json`, graffiti);
 };

@@ -21,7 +21,8 @@
   "original": {
    "item_name": "#CSGO_Tool_Gift1Player",
    "image_inventory": "econ/weapon_cases/gift1player"
-  }
+  },
+  "marketHashName": "Gift Package"
  },
  {
   "id": "crate-1211",
@@ -45,7 +46,8 @@
   "original": {
    "item_name": "#CSGO_Tool_Gift9Players",
    "image_inventory": "econ/weapon_cases/gift9players"
-  }
+  },
+  "marketHashName": "Pallet of Presents"
  },
  {
   "id": "crate-1215",
@@ -69,7 +71,8 @@
   "original": {
    "item_name": "#CSGO_Tool_Gift25Spectators",
    "image_inventory": "econ/weapon_cases/gift25spectators"
-  }
+  },
+  "marketHashName": "Audience Participation Parcel"
  },
  {
   "id": "crate-4001",
@@ -914,7 +917,8 @@
   "original": {
    "item_name": "#CSGO_crate_valve_1",
    "image_inventory": "econ/weapon_cases/crate_valve_1"
-  }
+  },
+  "marketHashName": "CS:GO Weapon Case"
  },
  {
   "id": "crate-4002",
@@ -1759,7 +1763,8 @@
   "original": {
    "item_name": "#CSGO_crate_esports_2013",
    "image_inventory": "econ/weapon_cases/crate_esports_2013"
-  }
+  },
+  "marketHashName": "eSports 2013 Case"
  },
  {
   "id": "crate-4003",
@@ -2670,7 +2675,8 @@
   "original": {
    "item_name": "#CSGO_crate_operation_ii",
    "image_inventory": "econ/weapon_cases/crate_operation_ii"
-  }
+  },
+  "marketHashName": "Operation Bravo Case"
  },
  {
   "id": "crate-4004",
@@ -3548,7 +3554,8 @@
   "original": {
    "item_name": "#CSGO_crate_valve_2",
    "image_inventory": "econ/weapon_cases/crate_valve_2"
-  }
+  },
+  "marketHashName": "CS:GO Weapon Case 2"
  },
  {
   "id": "crate-4005",
@@ -4426,7 +4433,8 @@
   "original": {
    "item_name": "#CSGO_crate_esports_2013_winter",
    "image_inventory": "econ/weapon_cases/crate_esports_2013_14"
-  }
+  },
+  "marketHashName": "eSports 2013 Winter Case"
  },
  {
   "id": "crate-4006",
@@ -5463,7 +5471,8 @@
   "original": {
    "item_name": "#CSGO_crate_dhw13_promo",
    "image_inventory": "econ/weapon_cases/crate_dhw13_promo"
-  }
+  },
+  "marketHashName": "DreamHack 2013 Souvenir Package"
  },
  {
   "id": "crate-4007",
@@ -5638,7 +5647,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack01",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack01"
-  }
+  },
+  "marketHashName": "Sticker Capsule"
  },
  {
   "id": "crate-4009",
@@ -6527,7 +6537,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_1",
    "image_inventory": "econ/weapon_cases/crate_community_1"
-  }
+  },
+  "marketHashName": "Winter Offensive Weapon Case"
  },
  {
   "id": "crate-4010",
@@ -7405,7 +7416,8 @@
   "original": {
    "item_name": "#CSGO_crate_valve_3",
    "image_inventory": "econ/weapon_cases/crate_valve_3"
-  }
+  },
+  "marketHashName": "CS:GO Weapon Case 3"
  },
  {
   "id": "crate-4011",
@@ -8294,7 +8306,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_2",
    "image_inventory": "econ/weapon_cases/crate_community_2"
-  }
+  },
+  "marketHashName": "Operation Phoenix Weapon Case"
  },
  {
   "id": "crate-4012",
@@ -8479,7 +8492,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack02",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack02"
-  }
+  },
+  "marketHashName": "Sticker Capsule 2"
  },
  {
   "id": "crate-4013",
@@ -9505,7 +9519,8 @@
   "original": {
    "item_name": "#CSGO_crate_ems14_promo",
    "image_inventory": "econ/weapon_cases/crate_ems14_promo"
-  }
+  },
+  "marketHashName": "EMS One 2014 Souvenir Package"
  },
  {
   "id": "crate-4014",
@@ -9700,7 +9715,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_kat2014_01",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_kat2014_01"
-  }
+  },
+  "marketHashName": "EMS Katowice 2014 Challengers"
  },
  {
   "id": "crate-4015",
@@ -9895,7 +9911,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_kat2014_02",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_kat2014_02"
-  }
+  },
+  "marketHashName": "EMS Katowice 2014 Legends"
  },
  {
   "id": "crate-4016",
@@ -10090,7 +10107,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_community01",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_community01"
-  }
+  },
+  "marketHashName": "Community Sticker Capsule 1"
  },
  {
   "id": "crate-4017",
@@ -10435,7 +10453,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_3",
    "image_inventory": "econ/weapon_cases/crate_community_3"
-  }
+  },
+  "marketHashName": "Huntsman Weapon Case"
  },
  {
   "id": "crate-4018",
@@ -10763,7 +10782,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_4",
    "image_inventory": "econ/weapon_cases/crate_community_4"
-  }
+  },
+  "marketHashName": "Operation Breakout Weapon Case"
  },
  {
   "id": "crate-4019",
@@ -11696,7 +11716,8 @@
   "original": {
    "item_name": "#CSGO_crate_esports_2014_summer",
    "image_inventory": "econ/weapon_cases/crate_esports_2014_summer"
-  }
+  },
+  "marketHashName": "eSports 2014 Summer Case"
  },
  {
   "id": "crate-4020",
@@ -11871,7 +11892,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_cologne2014_01",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cologne2014_01"
-  }
+  },
+  "marketHashName": "ESL One Cologne 2014 Legends"
  },
  {
   "id": "crate-4021",
@@ -12086,7 +12108,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_cologne2014_02",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cologne2014_02"
-  }
+  },
+  "marketHashName": "ESL One Cologne 2014 Challengers"
  },
  {
   "id": "crate-4022",
@@ -12287,7 +12310,8 @@
   "original": {
    "item_name": "#CSGO_crate_esl14_promo_de_dust2",
    "image_inventory": "econ/weapon_cases/crate_esl14_promo_de_dust2"
-  }
+  },
+  "marketHashName": "ESL One Cologne 2014 Dust II Souvenir Package"
  },
  {
   "id": "crate-4023",
@@ -12378,7 +12402,8 @@
   "original": {
    "item_name": "#CSGO_crate_esl14_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_esl14_promo_de_inferno"
-  }
+  },
+  "marketHashName": "ESL One Cologne 2014 Inferno Souvenir Package"
  },
  {
   "id": "crate-4024",
@@ -12568,7 +12593,8 @@
   "original": {
    "item_name": "#CSGO_crate_esl14_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_esl14_promo_de_mirage"
-  }
+  },
+  "marketHashName": "ESL One Cologne 2014 Mirage Souvenir Package"
  },
  {
   "id": "crate-4025",
@@ -12692,7 +12718,8 @@
   "original": {
    "item_name": "#CSGO_crate_esl14_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_esl14_promo_de_nuke"
-  }
+  },
+  "marketHashName": "ESL One Cologne 2014 Nuke Souvenir Package"
  },
  {
   "id": "crate-4026",
@@ -12860,7 +12887,8 @@
   "original": {
    "item_name": "#CSGO_crate_esl14_promo_de_cache",
    "image_inventory": "econ/weapon_cases/crate_esl14_promo_de_cache"
-  }
+  },
+  "marketHashName": "ESL One Cologne 2014 Cache Souvenir Package"
  },
  {
   "id": "crate-4027",
@@ -13050,7 +13078,8 @@
   "original": {
    "item_name": "#CSGO_crate_esl14_promo_de_cbble",
    "image_inventory": "econ/weapon_cases/crate_esl14_promo_de_cbble"
-  }
+  },
+  "marketHashName": "ESL One Cologne 2014 Cobblestone Souvenir Package"
  },
  {
   "id": "crate-4028",
@@ -13240,7 +13269,8 @@
   "original": {
    "item_name": "#CSGO_crate_esl14_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_esl14_promo_de_overpass"
-  }
+  },
+  "marketHashName": "ESL One Cologne 2014 Overpass Souvenir Package"
  },
  {
   "id": "crate-4029",
@@ -14140,7 +14170,8 @@
   "original": {
    "item_name": "#CSGO_crate_operation_vanguard",
    "image_inventory": "econ/weapon_cases/crate_community_5"
-  }
+  },
+  "marketHashName": "Operation Vanguard Weapon Case"
  },
  {
   "id": "crate-4030",
@@ -14295,7 +14326,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_dhw2014_01",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_dhw2014_01"
-  }
+  },
+  "marketHashName": "DreamHack 2014 Legends (Holo/Foil)"
  },
  {
   "id": "crate-4031",
@@ -14496,7 +14528,8 @@
   "original": {
    "item_name": "#CSGO_crate_dhw14_promo_de_dust2",
    "image_inventory": "econ/weapon_cases/crate_dhw14_promo_de_dust2"
-  }
+  },
+  "marketHashName": "DreamHack 2014 Dust II Souvenir Package"
  },
  {
   "id": "crate-4032",
@@ -14587,7 +14620,8 @@
   "original": {
    "item_name": "#CSGO_crate_dhw14_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_dhw14_promo_de_inferno"
-  }
+  },
+  "marketHashName": "DreamHack 2014 Inferno Souvenir Package"
  },
  {
   "id": "crate-4033",
@@ -14777,7 +14811,8 @@
   "original": {
    "item_name": "#CSGO_crate_dhw14_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_dhw14_promo_de_mirage"
-  }
+  },
+  "marketHashName": "DreamHack 2014 Mirage Souvenir Package"
  },
  {
   "id": "crate-4034",
@@ -14901,7 +14936,8 @@
   "original": {
    "item_name": "#CSGO_crate_dhw14_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_dhw14_promo_de_nuke"
-  }
+  },
+  "marketHashName": "DreamHack 2014 Nuke Souvenir Package"
  },
  {
   "id": "crate-4035",
@@ -15069,7 +15105,8 @@
   "original": {
    "item_name": "#CSGO_crate_dhw14_promo_de_cache",
    "image_inventory": "econ/weapon_cases/crate_dhw14_promo_de_cache"
-  }
+  },
+  "marketHashName": "DreamHack 2014 Cache Souvenir Package"
  },
  {
   "id": "crate-4036",
@@ -15259,7 +15296,8 @@
   "original": {
    "item_name": "#CSGO_crate_dhw14_promo_de_cbble",
    "image_inventory": "econ/weapon_cases/crate_dhw14_promo_de_cbble"
-  }
+  },
+  "marketHashName": "DreamHack 2014 Cobblestone Souvenir Package"
  },
  {
   "id": "crate-4037",
@@ -15449,7 +15487,8 @@
   "original": {
    "item_name": "#CSGO_crate_dhw14_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_dhw14_promo_de_overpass"
-  }
+  },
+  "marketHashName": "DreamHack 2014 Overpass Souvenir Package"
  },
  {
   "id": "crate-4040",
@@ -21264,7 +21303,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_cologne2026_all",
    "image_inventory": "econ/tournaments/cologne2026/cologne2026_credits"
-  }
+  },
+  "marketHashName": "Cologne 2026 Sticker Capsule"
  },
  {
   "id": "crate-4061",
@@ -22139,7 +22179,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_6",
    "image_inventory": "econ/weapon_cases/crate_community_6"
-  }
+  },
+  "marketHashName": "Chroma Case"
  },
  {
   "id": "crate-4079",
@@ -22340,7 +22381,8 @@
   "original": {
    "item_name": "#CSGO_crate_eslkatowice2015_promo_de_dust2",
    "image_inventory": "econ/weapon_cases/crate_eslkatowice2015_promo_de_dust2"
-  }
+  },
+  "marketHashName": "ESL One Katowice 2015 Dust II Souvenir Package"
  },
  {
   "id": "crate-4080",
@@ -22431,7 +22473,8 @@
   "original": {
    "item_name": "#CSGO_crate_eslkatowice2015_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_eslkatowice2015_promo_de_inferno"
-  }
+  },
+  "marketHashName": "ESL One Katowice 2015 Inferno Souvenir Package"
  },
  {
   "id": "crate-4081",
@@ -22621,7 +22664,8 @@
   "original": {
    "item_name": "#CSGO_crate_eslkatowice2015_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_eslkatowice2015_promo_de_mirage"
-  }
+  },
+  "marketHashName": "ESL One Katowice 2015 Mirage Souvenir Package"
  },
  {
   "id": "crate-4082",
@@ -22745,7 +22789,8 @@
   "original": {
    "item_name": "#CSGO_crate_eslkatowice2015_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_eslkatowice2015_promo_de_nuke"
-  }
+  },
+  "marketHashName": "ESL One Katowice 2015 Nuke Souvenir Package"
  },
  {
   "id": "crate-4083",
@@ -22913,7 +22958,8 @@
   "original": {
    "item_name": "#CSGO_crate_eslkatowice2015_promo_de_cache",
    "image_inventory": "econ/weapon_cases/crate_eslkatowice2015_promo_de_cache"
-  }
+  },
+  "marketHashName": "ESL One Katowice 2015 Cache Souvenir Package"
  },
  {
   "id": "crate-4084",
@@ -23103,7 +23149,8 @@
   "original": {
    "item_name": "#CSGO_crate_eslkatowice2015_promo_de_cbble",
    "image_inventory": "econ/weapon_cases/crate_eslkatowice2015_promo_de_cbble"
-  }
+  },
+  "marketHashName": "ESL One Katowice 2015 Cobblestone Souvenir Package"
  },
  {
   "id": "crate-4085",
@@ -23293,7 +23340,8 @@
   "original": {
    "item_name": "#CSGO_crate_eslkatowice2015_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_eslkatowice2015_promo_de_overpass"
-  }
+  },
+  "marketHashName": "ESL One Katowice 2015 Overpass Souvenir Package"
  },
  {
   "id": "crate-4086",
@@ -23488,7 +23536,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_eslkatowice2015_01",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_eslkatowice2015_01"
-  }
+  },
+  "marketHashName": "ESL One Katowice 2015 Legends (Holo/Foil)"
  },
  {
   "id": "crate-4087",
@@ -23683,7 +23732,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_eslkatowice2015_02",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_eslkatowice2015_02"
-  }
+  },
+  "marketHashName": "ESL One Katowice 2015 Challengers (Holo/Foil)"
  },
  {
   "id": "crate-4089",
@@ -24569,7 +24619,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_7",
    "image_inventory": "econ/weapon_cases/crate_community_7"
-  }
+  },
+  "marketHashName": "Chroma 2 Case"
  },
  {
   "id": "crate-4090",
@@ -24744,7 +24795,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_enfu_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_enfu_capsule"
-  }
+  },
+  "marketHashName": "Enfu Sticker Capsule"
  },
  {
   "id": "crate-4091",
@@ -25094,7 +25146,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_8",
    "image_inventory": "econ/weapon_cases/crate_community_8"
-  }
+  },
+  "marketHashName": "Falchion Case"
  },
  {
   "id": "crate-4109",
@@ -25209,7 +25262,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_eslcologne2015_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_eslcologne2015_01"
-  }
+  },
+  "marketHashName": "ESL One Cologne 2015 Legends (Foil)"
  },
  {
   "id": "crate-4110",
@@ -25324,7 +25378,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_eslcologne2015_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_eslcologne2015_02"
-  }
+  },
+  "marketHashName": "ESL One Cologne 2015 Challengers (Foil)"
  },
  {
   "id": "crate-4111",
@@ -25549,7 +25604,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_group_1",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_eslcologne2015_group_1"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Group A (Foil) | Cologne 2015"
  },
  {
   "id": "crate-4112",
@@ -25774,7 +25830,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_group_2",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_eslcologne2015_group_2"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Group B (Foil) | Cologne 2015"
  },
  {
   "id": "crate-4113",
@@ -25999,7 +26056,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_group_3",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_eslcologne2015_group_3"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Group C (Foil) | Cologne 2015"
  },
  {
   "id": "crate-4114",
@@ -26224,7 +26282,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_group_4",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_eslcologne2015_group_4"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Group D (Foil) | Cologne 2015"
  },
  {
   "id": "crate-4115",
@@ -26299,7 +26358,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_fnatic",
    "image_inventory": "econ/weapon_cases/cologne2015_fnatic"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Fnatic | Cologne 2015"
  },
  {
   "id": "crate-4116",
@@ -26374,7 +26434,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_luminositygaming",
    "image_inventory": "econ/weapon_cases/cologne2015_luminositygaming"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Luminosity Gaming | Cologne 2015"
  },
  {
   "id": "crate-4117",
@@ -26449,7 +26510,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_navi",
    "image_inventory": "econ/weapon_cases/cologne2015_navi"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Natus Vincere | Cologne 2015"
  },
  {
   "id": "crate-4118",
@@ -26524,7 +26586,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_ninjasinpyjamas",
    "image_inventory": "econ/weapon_cases/cologne2015_ninjasinpyjamas"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Ninjas in Pyjamas | Cologne 2015"
  },
  {
   "id": "crate-4119",
@@ -26599,7 +26662,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_envyus",
    "image_inventory": "econ/weapon_cases/cologne2015_envyus"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Team EnVyUs | Cologne 2015"
  },
  {
   "id": "crate-4120",
@@ -26674,7 +26738,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_titan",
    "image_inventory": "econ/weapon_cases/cologne2015_titan"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Titan | Cologne 2015"
  },
  {
   "id": "crate-4121",
@@ -26749,7 +26814,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_solomid",
    "image_inventory": "econ/weapon_cases/cologne2015_solomid"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Team SoloMid | Cologne 2015"
  },
  {
   "id": "crate-4122",
@@ -26824,7 +26890,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_virtuspro",
    "image_inventory": "econ/weapon_cases/cologne2015_virtuspro"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Virtus.Pro | Cologne 2015"
  },
  {
   "id": "crate-4123",
@@ -26899,7 +26966,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_mousesports",
    "image_inventory": "econ/weapon_cases/cologne2015_mousesports"
-  }
+  },
+  "marketHashName": "Autograph Capsule | mousesports | Cologne 2015"
  },
  {
   "id": "crate-4124",
@@ -26974,7 +27042,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_renegades",
    "image_inventory": "econ/weapon_cases/cologne2015_renegades"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Renegades | Cologne 2015"
  },
  {
   "id": "crate-4125",
@@ -27049,7 +27118,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_teamimmunity",
    "image_inventory": "econ/weapon_cases/cologne2015_teamimmunity"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Team Immunity | Cologne 2015"
  },
  {
   "id": "crate-4126",
@@ -27124,7 +27194,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_ebettle",
    "image_inventory": "econ/weapon_cases/cologne2015_ebettle"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Team eBettle | Cologne 2015"
  },
  {
   "id": "crate-4127",
@@ -27199,7 +27270,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_kinguin",
    "image_inventory": "econ/weapon_cases/cologne2015_kinguin"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Team Kinguin | Cologne 2015"
  },
  {
   "id": "crate-4128",
@@ -27274,7 +27346,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_flipside",
    "image_inventory": "econ/weapon_cases/cologne2015_flipside"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Flipsid3 Tactics | Cologne 2015"
  },
  {
   "id": "crate-4129",
@@ -27349,7 +27422,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_clg",
    "image_inventory": "econ/weapon_cases/cologne2015_clg"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Counter Logic Gaming | Cologne 2015"
  },
  {
   "id": "crate-4130",
@@ -27424,7 +27498,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_eslcologne2015_cloud9",
    "image_inventory": "econ/weapon_cases/cologne2015_cloud9"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Cloud9 G2A | Cologne 2015"
  },
  {
   "id": "crate-4131",
@@ -27625,7 +27700,8 @@
   "original": {
    "item_name": "#CSGO_crate_eslcologne2015_promo_de_dust2",
    "image_inventory": "econ/weapon_cases/crate_eslcologne2015_promo_de_dust2"
-  }
+  },
+  "marketHashName": "ESL One Cologne 2015 Dust II Souvenir Package"
  },
  {
   "id": "crate-4132",
@@ -27815,7 +27891,8 @@
   "original": {
    "item_name": "#CSGO_crate_eslcologne2015_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_eslcologne2015_promo_de_mirage"
-  }
+  },
+  "marketHashName": "ESL One Cologne 2015 Mirage Souvenir Package"
  },
  {
   "id": "crate-4133",
@@ -27906,7 +27983,8 @@
   "original": {
    "item_name": "#CSGO_crate_eslcologne2015_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_eslcologne2015_promo_de_inferno"
-  }
+  },
+  "marketHashName": "ESL One Cologne 2015 Inferno Souvenir Package"
  },
  {
   "id": "crate-4134",
@@ -28096,7 +28174,8 @@
   "original": {
    "item_name": "#CSGO_crate_eslcologne2015_promo_de_cbble",
    "image_inventory": "econ/weapon_cases/crate_eslcologne2015_promo_de_cbble"
-  }
+  },
+  "marketHashName": "ESL One Cologne 2015 Cobblestone Souvenir Package"
  },
  {
   "id": "crate-4135",
@@ -28286,7 +28365,8 @@
   "original": {
    "item_name": "#CSGO_crate_eslcologne2015_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_eslcologne2015_promo_de_overpass"
-  }
+  },
+  "marketHashName": "ESL One Cologne 2015 Overpass Souvenir Package"
  },
  {
   "id": "crate-4136",
@@ -28454,7 +28534,8 @@
   "original": {
    "item_name": "#CSGO_crate_eslcologne2015_promo_de_cache",
    "image_inventory": "econ/weapon_cases/crate_eslcologne2015_promo_de_cache"
-  }
+  },
+  "marketHashName": "ESL One Cologne 2015 Cache Souvenir Package"
  },
  {
   "id": "crate-4137",
@@ -28644,7 +28725,8 @@
   "original": {
    "item_name": "#CSGO_crate_eslcologne2015_promo_de_train",
    "image_inventory": "econ/weapon_cases/crate_eslcologne2015_promo_de_train"
-  }
+  },
+  "marketHashName": "ESL One Cologne 2015 Train Souvenir Package"
  },
  {
   "id": "crate-4138",
@@ -28994,7 +29076,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_9",
    "image_inventory": "econ/weapon_cases/crate_community_9"
-  }
+  },
+  "marketHashName": "Shadow Case"
  },
  {
   "id": "crate-4156",
@@ -29109,7 +29192,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_cluj2015_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cluj2015_01"
-  }
+  },
+  "marketHashName": "DreamHack Cluj-Napoca 2015 Legends (Foil)"
  },
  {
   "id": "crate-4157",
@@ -29224,7 +29308,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_cluj2015_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cluj2015_02"
-  }
+  },
+  "marketHashName": "DreamHack Cluj-Napoca 2015 Challengers (Foil)"
  },
  {
   "id": "crate-4158",
@@ -29649,7 +29734,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_group_1",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cluj2015_group_1"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Challengers (Foil) | Cluj-Napoca 2015"
  },
  {
   "id": "crate-4159",
@@ -30074,7 +30160,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_group_2",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cluj2015_group_2"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Legends (Foil) | Cluj-Napoca 2015"
  },
  {
   "id": "crate-4160",
@@ -30149,7 +30236,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_nip",
    "image_inventory": "econ/weapon_cases/cluj2015_nip"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Ninjas in Pyjamas | Cluj-Napoca 2015"
  },
  {
   "id": "crate-4161",
@@ -30224,7 +30312,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_dig",
    "image_inventory": "econ/weapon_cases/cluj2015_dig"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Team Dignitas | Cluj-Napoca 2015"
  },
  {
   "id": "crate-4162",
@@ -30299,7 +30388,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_clg",
    "image_inventory": "econ/weapon_cases/cluj2015_clg"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Counter Logic Gaming | Cluj-Napoca 2015"
  },
  {
   "id": "crate-4163",
@@ -30374,7 +30464,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_vex",
    "image_inventory": "econ/weapon_cases/cluj2015_vex"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Vexed Gaming | Cluj-Napoca 2015"
  },
  {
   "id": "crate-4164",
@@ -30449,7 +30540,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_flip",
    "image_inventory": "econ/weapon_cases/cluj2015_flip"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Flipsid3 Tactics | Cluj-Napoca 2015"
  },
  {
   "id": "crate-4165",
@@ -30524,7 +30616,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_liq",
    "image_inventory": "econ/weapon_cases/cluj2015_liq"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Team Liquid | Cluj-Napoca 2015"
  },
  {
   "id": "crate-4166",
@@ -30599,7 +30692,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_mss",
    "image_inventory": "econ/weapon_cases/cluj2015_mss"
-  }
+  },
+  "marketHashName": "Autograph Capsule | mousesports | Cluj-Napoca 2015"
  },
  {
   "id": "crate-4167",
@@ -30674,7 +30768,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_navi",
    "image_inventory": "econ/weapon_cases/cluj2015_navi"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Natus Vincere | Cluj-Napoca 2015"
  },
  {
   "id": "crate-4168",
@@ -30749,7 +30844,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_vp",
    "image_inventory": "econ/weapon_cases/cluj2015_vp"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Virtus.Pro | Cluj-Napoca 2015"
  },
  {
   "id": "crate-4169",
@@ -30824,7 +30920,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_c9",
    "image_inventory": "econ/weapon_cases/cluj2015_c9"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Cloud9 | Cluj-Napoca 2015"
  },
  {
   "id": "crate-4170",
@@ -30899,7 +30996,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_g2",
    "image_inventory": "econ/weapon_cases/cluj2015_g2"
-  }
+  },
+  "marketHashName": "Autograph Capsule | G2 Esports | Cluj-Napoca 2015"
  },
  {
   "id": "crate-4171",
@@ -30974,7 +31072,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_tit",
    "image_inventory": "econ/weapon_cases/cluj2015_tit"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Titan | Cluj-Napoca 2015"
  },
  {
   "id": "crate-4172",
@@ -31049,7 +31148,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_tsolo",
    "image_inventory": "econ/weapon_cases/cluj2015_tsolo"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Team SoloMid | Cluj-Napoca 2015"
  },
  {
   "id": "crate-4173",
@@ -31124,7 +31224,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_nv",
    "image_inventory": "econ/weapon_cases/cluj2015_nv"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Team EnVyUs | Cluj-Napoca 2015"
  },
  {
   "id": "crate-4174",
@@ -31199,7 +31300,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_fntc",
    "image_inventory": "econ/weapon_cases/cluj2015_fntc"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Fnatic | Cluj-Napoca 2015"
  },
  {
   "id": "crate-4175",
@@ -31274,7 +31376,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cluj2015_lumi",
    "image_inventory": "econ/weapon_cases/cluj2015_lumi"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Luminosity Gaming | Cluj-Napoca 2015"
  },
  {
   "id": "crate-4176",
@@ -31475,7 +31578,8 @@
   "original": {
    "item_name": "#CSGO_crate_cluj2015_promo_de_dust2",
    "image_inventory": "econ/weapon_cases/crate_cluj2015_promo_de_dust2"
-  }
+  },
+  "marketHashName": "DreamHack Cluj-Napoca 2015 Dust II Souvenir Package"
  },
  {
   "id": "crate-4177",
@@ -31665,7 +31769,8 @@
   "original": {
    "item_name": "#CSGO_crate_cluj2015_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_cluj2015_promo_de_mirage"
-  }
+  },
+  "marketHashName": "DreamHack Cluj-Napoca 2015 Mirage Souvenir Package"
  },
  {
   "id": "crate-4178",
@@ -31756,7 +31861,8 @@
   "original": {
    "item_name": "#CSGO_crate_cluj2015_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_cluj2015_promo_de_inferno"
-  }
+  },
+  "marketHashName": "DreamHack Cluj-Napoca 2015 Inferno Souvenir Package"
  },
  {
   "id": "crate-4179",
@@ -31946,7 +32052,8 @@
   "original": {
    "item_name": "#CSGO_crate_cluj2015_promo_de_cbble",
    "image_inventory": "econ/weapon_cases/crate_cluj2015_promo_de_cbble"
-  }
+  },
+  "marketHashName": "DreamHack Cluj-Napoca 2015 Cobblestone Souvenir Package"
  },
  {
   "id": "crate-4180",
@@ -32136,7 +32243,8 @@
   "original": {
    "item_name": "#CSGO_crate_cluj2015_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_cluj2015_promo_de_overpass"
-  }
+  },
+  "marketHashName": "DreamHack Cluj-Napoca 2015 Overpass Souvenir Package"
  },
  {
   "id": "crate-4181",
@@ -32304,7 +32412,8 @@
   "original": {
    "item_name": "#CSGO_crate_cluj2015_promo_de_cache",
    "image_inventory": "econ/weapon_cases/crate_cluj2015_promo_de_cache"
-  }
+  },
+  "marketHashName": "DreamHack Cluj-Napoca 2015 Cache Souvenir Package"
  },
  {
   "id": "crate-4182",
@@ -32494,7 +32603,8 @@
   "original": {
    "item_name": "#CSGO_crate_cluj2015_promo_de_train",
    "image_inventory": "econ/weapon_cases/crate_cluj2015_promo_de_train"
-  }
+  },
+  "marketHashName": "DreamHack Cluj-Napoca 2015 Train Souvenir Package"
  },
  {
   "id": "crate-4183",
@@ -32639,7 +32749,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_pinups_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_pinups_capsule"
-  }
+  },
+  "marketHashName": "Pinups Capsule"
  },
  {
   "id": "crate-4184",
@@ -32814,7 +32925,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_slid3_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_slid3_capsule"
-  }
+  },
+  "marketHashName": "Slid3 Capsule"
  },
  {
   "id": "crate-4185",
@@ -32949,7 +33061,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_team_roles_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_team_roles_capsule"
-  }
+  },
+  "marketHashName": "Team Roles Capsule"
  },
  {
   "id": "crate-4186",
@@ -33882,7 +33995,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_10",
    "image_inventory": "econ/weapon_cases/crate_community_10"
-  }
+  },
+  "marketHashName": "Revolver Case"
  },
  {
   "id": "crate-4187",
@@ -34232,7 +34346,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_11",
    "image_inventory": "econ/weapon_cases/crate_community_11"
-  }
+  },
+  "marketHashName": "Operation Wildfire Case"
  },
  {
   "id": "crate-4205",
@@ -34437,7 +34552,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_columbus2016_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_columbus2016_01"
-  }
+  },
+  "marketHashName": "MLG Columbus 2016 Legends (Holo/Foil)"
  },
  {
   "id": "crate-4206",
@@ -34642,7 +34758,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_columbus2016_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_columbus2016_02"
-  }
+  },
+  "marketHashName": "MLG Columbus 2016 Challengers (Holo/Foil)"
  },
  {
   "id": "crate-4207",
@@ -35067,7 +35184,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_group_1",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_columbus2016_group_1"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Challengers (Foil) | MLG Columbus 2016"
  },
  {
   "id": "crate-4208",
@@ -35492,7 +35610,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_group_2",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_columbus2016_group_2"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Legends (Foil) | MLG Columbus 2016"
  },
  {
   "id": "crate-4209",
@@ -35567,7 +35686,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_nip",
    "image_inventory": "econ/weapon_cases/columbus2016_nip"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Ninjas in Pyjamas | MLG Columbus 2016"
  },
  {
   "id": "crate-4210",
@@ -35642,7 +35762,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_splc",
    "image_inventory": "econ/weapon_cases/columbus2016_splc"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Splyce | MLG Columbus 2016"
  },
  {
   "id": "crate-4211",
@@ -35717,7 +35838,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_clg",
    "image_inventory": "econ/weapon_cases/columbus2016_clg"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Counter Logic Gaming | MLG Columbus 2016"
  },
  {
   "id": "crate-4212",
@@ -35792,7 +35914,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_gamb",
    "image_inventory": "econ/weapon_cases/columbus2016_gamb"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Gambit Gaming | MLG Columbus 2016"
  },
  {
   "id": "crate-4213",
@@ -35867,7 +35990,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_flip",
    "image_inventory": "econ/weapon_cases/columbus2016_flip"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Flipsid3 Tactics | MLG Columbus 2016"
  },
  {
   "id": "crate-4214",
@@ -35942,7 +36066,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_liq",
    "image_inventory": "econ/weapon_cases/columbus2016_liq"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Team Liquid | MLG Columbus 2016"
  },
  {
   "id": "crate-4215",
@@ -36017,7 +36142,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_mss",
    "image_inventory": "econ/weapon_cases/columbus2016_mss"
-  }
+  },
+  "marketHashName": "Autograph Capsule | mousesports | MLG Columbus 2016"
  },
  {
   "id": "crate-4216",
@@ -36092,7 +36218,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_navi",
    "image_inventory": "econ/weapon_cases/columbus2016_navi"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Natus Vincere | MLG Columbus 2016"
  },
  {
   "id": "crate-4217",
@@ -36167,7 +36294,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_vp",
    "image_inventory": "econ/weapon_cases/columbus2016_vp"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Virtus.Pro | MLG Columbus 2016"
  },
  {
   "id": "crate-4218",
@@ -36242,7 +36370,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_c9",
    "image_inventory": "econ/weapon_cases/columbus2016_c9"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Cloud9 | MLG Columbus 2016"
  },
  {
   "id": "crate-4219",
@@ -36317,7 +36446,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_g2",
    "image_inventory": "econ/weapon_cases/columbus2016_g2"
-  }
+  },
+  "marketHashName": "Autograph Capsule | G2 Esports | MLG Columbus 2016"
  },
  {
   "id": "crate-4220",
@@ -36392,7 +36522,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_faze",
    "image_inventory": "econ/weapon_cases/columbus2016_faze"
-  }
+  },
+  "marketHashName": "Autograph Capsule | FaZe Clan | MLG Columbus 2016"
  },
  {
   "id": "crate-4221",
@@ -36467,7 +36598,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_astr",
    "image_inventory": "econ/weapon_cases/columbus2016_astr"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Astralis | MLG Columbus 2016"
  },
  {
   "id": "crate-4222",
@@ -36542,7 +36674,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_nv",
    "image_inventory": "econ/weapon_cases/columbus2016_nv"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Team EnVyUs | MLG Columbus 2016"
  },
  {
   "id": "crate-4223",
@@ -36617,7 +36750,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_fntc",
    "image_inventory": "econ/weapon_cases/columbus2016_fntc"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Fnatic | MLG Columbus 2016"
  },
  {
   "id": "crate-4224",
@@ -36692,7 +36826,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_columbus2016_lumi",
    "image_inventory": "econ/weapon_cases/columbus2016_lumi"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Luminosity Gaming | MLG Columbus 2016"
  },
  {
   "id": "crate-4225",
@@ -36893,7 +37028,8 @@
   "original": {
    "item_name": "#CSGO_crate_columbus2016_promo_de_dust2",
    "image_inventory": "econ/weapon_cases/crate_columbus2016_promo_de_dust2"
-  }
+  },
+  "marketHashName": "MLG Columbus 2016 Dust II Souvenir Package"
  },
  {
   "id": "crate-4226",
@@ -37083,7 +37219,8 @@
   "original": {
    "item_name": "#CSGO_crate_columbus2016_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_columbus2016_promo_de_mirage"
-  }
+  },
+  "marketHashName": "MLG Columbus 2016 Mirage Souvenir Package"
  },
  {
   "id": "crate-4227",
@@ -37174,7 +37311,8 @@
   "original": {
    "item_name": "#CSGO_crate_columbus2016_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_columbus2016_promo_de_inferno"
-  }
+  },
+  "marketHashName": "MLG Columbus 2016 Inferno Souvenir Package"
  },
  {
   "id": "crate-4228",
@@ -37364,7 +37502,8 @@
   "original": {
    "item_name": "#CSGO_crate_columbus2016_promo_de_cbble",
    "image_inventory": "econ/weapon_cases/crate_columbus2016_promo_de_cbble"
-  }
+  },
+  "marketHashName": "MLG Columbus 2016 Cobblestone Souvenir Package"
  },
  {
   "id": "crate-4229",
@@ -37554,7 +37693,8 @@
   "original": {
    "item_name": "#CSGO_crate_columbus2016_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_columbus2016_promo_de_overpass"
-  }
+  },
+  "marketHashName": "MLG Columbus 2016 Overpass Souvenir Package"
  },
  {
   "id": "crate-4230",
@@ -37722,7 +37862,8 @@
   "original": {
    "item_name": "#CSGO_crate_columbus2016_promo_de_cache",
    "image_inventory": "econ/weapon_cases/crate_columbus2016_promo_de_cache"
-  }
+  },
+  "marketHashName": "MLG Columbus 2016 Cache Souvenir Package"
  },
  {
   "id": "crate-4231",
@@ -37912,7 +38053,8 @@
   "original": {
    "item_name": "#CSGO_crate_columbus2016_promo_de_train",
    "image_inventory": "econ/weapon_cases/crate_columbus2016_promo_de_train"
-  }
+  },
+  "marketHashName": "MLG Columbus 2016 Train Souvenir Package"
  },
  {
   "id": "crate-4232",
@@ -38036,7 +38178,8 @@
   "original": {
    "item_name": "#CSGO_crate_columbus2016_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_columbus2016_promo_de_nuke"
-  }
+  },
+  "marketHashName": "MLG Columbus 2016 Nuke Souvenir Package"
  },
  {
   "id": "crate-4233",
@@ -38944,7 +39087,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_12",
    "image_inventory": "econ/weapon_cases/crate_community_12"
-  }
+  },
+  "marketHashName": "Chroma 3 Case"
  },
  {
   "id": "crate-4234",
@@ -39149,7 +39293,8 @@
   "original": {
    "item_name": "#CSGO_crate_sprays_community_1",
    "image_inventory": "econ/weapon_cases/crate_spray_pack_community_1"
-  }
+  },
+  "marketHashName": "Community Graffiti Box 1"
  },
  {
   "id": "crate-4235",
@@ -39284,7 +39429,8 @@
   "original": {
    "item_name": "#CSGO_crate_pins_series_1",
    "image_inventory": "econ/weapon_cases/crate_pins_series_1"
-  }
+  },
+  "marketHashName": "Collectible Pins Capsule Series 1"
  },
  {
   "id": "crate-4236",
@@ -40072,7 +40218,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_13",
    "image_inventory": "econ/weapon_cases/crate_community_13"
-  }
+  },
+  "marketHashName": "Gamma Case"
  },
  {
   "id": "crate-4254",
@@ -40277,7 +40424,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_cologne2016_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cologne2016_01"
-  }
+  },
+  "marketHashName": "Cologne 2016 Legends (Holo/Foil)"
  },
  {
   "id": "crate-4255",
@@ -40482,7 +40630,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_cologne2016_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cologne2016_02"
-  }
+  },
+  "marketHashName": "Cologne 2016 Challengers (Holo/Foil)"
  },
  {
   "id": "crate-4256",
@@ -40907,7 +41056,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_group_1",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cologne2016_group_1"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Challengers (Foil) | Cologne 2016"
  },
  {
   "id": "crate-4257",
@@ -41332,7 +41482,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_group_2",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cologne2016_group_2"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Legends (Foil) | Cologne 2016"
  },
  {
   "id": "crate-4258",
@@ -41407,7 +41558,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_nip",
    "image_inventory": "econ/weapon_cases/cologne2016_nip"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Ninjas in Pyjamas | Cologne 2016"
  },
  {
   "id": "crate-4259",
@@ -41482,7 +41634,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_optc",
    "image_inventory": "econ/weapon_cases/cologne2016_optc"
-  }
+  },
+  "marketHashName": "Autograph Capsule | OpTic Gaming | Cologne 2016"
  },
  {
   "id": "crate-4260",
@@ -41557,7 +41710,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_clg",
    "image_inventory": "econ/weapon_cases/cologne2016_clg"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Counter Logic Gaming | Cologne 2016"
  },
  {
   "id": "crate-4261",
@@ -41632,7 +41786,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_gamb",
    "image_inventory": "econ/weapon_cases/cologne2016_gamb"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Gambit Gaming | Cologne 2016"
  },
  {
   "id": "crate-4262",
@@ -41707,7 +41862,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_flip",
    "image_inventory": "econ/weapon_cases/cologne2016_flip"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Flipsid3 Tactics | Cologne 2016"
  },
  {
   "id": "crate-4263",
@@ -41782,7 +41938,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_liq",
    "image_inventory": "econ/weapon_cases/cologne2016_liq"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Team Liquid | Cologne 2016"
  },
  {
   "id": "crate-4264",
@@ -41857,7 +42014,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_mss",
    "image_inventory": "econ/weapon_cases/cologne2016_mss"
-  }
+  },
+  "marketHashName": "Autograph Capsule | mousesports | Cologne 2016"
  },
  {
   "id": "crate-4265",
@@ -41932,7 +42090,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_navi",
    "image_inventory": "econ/weapon_cases/cologne2016_navi"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Natus Vincere | Cologne 2016"
  },
  {
   "id": "crate-4266",
@@ -42007,7 +42166,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_vp",
    "image_inventory": "econ/weapon_cases/cologne2016_vp"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Virtus.Pro | Cologne 2016"
  },
  {
   "id": "crate-4267",
@@ -42082,7 +42242,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_sk",
    "image_inventory": "econ/weapon_cases/cologne2016_sk"
-  }
+  },
+  "marketHashName": "Autograph Capsule | SK Gaming | Cologne 2016"
  },
  {
   "id": "crate-4268",
@@ -42157,7 +42318,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_g2",
    "image_inventory": "econ/weapon_cases/cologne2016_g2"
-  }
+  },
+  "marketHashName": "Autograph Capsule | G2 Esports | Cologne 2016"
  },
  {
   "id": "crate-4269",
@@ -42232,7 +42394,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_faze",
    "image_inventory": "econ/weapon_cases/cologne2016_faze"
-  }
+  },
+  "marketHashName": "Autograph Capsule | FaZe Clan | Cologne 2016"
  },
  {
   "id": "crate-4270",
@@ -42307,7 +42470,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_astr",
    "image_inventory": "econ/weapon_cases/cologne2016_astr"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Astralis | Cologne 2016"
  },
  {
   "id": "crate-4271",
@@ -42382,7 +42546,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_nv",
    "image_inventory": "econ/weapon_cases/cologne2016_nv"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Team EnVyUs | Cologne 2016"
  },
  {
   "id": "crate-4272",
@@ -42457,7 +42622,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_fntc",
    "image_inventory": "econ/weapon_cases/cologne2016_fntc"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Fnatic | Cologne 2016"
  },
  {
   "id": "crate-4273",
@@ -42532,7 +42698,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2016_dig",
    "image_inventory": "econ/weapon_cases/cologne2016_dig"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Team Dignitas | Cologne 2016"
  },
  {
   "id": "crate-4274",
@@ -42733,7 +42900,8 @@
   "original": {
    "item_name": "#CSGO_crate_cologne2016_promo_de_dust2",
    "image_inventory": "econ/weapon_cases/crate_cologne2016_promo_de_dust2"
-  }
+  },
+  "marketHashName": "Cologne 2016 Dust II Souvenir Package"
  },
  {
   "id": "crate-4275",
@@ -42923,7 +43091,8 @@
   "original": {
    "item_name": "#CSGO_crate_cologne2016_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_cologne2016_promo_de_mirage"
-  }
+  },
+  "marketHashName": "Cologne 2016 Mirage Souvenir Package"
  },
  {
   "id": "crate-4276",
@@ -43113,7 +43282,8 @@
   "original": {
    "item_name": "#CSGO_crate_cologne2016_promo_de_cbble",
    "image_inventory": "econ/weapon_cases/crate_cologne2016_promo_de_cbble"
-  }
+  },
+  "marketHashName": "Cologne 2016 Cobblestone Souvenir Package"
  },
  {
   "id": "crate-4277",
@@ -43303,7 +43473,8 @@
   "original": {
    "item_name": "#CSGO_crate_cologne2016_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_cologne2016_promo_de_overpass"
-  }
+  },
+  "marketHashName": "Cologne 2016 Overpass Souvenir Package"
  },
  {
   "id": "crate-4278",
@@ -43471,7 +43642,8 @@
   "original": {
    "item_name": "#CSGO_crate_cologne2016_promo_de_cache",
    "image_inventory": "econ/weapon_cases/crate_cologne2016_promo_de_cache"
-  }
+  },
+  "marketHashName": "Cologne 2016 Cache Souvenir Package"
  },
  {
   "id": "crate-4279",
@@ -43661,7 +43833,8 @@
   "original": {
    "item_name": "#CSGO_crate_cologne2016_promo_de_train",
    "image_inventory": "econ/weapon_cases/crate_cologne2016_promo_de_train"
-  }
+  },
+  "marketHashName": "Cologne 2016 Train Souvenir Package"
  },
  {
   "id": "crate-4280",
@@ -43785,7 +43958,8 @@
   "original": {
    "item_name": "#CSGO_crate_cologne2016_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_cologne2016_promo_de_nuke"
-  }
+  },
+  "marketHashName": "Cologne 2016 Nuke Souvenir Package"
  },
  {
   "id": "crate-4281",
@@ -44573,7 +44747,8 @@
   "original": {
    "item_name": "#CSGO_crate_gamma_2",
    "image_inventory": "econ/weapon_cases/crate_gamma_2"
-  }
+  },
+  "marketHashName": "Gamma 2 Case"
  },
  {
   "id": "crate-4282",
@@ -44738,7 +44913,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_sugarface_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_sugarface_capsule"
-  }
+  },
+  "marketHashName": "Sugarface Capsule"
  },
  {
   "id": "crate-4283",
@@ -44903,7 +45079,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_bestiary_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_bestiary_capsule"
-  }
+  },
+  "marketHashName": "Bestiary Capsule"
  },
  {
   "id": "crate-4284",
@@ -45038,7 +45215,8 @@
   "original": {
    "item_name": "#CSGO_crate_pins_series_2",
    "image_inventory": "econ/weapon_cases/crate_pins_series_2"
-  }
+  },
+  "marketHashName": "Collectible Pins Capsule Series 2"
  },
  {
   "id": "crate-4285",
@@ -45243,7 +45421,8 @@
   "original": {
    "item_name": "#CSGO_crate_sprays_vcap1",
    "image_inventory": "econ/weapon_cases/crate_spray_pack_valve_1"
-  }
+  },
+  "marketHashName": "CS:GO Graffiti Box"
  },
  {
   "id": "crate-4286",
@@ -45448,7 +45627,8 @@
   "original": {
    "item_name": "#CSGO_crate_sprays_illuminate1",
    "image_inventory": "econ/weapon_cases/crate_spray_pack_illuminate_1"
-  }
+  },
+  "marketHashName": "Perfect World Graffiti Box"
  },
  {
   "id": "crate-4287",
@@ -45543,7 +45723,8 @@
   "original": {
    "item_name": "#CSGO_crate_musickit_radicals_stattrak_capsule",
    "image_inventory": "econ/weapon_cases/crate_musickit_radicals_capsule"
-  }
+  },
+  "marketHashName": "StatTrak™ Radicals Box"
  },
  {
   "id": "crate-4288",
@@ -46024,7 +46205,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_15",
    "image_inventory": "econ/weapon_cases/crate_community_15"
-  }
+  },
+  "marketHashName": "Glove Case"
  },
  {
   "id": "crate-4323",
@@ -46229,7 +46411,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_atlanta2017_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_atlanta2017_01"
-  }
+  },
+  "marketHashName": "Atlanta 2017 Legends (Holo/Foil)"
  },
  {
   "id": "crate-4324",
@@ -46434,7 +46617,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_atlanta2017_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_atlanta2017_02"
-  }
+  },
+  "marketHashName": "Atlanta 2017 Challengers (Holo/Foil)"
  },
  {
   "id": "crate-4325",
@@ -46859,7 +47043,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_group_1",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_atlanta2017_group_1"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Challengers (Foil) | Atlanta 2017"
  },
  {
   "id": "crate-4326",
@@ -47284,7 +47469,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_group_2",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_atlanta2017_group_2"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Legends (Foil) | Atlanta 2017"
  },
  {
   "id": "crate-4327",
@@ -47359,7 +47545,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_astr",
    "image_inventory": "econ/weapon_cases/atlanta2017_astr"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Astralis | Atlanta 2017"
  },
  {
   "id": "crate-4328",
@@ -47434,7 +47621,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_nv",
    "image_inventory": "econ/weapon_cases/atlanta2017_nv"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Team EnVyUs | Atlanta 2017"
  },
  {
   "id": "crate-4329",
@@ -47509,7 +47697,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_faze",
    "image_inventory": "econ/weapon_cases/atlanta2017_faze"
-  }
+  },
+  "marketHashName": "Autograph Capsule | FaZe Clan | Atlanta 2017"
  },
  {
   "id": "crate-4330",
@@ -47584,7 +47773,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_flip",
    "image_inventory": "econ/weapon_cases/atlanta2017_flip"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Flipsid3 Tactics | Atlanta 2017"
  },
  {
   "id": "crate-4331",
@@ -47659,7 +47849,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_fntc",
    "image_inventory": "econ/weapon_cases/atlanta2017_fntc"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Fnatic | Atlanta 2017"
  },
  {
   "id": "crate-4332",
@@ -47734,7 +47925,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_g2",
    "image_inventory": "econ/weapon_cases/atlanta2017_g2"
-  }
+  },
+  "marketHashName": "Autograph Capsule | G2 Esports | Atlanta 2017"
  },
  {
   "id": "crate-4333",
@@ -47809,7 +48001,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_gamb",
    "image_inventory": "econ/weapon_cases/atlanta2017_gamb"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Gambit Gaming | Atlanta 2017"
  },
  {
   "id": "crate-4334",
@@ -47884,7 +48077,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_god",
    "image_inventory": "econ/weapon_cases/atlanta2017_god"
-  }
+  },
+  "marketHashName": "Autograph Capsule | GODSENT | Atlanta 2017"
  },
  {
   "id": "crate-4335",
@@ -47959,7 +48153,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_hlr",
    "image_inventory": "econ/weapon_cases/atlanta2017_hlr"
-  }
+  },
+  "marketHashName": "Autograph Capsule | HellRaisers | Atlanta 2017"
  },
  {
   "id": "crate-4336",
@@ -48034,7 +48229,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_mss",
    "image_inventory": "econ/weapon_cases/atlanta2017_mss"
-  }
+  },
+  "marketHashName": "Autograph Capsule | mousesports | Atlanta 2017"
  },
  {
   "id": "crate-4337",
@@ -48109,7 +48305,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_navi",
    "image_inventory": "econ/weapon_cases/atlanta2017_navi"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Natus Vincere | Atlanta 2017"
  },
  {
   "id": "crate-4338",
@@ -48184,7 +48381,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_nor",
    "image_inventory": "econ/weapon_cases/atlanta2017_nor"
-  }
+  },
+  "marketHashName": "Autograph Capsule | North | Atlanta 2017"
  },
  {
   "id": "crate-4339",
@@ -48259,7 +48457,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_optc",
    "image_inventory": "econ/weapon_cases/atlanta2017_optc"
-  }
+  },
+  "marketHashName": "Autograph Capsule | OpTic Gaming | Atlanta 2017"
  },
  {
   "id": "crate-4340",
@@ -48334,7 +48533,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_sk",
    "image_inventory": "econ/weapon_cases/atlanta2017_sk"
-  }
+  },
+  "marketHashName": "Autograph Capsule | SK Gaming | Atlanta 2017"
  },
  {
   "id": "crate-4341",
@@ -48409,7 +48609,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_liq",
    "image_inventory": "econ/weapon_cases/atlanta2017_liq"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Team Liquid | Atlanta 2017"
  },
  {
   "id": "crate-4342",
@@ -48484,7 +48685,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_atlanta2017_vp",
    "image_inventory": "econ/weapon_cases/atlanta2017_vp"
-  }
+  },
+  "marketHashName": "Autograph Capsule | Virtus.Pro | Atlanta 2017"
  },
  {
   "id": "crate-4344",
@@ -48685,7 +48887,8 @@
   "original": {
    "item_name": "#CSGO_crate_atlanta2017_promo_de_dust2",
    "image_inventory": "econ/weapon_cases/crate_atlanta2017_promo_de_dust2"
-  }
+  },
+  "marketHashName": "Atlanta 2017 Dust II Souvenir Package"
  },
  {
   "id": "crate-4345",
@@ -48875,7 +49078,8 @@
   "original": {
    "item_name": "#CSGO_crate_atlanta2017_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_atlanta2017_promo_de_mirage"
-  }
+  },
+  "marketHashName": "Atlanta 2017 Mirage Souvenir Package"
  },
  {
   "id": "crate-4346",
@@ -49065,7 +49269,8 @@
   "original": {
    "item_name": "#CSGO_crate_atlanta2017_promo_de_cbble",
    "image_inventory": "econ/weapon_cases/crate_atlanta2017_promo_de_cbble"
-  }
+  },
+  "marketHashName": "Atlanta 2017 Cobblestone Souvenir Package"
  },
  {
   "id": "crate-4347",
@@ -49255,7 +49460,8 @@
   "original": {
    "item_name": "#CSGO_crate_atlanta2017_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_atlanta2017_promo_de_overpass"
-  }
+  },
+  "marketHashName": "Atlanta 2017 Overpass Souvenir Package"
  },
  {
   "id": "crate-4348",
@@ -49423,7 +49629,8 @@
   "original": {
    "item_name": "#CSGO_crate_atlanta2017_promo_de_cache",
    "image_inventory": "econ/weapon_cases/crate_atlanta2017_promo_de_cache"
-  }
+  },
+  "marketHashName": "Atlanta 2017 Cache Souvenir Package"
  },
  {
   "id": "crate-4349",
@@ -49613,7 +49820,8 @@
   "original": {
    "item_name": "#CSGO_crate_atlanta2017_promo_de_train",
    "image_inventory": "econ/weapon_cases/crate_atlanta2017_promo_de_train"
-  }
+  },
+  "marketHashName": "Atlanta 2017 Train Souvenir Package"
  },
  {
   "id": "crate-4350",
@@ -49737,7 +49945,8 @@
   "original": {
    "item_name": "#CSGO_crate_atlanta2017_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_atlanta2017_promo_de_nuke"
-  }
+  },
+  "marketHashName": "Atlanta 2017 Nuke Souvenir Package"
  },
  {
   "id": "crate-4351",
@@ -50645,7 +50854,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_16",
    "image_inventory": "econ/weapon_cases/crate_community_16"
-  }
+  },
+  "marketHashName": "Spectrum Case"
  },
  {
   "id": "crate-4352",
@@ -51126,7 +51336,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_17",
    "image_inventory": "econ/weapon_cases/crate_community_17"
-  }
+  },
+  "marketHashName": "Operation Hydra Case"
  },
  {
   "id": "crate-4391",
@@ -51331,7 +51542,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_krakow2017_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_krakow2017_01"
-  }
+  },
+  "marketHashName": "Krakow 2017 Legends (Holo/Foil)"
  },
  {
   "id": "crate-4392",
@@ -51536,7 +51748,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_krakow2017_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_krakow2017_02"
-  }
+  },
+  "marketHashName": "Krakow 2017 Challengers (Holo/Foil)"
  },
  {
   "id": "crate-4393",
@@ -52761,7 +52974,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_krakow2017_group_1",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_krakow2017_group_1"
-  }
+  },
+  "marketHashName": "Krakow 2017 Challengers Autograph Capsule"
  },
  {
   "id": "crate-4394",
@@ -53986,7 +54200,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_krakow2017_group_2",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_krakow2017_group_2"
-  }
+  },
+  "marketHashName": "Krakow 2017 Legends Autograph Capsule"
  },
  {
   "id": "crate-4396",
@@ -54077,7 +54292,8 @@
   "original": {
    "item_name": "#CSGO_crate_krakow2017_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_krakow2017_promo_de_inferno"
-  }
+  },
+  "marketHashName": "Krakow 2017 Inferno Souvenir Package"
  },
  {
   "id": "crate-4397",
@@ -54267,7 +54483,8 @@
   "original": {
    "item_name": "#CSGO_crate_krakow2017_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_krakow2017_promo_de_mirage"
-  }
+  },
+  "marketHashName": "Krakow 2017 Mirage Souvenir Package"
  },
  {
   "id": "crate-4398",
@@ -54457,7 +54674,8 @@
   "original": {
    "item_name": "#CSGO_crate_krakow2017_promo_de_cbble",
    "image_inventory": "econ/weapon_cases/crate_krakow2017_promo_de_cbble"
-  }
+  },
+  "marketHashName": "Krakow 2017 Cobblestone Souvenir Package"
  },
  {
   "id": "crate-4399",
@@ -54647,7 +54865,8 @@
   "original": {
    "item_name": "#CSGO_crate_krakow2017_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_krakow2017_promo_de_overpass"
-  }
+  },
+  "marketHashName": "Krakow 2017 Overpass Souvenir Package"
  },
  {
   "id": "crate-4400",
@@ -54815,7 +55034,8 @@
   "original": {
    "item_name": "#CSGO_crate_krakow2017_promo_de_cache",
    "image_inventory": "econ/weapon_cases/crate_krakow2017_promo_de_cache"
-  }
+  },
+  "marketHashName": "Krakow 2017 Cache Souvenir Package"
  },
  {
   "id": "crate-4401",
@@ -55005,7 +55225,8 @@
   "original": {
    "item_name": "#CSGO_crate_krakow2017_promo_de_train",
    "image_inventory": "econ/weapon_cases/crate_krakow2017_promo_de_train"
-  }
+  },
+  "marketHashName": "Krakow 2017 Train Souvenir Package"
  },
  {
   "id": "crate-4402",
@@ -55129,7 +55350,8 @@
   "original": {
    "item_name": "#CSGO_crate_krakow2017_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_krakow2017_promo_de_nuke"
-  }
+  },
+  "marketHashName": "Krakow 2017 Nuke Souvenir Package"
  },
  {
   "id": "crate-4403",
@@ -56037,7 +56259,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_18",
    "image_inventory": "econ/weapon_cases/crate_community_18"
-  }
+  },
+  "marketHashName": "Spectrum 2 Case"
  },
  {
   "id": "crate-4404",
@@ -56212,7 +56435,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_illuminate_capsule_01",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_illuminate_capsule_01"
-  }
+  },
+  "marketHashName": "Perfect World Sticker Capsule 1"
  },
  {
   "id": "crate-4405",
@@ -56387,7 +56611,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_illuminate_capsule_02",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_illuminate_capsule_02"
-  }
+  },
+  "marketHashName": "Perfect World Sticker Capsule 2"
  },
  {
   "id": "crate-4456",
@@ -56592,7 +56817,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_boston2018_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_legends"
-  }
+  },
+  "marketHashName": "Boston 2018 Legends (Holo/Foil)"
  },
  {
   "id": "crate-4457",
@@ -56797,7 +57023,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_boston2018_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_challengers"
-  }
+  },
+  "marketHashName": "Boston 2018 Returning Challengers (Holo/Foil)"
  },
  {
   "id": "crate-4458",
@@ -57008,7 +57235,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_boston2018_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_contenders"
-  }
+  },
+  "marketHashName": "Boston 2018 Minor Challengers (Holo/Foil)"
  },
  {
   "id": "crate-4459",
@@ -58233,7 +58461,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_boston2018_group_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_group_legends"
-  }
+  },
+  "marketHashName": "Boston 2018 Legends Autograph Capsule"
  },
  {
   "id": "crate-4460",
@@ -59458,7 +59687,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_boston2018_group_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_group_challengers"
-  }
+  },
+  "marketHashName": "Boston 2018 Returning Challengers Autograph Capsule"
  },
  {
   "id": "crate-4461",
@@ -60689,7 +60919,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_boston2018_group_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_group_contenders"
-  }
+  },
+  "marketHashName": "Boston 2018 Minor Challengers Autograph Capsule"
  },
  {
   "id": "crate-4463",
@@ -60780,7 +61011,8 @@
   "original": {
    "item_name": "#CSGO_crate_boston2018_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_boston2018_promo_de_inferno"
-  }
+  },
+  "marketHashName": "Boston 2018 Inferno Souvenir Package"
  },
  {
   "id": "crate-4464",
@@ -60970,7 +61202,8 @@
   "original": {
    "item_name": "#CSGO_crate_boston2018_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_boston2018_promo_de_mirage"
-  }
+  },
+  "marketHashName": "Boston 2018 Mirage Souvenir Package"
  },
  {
   "id": "crate-4465",
@@ -61160,7 +61393,8 @@
   "original": {
    "item_name": "#CSGO_crate_boston2018_promo_de_cbble",
    "image_inventory": "econ/weapon_cases/crate_boston2018_promo_de_cbble"
-  }
+  },
+  "marketHashName": "Boston 2018 Cobblestone Souvenir Package"
  },
  {
   "id": "crate-4466",
@@ -61350,7 +61584,8 @@
   "original": {
    "item_name": "#CSGO_crate_boston2018_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_boston2018_promo_de_overpass"
-  }
+  },
+  "marketHashName": "Boston 2018 Overpass Souvenir Package"
  },
  {
   "id": "crate-4467",
@@ -61518,7 +61753,8 @@
   "original": {
    "item_name": "#CSGO_crate_boston2018_promo_de_cache",
    "image_inventory": "econ/weapon_cases/crate_boston2018_promo_de_cache"
-  }
+  },
+  "marketHashName": "Boston 2018 Cache Souvenir Package"
  },
  {
   "id": "crate-4468",
@@ -61708,7 +61944,8 @@
   "original": {
    "item_name": "#CSGO_crate_boston2018_promo_de_train",
    "image_inventory": "econ/weapon_cases/crate_boston2018_promo_de_train"
-  }
+  },
+  "marketHashName": "Boston 2018 Train Souvenir Package"
  },
  {
   "id": "crate-4469",
@@ -61832,7 +62069,8 @@
   "original": {
    "item_name": "#CSGO_crate_boston2018_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_boston2018_promo_de_nuke"
-  }
+  },
+  "marketHashName": "Boston 2018 Nuke Souvenir Package"
  },
  {
   "id": "crate-4470",
@@ -61997,7 +62235,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_comm2018_01_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_comm2018_01_capsule"
-  }
+  },
+  "marketHashName": "Community Capsule 2018"
  },
  {
   "id": "crate-4471",
@@ -62478,7 +62717,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_19",
    "image_inventory": "econ/weapon_cases/crate_community_19"
-  }
+  },
+  "marketHashName": "Clutch Case"
  },
  {
   "id": "crate-4474",
@@ -62683,7 +62923,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_boston2018_contenders_flg",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_contenders_flg"
-  }
+  },
+  "marketHashName": "Boston 2018 Minor Challengers with Flash Gaming (Holo/Foil)"
  },
  {
   "id": "crate-4475",
@@ -63908,7 +64149,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_boston2018_group_contenders_flg",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_group_contenders_flg"
-  }
+  },
+  "marketHashName": "Boston 2018 Minor Challengers with Flash Gaming Autograph Capsule"
  },
  {
   "id": "crate-4477",
@@ -64103,7 +64345,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_chicken_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_chicken_capsule"
-  }
+  },
+  "marketHashName": "Chicken Capsule"
  },
  {
   "id": "crate-4478",
@@ -64288,7 +64531,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_boston2018_legends_ntv",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_legends_ntv"
-  }
+  },
+  "marketHashName": "Boston 2018 Attending Legends (Holo/Foil)"
  },
  {
   "id": "crate-4479",
@@ -65363,7 +65607,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_boston2018_group_legends_ntv",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_group_legends_ntv"
-  }
+  },
+  "marketHashName": "Boston 2018 Attending Legends Autograph Capsule"
  },
  {
   "id": "crate-4481",
@@ -65498,7 +65743,8 @@
   "original": {
    "item_name": "#CSGO_crate_pins_series_3",
    "image_inventory": "econ/weapon_cases/crate_pins_series_3"
-  }
+  },
+  "marketHashName": "Collectible Pins Capsule Series 3"
  },
  {
   "id": "crate-4482",
@@ -66287,7 +66533,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_20",
    "image_inventory": "econ/weapon_cases/crate_community_20"
-  }
+  },
+  "marketHashName": "Horizon Case"
  },
  {
   "id": "crate-4533",
@@ -66492,7 +66739,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_london2018_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_london2018_legends"
-  }
+  },
+  "marketHashName": "London 2018 Legends (Holo/Foil)"
  },
  {
   "id": "crate-4534",
@@ -66697,7 +66945,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_london2018_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_london2018_challengers"
-  }
+  },
+  "marketHashName": "London 2018 Returning Challengers (Holo/Foil)"
  },
  {
   "id": "crate-4535",
@@ -66902,7 +67151,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_london2018_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_london2018_contenders"
-  }
+  },
+  "marketHashName": "London 2018 Minor Challengers (Holo/Foil)"
  },
  {
   "id": "crate-4536",
@@ -68127,7 +68377,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_london2018_group_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_london2018_group_legends"
-  }
+  },
+  "marketHashName": "London 2018 Legends Autograph Capsule"
  },
  {
   "id": "crate-4537",
@@ -69352,7 +69603,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_london2018_group_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_london2018_group_challengers"
-  }
+  },
+  "marketHashName": "London 2018 Returning Challengers Autograph Capsule"
  },
  {
   "id": "crate-4538",
@@ -70577,7 +70829,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_london2018_group_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_london2018_group_contenders"
-  }
+  },
+  "marketHashName": "London 2018 Minor Challengers Autograph Capsule"
  },
  {
   "id": "crate-4540",
@@ -70800,7 +71053,8 @@
   "original": {
    "item_name": "#CSGO_crate_london2018_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_london2018_promo_de_inferno"
-  }
+  },
+  "marketHashName": "London 2018 Inferno Souvenir Package"
  },
  {
   "id": "crate-4541",
@@ -70990,7 +71244,8 @@
   "original": {
    "item_name": "#CSGO_crate_london2018_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_london2018_promo_de_mirage"
-  }
+  },
+  "marketHashName": "London 2018 Mirage Souvenir Package"
  },
  {
   "id": "crate-4542",
@@ -71191,7 +71446,8 @@
   "original": {
    "item_name": "#CSGO_crate_london2018_promo_de_dust2",
    "image_inventory": "econ/weapon_cases/crate_london2018_promo_de_dust2"
-  }
+  },
+  "marketHashName": "London 2018 Dust II Souvenir Package"
  },
  {
   "id": "crate-4543",
@@ -71381,7 +71637,8 @@
   "original": {
    "item_name": "#CSGO_crate_london2018_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_london2018_promo_de_overpass"
-  }
+  },
+  "marketHashName": "London 2018 Overpass Souvenir Package"
  },
  {
   "id": "crate-4544",
@@ -71549,7 +71806,8 @@
   "original": {
    "item_name": "#CSGO_crate_london2018_promo_de_cache",
    "image_inventory": "econ/weapon_cases/crate_london2018_promo_de_cache"
-  }
+  },
+  "marketHashName": "London 2018 Cache Souvenir Package"
  },
  {
   "id": "crate-4545",
@@ -71739,7 +71997,8 @@
   "original": {
    "item_name": "#CSGO_crate_london2018_promo_de_train",
    "image_inventory": "econ/weapon_cases/crate_london2018_promo_de_train"
-  }
+  },
+  "marketHashName": "London 2018 Train Souvenir Package"
  },
  {
   "id": "crate-4546",
@@ -71962,7 +72221,8 @@
   "original": {
    "item_name": "#CSGO_crate_london2018_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_london2018_promo_de_nuke"
-  }
+  },
+  "marketHashName": "London 2018 Nuke Souvenir Package"
  },
  {
   "id": "crate-4547",
@@ -72167,7 +72427,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_skillgroup_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_skillgroup_capsule"
-  }
+  },
+  "marketHashName": "Skill Groups Capsule"
  },
  {
   "id": "crate-4548",
@@ -72956,7 +73217,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_21",
    "image_inventory": "econ/weapon_cases/crate_community_21"
-  }
+  },
+  "marketHashName": "Danger Zone Case"
  },
  {
   "id": "crate-4584",
@@ -73161,7 +73423,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_katowice2019_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_katowice2019_legends"
-  }
+  },
+  "marketHashName": "Katowice 2019 Legends (Holo/Foil)"
  },
  {
   "id": "crate-4585",
@@ -73326,7 +73589,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_katowice2019_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_katowice2019_challengers"
-  }
+  },
+  "marketHashName": "Katowice 2019 Returning Challengers (Holo/Foil)"
  },
  {
   "id": "crate-4586",
@@ -73571,7 +73835,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_katowice2019_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_katowice2019_contenders"
-  }
+  },
+  "marketHashName": "Katowice 2019 Minor Challengers (Holo/Foil)"
  },
  {
   "id": "crate-4587",
@@ -74796,7 +75061,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_katowice2019_group_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_katowice2019_group_legends"
-  }
+  },
+  "marketHashName": "Katowice 2019 Legends Autograph Capsule"
  },
  {
   "id": "crate-4588",
@@ -75721,7 +75987,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_katowice2019_group_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_katowice2019_group_challengers"
-  }
+  },
+  "marketHashName": "Katowice 2019 Returning Challengers Autograph Capsule"
  },
  {
   "id": "crate-4589",
@@ -77246,7 +77513,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_katowice2019_group_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_katowice2019_group_contenders"
-  }
+  },
+  "marketHashName": "Katowice 2019 Minor Challengers Autograph Capsule"
  },
  {
   "id": "crate-4590",
@@ -77469,7 +77737,8 @@
   "original": {
    "item_name": "#CSGO_crate_katowice2019_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_katowice2019_promo_de_inferno"
-  }
+  },
+  "marketHashName": "Katowice 2019 Inferno Souvenir Package"
  },
  {
   "id": "crate-4591",
@@ -77659,7 +77928,8 @@
   "original": {
    "item_name": "#CSGO_crate_katowice2019_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_katowice2019_promo_de_mirage"
-  }
+  },
+  "marketHashName": "Katowice 2019 Mirage Souvenir Package"
  },
  {
   "id": "crate-4592",
@@ -77860,7 +78130,8 @@
   "original": {
    "item_name": "#CSGO_crate_katowice2019_promo_de_dust2",
    "image_inventory": "econ/weapon_cases/crate_katowice2019_promo_de_dust2"
-  }
+  },
+  "marketHashName": "Katowice 2019 Dust II Souvenir Package"
  },
  {
   "id": "crate-4593",
@@ -78050,7 +78321,8 @@
   "original": {
    "item_name": "#CSGO_crate_katowice2019_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_katowice2019_promo_de_overpass"
-  }
+  },
+  "marketHashName": "Katowice 2019 Overpass Souvenir Package"
  },
  {
   "id": "crate-4594",
@@ -78218,7 +78490,8 @@
   "original": {
    "item_name": "#CSGO_crate_katowice2019_promo_de_cache",
    "image_inventory": "econ/weapon_cases/crate_katowice2019_promo_de_cache"
-  }
+  },
+  "marketHashName": "Katowice 2019 Cache Souvenir Package"
  },
  {
   "id": "crate-4595",
@@ -78408,7 +78681,8 @@
   "original": {
    "item_name": "#CSGO_crate_katowice2019_promo_de_train",
    "image_inventory": "econ/weapon_cases/crate_katowice2019_promo_de_train"
-  }
+  },
+  "marketHashName": "Katowice 2019 Train Souvenir Package"
  },
  {
   "id": "crate-4596",
@@ -78631,7 +78905,8 @@
   "original": {
    "item_name": "#CSGO_crate_katowice2019_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_katowice2019_promo_de_nuke"
-  }
+  },
+  "marketHashName": "Katowice 2019 Nuke Souvenir Package"
  },
  {
   "id": "crate-4597",
@@ -78826,7 +79101,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_halo_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_halo_capsule"
-  }
+  },
+  "marketHashName": "Halo Capsule"
  },
  {
   "id": "crate-4598",
@@ -79643,7 +79919,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_22",
    "image_inventory": "econ/weapon_cases/crate_community_22"
-  }
+  },
+  "marketHashName": "Prisma Case"
  },
  {
   "id": "crate-4599",
@@ -79848,7 +80125,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_feral_predators_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_feral_predators_capsule"
-  }
+  },
+  "marketHashName": "Feral Predators Capsule"
  },
  {
   "id": "crate-4600",
@@ -79963,7 +80241,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_shattered_web",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_shattered_web_capsule"
-  }
+  },
+  "marketHashName": "Shattered Web Sticker Collection"
  },
  {
   "id": "crate-4610",
@@ -80198,7 +80477,8 @@
   "original": {
    "item_name": "#CSGO_crate_patch_pack01",
    "image_inventory": "econ/weapon_cases/crate_patch_pack01"
-  }
+  },
+  "marketHashName": "CS:GO Patch Pack"
  },
  {
   "id": "crate-4614",
@@ -80393,7 +80673,8 @@
   "original": {
    "item_name": "#CSGO_crate_patch_pack02",
    "image_inventory": "econ/weapon_cases/crate_patch_pack02"
-  }
+  },
+  "marketHashName": "Metal Skill Group Patch Collection"
  },
  {
   "id": "crate-4615",
@@ -80528,7 +80809,8 @@
   "original": {
    "item_name": "#CSGO_crate_patch_pack_hlalyx",
    "image_inventory": "econ/weapon_cases/crate_patch_pack_hlalyx"
-  }
+  },
+  "marketHashName": "Half-Life: Alyx Patch Pack"
  },
  {
   "id": "crate-4616",
@@ -80723,7 +81005,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_warhammer",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_warhammer_capsule"
-  }
+  },
+  "marketHashName": "Warhammer 40,000 Sticker Capsule"
  },
  {
   "id": "crate-4620",
@@ -81512,7 +81795,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_23",
    "image_inventory": "econ/weapon_cases/crate_community_23"
-  }
+  },
+  "marketHashName": "Shattered Web Case"
  },
  {
   "id": "crate-4654",
@@ -81717,7 +82001,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_berlin2019_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_berlin2019_legends"
-  }
+  },
+  "marketHashName": "Berlin 2019 Legends (Holo/Foil)"
  },
  {
   "id": "crate-4655",
@@ -81862,7 +82147,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_berlin2019_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_berlin2019_challengers"
-  }
+  },
+  "marketHashName": "Berlin 2019 Returning Challengers (Holo/Foil)"
  },
  {
   "id": "crate-4656",
@@ -82127,7 +82413,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_berlin2019_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_berlin2019_contenders"
-  }
+  },
+  "marketHashName": "Berlin 2019 Minor Challengers (Holo/Foil)"
  },
  {
   "id": "crate-4657",
@@ -83352,7 +83639,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_berlin2019_group_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_berlin2019_group_legends"
-  }
+  },
+  "marketHashName": "Berlin 2019 Legends Autograph Capsule"
  },
  {
   "id": "crate-4658",
@@ -84127,7 +84415,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_berlin2019_group_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_berlin2019_group_challengers"
-  }
+  },
+  "marketHashName": "Berlin 2019 Returning Challengers Autograph Capsule"
  },
  {
   "id": "crate-4659",
@@ -85802,7 +86091,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_berlin2019_group_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_berlin2019_group_contenders"
-  }
+  },
+  "marketHashName": "Berlin 2019 Minor Challengers Autograph Capsule"
  },
  {
   "id": "crate-4660",
@@ -86025,7 +86315,8 @@
   "original": {
    "item_name": "#CSGO_crate_berlin2019_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_berlin2019_promo_de_inferno"
-  }
+  },
+  "marketHashName": "Berlin 2019 Inferno Souvenir Package"
  },
  {
   "id": "crate-4661",
@@ -86215,7 +86506,8 @@
   "original": {
    "item_name": "#CSGO_crate_berlin2019_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_berlin2019_promo_de_mirage"
-  }
+  },
+  "marketHashName": "Berlin 2019 Mirage Souvenir Package"
  },
  {
   "id": "crate-4662",
@@ -86416,7 +86708,8 @@
   "original": {
    "item_name": "#CSGO_crate_berlin2019_promo_de_dust2",
    "image_inventory": "econ/weapon_cases/crate_berlin2019_promo_de_dust2"
-  }
+  },
+  "marketHashName": "Berlin 2019 Dust II Souvenir Package"
  },
  {
   "id": "crate-4663",
@@ -86606,7 +86899,8 @@
   "original": {
    "item_name": "#CSGO_crate_berlin2019_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_berlin2019_promo_de_overpass"
-  }
+  },
+  "marketHashName": "Berlin 2019 Overpass Souvenir Package"
  },
  {
   "id": "crate-4664",
@@ -86796,7 +87090,8 @@
   "original": {
    "item_name": "#CSGO_crate_berlin2019_promo_de_train",
    "image_inventory": "econ/weapon_cases/crate_berlin2019_promo_de_train"
-  }
+  },
+  "marketHashName": "Berlin 2019 Train Souvenir Package"
  },
  {
   "id": "crate-4665",
@@ -87019,7 +87314,8 @@
   "original": {
    "item_name": "#CSGO_crate_berlin2019_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_berlin2019_promo_de_nuke"
-  }
+  },
+  "marketHashName": "Berlin 2019 Nuke Souvenir Package"
  },
  {
   "id": "crate-4666",
@@ -87110,7 +87406,8 @@
   "original": {
    "item_name": "#CSGO_crate_berlin2019_promo_de_vertigo",
    "image_inventory": "econ/weapon_cases/crate_berlin2019_promo_de_vertigo"
-  }
+  },
+  "marketHashName": "Berlin 2019 Vertigo Souvenir Package"
  },
  {
   "id": "crate-4668",
@@ -87146,7 +87443,8 @@
   "original": {
    "item_name": "#CSGO_crate_xray_p250",
    "image_inventory": "econ/weapon_cases/crate_xray_p250"
-  }
+  },
+  "marketHashName": "X-Ray P250 Package"
  },
  {
   "id": "crate-4669",
@@ -87507,7 +87805,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_24",
    "image_inventory": "econ/weapon_cases/crate_community_24"
-  }
+  },
+  "marketHashName": "CS20 Case"
  },
  {
   "id": "crate-4670",
@@ -87732,7 +88031,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_cs20_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cs20_capsule"
-  }
+  },
+  "marketHashName": "CS20 Sticker Capsule"
  },
  {
   "id": "crate-4693",
@@ -87877,7 +88177,8 @@
   "original": {
    "item_name": "#CSGO_crate_pins_hlalyx",
    "image_inventory": "econ/weapon_cases/crate_pins_hlalyx"
-  }
+  },
+  "marketHashName": "Half-Life: Alyx Collectible Pins Capsule"
  },
  {
   "id": "crate-4694",
@@ -88032,7 +88333,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_hlalyx_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_hlalyx_capsule"
-  }
+  },
+  "marketHashName": "Half-Life: Alyx Sticker Capsule"
  },
  {
   "id": "crate-4695",
@@ -88849,7 +89151,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_25",
    "image_inventory": "econ/weapon_cases/crate_community_25"
-  }
+  },
+  "marketHashName": "Prisma 2 Case"
  },
  {
   "id": "crate-4696",
@@ -88944,7 +89247,8 @@
   "original": {
    "item_name": "#CSGO_crate_musickit_masterminds_capsule",
    "image_inventory": "econ/weapon_cases/crate_musickit_masterminds_capsule"
-  }
+  },
+  "marketHashName": "Masterminds Music Kit Box"
  },
  {
   "id": "crate-4697",
@@ -89039,7 +89343,8 @@
   "original": {
    "item_name": "#CSGO_crate_musickit_masterminds_stattrak_capsule",
    "image_inventory": "econ/weapon_cases/crate_musickit_masterminds_stattrak_capsule"
-  }
+  },
+  "marketHashName": "StatTrak™ Masterminds Music Kit Box"
  },
  {
   "id": "crate-4698",
@@ -89828,7 +90133,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_26",
    "image_inventory": "econ/weapon_cases/crate_community_26"
-  }
+  },
+  "marketHashName": "Fracture Case"
  },
  {
   "id": "crate-4717",
@@ -90309,7 +90615,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_27",
    "image_inventory": "econ/weapon_cases/crate_community_27"
-  }
+  },
+  "marketHashName": "Operation Broken Fang Case"
  },
  {
   "id": "crate-4719",
@@ -90654,7 +90961,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_recoil",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_recoil_capsule"
-  }
+  },
+  "marketHashName": "Recoil Sticker Collection"
  },
  {
   "id": "crate-4729",
@@ -90839,7 +91147,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_broken_fang",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_broken_fang_capsule"
-  }
+  },
+  "marketHashName": "Broken Fang Sticker Collection"
  },
  {
   "id": "crate-4743",
@@ -91184,7 +91493,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_rmr2020_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rmr2020_legends"
-  }
+  },
+  "marketHashName": "2020 RMR Legends"
  },
  {
   "id": "crate-4744",
@@ -91529,7 +91839,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_rmr2020_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rmr2020_challengers"
-  }
+  },
+  "marketHashName": "2020 RMR Challengers"
  },
  {
   "id": "crate-4745",
@@ -91874,7 +92185,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_rmr2020_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rmr2020_contenders"
-  }
+  },
+  "marketHashName": "2020 RMR Contenders"
  },
  {
   "id": "crate-4746",
@@ -92099,7 +92411,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_poorly_drawn_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_poorly_drawn_capsule"
-  }
+  },
+  "marketHashName": "Poorly Drawn Capsule"
  },
  {
   "id": "crate-4747",
@@ -92580,7 +92893,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_28",
    "image_inventory": "econ/weapon_cases/crate_community_28"
-  }
+  },
+  "marketHashName": "Snakebite Case"
  },
  {
   "id": "crate-4754",
@@ -92665,7 +92979,8 @@
   "original": {
    "item_name": "#CSGO_crate_musickit_tacticians_capsule",
    "image_inventory": "econ/weapon_cases/crate_musickit_tacticians_capsule"
-  }
+  },
+  "marketHashName": "Tacticians Music Kit Box"
  },
  {
   "id": "crate-4755",
@@ -92750,7 +93065,8 @@
   "original": {
    "item_name": "#CSGO_crate_musickit_tacticians_stattrak_capsule",
    "image_inventory": "econ/weapon_cases/crate_musickit_tacticians_stattrak_capsule"
-  }
+  },
+  "marketHashName": "StatTrak™ Tacticians Music Kit Box"
  },
  {
   "id": "crate-4779",
@@ -93495,7 +93811,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_riptide_surfshop",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_riptide_surfshop_capsule"
-  }
+  },
+  "marketHashName": "Riptide Surf Shop Sticker Collection"
  },
  {
   "id": "crate-4782",
@@ -93730,7 +94047,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_community2021_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_community2021_capsule"
-  }
+  },
+  "marketHashName": "2021 Community Sticker Capsule"
  },
  {
   "id": "crate-4783",
@@ -93895,7 +94213,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_op_riptide_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_op_riptide_capsule"
-  }
+  },
+  "marketHashName": "Operation Riptide Sticker Collection"
  },
  {
   "id": "crate-4784",
@@ -94140,7 +94459,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_spring2022_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_spring2022_capsule"
-  }
+  },
+  "marketHashName": "The Boardroom Sticker Capsule"
  },
  {
   "id": "crate-4789",
@@ -94335,7 +94655,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_bf2042_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_bf2042_capsule"
-  }
+  },
+  "marketHashName": "Battlefield 2042 Sticker Capsule"
  },
  {
   "id": "crate-4790",
@@ -95123,7 +95444,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_29",
    "image_inventory": "econ/weapon_cases/crate_community_29"
-  }
+  },
+  "marketHashName": "Operation Riptide Case"
  },
  {
   "id": "crate-4795",
@@ -95278,7 +95600,8 @@
   "original": {
    "item_name": "#CSGO_crate_patch_pack03",
    "image_inventory": "econ/weapon_cases/crate_patch_pack03"
-  }
+  },
+  "marketHashName": "Operation Riptide Patch Collection"
  },
  {
   "id": "crate-4803",
@@ -95663,7 +95986,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_stockh2021_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_stockh2021_legends"
-  }
+  },
+  "marketHashName": "Stockholm 2021 Legends Sticker Capsule"
  },
  {
   "id": "crate-4804",
@@ -96048,7 +96372,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_stockh2021_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_stockh2021_challengers"
-  }
+  },
+  "marketHashName": "Stockholm 2021 Challengers Sticker Capsule"
  },
  {
   "id": "crate-4805",
@@ -96433,7 +96758,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_stockh2021_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_stockh2021_contenders"
-  }
+  },
+  "marketHashName": "Stockholm 2021 Contenders Sticker Capsule"
  },
  {
   "id": "crate-4806",
@@ -96638,7 +96964,8 @@
   "original": {
    "item_name": "#CSGO_crate_patch_pack_stockh2021_legends",
    "image_inventory": "econ/weapon_cases/crate_patch_pack_stockh2021_legends"
-  }
+  },
+  "marketHashName": "Stockholm 2021 Legends Patch Pack"
  },
  {
   "id": "crate-4807",
@@ -96843,7 +97170,8 @@
   "original": {
    "item_name": "#CSGO_crate_patch_pack_stockh2021_challengers",
    "image_inventory": "econ/weapon_cases/crate_patch_pack_stockh2021_challengers"
-  }
+  },
+  "marketHashName": "Stockholm 2021 Challengers Patch Pack"
  },
  {
   "id": "crate-4808",
@@ -97048,7 +97376,8 @@
   "original": {
    "item_name": "#CSGO_crate_patch_pack_stockh2021_contenders",
    "image_inventory": "econ/weapon_cases/crate_patch_pack_stockh2021_contenders"
-  }
+  },
+  "marketHashName": "Stockholm 2021 Contenders Patch Pack"
  },
  {
   "id": "crate-4809",
@@ -97271,7 +97600,8 @@
   "original": {
    "item_name": "#CSGO_crate_stockh2021_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_stockh2021_promo_de_inferno"
-  }
+  },
+  "marketHashName": "Stockholm 2021 Inferno Souvenir Package"
  },
  {
   "id": "crate-4810",
@@ -97505,7 +97835,8 @@
   "original": {
    "item_name": "#CSGO_crate_stockh2021_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_stockh2021_promo_de_mirage"
-  }
+  },
+  "marketHashName": "Stockholm 2021 Mirage Souvenir Package"
  },
  {
   "id": "crate-4811",
@@ -97739,7 +98070,8 @@
   "original": {
    "item_name": "#CSGO_crate_stockh2021_promo_de_dust2",
    "image_inventory": "econ/weapon_cases/crate_stockh2021_promo_de_dust2"
-  }
+  },
+  "marketHashName": "Stockholm 2021 Dust II Souvenir Package"
  },
  {
   "id": "crate-4812",
@@ -97929,7 +98261,8 @@
   "original": {
    "item_name": "#CSGO_crate_stockh2021_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_stockh2021_promo_de_overpass"
-  }
+  },
+  "marketHashName": "Stockholm 2021 Overpass Souvenir Package"
  },
  {
   "id": "crate-4813",
@@ -98163,7 +98496,8 @@
   "original": {
    "item_name": "#CSGO_crate_stockh2021_promo_de_ancient",
    "image_inventory": "econ/weapon_cases/crate_stockh2021_promo_de_ancient"
-  }
+  },
+  "marketHashName": "Stockholm 2021 Ancient Souvenir Package"
  },
  {
   "id": "crate-4814",
@@ -98386,7 +98720,8 @@
   "original": {
    "item_name": "#CSGO_crate_stockh2021_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_stockh2021_promo_de_nuke"
-  }
+  },
+  "marketHashName": "Stockholm 2021 Nuke Souvenir Package"
  },
  {
   "id": "crate-4815",
@@ -98620,7 +98955,8 @@
   "original": {
    "item_name": "#CSGO_crate_stockh2021_promo_de_vertigo",
    "image_inventory": "econ/weapon_cases/crate_stockh2021_promo_de_vertigo"
-  }
+  },
+  "marketHashName": "Stockholm 2021 Vertigo Souvenir Package"
  },
  {
   "id": "crate-4816",
@@ -98795,7 +99131,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_stockh2021_group_champions",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_stockh2021_group_champions"
-  }
+  },
+  "marketHashName": "Stockholm 2021 Champions Autograph Capsule"
  },
  {
   "id": "crate-4817",
@@ -99870,7 +100207,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_stockh2021_group_finalists",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_stockh2021_group_finalists"
-  }
+  },
+  "marketHashName": "Stockholm 2021 Finalists Autograph Capsule"
  },
  {
   "id": "crate-4818",
@@ -100658,7 +100996,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_30",
    "image_inventory": "econ/weapon_cases/crate_community_30"
-  }
+  },
+  "marketHashName": "Dreams & Nightmares Case"
  },
  {
   "id": "crate-4832",
@@ -101043,7 +101382,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_antwerp2022_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_antwerp2022_legends"
-  }
+  },
+  "marketHashName": "Antwerp 2022 Legends Sticker Capsule"
  },
  {
   "id": "crate-4833",
@@ -101428,7 +101768,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_antwerp2022_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_antwerp2022_challengers"
-  }
+  },
+  "marketHashName": "Antwerp 2022 Challengers Sticker Capsule"
  },
  {
   "id": "crate-4834",
@@ -101813,7 +102154,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_antwerp2022_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_antwerp2022_contenders"
-  }
+  },
+  "marketHashName": "Antwerp 2022 Contenders Sticker Capsule"
  },
  {
   "id": "crate-4835",
@@ -102036,7 +102378,8 @@
   "original": {
    "item_name": "#CSGO_crate_antwerp2022_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_antwerp2022_promo_de_inferno"
-  }
+  },
+  "marketHashName": "Antwerp 2022 Inferno Souvenir Package"
  },
  {
   "id": "crate-4836",
@@ -102270,7 +102613,8 @@
   "original": {
    "item_name": "#CSGO_crate_antwerp2022_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_antwerp2022_promo_de_mirage"
-  }
+  },
+  "marketHashName": "Antwerp 2022 Mirage Souvenir Package"
  },
  {
   "id": "crate-4837",
@@ -102504,7 +102848,8 @@
   "original": {
    "item_name": "#CSGO_crate_antwerp2022_promo_de_dust2",
    "image_inventory": "econ/weapon_cases/crate_antwerp2022_promo_de_dust2"
-  }
+  },
+  "marketHashName": "Antwerp 2022 Dust II Souvenir Package"
  },
  {
   "id": "crate-4838",
@@ -102694,7 +103039,8 @@
   "original": {
    "item_name": "#CSGO_crate_antwerp2022_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_antwerp2022_promo_de_overpass"
-  }
+  },
+  "marketHashName": "Antwerp 2022 Overpass Souvenir Package"
  },
  {
   "id": "crate-4839",
@@ -102928,7 +103274,8 @@
   "original": {
    "item_name": "#CSGO_crate_antwerp2022_promo_de_ancient",
    "image_inventory": "econ/weapon_cases/crate_antwerp2022_promo_de_ancient"
-  }
+  },
+  "marketHashName": "Antwerp 2022 Ancient Souvenir Package"
  },
  {
   "id": "crate-4840",
@@ -103151,7 +103498,8 @@
   "original": {
    "item_name": "#CSGO_crate_antwerp2022_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_antwerp2022_promo_de_nuke"
-  }
+  },
+  "marketHashName": "Antwerp 2022 Nuke Souvenir Package"
  },
  {
   "id": "crate-4841",
@@ -103385,7 +103733,8 @@
   "original": {
    "item_name": "#CSGO_crate_antwerp2022_promo_de_vertigo",
    "image_inventory": "econ/weapon_cases/crate_antwerp2022_promo_de_vertigo"
-  }
+  },
+  "marketHashName": "Antwerp 2022 Vertigo Souvenir Package"
  },
  {
   "id": "crate-4842",
@@ -105010,7 +105359,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_antwerp2022_group_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_antwerp2022_group_legends"
-  }
+  },
+  "marketHashName": "Antwerp 2022 Legends Autograph Capsule"
  },
  {
   "id": "crate-4843",
@@ -106635,7 +106985,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_antwerp2022_group_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_antwerp2022_group_challengers"
-  }
+  },
+  "marketHashName": "Antwerp 2022 Challengers Autograph Capsule"
  },
  {
   "id": "crate-4844",
@@ -108260,7 +108611,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_antwerp2022_group_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_antwerp2022_group_contenders"
-  }
+  },
+  "marketHashName": "Antwerp 2022 Contenders Autograph Capsule"
  },
  {
   "id": "crate-4845",
@@ -108485,7 +108837,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_antwerp2022_group_champions",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_antwerp2022_group_champions"
-  }
+  },
+  "marketHashName": "Antwerp 2022 Champions Autograph Capsule"
  },
  {
   "id": "crate-4846",
@@ -108966,7 +109319,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_31",
    "image_inventory": "econ/weapon_cases/crate_community_31"
-  }
+  },
+  "marketHashName": "Recoil Case"
  },
  {
   "id": "crate-4847",
@@ -109641,7 +109995,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_csgo10_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_csgo10_capsule"
-  }
+  },
+  "marketHashName": "10 Year Birthday Sticker Capsule"
  },
  {
   "id": "crate-4848",
@@ -109726,7 +110081,8 @@
   "original": {
    "item_name": "#CSGO_crate_musickit_initiators_capsule",
    "image_inventory": "econ/weapon_cases/crate_musickit_initiators_capsule"
-  }
+  },
+  "marketHashName": "Initiators Music Kit Box"
  },
  {
   "id": "crate-4849",
@@ -109811,7 +110167,8 @@
   "original": {
    "item_name": "#CSGO_crate_musickit_initiators_stattrak_capsule",
    "image_inventory": "econ/weapon_cases/crate_musickit_initiators_stattrak_capsule"
-  }
+  },
+  "marketHashName": "StatTrak™ Initiators Music Kit Box"
  },
  {
   "id": "crate-4857",
@@ -110196,7 +110553,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_rio2022_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_legends"
-  }
+  },
+  "marketHashName": "Rio 2022 Legends Sticker Capsule"
  },
  {
   "id": "crate-4858",
@@ -110581,7 +110939,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_rio2022_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_challengers"
-  }
+  },
+  "marketHashName": "Rio 2022 Challengers Sticker Capsule"
  },
  {
   "id": "crate-4859",
@@ -110966,7 +111325,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_rio2022_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_contenders"
-  }
+  },
+  "marketHashName": "Rio 2022 Contenders Sticker Capsule"
  },
  {
   "id": "crate-4860",
@@ -111189,7 +111549,8 @@
   "original": {
    "item_name": "#CSGO_crate_rio2022_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_rio2022_promo_de_inferno"
-  }
+  },
+  "marketHashName": "Rio 2022 Inferno Souvenir Package"
  },
  {
   "id": "crate-4861",
@@ -111423,7 +111784,8 @@
   "original": {
    "item_name": "#CSGO_crate_rio2022_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_rio2022_promo_de_mirage"
-  }
+  },
+  "marketHashName": "Rio 2022 Mirage Souvenir Package"
  },
  {
   "id": "crate-4862",
@@ -111657,7 +112019,8 @@
   "original": {
    "item_name": "#CSGO_crate_rio2022_promo_de_dust2",
    "image_inventory": "econ/weapon_cases/crate_rio2022_promo_de_dust2"
-  }
+  },
+  "marketHashName": "Rio 2022 Dust II Souvenir Package"
  },
  {
   "id": "crate-4863",
@@ -111847,7 +112210,8 @@
   "original": {
    "item_name": "#CSGO_crate_rio2022_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_rio2022_promo_de_overpass"
-  }
+  },
+  "marketHashName": "Rio 2022 Overpass Souvenir Package"
  },
  {
   "id": "crate-4864",
@@ -112081,7 +112445,8 @@
   "original": {
    "item_name": "#CSGO_crate_rio2022_promo_de_ancient",
    "image_inventory": "econ/weapon_cases/crate_rio2022_promo_de_ancient"
-  }
+  },
+  "marketHashName": "Rio 2022 Ancient Souvenir Package"
  },
  {
   "id": "crate-4865",
@@ -112304,7 +112669,8 @@
   "original": {
    "item_name": "#CSGO_crate_rio2022_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_rio2022_promo_de_nuke"
-  }
+  },
+  "marketHashName": "Rio 2022 Nuke Souvenir Package"
  },
  {
   "id": "crate-4866",
@@ -112538,7 +112904,8 @@
   "original": {
    "item_name": "#CSGO_crate_rio2022_promo_de_vertigo",
    "image_inventory": "econ/weapon_cases/crate_rio2022_promo_de_vertigo"
-  }
+  },
+  "marketHashName": "Rio 2022 Vertigo Souvenir Package"
  },
  {
   "id": "crate-4867",
@@ -114163,7 +114530,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_rio2022_group_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_group_legends"
-  }
+  },
+  "marketHashName": "Rio 2022 Legends Autograph Capsule"
  },
  {
   "id": "crate-4868",
@@ -115788,7 +116156,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_rio2022_group_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_group_challengers"
-  }
+  },
+  "marketHashName": "Rio 2022 Challengers Autograph Capsule"
  },
  {
   "id": "crate-4869",
@@ -117413,7 +117782,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_rio2022_group_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_group_contenders"
-  }
+  },
+  "marketHashName": "Rio 2022 Contenders Autograph Capsule"
  },
  {
   "id": "crate-4870",
@@ -117638,7 +118008,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_rio2022_group_champions",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_group_champions"
-  }
+  },
+  "marketHashName": "Rio 2022 Champions Autograph Capsule"
  },
  {
   "id": "crate-4871",
@@ -119113,7 +119484,8 @@
   "original": {
    "item_name": "#CSGO_storageunit0_rio2022",
    "image_inventory": "econ/tools/casket_rio2022_0"
-  }
+  },
+  "marketHashName": "Rio 2022 Storage Unit with Paper Stickers"
  },
  {
   "id": "crate-4872",
@@ -120588,7 +120960,8 @@
   "original": {
    "item_name": "#CSGO_storageunit1_rio2022",
    "image_inventory": "econ/tools/casket_rio2022_1"
-  }
+  },
+  "marketHashName": "Rio 2022 Storage Unit with Glitter Stickers"
  },
  {
   "id": "crate-4879",
@@ -120823,7 +121196,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_community2022_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_community2022_capsule"
-  }
+  },
+  "marketHashName": "Espionage Sticker Capsule"
  },
  {
   "id": "crate-4880",
@@ -121304,7 +121678,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_32",
    "image_inventory": "econ/weapon_cases/crate_community_32"
-  }
+  },
+  "marketHashName": "Revolution Case"
  },
  {
   "id": "crate-4882",
@@ -121538,7 +121913,8 @@
   "original": {
    "item_name": "#CSGO_set_anubis_storepromo",
    "image_inventory": "econ/weapon_cases/crate_anubis_storepromo"
-  }
+  },
+  "marketHashName": "Anubis Collection Package"
  },
  {
   "id": "crate-4890",
@@ -121923,7 +122299,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_paris2023_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_paris2023_legends"
-  }
+  },
+  "marketHashName": "Paris 2023 Legends Sticker Capsule"
  },
  {
   "id": "crate-4891",
@@ -122308,7 +122685,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_paris2023_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_paris2023_challengers"
-  }
+  },
+  "marketHashName": "Paris 2023 Challengers Sticker Capsule"
  },
  {
   "id": "crate-4892",
@@ -122693,7 +123071,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_paris2023_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_paris2023_contenders"
-  }
+  },
+  "marketHashName": "Paris 2023 Contenders Sticker Capsule"
  },
  {
   "id": "crate-4893",
@@ -122916,7 +123295,8 @@
   "original": {
    "item_name": "#CSGO_crate_paris2023_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_paris2023_promo_de_inferno"
-  }
+  },
+  "marketHashName": "Paris 2023 Inferno Souvenir Package"
  },
  {
   "id": "crate-4894",
@@ -123150,7 +123530,8 @@
   "original": {
    "item_name": "#CSGO_crate_paris2023_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_paris2023_promo_de_mirage"
-  }
+  },
+  "marketHashName": "Paris 2023 Mirage Souvenir Package"
  },
  {
   "id": "crate-4895",
@@ -123384,7 +123765,8 @@
   "original": {
    "item_name": "#CSGO_crate_paris2023_promo_de_anubis",
    "image_inventory": "econ/weapon_cases/crate_paris2023_promo_de_anubis"
-  }
+  },
+  "marketHashName": "Paris 2023 Anubis Souvenir Package"
  },
  {
   "id": "crate-4896",
@@ -123574,7 +123956,8 @@
   "original": {
    "item_name": "#CSGO_crate_paris2023_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_paris2023_promo_de_overpass"
-  }
+  },
+  "marketHashName": "Paris 2023 Overpass Souvenir Package"
  },
  {
   "id": "crate-4897",
@@ -123808,7 +124191,8 @@
   "original": {
    "item_name": "#CSGO_crate_paris2023_promo_de_ancient",
    "image_inventory": "econ/weapon_cases/crate_paris2023_promo_de_ancient"
-  }
+  },
+  "marketHashName": "Paris 2023 Ancient Souvenir Package"
  },
  {
   "id": "crate-4898",
@@ -124031,7 +124415,8 @@
   "original": {
    "item_name": "#CSGO_crate_paris2023_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_paris2023_promo_de_nuke"
-  }
+  },
+  "marketHashName": "Paris 2023 Nuke Souvenir Package"
  },
  {
   "id": "crate-4899",
@@ -124265,7 +124650,8 @@
   "original": {
    "item_name": "#CSGO_crate_paris2023_promo_de_vertigo",
    "image_inventory": "econ/weapon_cases/crate_paris2023_promo_de_vertigo"
-  }
+  },
+  "marketHashName": "Paris 2023 Vertigo Souvenir Package"
  },
  {
   "id": "crate-4900",
@@ -125890,7 +126276,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_paris2023_group_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_paris2023_group_legends"
-  }
+  },
+  "marketHashName": "Paris 2023 Legends Autograph Capsule"
  },
  {
   "id": "crate-4901",
@@ -127515,7 +127902,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_paris2023_group_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_paris2023_group_challengers"
-  }
+  },
+  "marketHashName": "Paris 2023 Challengers Autograph Capsule"
  },
  {
   "id": "crate-4902",
@@ -129140,7 +129528,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_paris2023_group_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_paris2023_group_contenders"
-  }
+  },
+  "marketHashName": "Paris 2023 Contenders Autograph Capsule"
  },
  {
   "id": "crate-4903",
@@ -129365,7 +129754,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_paris2023_group_champions",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_paris2023_group_champions"
-  }
+  },
+  "marketHashName": "Paris 2023 Champions Autograph Capsule"
  },
  {
   "id": "crate-4904",
@@ -129726,7 +130116,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_33",
    "image_inventory": "econ/weapon_cases/crate_community_33"
-  }
+  },
+  "marketHashName": "Kilowatt Case"
  },
  {
   "id": "crate-4905",
@@ -129961,7 +130352,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_community_2024_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_community_2024_capsule"
-  }
+  },
+  "marketHashName": "Ambush Sticker Capsule"
  },
  {
   "id": "crate-4914",
@@ -130046,7 +130438,8 @@
   "original": {
    "item_name": "#CSGO_crate_musickit_nightmode_capsule",
    "image_inventory": "econ/weapon_cases/crate_musickit_nightmode_capsule"
-  }
+  },
+  "marketHashName": "NIGHTMODE Music Kit Box"
  },
  {
   "id": "crate-4915",
@@ -130131,7 +130524,8 @@
   "original": {
    "item_name": "#CSGO_crate_musickit_nightmode_stattrak_capsule",
    "image_inventory": "econ/weapon_cases/crate_musickit_nightmode_stattrak_capsule"
-  }
+  },
+  "marketHashName": "StatTrak™ NIGHTMODE Music Kit Box"
  },
  {
   "id": "crate-4923",
@@ -130516,7 +130910,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_cph2024_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cph2024_legends"
-  }
+  },
+  "marketHashName": "Copenhagen 2024 Legends Sticker Capsule"
  },
  {
   "id": "crate-4924",
@@ -130901,7 +131296,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_cph2024_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cph2024_challengers"
-  }
+  },
+  "marketHashName": "Copenhagen 2024 Challengers Sticker Capsule"
  },
  {
   "id": "crate-4925",
@@ -131286,7 +131682,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_cph2024_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cph2024_contenders"
-  }
+  },
+  "marketHashName": "Copenhagen 2024 Contenders Sticker Capsule"
  },
  {
   "id": "crate-4926",
@@ -131509,7 +131906,8 @@
   "original": {
    "item_name": "#CSGO_crate_cph2024_promo_de_inferno",
    "image_inventory": "econ/weapon_cases/crate_cph2024_promo_de_inferno"
-  }
+  },
+  "marketHashName": "Copenhagen 2024 Inferno Souvenir Package"
  },
  {
   "id": "crate-4927",
@@ -131743,7 +132141,8 @@
   "original": {
    "item_name": "#CSGO_crate_cph2024_promo_de_mirage",
    "image_inventory": "econ/weapon_cases/crate_cph2024_promo_de_mirage"
-  }
+  },
+  "marketHashName": "Copenhagen 2024 Mirage Souvenir Package"
  },
  {
   "id": "crate-4928",
@@ -131977,7 +132376,8 @@
   "original": {
    "item_name": "#CSGO_crate_cph2024_promo_de_anubis",
    "image_inventory": "econ/weapon_cases/crate_cph2024_promo_de_anubis"
-  }
+  },
+  "marketHashName": "Copenhagen 2024 Anubis Souvenir Package"
  },
  {
   "id": "crate-4929",
@@ -132167,7 +132567,8 @@
   "original": {
    "item_name": "#CSGO_crate_cph2024_promo_de_overpass",
    "image_inventory": "econ/weapon_cases/crate_cph2024_promo_de_overpass"
-  }
+  },
+  "marketHashName": "Copenhagen 2024 Overpass Souvenir Package"
  },
  {
   "id": "crate-4930",
@@ -132401,7 +132802,8 @@
   "original": {
    "item_name": "#CSGO_crate_cph2024_promo_de_ancient",
    "image_inventory": "econ/weapon_cases/crate_cph2024_promo_de_ancient"
-  }
+  },
+  "marketHashName": "Copenhagen 2024 Ancient Souvenir Package"
  },
  {
   "id": "crate-4931",
@@ -132624,7 +133026,8 @@
   "original": {
    "item_name": "#CSGO_crate_cph2024_promo_de_nuke",
    "image_inventory": "econ/weapon_cases/crate_cph2024_promo_de_nuke"
-  }
+  },
+  "marketHashName": "Copenhagen 2024 Nuke Souvenir Package"
  },
  {
   "id": "crate-4932",
@@ -132858,7 +133261,8 @@
   "original": {
    "item_name": "#CSGO_crate_cph2024_promo_de_vertigo",
    "image_inventory": "econ/weapon_cases/crate_cph2024_promo_de_vertigo"
-  }
+  },
+  "marketHashName": "Copenhagen 2024 Vertigo Souvenir Package"
  },
  {
   "id": "crate-4937",
@@ -134483,7 +134887,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cph2024_group_legends",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cph2024_group_legends"
-  }
+  },
+  "marketHashName": "Copenhagen 2024 Legends Autograph Capsule"
  },
  {
   "id": "crate-4938",
@@ -136108,7 +136513,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cph2024_group_challengers",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cph2024_group_challengers"
-  }
+  },
+  "marketHashName": "Copenhagen 2024 Challengers Autograph Capsule"
  },
  {
   "id": "crate-4939",
@@ -137733,7 +138139,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cph2024_group_contenders",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cph2024_group_contenders"
-  }
+  },
+  "marketHashName": "Copenhagen 2024 Contenders Autograph Capsule"
  },
  {
   "id": "crate-4940",
@@ -137958,7 +138365,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cph2024_group_champions",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cph2024_group_champions"
-  }
+  },
+  "marketHashName": "Copenhagen 2024 Champions Autograph Capsule"
  },
  {
   "id": "crate-4946",
@@ -138063,7 +138471,8 @@
   "original": {
    "item_name": "#CSGO_crate_musickit_masterminds2_capsule",
    "image_inventory": "econ/weapon_cases/crate_musickit_masterminds2_capsule"
-  }
+  },
+  "marketHashName": "Masterminds 2 Music Kit Box"
  },
  {
   "id": "crate-4947",
@@ -138168,7 +138577,8 @@
   "original": {
    "item_name": "#CSGO_crate_musickit_masterminds2_stattrak_capsule",
    "image_inventory": "econ/weapon_cases/crate_musickit_masterminds2_stattrak_capsule"
-  }
+  },
+  "marketHashName": "StatTrak™ Masterminds 2 Music Kit Box"
  },
  {
   "id": "crate-4964",
@@ -138553,7 +138963,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_sha2024_legends",
    "image_inventory": "econ/tournaments/sha2024/crate_sticker_pack_sha2024_legends"
-  }
+  },
+  "marketHashName": "Shanghai 2024 Legends Sticker Capsule"
  },
  {
   "id": "crate-4965",
@@ -138938,7 +139349,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_sha2024_challengers",
    "image_inventory": "econ/tournaments/sha2024/crate_sticker_pack_sha2024_challengers"
-  }
+  },
+  "marketHashName": "Shanghai 2024 Challengers Sticker Capsule"
  },
  {
   "id": "crate-4966",
@@ -139323,7 +139735,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_sha2024_contenders",
    "image_inventory": "econ/tournaments/sha2024/crate_sticker_pack_sha2024_contenders"
-  }
+  },
+  "marketHashName": "Shanghai 2024 Contenders Sticker Capsule"
  },
  {
   "id": "crate-4967",
@@ -139546,7 +139959,8 @@
   "original": {
    "item_name": "#CSGO_crate_sha2024_promo_de_inferno",
    "image_inventory": "econ/tournaments/sha2024/crate_sha2024_promo_de_inferno"
-  }
+  },
+  "marketHashName": "Shanghai 2024 Inferno Souvenir Package"
  },
  {
   "id": "crate-4968",
@@ -139780,7 +140194,8 @@
   "original": {
    "item_name": "#CSGO_crate_sha2024_promo_de_mirage",
    "image_inventory": "econ/tournaments/sha2024/crate_sha2024_promo_de_mirage"
-  }
+  },
+  "marketHashName": "Shanghai 2024 Mirage Souvenir Package"
  },
  {
   "id": "crate-4969",
@@ -140014,7 +140429,8 @@
   "original": {
    "item_name": "#CSGO_crate_sha2024_promo_de_anubis",
    "image_inventory": "econ/tournaments/sha2024/crate_sha2024_promo_de_anubis"
-  }
+  },
+  "marketHashName": "Shanghai 2024 Anubis Souvenir Package"
  },
  {
   "id": "crate-4970",
@@ -140248,7 +140664,8 @@
   "original": {
    "item_name": "#CSGO_crate_sha2024_promo_de_dust2",
    "image_inventory": "econ/tournaments/sha2024/crate_sha2024_promo_de_dust2"
-  }
+  },
+  "marketHashName": "Shanghai 2024 Dust II Souvenir Package"
  },
  {
   "id": "crate-4971",
@@ -140482,7 +140899,8 @@
   "original": {
    "item_name": "#CSGO_crate_sha2024_promo_de_ancient",
    "image_inventory": "econ/tournaments/sha2024/crate_sha2024_promo_de_ancient"
-  }
+  },
+  "marketHashName": "Shanghai 2024 Ancient Souvenir Package"
  },
  {
   "id": "crate-4972",
@@ -140705,7 +141123,8 @@
   "original": {
    "item_name": "#CSGO_crate_sha2024_promo_de_nuke",
    "image_inventory": "econ/tournaments/sha2024/crate_sha2024_promo_de_nuke"
-  }
+  },
+  "marketHashName": "Shanghai 2024 Nuke Souvenir Package"
  },
  {
   "id": "crate-4973",
@@ -140939,7 +141358,8 @@
   "original": {
    "item_name": "#CSGO_crate_sha2024_promo_de_vertigo",
    "image_inventory": "econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo"
-  }
+  },
+  "marketHashName": "Shanghai 2024 Vertigo Souvenir Package"
  },
  {
   "id": "crate-4978",
@@ -142564,7 +142984,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_sha2024_group_legends",
    "image_inventory": "econ/tournaments/sha2024/crate_sticker_pack_sha2024_group_legends"
-  }
+  },
+  "marketHashName": "Shanghai 2024 Legends Autograph Capsule"
  },
  {
   "id": "crate-4979",
@@ -144189,7 +144610,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_sha2024_group_challengers",
    "image_inventory": "econ/tournaments/sha2024/crate_sticker_pack_sha2024_group_challengers"
-  }
+  },
+  "marketHashName": "Shanghai 2024 Challengers Autograph Capsule"
  },
  {
   "id": "crate-4980",
@@ -145814,7 +146236,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_sha2024_group_contenders",
    "image_inventory": "econ/tournaments/sha2024/crate_sticker_pack_sha2024_group_contenders"
-  }
+  },
+  "marketHashName": "Shanghai 2024 Contenders Autograph Capsule"
  },
  {
   "id": "crate-4981",
@@ -146039,7 +146462,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_sha2024_group_champions",
    "image_inventory": "econ/tournaments/sha2024/crate_sticker_pack_sha2024_group_champions"
-  }
+  },
+  "marketHashName": "Shanghai 2024 Champions Autograph Capsule"
  },
  {
   "id": "crate-5117",
@@ -146424,7 +146848,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_aus2025_legends",
    "image_inventory": "econ/tournaments/aus2025/crate_sticker_pack_aus2025_legends"
-  }
+  },
+  "marketHashName": "Austin 2025 Legends Sticker Capsule"
  },
  {
   "id": "crate-5118",
@@ -146809,7 +147234,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_aus2025_challengers",
    "image_inventory": "econ/tournaments/aus2025/crate_sticker_pack_aus2025_challengers"
-  }
+  },
+  "marketHashName": "Austin 2025 Challengers Sticker Capsule"
  },
  {
   "id": "crate-5119",
@@ -147514,7 +147940,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_aus2025_contenders",
    "image_inventory": "econ/tournaments/aus2025/crate_sticker_pack_aus2025_contenders"
-  }
+  },
+  "marketHashName": "Austin 2025 Contenders Sticker Capsule"
  },
  {
   "id": "crate-5120",
@@ -147737,7 +148164,8 @@
   "original": {
    "item_name": "#CSGO_crate_aus2025_promo_de_inferno",
    "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_inferno"
-  }
+  },
+  "marketHashName": "Austin 2025 Inferno Souvenir Package"
  },
  {
   "id": "crate-5120_highlight",
@@ -147960,7 +148388,8 @@
   "original": {
    "item_name": "#CSGO_crate_aus2025_promo_de_inferno",
    "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_inferno"
-  }
+  },
+  "marketHashName": "Austin 2025 Inferno Souvenir Highlight Package"
  },
  {
   "id": "crate-5121",
@@ -148194,7 +148623,8 @@
   "original": {
    "item_name": "#CSGO_crate_aus2025_promo_de_mirage",
    "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_mirage"
-  }
+  },
+  "marketHashName": "Austin 2025 Mirage Souvenir Package"
  },
  {
   "id": "crate-5121_highlight",
@@ -148428,7 +148858,8 @@
   "original": {
    "item_name": "#CSGO_crate_aus2025_promo_de_mirage",
    "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_mirage"
-  }
+  },
+  "marketHashName": "Austin 2025 Mirage Souvenir Highlight Package"
  },
  {
   "id": "crate-5122",
@@ -148662,7 +149093,8 @@
   "original": {
    "item_name": "#CSGO_crate_aus2025_promo_de_anubis",
    "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_anubis"
-  }
+  },
+  "marketHashName": "Austin 2025 Anubis Souvenir Package"
  },
  {
   "id": "crate-5122_highlight",
@@ -148896,7 +149328,8 @@
   "original": {
    "item_name": "#CSGO_crate_aus2025_promo_de_anubis",
    "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_anubis"
-  }
+  },
+  "marketHashName": "Austin 2025 Anubis Souvenir Highlight Package"
  },
  {
   "id": "crate-5123",
@@ -149130,7 +149563,8 @@
   "original": {
    "item_name": "#CSGO_crate_aus2025_promo_de_dust2",
    "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_dust2"
-  }
+  },
+  "marketHashName": "Austin 2025 Dust II Souvenir Package"
  },
  {
   "id": "crate-5123_highlight",
@@ -149364,7 +149798,8 @@
   "original": {
    "item_name": "#CSGO_crate_aus2025_promo_de_dust2",
    "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_dust2"
-  }
+  },
+  "marketHashName": "Austin 2025 Dust II Souvenir Highlight Package"
  },
  {
   "id": "crate-5124",
@@ -149598,7 +150033,8 @@
   "original": {
    "item_name": "#CSGO_crate_aus2025_promo_de_ancient",
    "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_ancient"
-  }
+  },
+  "marketHashName": "Austin 2025 Ancient Souvenir Package"
  },
  {
   "id": "crate-5124_highlight",
@@ -149832,7 +150268,8 @@
   "original": {
    "item_name": "#CSGO_crate_aus2025_promo_de_ancient",
    "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_ancient"
-  }
+  },
+  "marketHashName": "Austin 2025 Ancient Souvenir Highlight Package"
  },
  {
   "id": "crate-5125",
@@ -150055,7 +150492,8 @@
   "original": {
    "item_name": "#CSGO_crate_aus2025_promo_de_nuke",
    "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_nuke"
-  }
+  },
+  "marketHashName": "Austin 2025 Nuke Souvenir Package"
  },
  {
   "id": "crate-5125_highlight",
@@ -150278,7 +150716,8 @@
   "original": {
    "item_name": "#CSGO_crate_aus2025_promo_de_nuke",
    "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_nuke"
-  }
+  },
+  "marketHashName": "Austin 2025 Nuke Souvenir Highlight Package"
  },
  {
   "id": "crate-5126",
@@ -150479,7 +150918,8 @@
   "original": {
    "item_name": "#CSGO_crate_aus2025_promo_de_train",
    "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_train"
-  }
+  },
+  "marketHashName": "Austin 2025 Train Souvenir Package"
  },
  {
   "id": "crate-5126_highlight",
@@ -150680,7 +151120,8 @@
   "original": {
    "item_name": "#CSGO_crate_aus2025_promo_de_train",
    "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_train"
-  }
+  },
+  "marketHashName": "Austin 2025 Train Souvenir Highlight Package"
  },
  {
   "id": "crate-5131",
@@ -152305,7 +152746,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_aus2025_group_legends",
    "image_inventory": "econ/tournaments/aus2025/crate_sticker_pack_aus2025_group_legends"
-  }
+  },
+  "marketHashName": "Austin 2025 Legends Autograph Capsule"
  },
  {
   "id": "crate-5132",
@@ -153930,7 +154372,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_aus2025_group_challengers",
    "image_inventory": "econ/tournaments/aus2025/crate_sticker_pack_aus2025_group_challengers"
-  }
+  },
+  "marketHashName": "Austin 2025 Challengers Autograph Capsule"
  },
  {
   "id": "crate-5133",
@@ -157155,7 +157598,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_aus2025_group_contenders",
    "image_inventory": "econ/tournaments/aus2025/crate_sticker_pack_aus2025_group_contenders"
-  }
+  },
+  "marketHashName": "Austin 2025 Contenders Autograph Capsule"
  },
  {
   "id": "crate-5134",
@@ -157380,7 +157824,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_aus2025_group_champions",
    "image_inventory": "econ/tournaments/aus2025/crate_sticker_pack_aus2025_group_champions"
-  }
+  },
+  "marketHashName": "Austin 2025 Champions Autograph Capsule"
  },
  {
   "id": "crate-5176",
@@ -157592,7 +158037,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_36",
    "image_inventory": "econ/weapon_cases/crate_community_36_closed"
-  }
+  },
+  "marketHashName": "Sealed Genesis Terminal"
  },
  {
   "id": "crate-5181",
@@ -158051,7 +158497,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_37",
    "image_inventory": "econ/weapon_cases/crate_community_37_closed"
-  }
+  },
+  "marketHashName": "Sealed Dead Hand Terminal"
  },
  {
   "id": "crate-5216",
@@ -158436,7 +158883,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_bud2025_legends",
    "image_inventory": "econ/tournaments/bud2025/crate_sticker_pack_bud2025_legends"
-  }
+  },
+  "marketHashName": "Budapest 2025 Legends Sticker Capsule"
  },
  {
   "id": "crate-5217",
@@ -158821,7 +159269,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_bud2025_challengers",
    "image_inventory": "econ/tournaments/bud2025/crate_sticker_pack_bud2025_challengers"
-  }
+  },
+  "marketHashName": "Budapest 2025 Challengers Sticker Capsule"
  },
  {
   "id": "crate-5218",
@@ -159526,7 +159975,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_bud2025_contenders",
    "image_inventory": "econ/tournaments/bud2025/crate_sticker_pack_bud2025_contenders"
-  }
+  },
+  "marketHashName": "Budapest 2025 Contenders Sticker Capsule"
  },
  {
   "id": "crate-5219",
@@ -159749,7 +160199,8 @@
   "original": {
    "item_name": "#CSGO_crate_bud2025_promo_de_inferno",
    "image_inventory": "econ/tournaments/bud2025/crate_bud2025_promo_de_inferno"
-  }
+  },
+  "marketHashName": "Budapest 2025 Inferno Souvenir Package"
  },
  {
   "id": "crate-5219_highlight",
@@ -159972,7 +160423,8 @@
   "original": {
    "item_name": "#CSGO_crate_bud2025_promo_de_inferno",
    "image_inventory": "econ/tournaments/bud2025/crate_bud2025_promo_de_inferno"
-  }
+  },
+  "marketHashName": "Budapest 2025 Inferno Souvenir Highlight Package"
  },
  {
   "id": "crate-5220",
@@ -160206,7 +160658,8 @@
   "original": {
    "item_name": "#CSGO_crate_bud2025_promo_de_mirage",
    "image_inventory": "econ/tournaments/bud2025/crate_bud2025_promo_de_mirage"
-  }
+  },
+  "marketHashName": "Budapest 2025 Mirage Souvenir Package"
  },
  {
   "id": "crate-5220_highlight",
@@ -160440,7 +160893,8 @@
   "original": {
    "item_name": "#CSGO_crate_bud2025_promo_de_mirage",
    "image_inventory": "econ/tournaments/bud2025/crate_bud2025_promo_de_mirage"
-  }
+  },
+  "marketHashName": "Budapest 2025 Mirage Souvenir Highlight Package"
  },
  {
   "id": "crate-5221",
@@ -160641,7 +161095,8 @@
   "original": {
    "item_name": "#CSGO_crate_bud2025_promo_de_overpass",
    "image_inventory": "econ/tournaments/bud2025/crate_bud2025_promo_de_overpass"
-  }
+  },
+  "marketHashName": "Budapest 2025 Overpass Souvenir Package"
  },
  {
   "id": "crate-5221_highlight",
@@ -160842,7 +161297,8 @@
   "original": {
    "item_name": "#CSGO_crate_bud2025_promo_de_overpass",
    "image_inventory": "econ/tournaments/bud2025/crate_bud2025_promo_de_overpass"
-  }
+  },
+  "marketHashName": "Budapest 2025 Overpass Souvenir Highlight Package"
  },
  {
   "id": "crate-5222",
@@ -161076,7 +161532,8 @@
   "original": {
    "item_name": "#CSGO_crate_bud2025_promo_de_dust2",
    "image_inventory": "econ/tournaments/bud2025/crate_bud2025_promo_de_dust2"
-  }
+  },
+  "marketHashName": "Budapest 2025 Dust II Souvenir Package"
  },
  {
   "id": "crate-5222_highlight",
@@ -161310,7 +161767,8 @@
   "original": {
    "item_name": "#CSGO_crate_bud2025_promo_de_dust2",
    "image_inventory": "econ/tournaments/bud2025/crate_bud2025_promo_de_dust2"
-  }
+  },
+  "marketHashName": "Budapest 2025 Dust II Souvenir Highlight Package"
  },
  {
   "id": "crate-5223",
@@ -161544,7 +162002,8 @@
   "original": {
    "item_name": "#CSGO_crate_bud2025_promo_de_ancient",
    "image_inventory": "econ/tournaments/bud2025/crate_bud2025_promo_de_ancient"
-  }
+  },
+  "marketHashName": "Budapest 2025 Ancient Souvenir Package"
  },
  {
   "id": "crate-5223_highlight",
@@ -161778,7 +162237,8 @@
   "original": {
    "item_name": "#CSGO_crate_bud2025_promo_de_ancient",
    "image_inventory": "econ/tournaments/bud2025/crate_bud2025_promo_de_ancient"
-  }
+  },
+  "marketHashName": "Budapest 2025 Ancient Souvenir Highlight Package"
  },
  {
   "id": "crate-5224",
@@ -162001,7 +162461,8 @@
   "original": {
    "item_name": "#CSGO_crate_bud2025_promo_de_nuke",
    "image_inventory": "econ/tournaments/bud2025/crate_bud2025_promo_de_nuke"
-  }
+  },
+  "marketHashName": "Budapest 2025 Nuke Souvenir Package"
  },
  {
   "id": "crate-5224_highlight",
@@ -162224,7 +162685,8 @@
   "original": {
    "item_name": "#CSGO_crate_bud2025_promo_de_nuke",
    "image_inventory": "econ/tournaments/bud2025/crate_bud2025_promo_de_nuke"
-  }
+  },
+  "marketHashName": "Budapest 2025 Nuke Souvenir Highlight Package"
  },
  {
   "id": "crate-5225",
@@ -162425,7 +162887,8 @@
   "original": {
    "item_name": "#CSGO_crate_bud2025_promo_de_train",
    "image_inventory": "econ/tournaments/bud2025/crate_bud2025_promo_de_train"
-  }
+  },
+  "marketHashName": "Budapest 2025 Train Souvenir Package"
  },
  {
   "id": "crate-5225_highlight",
@@ -162626,7 +163089,8 @@
   "original": {
    "item_name": "#CSGO_crate_bud2025_promo_de_train",
    "image_inventory": "econ/tournaments/bud2025/crate_bud2025_promo_de_train"
-  }
+  },
+  "marketHashName": "Budapest 2025 Train Souvenir Highlight Package"
  },
  {
   "id": "crate-5230",
@@ -164251,7 +164715,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_bud2025_group_legends",
    "image_inventory": "econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_legends"
-  }
+  },
+  "marketHashName": "Budapest 2025 Legends Autograph Capsule"
  },
  {
   "id": "crate-5231",
@@ -165876,7 +166341,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_bud2025_group_challengers",
    "image_inventory": "econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_challengers"
-  }
+  },
+  "marketHashName": "Budapest 2025 Challengers Autograph Capsule"
  },
  {
   "id": "crate-5232",
@@ -169101,7 +169567,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_bud2025_group_contenders",
    "image_inventory": "econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_contenders"
-  }
+  },
+  "marketHashName": "Budapest 2025 Contenders Autograph Capsule"
  },
  {
   "id": "crate-5233",
@@ -169326,7 +169793,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_bud2025_group_champions",
    "image_inventory": "econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions"
-  }
+  },
+  "marketHashName": "Budapest 2025 Champions Autograph Capsule"
  },
  {
   "id": "crate-5316",
@@ -177071,7 +177539,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_cologne2026_all",
    "image_inventory": "econ/tournaments/cologne2026/cologne2026_credits"
-  }
+  },
+  "marketHashName": "Cologne 2026 Sticker Capsule"
  },
  {
   "id": "crate-5317",
@@ -179406,7 +179875,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_cologne2026_orgs",
    "image_inventory": "econ/tournaments/cologne2026/cologne2026_credits"
-  }
+  },
+  "marketHashName": "Cologne 2026 Team Sticker Capsule"
  },
  {
   "id": "crate-5318",
@@ -190831,7 +191301,8 @@
   "original": {
    "item_name": "#CSGO_crate_signature_pack_cologne2026_group_players",
    "image_inventory": "econ/tournaments/cologne2026/cologne2026_credits"
-  }
+  },
+  "marketHashName": "Cologne 2026 Autograph Capsule"
  },
  {
   "id": "crate-5329",
@@ -191056,7 +191527,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_cologne2026_all",
    "image_inventory": "econ/tournaments/cologne2026/cologne2026_credits"
-  }
+  },
+  "marketHashName": "Cologne 2026 Sticker Capsule"
  },
  {
   "id": "crate-7003",
@@ -191417,7 +191889,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_34",
    "image_inventory": "econ/weapon_cases/crate_community_34"
-  }
+  },
+  "marketHashName": "Gallery Case"
  },
  {
   "id": "crate-7007",
@@ -192238,7 +192711,8 @@
   "original": {
    "item_name": "#CSGO_crate_community_35",
    "image_inventory": "econ/weapon_cases/crate_community_35"
-  }
+  },
+  "marketHashName": "Fever Case"
  },
  {
   "id": "crate-7011",
@@ -192443,7 +192917,8 @@
   "original": {
    "item_name": "CSGO_crate_sticker_pack_warhammer_traitor_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_warhammer_traitor_capsule"
-  }
+  },
+  "marketHashName": "Warhammer 40,000 Traitor Astartes Sticker Capsule"
  },
  {
   "id": "crate-7013",
@@ -192648,7 +193123,8 @@
   "original": {
    "item_name": "CSGO_crate_sticker_pack_warhammer_adeptus_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_warhammer_adeptus_capsule"
-  }
+  },
+  "marketHashName": "Warhammer 40,000 Adeptus Astartes Sticker Capsule"
  },
  {
   "id": "crate-7015",
@@ -192853,7 +193329,8 @@
   "original": {
    "item_name": "#CSGO_crate_sticker_pack_warhammer_imperium_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_warhammer_imperium_capsule"
-  }
+  },
+  "marketHashName": "Warhammer 40,000 Imperium Sticker Capsule"
  },
  {
   "id": "crate-7017",
@@ -193058,7 +193535,8 @@
   "original": {
    "item_name": "CSGO_crate_sticker_pack_warhammer_xenos_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_warhammer_xenos_capsule"
-  }
+  },
+  "marketHashName": "Warhammer 40,000 Xenos Sticker Capsule"
  },
  {
   "id": "crate-7019",
@@ -193183,7 +193661,8 @@
   "original": {
    "item_name": "#CSGO_crate_musickit_deluge_capsule",
    "image_inventory": "econ/weapon_cases/crate_musickit_deluge_capsule"
-  }
+  },
+  "marketHashName": "Deluge Music Kit Box"
  },
  {
   "id": "crate-7021",
@@ -193308,7 +193787,8 @@
   "original": {
    "item_name": "#CSGO_crate_musickit_deluge_stattrak_capsule",
    "image_inventory": "econ/weapon_cases/crate_musickit_deluge_stattrak_capsule"
-  }
+  },
+  "marketHashName": "StatTrak™ Deluge Music Kit Box"
  },
  {
   "id": "crate-7041",
@@ -193723,6 +194203,7 @@
   "original": {
    "item_name": "CSGO_crate_sticker_pack_jackass_capsule",
    "image_inventory": "econ/weapon_cases/crate_sticker_pack_jackass_capsule"
-  }
+  },
+  "marketHashName": "Jackass Sticker Capsule"
  }
 ]

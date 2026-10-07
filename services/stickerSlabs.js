@@ -218,5 +218,5 @@ export const getStickerSlabs = () => {
 
     const stickers = stickerKits.filter(isSticker).map(parseItem);
 
-    saveDataJson(`./public/api/${folder}/sticker_slabs.json`, stickers);
+    return saveDataJson(`./public/api/${folder}/sticker_slabs.json`, stickers);
 };

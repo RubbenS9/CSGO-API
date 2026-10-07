@@ -58,5 +58,5 @@ export const getKeychains = () => {
 
     const keychains = keychainDefinitions.filter(isKeychain).map(parseItem);
 
-    saveDataJson(`./public/api/${folder}/keychains.json`, keychains);
+    return saveDataJson(`./public/api/${folder}/keychains.json`, keychains);
 };
