@@ -7,6 +7,8 @@ import {
     getDopplerPhase,
     getRarityColor,
     weaponIDMapping,
+    skinMarketHashName,
+    formatIconPath,
 } from "../utils/index.js";
 import { saveDataJson } from "../utils/saveDataJson.js";
 import { $t, $tTag, $tc, languageData } from "./translations.js";
@@ -59,6 +61,50 @@ const getDescription = (desc, paintKits, pattern) => {
     return desc;
 };
 
+// One entry per concrete variant in skins_not_grouped: wear × (normal | StatTrak | Souvenir).
+// market_hash_name is always English ($t(..., true)), because prices are looked up by that string.
+const getWearVariants = ({ weapon, pattern, items, paintKits, iconPath, cdnImages, isStatTrak, isSouvenir }) => {
+    const wearKeys = getWears(paintKits[pattern]?.wear_remap_min, paintKits[pattern]?.wear_remap_max);
+    // Some skins only exist as souvenir, like "MP5-SD | Lab Rats".
+    const types = ["hy_labrat_mp5"].includes(pattern) ? [] : ["skin"];
+
+    if (isStatTrak) {
+        types.push("skin_stattrak");
+    }
+
+    if (isSouvenir) {
+        types.push("skin_souvenir");
+    }
+
+    const englishItemName = !isNotWeapon(weapon)
+        ? $t(items[weapon].item_name_prefab, true)
+        : $t(items[weapon].item_name, true);
+    const englishPattern = $t(paintKits[pattern]?.description_tag, true);
+
+    return wearKeys.flatMap(wearKey =>
+        types.map(type => {
+            const wearIconPath = formatIconPath(iconPath.toLowerCase(), wearKey);
+
+            return {
+                id: wearKey,
+                name: $t(wearKey),
+                stattrak: type === "skin_stattrak",
+                souvenir: type === "skin_souvenir",
+                market_hash_name: skinMarketHashName({
+                    itemName: englishItemName,
+                    pattern: englishPattern,
+                    wear: $t(wearKey, true),
+                    isStatTrak: type === "skin_stattrak",
+                    isSouvenir: type === "skin_souvenir",
+                    isWeapon: !isNotWeapon(weapon),
+                    isVanilla: false,
+                }),
+                image: cdnImages[wearIconPath] ? cdnImages[wearIconPath] : getImageUrl(wearIconPath),
+            };
+        })
+    );
+};
+
 const parseItem = (item, items) => {
     const { rarities, paintKits, cratesBySkins, collectionsBySkins, cdnImages } = state;
     const [weapon, pattern] = getSkinInfo(item.icon_path);
@@ -79,6 +125,7 @@ const parseItem = (item, items) => {
         weapon.includes("knife") ||
         weapon.includes("bayonet") ||
         state.stattTrakSkins[`[${pattern}]${weapon}`] !== undefined;
+    const isSouvenir = !isNotWeapon(weapon);
 
     const isKnife = weapon.includes("weapon_knife") || weapon.includes("weapon_bayonet");
 
@@ -131,11 +178,18 @@ const parseItem = (item, items) => {
         stattrak: isStatTrak,
         // The Souvenir-O-Matic (IEM Cologne 2026 Major) lets any normal weapon skin become a
         // Souvenir, so every gun qualifies. Knives and gloves stay out, as isNotWeapon covers both.
-        souvenir: !isNotWeapon(weapon),
+        souvenir: isSouvenir,
         paint_index: paintKits[pattern]?.paint_index,
-        wears: getWears(paintKits[pattern]?.wear_remap_min, paintKits[pattern]?.wear_remap_max).map(
-            wearKey => ({ id: wearKey, name: $t(wearKey) })
-        ),
+        wears: getWearVariants({
+            weapon,
+            pattern,
+            items,
+            paintKits,
+            iconPath: item.icon_path,
+            cdnImages,
+            isStatTrak,
+            isSouvenir,
+        }),
         collections:
             collectionsBySkins?.[`skin-${item.object_id}`]?.map(i => ({
                 ...i,
