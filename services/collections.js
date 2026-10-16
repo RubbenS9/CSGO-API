@@ -80,7 +80,7 @@ const parseItem = item => {
             ...i,
             name: $t(i.name),
         })),
-        contains: skinsByCollections?.[item.name.replace("#CSGO_", "")].map(i => ({
+        contains: (skinsByCollections?.[item.name.replace("#CSGO_", "")] ?? []).map(i => ({
             ...i,
             name: i.name instanceof Object ? `${$t(i.name.weapon)} | ${$t(i.name.pattern)}` : $t(i.name),
             rarity: {

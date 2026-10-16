@@ -57,15 +57,41 @@ try {
     }
 }
 
+const publishedFiles = [
+    "agents.json",
+    "base_weapons.json",
+    "collectibles.json",
+    "collections.json",
+    "crates.json",
+    "graffiti.json",
+    "highlights.json",
+    "keychains.json",
+    "keys.json",
+    "music_kits.json",
+    "patches.json",
+    "sticker_slabs.json",
+    "stickers.json",
+    "tools.json",
+    "weapons.json",
+];
+
+const missingPublishedFile = languages.some(language =>
+    publishedFiles.some(file => !fs.existsSync(`./public/api/${language.folder}/${file}`))
+);
+
 if (isForce) {
     console.log("Force flag detected, generating new data regardless of manifest Ids");
 } else {
     const manifestChanged = existingManifestId !== latestManifestId;
     const imagesChanged = existingImagesSha !== latestImagesSha;
 
-    if (!manifestChanged && !imagesChanged) {
+    if (!manifestChanged && !imagesChanged && !missingPublishedFile) {
         console.log("No changes detected in manifest or images.json, exiting");
         process.exit(0);
+    }
+
+    if (missingPublishedFile) {
+        console.log("A published JSON file is missing, generating new data.");
     }
 
     if (manifestChanged) {
