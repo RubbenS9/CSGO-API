@@ -61,48 +61,37 @@ const getDescription = (desc, paintKits, pattern) => {
     return desc;
 };
 
-// One entry per concrete variant in skins_not_grouped: wear × (normal | StatTrak | Souvenir).
-// market_hash_name is always English ($t(..., true)), because prices are looked up by that string.
+// One entry per wear index. StatTrak and Souvenir are flags, not extra rows.
+// market_hash_name is the English normal variant. Souvenir-only skins keep the Souvenir name.
 const getWearVariants = ({ weapon, pattern, items, paintKits, iconPath, cdnImages, isStatTrak, isSouvenir }) => {
     const wearKeys = getWears(paintKits[pattern]?.wear_remap_min, paintKits[pattern]?.wear_remap_max);
-    // Some skins only exist as souvenir, like "MP5-SD | Lab Rats".
-    const types = ["hy_labrat_mp5"].includes(pattern) ? [] : ["skin"];
-
-    if (isStatTrak) {
-        types.push("skin_stattrak");
-    }
-
-    if (isSouvenir) {
-        types.push("skin_souvenir");
-    }
+    const souvenirOnly = ["hy_labrat_mp5"].includes(pattern);
 
     const englishItemName = !isNotWeapon(weapon)
         ? $t(items[weapon].item_name_prefab, true)
         : $t(items[weapon].item_name, true);
     const englishPattern = $t(paintKits[pattern]?.description_tag, true);
 
-    return wearKeys.flatMap(wearKey =>
-        types.map(type => {
-            const wearIconPath = formatIconPath(iconPath.toLowerCase(), wearKey);
+    return wearKeys.map(wearKey => {
+        const wearIconPath = formatIconPath(iconPath.toLowerCase(), wearKey);
 
-            return {
-                id: wearKey,
-                name: $t(wearKey),
-                stattrak: type === "skin_stattrak",
-                souvenir: type === "skin_souvenir",
-                market_hash_name: skinMarketHashName({
-                    itemName: englishItemName,
-                    pattern: englishPattern,
-                    wear: $t(wearKey, true),
-                    isStatTrak: type === "skin_stattrak",
-                    isSouvenir: type === "skin_souvenir",
-                    isWeapon: !isNotWeapon(weapon),
-                    isVanilla: false,
-                }),
-                image: cdnImages[wearIconPath] ? cdnImages[wearIconPath] : getImageUrl(wearIconPath),
-            };
-        })
-    );
+        return {
+            id: wearKey,
+            name: $t(wearKey),
+            stattrak: isStatTrak,
+            souvenir: isSouvenir,
+            market_hash_name: skinMarketHashName({
+                itemName: englishItemName,
+                pattern: englishPattern,
+                wear: $t(wearKey, true),
+                isStatTrak: false,
+                isSouvenir: souvenirOnly,
+                isWeapon: !isNotWeapon(weapon),
+                isVanilla: false,
+            }),
+            image: cdnImages[wearIconPath] ? cdnImages[wearIconPath] : getImageUrl(wearIconPath),
+        };
+    });
 };
 
 const parseItem = (item, items) => {
