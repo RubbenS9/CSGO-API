@@ -43,10 +43,10 @@ Full list with display names in [`constants.js`](constants.js).
 ### All items
 
 ```http
-GET https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/all.json
+GET https://raw.githubusercontent.com/RubbenS9/CSGO-API/main/public/api/{language}/all.json
 ```
 
-Object with all items accessible by their id.
+Object with all items accessible by their id. Replace `{language}` with `en`, `es`, or `ru`.
 
 ### List skins
 

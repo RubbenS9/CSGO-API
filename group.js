@@ -55,15 +55,21 @@ try {
     }
 }
 
+const missingAllJson = languages.some(language => !fs.existsSync(`./public/api/${language.folder}/all.json`));
+
 if (isForce) {
     console.log("Force flag detected, generating new data regardless of manifest Ids");
 } else {
     const manifestChanged = existingManifestId !== latestManifestId;
     const imagesChanged = existingImagesSha !== latestImagesSha;
 
-    if (!manifestChanged && !imagesChanged) {
+    if (!manifestChanged && !imagesChanged && !missingAllJson) {
         console.log("No changes detected in manifest or images.json, exiting");
         process.exit(0);
+    }
+
+    if (missingAllJson) {
+        console.log("all.json is missing, generating new data.");
     }
 
     if (manifestChanged) {

@@ -12,7 +12,7 @@ const endpoints = [
         title: "List all",
         description: "Object with all items accessible by their id.",
         endpoint: "/all.json",
-        url: "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/all.json",
+        url: "https://raw.githubusercontent.com/RubbenS9/CSGO-API/main/public/api/en/all.json",
         jsonFile: "public/api/en/all.json",
         isObject: true, // Special case - it's an object, not an array
     },
