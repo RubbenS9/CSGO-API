@@ -1,3 +1,4 @@
+import axios from "axios";
 import {
     getWeaponName,
     isNotWeapon,
@@ -15,6 +16,80 @@ import { $t, $tTag, $tc, languageData } from "./translations.js";
 import { state } from "./main.js";
 import specialNotes from "../utils/specialNotes.json" with { type: "json" };
 import { getImageUrl } from "../constants.js";
+
+// English only: market_hash_name stays English for every locale.
+const SKIN_VARIANTS_URL = "https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/all.json";
+
+const warnedSkinIds = new Set();
+
+const variantKind = entry => (entry.souvenir ? 2 : entry.stattrak ? 1 : 0);
+
+const compareVariantEntries = (left, right) => {
+    const leftWear = left.wear?.id ?? "";
+    const rightWear = right.wear?.id ?? "";
+
+    if (leftWear < rightWear) return -1;
+    if (leftWear > rightWear) return 1;
+
+    return variantKind(left) - variantKind(right);
+};
+
+const toSkinVariant = entry => ({
+    id: entry.id,
+    marketHashName: entry.market_hash_name,
+    wear: entry.wear?.name ?? null,
+    stattrak: Boolean(entry.stattrak),
+    souvenir: Boolean(entry.souvenir),
+    image: entry.image,
+});
+
+// One pass over all.json. The resulting arrays are reused for every locale.
+export const loadSkinVariants = async () => {
+    const { data } = await axios.get(SKIN_VARIANTS_URL, {
+        timeout: 180000,
+        maxContentLength: Infinity,
+        maxBodyLength: Infinity,
+    });
+
+    const grouped = new Map();
+
+    for (const entry of Object.values(data)) {
+        if (entry == null || entry.skin_id == null) continue;
+
+        const list = grouped.get(entry.skin_id);
+        if (list) {
+            list.push(entry);
+        } else {
+            grouped.set(entry.skin_id, [entry]);
+        }
+    }
+
+    const variantsBySkinId = new Map();
+
+    for (const [skinId, entries] of grouped) {
+        entries.sort(compareVariantEntries);
+        variantsBySkinId.set(skinId, entries.map(toSkinVariant));
+    }
+
+    console.log(`Indexed variants for ${variantsBySkinId.size} skins`);
+
+    return variantsBySkinId;
+};
+
+const variantsFor = skinId => {
+    const variants = state.skinVariantsById?.get(skinId);
+
+    if (!variants || variants.length === 0) {
+        if (!warnedSkinIds.has(skinId)) {
+            warnedSkinIds.add(skinId);
+            console.warn(`Skin ${skinId} has no variants`);
+        }
+
+        return [];
+    }
+
+    return variants;
+};
 
 const getPatternName = (weapon, string) => {
     return string.replace(`${weapon}_`, "").toLowerCase();
@@ -263,6 +338,14 @@ export const getSkins = async () => {
             },
         })),
     ].filter(skin => !skin.name.includes("null") && skin.rarity.id);
+
+    if (!(state.skinVariantsById instanceof Map)) {
+        throw new Error("Skin variants are not loaded");
+    }
+
+    for (const skin of skins) {
+        skin.variants = variantsFor(skin.id);
+    }
 
     await saveDataJson(`./public/api/${folder}/weapons.json`, skins);
 };

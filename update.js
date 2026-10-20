@@ -1,6 +1,6 @@
 import * as fs from "fs";
 
-import { loadData, getManifestId, getImagesJsonSha } from "./services/main.js";
+import { loadData, getManifestId, getImagesJsonSha, state } from "./services/main.js";
 import { getCollectibles } from "./services/collectibles.js";
 import { getKeys } from "./services/keys.js";
 import { getAgents } from "./services/agents.js";
@@ -12,7 +12,7 @@ import { getPatches } from "./services/patches.js";
 import { getStickers } from "./services/stickers.js";
 import { getStickerSlabs } from "./services/stickerSlabs.js";
 import { getKeychains } from "./services/keychains.js";
-import { getSkins } from "./services/skins.js";
+import { getSkins, loadSkinVariants } from "./services/skins.js";
 import { getLanguages, parseLanguagesArg } from "./utils/languages.js";
 import { getMusicKits } from "./services/musicKits.js";
 import { getSkinsNotGrouped } from "./services/skinsNotGrouped.js";
@@ -103,6 +103,8 @@ if (isForce) {
 }
 
 await loadData();
+
+state.skinVariantsById = await loadSkinVariants();
 
 const orderedLanguages = [...languages].sort((a, b) => Number(b.folder === "en") - Number(a.folder === "en"));
 
