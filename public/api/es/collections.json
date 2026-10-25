@@ -15475,13 +15475,13 @@
  },
  {
   "id": "collection-set-community-33",
-  "name": "Colección Kilovatio",
+  "name": "Colección Kilovatio",
   "description": null,
   "release_date": "2024-02-07",
   "crates": [
    {
     "id": "crate-4904",
-    "name": "Caja Kilovatio",
+    "name": "Caja Kilovatio",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnEVvqf_a6VoIfGSXz7Hlbwg57QwSS_mxhl15jiGyN37c3_GZw91W8BwRflK7EfKsa2sfw"
    }
   ],
