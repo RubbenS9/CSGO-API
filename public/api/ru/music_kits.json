@@ -9,14 +9,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": null,
   "exclusive": false,
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/music_kits/valve_cs2_01.6958879a95853a86e8fbaebc9efe4518712cb3f9.png",
   "original": {
    "name": "valve_cs2_01",
    "image_inventory": "econ/music_kits/valve_cs2_01"
   },
-  "marketHashName": "Valve, Counter-Strike 2"
+  "marketHashName": "Valve, Counter-Strike 2",
+  "slug": "valve-counter-strike-2"
  },
  {
   "id": "music_kit-2",
@@ -28,14 +28,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": null,
   "exclusive": false,
   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/music_kits/valve_02.731a1c0b47d69a7d7deb5fbfdd04d74bf3378f9c.png",
   "original": {
    "name": "valve_01",
    "image_inventory": "econ/music_kits/valve_02"
   },
-  "marketHashName": "Valve, CS:GO"
+  "marketHashName": "Valve, CS:GO",
+  "slug": "valve-cs-go"
  },
  {
   "id": "music_kit-3",
@@ -47,14 +47,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Daniel Sadowski, Crimson Assault",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMXqZ7FN554bw5U70ShTOzseu_HBZ6aurOvI5cPWSXGOSw-gjtLE4GHCxwktx6jjVw4msJHzGaQIgAowwG7B47VZqDQ",
   "original": {
    "name": "danielsadowski_01",
    "image_inventory": "econ/music_kits/danielsadowski_01"
   },
-  "marketHashName": "Music Kit | Daniel Sadowski, Crimson Assault"
+  "marketHashName": "Music Kit | Daniel Sadowski, Crimson Assault",
+  "slug": "music-kit-daniel-sadowski-crimson-assault"
  },
  {
   "id": "music_kit-3_st",
@@ -66,14 +66,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Daniel Sadowski, Crimson Assault",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMXqZ7FN554bw5U70ShTOzseu_HBZ6aurOvI5cPWSXGOSw-gjtLE4GHCxwktx6jjVw4msJHzGaQIgAowwG7B47VZqDQ",
   "original": {
    "name": "danielsadowski_01",
    "image_inventory": "econ/music_kits/danielsadowski_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Daniel Sadowski, Crimson Assault"
+  "marketHashName": "StatTrak™ Music Kit | Daniel Sadowski, Crimson Assault",
+  "slug": "stattraktm-music-kit-daniel-sadowski-crimson-assault"
  },
  {
   "id": "music_kit-4",
@@ -85,14 +85,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Noisia, Sharpened",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuO3Se9l90y9elpF_iFE-knZW1-HACuqD7P_Q1JqSXDTfHwr536bk_TnjixU1w5jvSw9m3MSXAtbhIJfc",
   "original": {
    "name": "noisia_01",
    "image_inventory": "econ/music_kits/noisia_01"
   },
-  "marketHashName": "Music Kit | Noisia, Sharpened"
+  "marketHashName": "Music Kit | Noisia, Sharpened",
+  "slug": "music-kit-noisia-sharpened"
  },
  {
   "id": "music_kit-4_st",
@@ -104,14 +104,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Noisia, Sharpened",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuO3Se9l90y9elpF_iFE-knZW1-HACuqD7P_Q1JqSXDTfHwr536bk_TnjixU1w5jvSw9m3MSXAtbhIJfc",
   "original": {
    "name": "noisia_01",
    "image_inventory": "econ/music_kits/noisia_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Noisia, Sharpened"
+  "marketHashName": "StatTrak™ Music Kit | Noisia, Sharpened",
+  "slug": "stattraktm-music-kit-noisia-sharpened"
  },
  {
   "id": "music_kit-5",
@@ -123,14 +123,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Robert Allaire, Insurgency",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJ3SV4ERh9Yv461D1RCKhz9i2rCNa6fb8P_U8JqWVWmaUk7gm47g5SXznwxsismrXntqueHmeZwYgFNIuEkQzDnuI",
   "original": {
    "name": "robertallaire_01",
    "image_inventory": "econ/music_kits/robertallaire_01"
   },
-  "marketHashName": "Music Kit | Robert Allaire, Insurgency"
+  "marketHashName": "Music Kit | Robert Allaire, Insurgency",
+  "slug": "music-kit-robert-allaire-insurgency"
  },
  {
   "id": "music_kit-5_st",
@@ -142,14 +142,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Robert Allaire, Insurgency",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJ3SV4ERh9Yv461D1RCKhz9i2rCNa6fb8P_U8JqWVWmaUk7gm47g5SXznwxsismrXntqueHmeZwYgFNIuEkQzDnuI",
   "original": {
    "name": "robertallaire_01",
    "image_inventory": "econ/music_kits/robertallaire_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Robert Allaire, Insurgency"
+  "marketHashName": "StatTrak™ Music Kit | Robert Allaire, Insurgency",
+  "slug": "stattraktm-music-kit-robert-allaire-insurgency"
  },
  {
   "id": "music_kit-6",
@@ -161,14 +161,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Sean Murray, A*D*8",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJn6W61tg5pX182a3EFOkm87k-HUI7PCvMac1d6XDVjLDlrxw5bNvGHmwlx50523Rn9n9IiiWcEZ-XdLc0038",
   "original": {
    "name": "seanmurray_01",
    "image_inventory": "econ/music_kits/seanmurray_01"
   },
-  "marketHashName": "Music Kit | Sean Murray, A*D*8"
+  "marketHashName": "Music Kit | Sean Murray, A*D*8",
+  "slug": "music-kit-sean-murray-a-d-8"
  },
  {
   "id": "music_kit-6_st",
@@ -180,14 +180,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Sean Murray, A*D*8",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJn6W61tg5pX182a3EFOkm87k-HUI7PCvMac1d6XDVjLDlrxw5bNvGHmwlx50523Rn9n9IiiWcEZ-XdLc0038",
   "original": {
    "name": "seanmurray_01",
    "image_inventory": "econ/music_kits/seanmurray_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Sean Murray, A*D*8"
+  "marketHashName": "StatTrak™ Music Kit | Sean Murray, A*D*8",
+  "slug": "stattraktm-music-kit-sean-murray-a-d-8"
  },
  {
   "id": "music_kit-7",
@@ -199,14 +199,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Feed Me, High Noon",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuM36S4Vtwy9elpAHhQhunysPlriAI7aD5PfBvJKmQWjDIxb8j57drHXmwl04k4mWDm9m3MSXA9LcoLxM",
   "original": {
    "name": "feedme_01",
    "image_inventory": "econ/music_kits/feedme_01"
   },
-  "marketHashName": "Music Kit | Feed Me, High Noon"
+  "marketHashName": "Music Kit | Feed Me, High Noon",
+  "slug": "music-kit-feed-me-high-noon"
  },
  {
   "id": "music_kit-7_st",
@@ -218,14 +218,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Feed Me, High Noon",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuM36S4Vtwy9elpAHhQhunysPlriAI7aD5PfBvJKmQWjDIxb8j57drHXmwl04k4mWDm9m3MSXA9LcoLxM",
   "original": {
    "name": "feedme_01",
    "image_inventory": "econ/music_kits/feedme_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Feed Me, High Noon"
+  "marketHashName": "StatTrak™ Music Kit | Feed Me, High Noon",
+  "slug": "stattraktm-music-kit-feed-me-high-noon"
  },
  {
   "id": "music_kit-8",
@@ -237,14 +237,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Dren, Death's Head Demolition",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMWmS62klpcny6Qu2Fkj3n8S4pCBftqv7O6BuI6eXWGTGlrx357RtFiznxxtx42TW1J_3JonMHxrk",
   "original": {
    "name": "dren_01",
    "image_inventory": "econ/music_kits/dren_01"
   },
-  "marketHashName": "Music Kit | Dren, Death's Head Demolition"
+  "marketHashName": "Music Kit | Dren, Death's Head Demolition",
+  "slug": "music-kit-dren-death-s-head-demolition"
  },
  {
   "id": "music_kit-8_st",
@@ -256,14 +256,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Dren, Death's Head Demolition",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMWmS62klpcny6Qu2Fkj3n8S4pCBftqv7O6BuI6eXWGTGlrx357RtFiznxxtx42TW1J_3JonMHxrk",
   "original": {
    "name": "dren_01",
    "image_inventory": "econ/music_kits/dren_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Dren, Death's Head Demolition"
+  "marketHashName": "StatTrak™ Music Kit | Dren, Death's Head Demolition",
+  "slug": "stattraktm-music-kit-dren-death-s-head-demolition"
  },
  {
   "id": "music_kit-9",
@@ -275,14 +275,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Austin Wintory, Desert Fire",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNG6E8V974476_lb1WCKhz9i1-HFZ6qWqP6ZpcvXCXDSUlrgv5rhsGC3iwkt25GjRz9epdSqRPQByFNIuEoOD6xBW",
   "original": {
    "name": "austinwintory_01",
    "image_inventory": "econ/music_kits/austinwintory_01"
   },
-  "marketHashName": "Music Kit | Austin Wintory, Desert Fire"
+  "marketHashName": "Music Kit | Austin Wintory, Desert Fire",
+  "slug": "music-kit-austin-wintory-desert-fire"
  },
  {
   "id": "music_kit-9_st",
@@ -294,14 +294,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Austin Wintory, Desert Fire",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNG6E8V974476_lb1WCKhz9i1-HFZ6qWqP6ZpcvXCXDSUlrgv5rhsGC3iwkt25GjRz9epdSqRPQByFNIuEoOD6xBW",
   "original": {
    "name": "austinwintory_01",
    "image_inventory": "econ/music_kits/austinwintory_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Austin Wintory, Desert Fire"
+  "marketHashName": "StatTrak™ Music Kit | Austin Wintory, Desert Fire",
+  "slug": "stattraktm-music-kit-austin-wintory-desert-fire"
  },
  {
   "id": "music_kit-10",
@@ -313,14 +313,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Sasha, LNOE",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJnqE7VdKpNa6sljjEB6jn5Pi-XMMt_aoO6BrJqDKDTOWkLcmsrY5GX23wUsj4mnXn8HpLyzD8oHEQA",
   "original": {
    "name": "sasha_01",
    "image_inventory": "econ/music_kits/sasha_01"
   },
-  "marketHashName": "Music Kit | Sasha, LNOE"
+  "marketHashName": "Music Kit | Sasha, LNOE",
+  "slug": "music-kit-sasha-lnoe"
  },
  {
   "id": "music_kit-10_st",
@@ -332,14 +332,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Sasha, LNOE",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJnqE7VdKpNa6sljjEB6jn5Pi-XMMt_aoO6BrJqDKDTOWkLcmsrY5GX23wUsj4mnXn8HpLyzD8oHEQA",
   "original": {
    "name": "sasha_01",
    "image_inventory": "econ/music_kits/sasha_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Sasha, LNOE"
+  "marketHashName": "StatTrak™ Music Kit | Sasha, LNOE",
+  "slug": "stattraktm-music-kit-sasha-lnoe"
  },
  {
   "id": "music_kit-11",
@@ -351,14 +351,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Skog, Metal",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJnCY4mklpcmgsg--QhmlzMGw_3QOvqH7baJrd6WXXzXBkb8ktOM5Fn2xlxtz6mrW1J_3JjSDCT4B",
   "original": {
    "name": "skog_01",
    "image_inventory": "econ/music_kits/skog_01"
   },
-  "marketHashName": "Music Kit | Skog, Metal"
+  "marketHashName": "Music Kit | Skog, Metal",
+  "slug": "music-kit-skog-metal"
  },
  {
   "id": "music_kit-11_st",
@@ -370,14 +370,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Skog, Metal",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJnCY4mklpcmgsg--QhmlzMGw_3QOvqH7baJrd6WXXzXBkb8ktOM5Fn2xlxtz6mrW1J_3JjSDCT4B",
   "original": {
    "name": "skog_01",
    "image_inventory": "econ/music_kits/skog_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Skog, Metal"
+  "marketHashName": "StatTrak™ Music Kit | Skog, Metal",
+  "slug": "stattraktm-music-kit-skog-metal"
  },
  {
   "id": "music_kit-12",
@@ -389,14 +389,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Midnight Riders, All I Want for Christmas",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuOHKT619y_JPm413iUw7Ozseur3Ba66v6avw9IaDGVmaUku104bI-HC-wk00h5WSAzNahcn-ebwEmD4wwG7Dv5VTfwA",
   "original": {
    "name": "midnightriders_01",
    "image_inventory": "econ/music_kits/midnightriders_01"
   },
-  "marketHashName": "Music Kit | Midnight Riders, All I Want for Christmas"
+  "marketHashName": "Music Kit | Midnight Riders, All I Want for Christmas",
+  "slug": "music-kit-midnight-riders-all-i-want-for-christmas"
  },
  {
   "id": "music_kit-12_st",
@@ -408,14 +408,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Midnight Riders, All I Want for Christmas",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuOHKT619y_JPm413iUw7Ozseur3Ba66v6avw9IaDGVmaUku104bI-HC-wk00h5WSAzNahcn-ebwEmD4wwG7Dv5VTfwA",
   "original": {
    "name": "midnightriders_01",
    "image_inventory": "econ/music_kits/midnightriders_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Midnight Riders, All I Want for Christmas"
+  "marketHashName": "StatTrak™ Music Kit | Midnight Riders, All I Want for Christmas",
+  "slug": "stattraktm-music-kit-midnight-riders-all-i-want-for-christmas"
  },
  {
   "id": "music_kit-13",
@@ -427,14 +427,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Matt Lange, IsoRhythm",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuOHqD8Vp0-oDx1Qm2DxykzcSx-3Bf7auobPw5I6nACzTIlesk6OU_H33rwkVz6mzWm4mhciqJLlh3-4p3w34",
   "original": {
    "name": "mattlange_01",
    "image_inventory": "econ/music_kits/mattlange_01"
   },
-  "marketHashName": "Music Kit | Matt Lange, IsoRhythm"
+  "marketHashName": "Music Kit | Matt Lange, IsoRhythm",
+  "slug": "music-kit-matt-lange-isorhythm"
  },
  {
   "id": "music_kit-13_st",
@@ -446,14 +446,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Matt Lange, IsoRhythm",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuOHqD8Vp0-oDx1Qm2DxykzcSx-3Bf7auobPw5I6nACzTIlesk6OU_H33rwkVz6mzWm4mhciqJLlh3-4p3w34",
   "original": {
    "name": "mattlange_01",
    "image_inventory": "econ/music_kits/mattlange_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Matt Lange, IsoRhythm"
+  "marketHashName": "StatTrak™ Music Kit | Matt Lange, IsoRhythm",
+  "slug": "stattraktm-music-kit-matt-lange-isorhythm"
  },
  {
   "id": "music_kit-14",
@@ -465,14 +465,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Mateo Messina, For No Mankind",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuOHqD4Fl48ZTn41fmfk2g0M-0-HUDuPD9bPY_d6jHX2KRlu8ls-U9Fy21l0R24mzWy46oIymWO1A-SswnqhmYKNo",
   "original": {
    "name": "mateomessina_01",
    "image_inventory": "econ/music_kits/mateomessina_01"
   },
-  "marketHashName": "Music Kit | Mateo Messina, For No Mankind"
+  "marketHashName": "Music Kit | Mateo Messina, For No Mankind",
+  "slug": "music-kit-mateo-messina-for-no-mankind"
  },
  {
   "id": "music_kit-14_st",
@@ -484,14 +484,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Mateo Messina, For No Mankind",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuOHqD4Fl48ZTn41fmfk2g0M-0-HUDuPD9bPY_d6jHX2KRlu8ls-U9Fy21l0R24mzWy46oIymWO1A-SswnqhmYKNo",
   "original": {
    "name": "mateomessina_01",
    "image_inventory": "econ/music_kits/mateomessina_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Mateo Messina, For No Mankind"
+  "marketHashName": "StatTrak™ Music Kit | Mateo Messina, For No Mankind",
+  "slug": "stattraktm-music-kit-mateo-messina-for-no-mankind"
  },
  {
   "id": "music_kit-15",
@@ -503,14 +503,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Various Artists, Hotline Miami",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPXSD6V978Yr961Tufk2g0JLmpXsLt6T8OfxsJPOSCDfAw7Ygs-dvSS_kzUx-4jvXnNr7IimSbgY-SswntCV3CPU",
   "original": {
    "name": "hotlinemiami_01",
    "image_inventory": "econ/music_kits/hotlinemiami_01"
   },
-  "marketHashName": "Music Kit | Various Artists, Hotline Miami"
+  "marketHashName": "Music Kit | Various Artists, Hotline Miami",
+  "slug": "music-kit-various-artists-hotline-miami"
  },
  {
   "id": "music_kit-15_st",
@@ -522,14 +522,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Various Artists, Hotline Miami",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPXSD6V978Yr961Tufk2g0JLmpXsLt6T8OfxsJPOSCDfAw7Ygs-dvSS_kzUx-4jvXnNr7IimSbgY-SswntCV3CPU",
   "original": {
    "name": "hotlinemiami_01",
    "image_inventory": "econ/music_kits/hotlinemiami_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Various Artists, Hotline Miami"
+  "marketHashName": "StatTrak™ Music Kit | Various Artists, Hotline Miami",
+  "slug": "stattraktm-music-kit-various-artists-hotline-miami"
  },
  {
   "id": "music_kit-16",
@@ -541,14 +541,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Daniel Sadowski, Total Domination",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMXqZ7FN554bw5U70ShTOzsSuqCMJuqKrbvRseaKQDGLAluwntuU8S3vllBsj4juBm9qrJXqXO1MoXowwG7D37VA97g",
   "original": {
    "name": "danielsadowski_02",
    "image_inventory": "econ/music_kits/danielsadowski_02"
   },
-  "marketHashName": "Music Kit | Daniel Sadowski, Total Domination"
+  "marketHashName": "Music Kit | Daniel Sadowski, Total Domination",
+  "slug": "music-kit-daniel-sadowski-total-domination"
  },
  {
   "id": "music_kit-16_st",
@@ -560,14 +560,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Daniel Sadowski, Total Domination",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMXqZ7FN554bw5U70ShTOzsSuqCMJuqKrbvRseaKQDGLAluwntuU8S3vllBsj4juBm9qrJXqXO1MoXowwG7D37VA97g",
   "original": {
    "name": "danielsadowski_02",
    "image_inventory": "econ/music_kits/danielsadowski_02"
   },
-  "marketHashName": "StatTrak™ Music Kit | Daniel Sadowski, Total Domination"
+  "marketHashName": "StatTrak™ Music Kit | Daniel Sadowski, Total Domination",
+  "slug": "stattraktm-music-kit-daniel-sadowski-total-domination"
  },
  {
   "id": "music_kit-17",
@@ -579,14 +579,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Damjan Mravunac, The Talos Principle",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMXqa71d7-ZX1_EzpQB7OzseuqHED7aT2bvY7JPGXCmOVku0u4-c_TiznwRki6mTRzY77di6fPQR0CowwG7A3iRcaNw",
   "original": {
    "name": "damjanmravunac_01",
    "image_inventory": "econ/music_kits/damjanmravunac_01"
   },
-  "marketHashName": "Music Kit | Damjan Mravunac, The Talos Principle"
+  "marketHashName": "Music Kit | Damjan Mravunac, The Talos Principle",
+  "slug": "music-kit-damjan-mravunac-the-talos-principle"
  },
  {
   "id": "music_kit-17_st",
@@ -598,14 +598,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Damjan Mravunac, The Talos Principle",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMXqa71d7-ZX1_EzpQB7OzseuqHED7aT2bvY7JPGXCmOVku0u4-c_TiznwRki6mTRzY77di6fPQR0CowwG7A3iRcaNw",
   "original": {
    "name": "damjanmravunac_01",
    "image_inventory": "econ/music_kits/damjanmravunac_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Damjan Mravunac, The Talos Principle"
+  "marketHashName": "StatTrak™ Music Kit | Damjan Mravunac, The Talos Principle",
+  "slug": "stattraktm-music-kit-damjan-mravunac-the-talos-principle"
  },
  {
   "id": "music_kit-18",
@@ -617,14 +617,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Proxy, Battlepack",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJWmY_U9KpNa6uwuwGEv0zs_m-3YM7KOqbPY4d6XEDWGWkbkg4eNvGCvrzU0jtT_WmMHpLyx6Oq1mFg",
   "original": {
    "name": "proxy_01",
    "image_inventory": "econ/music_kits/proxy_01"
   },
-  "marketHashName": "Music Kit | Proxy, Battlepack"
+  "marketHashName": "Music Kit | Proxy, Battlepack",
+  "slug": "music-kit-proxy-battlepack"
  },
  {
   "id": "music_kit-18_st",
@@ -636,14 +636,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Proxy, Battlepack",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJWmY_U9KpNa6uwuwGEv0zs_m-3YM7KOqbPY4d6XEDWGWkbkg4eNvGCvrzU0jtT_WmMHpLyx6Oq1mFg",
   "original": {
    "name": "proxy_01",
    "image_inventory": "econ/music_kits/proxy_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Proxy, Battlepack"
+  "marketHashName": "StatTrak™ Music Kit | Proxy, Battlepack",
+  "slug": "stattraktm-music-kit-proxy-battlepack"
  },
  {
   "id": "music_kit-19",
@@ -655,14 +655,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Ki:Theory, MOLOTOV",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPnKD7VN65p7LugipEU30x8Hi-ScPv6D7Mfw6c_SVCzLCx-hz6LEwTHmyxUhz4mWBy97_J2XXMFElSD7z3A",
   "original": {
    "name": "kitheory_01",
    "image_inventory": "econ/music_kits/kitheory_01"
   },
-  "marketHashName": "Music Kit | Ki:Theory, MOLOTOV"
+  "marketHashName": "Music Kit | Ki:Theory, MOLOTOV",
+  "slug": "music-kit-ki-theory-molotov"
  },
  {
   "id": "music_kit-19_st",
@@ -674,14 +674,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Ki:Theory, MOLOTOV",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPnKD7VN65p7LugipEU30x8Hi-ScPv6D7Mfw6c_SVCzLCx-hz6LEwTHmyxUhz4mWBy97_J2XXMFElSD7z3A",
   "original": {
    "name": "kitheory_01",
    "image_inventory": "econ/music_kits/kitheory_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Ki:Theory, MOLOTOV"
+  "marketHashName": "StatTrak™ Music Kit | Ki:Theory, MOLOTOV",
+  "slug": "stattraktm-music-kit-ki-theory-molotov"
  },
  {
   "id": "music_kit-20",
@@ -693,14 +693,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Troels Folmann, Uber Blasto Phone",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuIWmY4Fpm8oj451jpTyKhz9i2ryEKtvf_bvBoJKOQXTeVwrwl6OU5F3G3kR534GvTzd78dHyTZwEiFNIuEg48vcSn",
   "original": {
    "name": "troelsfolmann_01",
    "image_inventory": "econ/music_kits/troelsfolmann_01"
   },
-  "marketHashName": "Music Kit | Troels Folmann, Uber Blasto Phone"
+  "marketHashName": "Music Kit | Troels Folmann, Uber Blasto Phone",
+  "slug": "music-kit-troels-folmann-uber-blasto-phone"
  },
  {
   "id": "music_kit-20_st",
@@ -712,14 +712,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Troels Folmann, Uber Blasto Phone",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuIWmY4Fpm8oj451jpTyKhz9i2ryEKtvf_bvBoJKOQXTeVwrwl6OU5F3G3kR534GvTzd78dHyTZwEiFNIuEg48vcSn",
   "original": {
    "name": "troelsfolmann_01",
    "image_inventory": "econ/music_kits/troelsfolmann_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Troels Folmann, Uber Blasto Phone"
+  "marketHashName": "StatTrak™ Music Kit | Troels Folmann, Uber Blasto Phone",
+  "slug": "stattraktm-music-kit-troels-folmann-uber-blasto-phone"
  },
  {
   "id": "music_kit-21",
@@ -731,14 +731,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Kelly Bailey, Hazardous Environments",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPn6b6U939Y7470DYEUy_y5C2r3IIvvCsav1pdqjGV2OSk-gntrloGn7mlEsjsDnUytigInKVZhhgVMWDIHfBEw",
   "original": {
    "name": "kellybailey_01",
    "image_inventory": "econ/music_kits/kellybailey_01"
   },
-  "marketHashName": "Music Kit | Kelly Bailey, Hazardous Environments"
+  "marketHashName": "Music Kit | Kelly Bailey, Hazardous Environments",
+  "slug": "music-kit-kelly-bailey-hazardous-environments"
  },
  {
   "id": "music_kit-21_st",
@@ -750,14 +750,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Kelly Bailey, Hazardous Environments",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPn6b6U939Y7470DYEUy_y5C2r3IIvvCsav1pdqjGV2OSk-gntrloGn7mlEsjsDnUytigInKVZhhgVMWDIHfBEw",
   "original": {
    "name": "kellybailey_01",
    "image_inventory": "econ/music_kits/kellybailey_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Kelly Bailey, Hazardous Environments"
+  "marketHashName": "StatTrak™ Music Kit | Kelly Bailey, Hazardous Environments",
+  "slug": "stattraktm-music-kit-kelly-bailey-hazardous-environments"
  },
  {
   "id": "music_kit-22",
@@ -769,14 +769,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Skog, II-Headshot",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJnCY4mklpsnx71u-RRnzzcKw-3pav_D7O_RvcKnECDGRlugl5-JtFnvhxk5ztWjW1J_3JggDF25u",
   "original": {
    "name": "skog_02",
    "image_inventory": "econ/music_kits/skog_02"
   },
-  "marketHashName": "Music Kit | Skog, II-Headshot"
+  "marketHashName": "Music Kit | Skog, II-Headshot",
+  "slug": "music-kit-skog-ii-headshot"
  },
  {
   "id": "music_kit-22_st",
@@ -788,14 +788,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Skog, II-Headshot",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJnCY4mklpsnx71u-RRnzzcKw-3pav_D7O_RvcKnECDGRlugl5-JtFnvhxk5ztWjW1J_3JggDF25u",
   "original": {
    "name": "skog_02",
    "image_inventory": "econ/music_kits/skog_02"
   },
-  "marketHashName": "StatTrak™ Music Kit | Skog, II-Headshot"
+  "marketHashName": "StatTrak™ Music Kit | Skog, II-Headshot",
+  "slug": "stattraktm-music-kit-skog-ii-headshot"
  },
  {
   "id": "music_kit-23",
@@ -807,14 +807,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Daniel Sadowski, The 8-Bit Kit",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMXqZ7FN554bw5U70ShTOzsWur3FduaX-bvw7JKPDXD7Alusn6bc8GHHjlxt3tT7Uztr4I3iUagQjD4wwG7CloiQLEg",
   "original": {
    "name": "danielsadowski_03",
    "image_inventory": "econ/music_kits/danielsadowski_03"
   },
-  "marketHashName": "Music Kit | Daniel Sadowski, The 8-Bit Kit"
+  "marketHashName": "Music Kit | Daniel Sadowski, The 8-Bit Kit",
+  "slug": "music-kit-daniel-sadowski-the-8-bit-kit"
  },
  {
   "id": "music_kit-23_st",
@@ -826,14 +826,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Daniel Sadowski, The 8-Bit Kit",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMXqZ7FN554bw5U70ShTOzsWur3FduaX-bvw7JKPDXD7Alusn6bc8GHHjlxt3tT7Uztr4I3iUagQjD4wwG7CloiQLEg",
   "original": {
    "name": "danielsadowski_03",
    "image_inventory": "econ/music_kits/danielsadowski_03"
   },
-  "marketHashName": "StatTrak™ Music Kit | Daniel Sadowski, The 8-Bit Kit"
+  "marketHashName": "StatTrak™ Music Kit | Daniel Sadowski, The 8-Bit Kit",
+  "slug": "stattraktm-music-kit-daniel-sadowski-the-8-bit-kit"
  },
  {
   "id": "music_kit-24",
@@ -845,14 +845,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | AWOLNATION, I Am",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNGyY6Vh04I775Ga3EFOjmJDjrHQOv_OsbKFseaDKVzLHk70hsbc4GSvrlEVytWWGm9mhdy6TcEZ-XZaQ4-De",
   "original": {
    "name": "awolnation_01",
    "image_inventory": "econ/music_kits/awolnation_01"
   },
-  "marketHashName": "Music Kit | AWOLNATION, I Am"
+  "marketHashName": "Music Kit | AWOLNATION, I Am",
+  "slug": "music-kit-awolnation-i-am"
  },
  {
   "id": "music_kit-24_st",
@@ -864,14 +864,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | AWOLNATION, I Am",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNGyY6Vh04I775Ga3EFOjmJDjrHQOv_OsbKFseaDKVzLHk70hsbc4GSvrlEVytWWGm9mhdy6TcEZ-XZaQ4-De",
   "original": {
    "name": "awolnation_01",
    "image_inventory": "econ/music_kits/awolnation_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | AWOLNATION, I Am"
+  "marketHashName": "StatTrak™ Music Kit | AWOLNATION, I Am",
+  "slug": "stattraktm-music-kit-awolnation-i-am"
  },
  {
   "id": "music_kit-25",
@@ -883,14 +883,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Mord Fustang, Diamonds",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuOHSF4VBg55P15F7YEUy_z8_irHdetqqtOfw-JaSQCDbBx74gteQwS3zqlEV-4zncy9qociqfPBhgVMVYMXeUSA",
   "original": {
    "name": "mordfustang_01",
    "image_inventory": "econ/music_kits/mordfustang_01"
   },
-  "marketHashName": "Music Kit | Mord Fustang, Diamonds"
+  "marketHashName": "Music Kit | Mord Fustang, Diamonds",
+  "slug": "music-kit-mord-fustang-diamonds"
  },
  {
   "id": "music_kit-25_st",
@@ -902,14 +902,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Mord Fustang, Diamonds",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuOHSF4VBg55P15F7YEUy_z8_irHdetqqtOfw-JaSQCDbBx74gteQwS3zqlEV-4zncy9qociqfPBhgVMVYMXeUSA",
   "original": {
    "name": "mordfustang_01",
    "image_inventory": "econ/music_kits/mordfustang_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Mord Fustang, Diamonds"
+  "marketHashName": "StatTrak™ Music Kit | Mord Fustang, Diamonds",
+  "slug": "stattraktm-music-kit-mord-fustang-diamonds"
  },
  {
   "id": "music_kit-26",
@@ -921,14 +921,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Michael Bross, Invasion!",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuOHKU7Vdw-IXm5Ur0fk2g0Jfk-yQI7ParafU9IvOSVzORmLwm4rRqTHi1kU1y4T_Qm92qc3zGZlI-SswnxR50Dnw",
   "original": {
    "name": "michaelbross_01",
    "image_inventory": "econ/music_kits/michaelbross_01"
   },
-  "marketHashName": "Music Kit | Michael Bross, Invasion!"
+  "marketHashName": "Music Kit | Michael Bross, Invasion!",
+  "slug": "music-kit-michael-bross-invasion"
  },
  {
   "id": "music_kit-26_st",
@@ -940,14 +940,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Michael Bross, Invasion!",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuOHKU7Vdw-IXm5Ur0fk2g0Jfk-yQI7ParafU9IvOSVzORmLwm4rRqTHi1kU1y4T_Qm92qc3zGZlI-SswnxR50Dnw",
   "original": {
    "name": "michaelbross_01",
    "image_inventory": "econ/music_kits/michaelbross_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Michael Bross, Invasion!"
+  "marketHashName": "StatTrak™ Music Kit | Michael Bross, Invasion!",
+  "slug": "stattraktm-music-kit-michael-bross-invasion"
  },
  {
   "id": "music_kit-27",
@@ -959,14 +959,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Ian Hultquist, Lion's Mouth",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPHqZ7UN54Jbh40rzfk2g0MWxqHVduKT_bfw5d_KSWjXIw-xw6LNvTS-ywht35D7Sw934dC-RbAA-SswnHSbFbTg",
   "original": {
    "name": "ianhultquist_01",
    "image_inventory": "econ/music_kits/ianhultquist_01"
   },
-  "marketHashName": "Music Kit | Ian Hultquist, Lion's Mouth"
+  "marketHashName": "Music Kit | Ian Hultquist, Lion's Mouth",
+  "slug": "music-kit-ian-hultquist-lion-s-mouth"
  },
  {
   "id": "music_kit-27_st",
@@ -978,14 +978,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Ian Hultquist, Lion's Mouth",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPHqZ7UN54Jbh40rzfk2g0MWxqHVduKT_bfw5d_KSWjXIw-xw6LNvTS-ywht35D7Sw934dC-RbAA-SswnHSbFbTg",
   "original": {
    "name": "ianhultquist_01",
    "image_inventory": "econ/music_kits/ianhultquist_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Ian Hultquist, Lion's Mouth"
+  "marketHashName": "StatTrak™ Music Kit | Ian Hultquist, Lion's Mouth",
+  "slug": "stattraktm-music-kit-ian-hultquist-lion-s-mouth"
  },
  {
   "id": "music_kit-28",
@@ -997,14 +997,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | New Beat Fund, Sponge Fingerz",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuO36A51N04IHh5F3YEUy_mMGxrCBY66L9P6c9I_OQXzXBw71ztrVtHy3nwB9w5WnTmI6qIijEOxhgVMW0Zuhv-w",
   "original": {
    "name": "newbeatfund_01",
    "image_inventory": "econ/music_kits/newbeatfund_01"
   },
-  "marketHashName": "Music Kit | New Beat Fund, Sponge Fingerz"
+  "marketHashName": "Music Kit | New Beat Fund, Sponge Fingerz",
+  "slug": "music-kit-new-beat-fund-sponge-fingerz"
  },
  {
   "id": "music_kit-28_st",
@@ -1016,14 +1016,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | New Beat Fund, Sponge Fingerz",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuO36A51N04IHh5F3YEUy_mMGxrCBY66L9P6c9I_OQXzXBw71ztrVtHy3nwB9w5WnTmI6qIijEOxhgVMW0Zuhv-w",
   "original": {
    "name": "newbeatfund_01",
    "image_inventory": "econ/music_kits/newbeatfund_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | New Beat Fund, Sponge Fingerz"
+  "marketHashName": "StatTrak™ Music Kit | New Beat Fund, Sponge Fingerz",
+  "slug": "stattraktm-music-kit-new-beat-fund-sponge-fingerz"
  },
  {
   "id": "music_kit-29",
@@ -1035,14 +1035,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Beartooth, Disgusting",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuN36W90J6-5P81Qm2D0ryxsS3ryMKu_P6P_08dvOWDDOSlLd0s7AxTXi1xxl3427TmNqsc3iJLlh34_7J-SA",
   "original": {
    "name": "beartooth_01",
    "image_inventory": "econ/music_kits/beartooth_01"
   },
-  "marketHashName": "Music Kit | Beartooth, Disgusting"
+  "marketHashName": "Music Kit | Beartooth, Disgusting",
+  "slug": "music-kit-beartooth-disgusting"
  },
  {
   "id": "music_kit-29_st",
@@ -1054,14 +1054,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Beartooth, Disgusting",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuN36W90J6-5P81Qm2D0ryxsS3ryMKu_P6P_08dvOWDDOSlLd0s7AxTXi1xxl3427TmNqsc3iJLlh34_7J-SA",
   "original": {
    "name": "beartooth_01",
    "image_inventory": "econ/music_kits/beartooth_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Beartooth, Disgusting"
+  "marketHashName": "StatTrak™ Music Kit | Beartooth, Disgusting",
+  "slug": "stattraktm-music-kit-beartooth-disgusting"
  },
  {
   "id": "music_kit-30",
@@ -1073,14 +1073,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Lennie Moore, Java Havana Funkaloo",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuOX6Z619w-Yj7-FzYEUy_xsPl-yFevKGsbvFpc6DHWzWRmesu5OQ9Tnzmlkp_sGSHztuudn7DbRhgVMXA6cDp0w",
   "original": {
    "name": "lenniemoore_01",
    "image_inventory": "econ/music_kits/lenniemoore_01"
   },
-  "marketHashName": "Music Kit | Lennie Moore, Java Havana Funkaloo"
+  "marketHashName": "Music Kit | Lennie Moore, Java Havana Funkaloo",
+  "slug": "music-kit-lennie-moore-java-havana-funkaloo"
  },
  {
   "id": "music_kit-30_st",
@@ -1092,14 +1092,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Lennie Moore, Java Havana Funkaloo",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuOX6Z619w-Yj7-FzYEUy_xsPl-yFevKGsbvFpc6DHWzWRmesu5OQ9Tnzmlkp_sGSHztuudn7DbRhgVMXA6cDp0w",
   "original": {
    "name": "lenniemoore_01",
    "image_inventory": "econ/music_kits/lenniemoore_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Lennie Moore, Java Havana Funkaloo"
+  "marketHashName": "StatTrak™ Music Kit | Lennie Moore, Java Havana Funkaloo",
+  "slug": "stattraktm-music-kit-lennie-moore-java-havana-funkaloo"
  },
  {
   "id": "music_kit-31",
@@ -1111,14 +1111,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Darude, Moments CSGO",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMXqF8FJwy9elpA7kGE_wy8awr3ULvKL_aaY7eKjACDGRkLoitrQwTCrhzUhw4mjXy4u3MSXAdefS6m8",
   "original": {
    "name": "darude_01",
    "image_inventory": "econ/music_kits/darude_01"
   },
-  "marketHashName": "Music Kit | Darude, Moments CS:GO"
+  "marketHashName": "Music Kit | Darude, Moments CSGO",
+  "slug": "music-kit-darude-moments-csgo"
  },
  {
   "id": "music_kit-31_st",
@@ -1130,14 +1130,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Darude, Moments CSGO",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMXqF8FJwy9elpA7kGE_wy8awr3ULvKL_aaY7eKjACDGRkLoitrQwTCrhzUhw4mjXy4u3MSXAdefS6m8",
   "original": {
    "name": "darude_01",
    "image_inventory": "econ/music_kits/darude_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Darude, Moments CS:GO"
+  "marketHashName": "StatTrak™ Music Kit | Darude, Moments CSGO",
+  "slug": "stattraktm-music-kit-darude-moments-csgo"
  },
  {
   "id": "music_kit-32_st",
@@ -1149,14 +1149,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Beartooth, Aggressive",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuN36W90J6-5P81Qm1D0v0ncXjpHcDuqT5OfY1JKnHWjLFx7l147U8Fivhxxwj4W3Ty46ocyiJLlh39UDB3WA",
   "original": {
    "name": "beartooth_02",
    "image_inventory": "econ/music_kits/beartooth_02"
   },
-  "marketHashName": "StatTrak™ Music Kit | Beartooth, Aggressive"
+  "marketHashName": "StatTrak™ Music Kit | Beartooth, Aggressive",
+  "slug": "stattraktm-music-kit-beartooth-aggressive"
  },
  {
   "id": "music_kit-33_st",
@@ -1168,14 +1168,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Blitz Kids, The Good Youth",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuN3ee8Ux-_YPn1Qm2D0j3zsK4rXYNt_T5avA7IajAVmWSlrgntOdtSSjjwkV_52vcn9z8cHyJLlh3QAIUPxY",
   "original": {
    "name": "blitzkids_01",
    "image_inventory": "econ/music_kits/blitzkids_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Blitz Kids, The Good Youth"
+  "marketHashName": "StatTrak™ Music Kit | Blitz Kids, The Good Youth",
+  "slug": "stattraktm-music-kit-blitz-kids-the-good-youth"
  },
  {
   "id": "music_kit-34_st",
@@ -1187,14 +1187,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Hundredth, FREE",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPW6Z4URw8JP81Qm2DxunzsWypXcL7qD4bf1vcfaXDT6Vmbol5eA8GH3hzU8l4WrSw92udXyJLlh3C_9f1qc",
   "original": {
    "name": "hundredth_01",
    "image_inventory": "econ/music_kits/hundredth_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Hundredth, FREE"
+  "marketHashName": "StatTrak™ Music Kit | Hundredth, FREE",
+  "slug": "stattraktm-music-kit-hundredth-free"
  },
  {
   "id": "music_kit-35_st",
@@ -1206,14 +1206,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Neck Deep, Life's Not Out To Get You",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuO36U7lJw8ZfLugipR0_zzMCzqHsMvKSoOvI-I6XCV2GSlOxwtuNoSXzqxR5ysD-BmYuodmXXMFGQ36ERJg",
   "original": {
    "name": "neckdeep_01",
    "image_inventory": "econ/music_kits/neckdeep_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Neck Deep, Life's Not Out To Get You"
+  "marketHashName": "StatTrak™ Music Kit | Neck Deep, Life's Not Out To Get You",
+  "slug": "stattraktm-music-kit-neck-deep-life-s-not-out-to-get-you"
  },
  {
   "id": "music_kit-36_st",
@@ -1225,14 +1225,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Roam, Backbone",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJ3SW6Gklpcnw7wC2GEujx5Cx-SQMuqSqOv01JKjCDWOSk7pz5rQxSiiwk0p36m2G1J_3JhtobOCh",
   "original": {
    "name": "roam_01",
    "image_inventory": "econ/music_kits/roam_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Roam, Backbone"
+  "marketHashName": "StatTrak™ Music Kit | Roam, Backbone",
+  "slug": "stattraktm-music-kit-roam-backbone"
  },
  {
   "id": "music_kit-37_st",
@@ -1244,14 +1244,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Twin Atlantic, GLA",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuIWye61dh-Ib6_lDkfk2g0Jez-HQLuqT3bPQ4cqfBXzXHlLci4-M-SSjjlEhx4DjQw4v9cy2WbgM-SswnmggWEWw",
   "original": {
    "name": "twinatlantic_01",
    "image_inventory": "econ/music_kits/twinatlantic_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Twin Atlantic, GLA"
+  "marketHashName": "StatTrak™ Music Kit | Twin Atlantic, GLA",
+  "slug": "stattraktm-music-kit-twin-atlantic-gla"
  },
  {
   "id": "music_kit-38_st",
@@ -1263,14 +1263,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Skog, III-Arena",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJnCY4mklp8mm6w_lF0j3m8S0qXFY66D5PPU5I6iWDzPIl78is7VrFnrrwx505GqE1J_3JpXwBPe8",
   "original": {
    "name": "skog_03",
    "image_inventory": "econ/music_kits/skog_03"
   },
-  "marketHashName": "StatTrak™ Music Kit | Skog, III-Arena"
+  "marketHashName": "StatTrak™ Music Kit | Skog, III-Arena",
+  "slug": "stattraktm-music-kit-skog-iii-arena"
  },
  {
   "id": "music_kit-39",
@@ -1282,14 +1282,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | The Verkkars, EZ4ENCE",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuIXOS81Nn_4z1-ErYEUy_ncG2pHQC66qtOfBsefHEWmTHkOgmtLRsSSq2w0ly4DvSmNipIy2TbRhgVMXK454YZg",
   "original": {
    "name": "theverkkars_01",
    "image_inventory": "econ/music_kits/theverkkars_01"
   },
-  "marketHashName": "Music Kit | The Verkkars, EZ4ENCE"
+  "marketHashName": "Music Kit | The Verkkars, EZ4ENCE",
+  "slug": "music-kit-the-verkkars-ez4ence"
  },
  {
   "id": "music_kit-39_st",
@@ -1301,14 +1301,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | The Verkkars, EZ4ENCE",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuIXOS81Nn_4z1-ErYEUy_ncG2pHQC66qtOfBsefHEWmTHkOgmtLRsSSq2w0ly4DvSmNipIy2TbRhgVMXK454YZg",
   "original": {
    "name": "theverkkars_01",
    "image_inventory": "econ/music_kits/theverkkars_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | The Verkkars, EZ4ENCE"
+  "marketHashName": "StatTrak™ Music Kit | The Verkkars, EZ4ENCE",
+  "slug": "stattraktm-music-kit-the-verkkars-ez4ence"
  },
  {
   "id": "music_kit-40",
@@ -1320,14 +1320,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": null,
   "exclusive": true,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPXqb6mklpcn1vgC-FE_3ypOwqHsDuKOtOPFrdvTLXD6Wl-gk6eA4Tnuwlh8jtz7X1J_3JlK1Y0Yt",
   "original": {
    "name": "halo_01",
    "image_inventory": "econ/music_kits/halo_01"
   },
-  "marketHashName": "Halo, The Master Chief Collection"
+  "marketHashName": "Halo, The Master Chief Collection",
+  "slug": "halo-the-master-chief-collection"
  },
  {
   "id": "music_kit-41",
@@ -1339,14 +1339,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Scarlxrd: King, Scar",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJniW91pt5oPLugipR0z1m5fl-XUI7KP9OvY7cPPLXTLEkLcusuI7SXvgkER06j_Uydb7cmXXMFHBwRoo_g",
   "original": {
    "name": "scarlxrd_01",
    "image_inventory": "econ/music_kits/scarlxrd_01"
   },
-  "marketHashName": "Music Kit | Scarlxrd: King, Scar"
+  "marketHashName": "Music Kit | Scarlxrd: King, Scar",
+  "slug": "music-kit-scarlxrd-king-scar"
  },
  {
   "id": "music_kit-41_st",
@@ -1358,14 +1358,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Scarlxrd: King, Scar",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJniW91pt5oPLugipR0z1m5fl-XUI7KP9OvY7cPPLXTLEkLcusuI7SXvgkER06j_Uydb7cmXXMFHBwRoo_g",
   "original": {
    "name": "scarlxrd_01",
    "image_inventory": "econ/music_kits/scarlxrd_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Scarlxrd: King, Scar"
+  "marketHashName": "StatTrak™ Music Kit | Scarlxrd: King, Scar",
+  "slug": "stattraktm-music-kit-scarlxrd-king-scar"
  },
  {
   "id": "music_kit-42",
@@ -1377,14 +1377,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": null,
   "exclusive": true,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPXeW6U9ty9elpA--FBihnMa3-3EMtqr-PvE9JKTDVmGUkrwg4LY6GC21zU9yt2yDw963MSXAJjr9su4",
   "original": {
    "name": "hlalyx_01",
    "image_inventory": "econ/music_kits/hlalyx_01"
   },
-  "marketHashName": "Half-Life: Alyx, Anti-Citizen"
+  "marketHashName": "Half-Life: Alyx, Anti-Citizen",
+  "slug": "half-life-alyx-anti-citizen"
  },
  {
   "id": "music_kit-43",
@@ -1396,14 +1396,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Austin Wintory, Bachram",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNG6E8V974476_lb1WCKhzNjjpSRZuKr3bqVveKjGVjGUl7d04uNqF3vhxk51smqEwtn4JymfbVN0FNIuEmZnQsKn",
   "original": {
    "name": "austinwintory_02",
    "image_inventory": "econ/music_kits/austinwintory_02"
   },
-  "marketHashName": "Music Kit | Austin Wintory, Bachram"
+  "marketHashName": "Music Kit | Austin Wintory, Bachram",
+  "slug": "music-kit-austin-wintory-bachram"
  },
  {
   "id": "music_kit-43_st",
@@ -1415,14 +1415,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Austin Wintory, Bachram",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNG6E8V974476_lb1WCKhzNjjpSRZuKr3bqVveKjGVjGUl7d04uNqF3vhxk51smqEwtn4JymfbVN0FNIuEmZnQsKn",
   "original": {
    "name": "austinwintory_02",
    "image_inventory": "econ/music_kits/austinwintory_02"
   },
-  "marketHashName": "StatTrak™ Music Kit | Austin Wintory, Bachram"
+  "marketHashName": "StatTrak™ Music Kit | Austin Wintory, Bachram",
+  "slug": "stattraktm-music-kit-austin-wintory-bachram"
  },
  {
   "id": "music_kit-44",
@@ -1434,14 +1434,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Dren, Gunman Taco Truck",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMWmS62klpsmiuQ-zFh7ympPlrXQCvaf7bvU0dajKCjCTxLxy5eM-SyzmzEwmsmuH1J_3JsSHwbhj",
   "original": {
    "name": "dren_02",
    "image_inventory": "econ/music_kits/dren_02"
   },
-  "marketHashName": "Music Kit | Dren, Gunman Taco Truck"
+  "marketHashName": "Music Kit | Dren, Gunman Taco Truck",
+  "slug": "music-kit-dren-gunman-taco-truck"
  },
  {
   "id": "music_kit-44_st",
@@ -1453,14 +1453,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Dren, Gunman Taco Truck",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMWmS62klpsmiuQ-zFh7ympPlrXQCvaf7bvU0dajKCjCTxLxy5eM-SyzmzEwmsmuH1J_3JsSHwbhj",
   "original": {
    "name": "dren_02",
    "image_inventory": "econ/music_kits/dren_02"
   },
-  "marketHashName": "StatTrak™ Music Kit | Dren, Gunman Taco Truck"
+  "marketHashName": "StatTrak™ Music Kit | Dren, Gunman Taco Truck",
+  "slug": "stattraktm-music-kit-dren-gunman-taco-truck"
  },
  {
   "id": "music_kit-45",
@@ -1472,14 +1472,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Daniel Sadowski, Eye of the Dragon",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMXqZ7FN554bw5U70ShTOzsKuqyBevaD_PvY_cqnBC2aSx-sitOA9Hy3iw0shsmrQm9n9cS_EO1UlD4wwG7C42cYiFA",
   "original": {
    "name": "danielsadowski_04",
    "image_inventory": "econ/music_kits/danielsadowski_04"
   },
-  "marketHashName": "Music Kit | Daniel Sadowski, Eye of the Dragon"
+  "marketHashName": "Music Kit | Daniel Sadowski, Eye of the Dragon",
+  "slug": "music-kit-daniel-sadowski-eye-of-the-dragon"
  },
  {
   "id": "music_kit-45_st",
@@ -1491,14 +1491,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Daniel Sadowski, Eye of the Dragon",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMXqZ7FN554bw5U70ShTOzsKuqyBevaD_PvY_cqnBC2aSx-sitOA9Hy3iw0shsmrQm9n9cS_EO1UlD4wwG7C42cYiFA",
   "original": {
    "name": "danielsadowski_04",
    "image_inventory": "econ/music_kits/danielsadowski_04"
   },
-  "marketHashName": "StatTrak™ Music Kit | Daniel Sadowski, Eye of the Dragon"
+  "marketHashName": "StatTrak™ Music Kit | Daniel Sadowski, Eye of the Dragon",
+  "slug": "stattraktm-music-kit-daniel-sadowski-eye-of-the-dragon"
  },
  {
   "id": "music_kit-46",
@@ -1510,14 +1510,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Tree Adams and Ben Bromfield, M.U.D.D. FORCE",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuIWmS4Fdx9Yrn1VviTx_jkZvm9CdX683-Oeo9ePOSVj-Tmegg5bFrGnvnk0p36jzWn938cX7CbQcmCpd3TOANs0O7jJS5YPSqCPlw",
   "original": {
    "name": "treeadams_benbromfield_01",
    "image_inventory": "econ/music_kits/treeadams_benbromfield_01"
   },
-  "marketHashName": "Music Kit | Tree Adams and Ben Bromfield, M.U.D.D. FORCE"
+  "marketHashName": "Music Kit | Tree Adams and Ben Bromfield, M.U.D.D. FORCE",
+  "slug": "music-kit-tree-adams-and-ben-bromfield-m-u-d-d-force"
  },
  {
   "id": "music_kit-46_st",
@@ -1529,14 +1529,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Tree Adams and Ben Bromfield, M.U.D.D. FORCE",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuIWmS4Fdx9Yrn1VviTx_jkZvm9CdX683-Oeo9ePOSVj-Tmegg5bFrGnvnk0p36jzWn938cX7CbQcmCpd3TOANs0O7jJS5YPSqCPlw",
   "original": {
    "name": "treeadams_benbromfield_01",
    "image_inventory": "econ/music_kits/treeadams_benbromfield_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Tree Adams and Ben Bromfield, M.U.D.D. FORCE"
+  "marketHashName": "StatTrak™ Music Kit | Tree Adams and Ben Bromfield, M.U.D.D. FORCE",
+  "slug": "stattraktm-music-kit-tree-adams-and-ben-bromfield-m-u-d-d-force"
  },
  {
   "id": "music_kit-47",
@@ -1548,14 +1548,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Tim Huling, Neo Noir",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuIXKa7UN5_Ynz1Qm2D0igxpfhqyAPufGra_RpeKDKCzaVmLYi4LU4TH_lkxl34zvXyI2pcX6JLlh3SgiXjNY",
   "original": {
    "name": "timhuling_01",
    "image_inventory": "econ/music_kits/timhuling_01"
   },
-  "marketHashName": "Music Kit | Tim Huling, Neo Noir"
+  "marketHashName": "Music Kit | Tim Huling, Neo Noir",
+  "slug": "music-kit-tim-huling-neo-noir"
  },
  {
   "id": "music_kit-47_st",
@@ -1567,14 +1567,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Tim Huling, Neo Noir",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuIXKa7UN5_Ynz1Qm2D0igxpfhqyAPufGra_RpeKDKCzaVmLYi4LU4TH_lkxl34zvXyI2pcX6JLlh3SgiXjNY",
   "original": {
    "name": "timhuling_01",
    "image_inventory": "econ/music_kits/timhuling_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Tim Huling, Neo Noir"
+  "marketHashName": "StatTrak™ Music Kit | Tim Huling, Neo Noir",
+  "slug": "stattraktm-music-kit-tim-huling-neo-noir"
  },
  {
   "id": "music_kit-48",
@@ -1586,14 +1586,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Sam Marshall, Bodacious",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJnqa6Fdn54_15lXYEUy_zsPh-SEJtqCvbvBsIvOVCzGTxbh04uU-GSjlxU93sj_dyt6rcyrDPxhgVMX0GDfl6g",
   "original": {
    "name": "sammarshall_01",
    "image_inventory": "econ/music_kits/sammarshall_01"
   },
-  "marketHashName": "Music Kit | Sam Marshall, Bodacious"
+  "marketHashName": "Music Kit | Sam Marshall, Bodacious",
+  "slug": "music-kit-sam-marshall-bodacious"
  },
  {
   "id": "music_kit-48_st",
@@ -1605,14 +1605,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Sam Marshall, Bodacious",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJnqa6Fdn54_15lXYEUy_zsPh-SEJtqCvbvBsIvOVCzGTxbh04uU-GSjlxU93sj_dyt6rcyrDPxhgVMX0GDfl6g",
   "original": {
    "name": "sammarshall_01",
    "image_inventory": "econ/music_kits/sammarshall_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Sam Marshall, Bodacious"
+  "marketHashName": "StatTrak™ Music Kit | Sam Marshall, Bodacious",
+  "slug": "stattraktm-music-kit-sam-marshall-bodacious"
  },
  {
   "id": "music_kit-49",
@@ -1624,14 +1624,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Matt Levine, Drifter",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuOHqD8Vpw4o7672a3EFOoycLiqXcL6qT-PvE5d_HCXT-VkLt35bU5GnDkxEtzsT6Bzd_4eS6fcEZ-XQTUt-o7",
   "original": {
    "name": "mattlevine_01",
    "image_inventory": "econ/music_kits/mattlevine_01"
   },
-  "marketHashName": "Music Kit | Matt Levine, Drifter"
+  "marketHashName": "Music Kit | Matt Levine, Drifter",
+  "slug": "music-kit-matt-levine-drifter"
  },
  {
   "id": "music_kit-49_st",
@@ -1643,14 +1643,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Matt Levine, Drifter",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuOHqD8Vpw4o7672a3EFOoycLiqXcL6qT-PvE5d_HCXT-VkLt35bU5GnDkxEtzsT6Bzd_4eS6fcEZ-XQTUt-o7",
   "original": {
    "name": "mattlevine_01",
    "image_inventory": "econ/music_kits/mattlevine_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Matt Levine, Drifter"
+  "marketHashName": "StatTrak™ Music Kit | Matt Levine, Drifter",
+  "slug": "stattraktm-music-kit-matt-levine-drifter"
  },
  {
   "id": "music_kit-50",
@@ -1662,14 +1662,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Amon Tobin, All for Dust",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNHaY60J69o761Qm2D0_ymMLmpSACt_P_OfVrI6jHWTLHl-x05uAxSSyxxk5x5zzXmYn4cCmJLlh3qmNAx_w",
   "original": {
    "name": "amontobin_01",
    "image_inventory": "econ/music_kits/amontobin_01"
   },
-  "marketHashName": "Music Kit | Amon Tobin, All for Dust"
+  "marketHashName": "Music Kit | Amon Tobin, All for Dust",
+  "slug": "music-kit-amon-tobin-all-for-dust"
  },
  {
   "id": "music_kit-50_st",
@@ -1681,14 +1681,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Amon Tobin, All for Dust",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNHaY60J69o761Qm2D0_ymMLmpSACt_P_OfVrI6jHWTLHl-x05uAxSSyxxk5x5zzXmYn4cCmJLlh3qmNAx_w",
   "original": {
    "name": "amontobin_01",
    "image_inventory": "econ/music_kits/amontobin_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Amon Tobin, All for Dust"
+  "marketHashName": "StatTrak™ Music Kit | Amon Tobin, All for Dust",
+  "slug": "stattraktm-music-kit-amon-tobin-all-for-dust"
  },
  {
   "id": "music_kit-51",
@@ -1700,14 +1700,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": null,
   "exclusive": true,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPXqT4EVKpNa6vgi0EkugzcO2q3Nfu6D8OPc0JvXEXjeVkexw5OIxHn7lzUVx4mTRn8HpLyy5vFaXRw",
   "original": {
    "name": "hades_01",
    "image_inventory": "econ/music_kits/hades_01"
   },
-  "marketHashName": "Darren Korb, Hades Music Kit"
+  "marketHashName": "Darren Korb, Hades Music Kit",
+  "slug": "darren-korb-hades-music-kit"
  },
  {
   "id": "music_kit-52",
@@ -1719,14 +1719,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Neck Deep, The Lowlife Pack",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuO36U7lJw8ZfLugupRU2hm8W4_3AP66etafY1dfaXXTPEkL93tuI6GyvrwkkmsWXVmYuoI2XXMFG1wALONw",
   "original": {
    "name": "neckdeep_02",
    "image_inventory": "econ/music_kits/neckdeep_02"
   },
-  "marketHashName": "Music Kit | Neck Deep, The Lowlife Pack"
+  "marketHashName": "Music Kit | Neck Deep, The Lowlife Pack",
+  "slug": "music-kit-neck-deep-the-lowlife-pack"
  },
  {
   "id": "music_kit-52_st",
@@ -1738,14 +1738,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Neck Deep, The Lowlife Pack",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuO36U7lJw8ZfLugupRU2hm8W4_3AP66etafY1dfaXXTPEkL93tuI6GyvrwkkmsWXVmYuoI2XXMFG1wALONw",
   "original": {
    "name": "neckdeep_02",
    "image_inventory": "econ/music_kits/neckdeep_02"
   },
-  "marketHashName": "StatTrak™ Music Kit | Neck Deep, The Lowlife Pack"
+  "marketHashName": "StatTrak™ Music Kit | Neck Deep, The Lowlife Pack",
+  "slug": "stattraktm-music-kit-neck-deep-the-lowlife-pack"
  },
  {
   "id": "music_kit-53",
@@ -1757,14 +1757,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Scarlxrd, CHAIN$AW.LXADXUT.",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJniW91pt5oPLugupGBmnzcbkqCEPtqr6Oac-damWWGOVx750s7NsGyzhwR9x4T_XnN2qcmXXMFFfP0kuIw",
   "original": {
    "name": "scarlxrd_02",
    "image_inventory": "econ/music_kits/scarlxrd_02"
   },
-  "marketHashName": "Music Kit | Scarlxrd, CHAIN$AW.LXADXUT."
+  "marketHashName": "Music Kit | Scarlxrd, CHAIN$AW.LXADXUT.",
+  "slug": "music-kit-scarlxrd-chain-aw-lxadxut"
  },
  {
   "id": "music_kit-53_st",
@@ -1776,14 +1776,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Scarlxrd, CHAIN$AW.LXADXUT.",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJniW91pt5oPLugupGBmnzcbkqCEPtqr6Oac-damWWGOVx750s7NsGyzhwR9x4T_XnN2qcmXXMFFfP0kuIw",
   "original": {
    "name": "scarlxrd_02",
    "image_inventory": "econ/music_kits/scarlxrd_02"
   },
-  "marketHashName": "StatTrak™ Music Kit | Scarlxrd, CHAIN$AW.LXADXUT."
+  "marketHashName": "StatTrak™ Music Kit | Scarlxrd, CHAIN$AW.LXADXUT.",
+  "slug": "stattraktm-music-kit-scarlxrd-chain-aw-lxadxut"
  },
  {
   "id": "music_kit-54",
@@ -1795,14 +1795,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Austin Wintory, Mocha Petal",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNG6E8V974476_lb1WCKhzdixpSQNvaP9avU8JfOQCmXBk7wl57Q9GCjkzR51sD_Syon7dH_DZgQpFNIuEpzXvuPa",
   "original": {
    "name": "austinwintory_03",
    "image_inventory": "econ/music_kits/austinwintory_03"
   },
-  "marketHashName": "Music Kit | Austin Wintory, Mocha Petal"
+  "marketHashName": "Music Kit | Austin Wintory, Mocha Petal",
+  "slug": "music-kit-austin-wintory-mocha-petal"
  },
  {
   "id": "music_kit-54_st",
@@ -1814,14 +1814,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Austin Wintory, Mocha Petal",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNG6E8V974476_lb1WCKhzdixpSQNvaP9avU8JfOQCmXBk7wl57Q9GCjkzR51sD_Syon7dH_DZgQpFNIuEpzXvuPa",
   "original": {
    "name": "austinwintory_03",
    "image_inventory": "econ/music_kits/austinwintory_03"
   },
-  "marketHashName": "StatTrak™ Music Kit | Austin Wintory, Mocha Petal"
+  "marketHashName": "StatTrak™ Music Kit | Austin Wintory, Mocha Petal",
+  "slug": "stattraktm-music-kit-austin-wintory-mocha-petal"
  },
  {
   "id": "music_kit-55",
@@ -1833,14 +1833,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Chipzel, ~Yellow Magic~",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNnOe9Uxw-LikuxeyR0n1x5C1_HYPv_P3avI7eKDEDDSRkO135LFrSSzlxB8jtz7Rwtz6bzvJOed42IOv",
   "original": {
    "name": "chipzel_01",
    "image_inventory": "econ/music_kits/chipzel_01"
   },
-  "marketHashName": "Music Kit | Chipzel, ~Yellow Magic~"
+  "marketHashName": "Music Kit | Chipzel, ~Yellow Magic~",
+  "slug": "music-kit-chipzel-yellow-magic"
  },
  {
   "id": "music_kit-55_st",
@@ -1852,14 +1852,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Chipzel, ~Yellow Magic~",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNnOe9Uxw-LikuxeyR0n1x5C1_HYPv_P3avI7eKDEDDSRkO135LFrSSzlxB8jtz7Rwtz6bzvJOed42IOv",
   "original": {
    "name": "chipzel_01",
    "image_inventory": "econ/music_kits/chipzel_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Chipzel, ~Yellow Magic~"
+  "marketHashName": "StatTrak™ Music Kit | Chipzel, ~Yellow Magic~",
+  "slug": "stattraktm-music-kit-chipzel-yellow-magic"
  },
  {
   "id": "music_kit-56",
@@ -1871,14 +1871,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Freaky DNA, Vici",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuM2mS5F1s8In11Qm2D0Snn5DhqXII6aevMaE9cqPHXj-VmbYi6bc6GXDgw0wl5zvQz9j_dX-JLlh3U7PBHho",
   "original": {
    "name": "freakydna_01",
    "image_inventory": "econ/music_kits/freakydna_01"
   },
-  "marketHashName": "Music Kit | Freaky DNA, Vici"
+  "marketHashName": "Music Kit | Freaky DNA, Vici",
+  "slug": "music-kit-freaky-dna-vici"
  },
  {
   "id": "music_kit-56_st",
@@ -1890,14 +1890,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Freaky DNA, Vici",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuM2mS5F1s8In11Qm2D0Snn5DhqXII6aevMaE9cqPHXj-VmbYi6bc6GXDgw0wl5zvQz9j_dX-JLlh3U7PBHho",
   "original": {
    "name": "freakydna_01",
    "image_inventory": "econ/music_kits/freakydna_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Freaky DNA, Vici"
+  "marketHashName": "StatTrak™ Music Kit | Freaky DNA, Vici",
+  "slug": "stattraktm-music-kit-freaky-dna-vici"
  },
  {
   "id": "music_kit-57",
@@ -1909,14 +1909,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Jesse Harlin, Astro Bellum",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuP36E9lN99ZX441fYEUy_xsC5pSMIvfGqbaZvJfXCWDXClO0k47BrTi3ml0l14W_QzI6tJS3CbBhgVMVNIuoA8w",
   "original": {
    "name": "jesseharlin_01",
    "image_inventory": "econ/music_kits/jesseharlin_01"
   },
-  "marketHashName": "Music Kit | Jesse Harlin, Astro Bellum"
+  "marketHashName": "Music Kit | Jesse Harlin, Astro Bellum",
+  "slug": "music-kit-jesse-harlin-astro-bellum"
  },
  {
   "id": "music_kit-57_st",
@@ -1928,14 +1928,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Jesse Harlin, Astro Bellum",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuP36E9lN99ZX441fYEUy_xsC5pSMIvfGqbaZvJfXCWDXClO0k47BrTi3ml0l14W_QzI6tJS3CbBhgVMVNIuoA8w",
   "original": {
    "name": "jesseharlin_01",
    "image_inventory": "econ/music_kits/jesseharlin_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Jesse Harlin, Astro Bellum"
+  "marketHashName": "StatTrak™ Music Kit | Jesse Harlin, Astro Bellum",
+  "slug": "stattraktm-music-kit-jesse-harlin-astro-bellum"
  },
  {
   "id": "music_kit-58",
@@ -1947,14 +1947,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Laura Shigihara: Work Hard, Play Hard",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuOXqC91dm_I7z41HmUxzOzseuqyFY66CqOf09dKXAXjDHkr8n5eNoF3Gwxx4lsW7dw4uqJSqTaFJ2CYwwG7C58tQJhA",
   "original": {
    "name": "laurashigihara_01",
    "image_inventory": "econ/music_kits/laurashigihara_01"
   },
-  "marketHashName": "Music Kit | Laura Shigihara: Work Hard, Play Hard"
+  "marketHashName": "Music Kit | Laura Shigihara: Work Hard, Play Hard",
+  "slug": "music-kit-laura-shigihara-work-hard-play-hard"
  },
  {
   "id": "music_kit-58_st",
@@ -1966,14 +1966,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Laura Shigihara: Work Hard, Play Hard",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuOXqC91dm_I7z41HmUxzOzseuqyFY66CqOf09dKXAXjDHkr8n5eNoF3Gwxx4lsW7dw4uqJSqTaFJ2CYwwG7C58tQJhA",
   "original": {
    "name": "laurashigihara_01",
    "image_inventory": "econ/music_kits/laurashigihara_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Laura Shigihara: Work Hard, Play Hard"
+  "marketHashName": "StatTrak™ Music Kit | Laura Shigihara: Work Hard, Play Hard",
+  "slug": "stattraktm-music-kit-laura-shigihara-work-hard-play-hard"
  },
  {
   "id": "music_kit-59",
@@ -1985,14 +1985,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Sarah Schachner, KOLIBRI",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJnqF5F5m94_16VHpRA_OzseuqCMO7feoO_Q9IaTHCD-WlLp0sbJtF3jkx0lysD_WyImvdy-WPQ4lXIwwG7Cq-4RO3A",
   "original": {
    "name": "sarahschachner_01",
    "image_inventory": "econ/music_kits/sarahschachner_01"
   },
-  "marketHashName": "Music Kit | Sarah Schachner, KOLIBRI"
+  "marketHashName": "Music Kit | Sarah Schachner, KOLIBRI",
+  "slug": "music-kit-sarah-schachner-kolibri"
  },
  {
   "id": "music_kit-59_st",
@@ -2004,14 +2004,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Sarah Schachner, KOLIBRI",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJnqF5F5m94_16VHpRA_OzseuqCMO7feoO_Q9IaTHCD-WlLp0sbJtF3jkx0lysD_WyImvdy-WPQ4lXIwwG7Cq-4RO3A",
   "original": {
    "name": "sarahschachner_01",
    "image_inventory": "econ/music_kits/sarahschachner_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Sarah Schachner, KOLIBRI"
+  "marketHashName": "StatTrak™ Music Kit | Sarah Schachner, KOLIBRI",
+  "slug": "stattraktm-music-kit-sarah-schachner-kolibri"
  },
  {
   "id": "music_kit-60",
@@ -2023,14 +2023,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | bbno$, u mad!",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuN3mZ6kVKpNa6vgjlRByknJOw-CEK7KP_bPZrefPGVmSTk7py4bY8Tivlx0Vw4z_SzsHpLyyu3lGzoA",
   "original": {
    "name": "bbnos_01",
    "image_inventory": "econ/music_kits/bbnos_01"
   },
-  "marketHashName": "Music Kit | bbno$, u mad!"
+  "marketHashName": "Music Kit | bbno$, u mad!",
+  "slug": "music-kit-bbno-u-mad"
  },
  {
   "id": "music_kit-60_st",
@@ -2042,14 +2042,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | bbno$, u mad!",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuN3mZ6kVKpNa6vgjlRByknJOw-CEK7KP_bPZrefPGVmSTk7py4bY8Tivlx0Vw4z_SzsHpLyyu3lGzoA",
   "original": {
    "name": "bbnos_01",
    "image_inventory": "econ/music_kits/bbnos_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | bbno$, u mad!"
+  "marketHashName": "StatTrak™ Music Kit | bbno$, u mad!",
+  "slug": "stattraktm-music-kit-bbno-u-mad"
  },
  {
   "id": "music_kit-61",
@@ -2061,14 +2061,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | The Verkkars & n0thing, Flashbang Dance",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuIXOS81Nn_4z1-ErYEU-_zcS5rXEP7KT2PvU_JaiVXjeWkegn6OQ7Hy3klEVztWqByI2veX2VaRhgVMWDR-PWmQ",
   "original": {
    "name": "theverkkars_02",
    "image_inventory": "econ/music_kits/theverkkars_02"
   },
-  "marketHashName": "Music Kit | The Verkkars & n0thing, Flashbang Dance"
+  "marketHashName": "Music Kit | The Verkkars & n0thing, Flashbang Dance",
+  "slug": "music-kit-the-verkkars-n0thing-flashbang-dance"
  },
  {
   "id": "music_kit-61_st",
@@ -2080,14 +2080,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | The Verkkars & n0thing, Flashbang Dance",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuIXOS81Nn_4z1-ErYEU-_zcS5rXEP7KT2PvU_JaiVXjeWkegn6OQ7Hy3klEVztWqByI2veX2VaRhgVMWDR-PWmQ",
   "original": {
    "name": "theverkkars_02",
    "image_inventory": "econ/music_kits/theverkkars_02"
   },
-  "marketHashName": "StatTrak™ Music Kit | The Verkkars & n0thing, Flashbang Dance"
+  "marketHashName": "StatTrak™ Music Kit | The Verkkars & n0thing, Flashbang Dance",
+  "slug": "stattraktm-music-kit-the-verkkars-n0thing-flashbang-dance"
  },
  {
   "id": "music_kit-62",
@@ -2099,14 +2099,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | 3kliksphilip, Heading for the Source",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuZnCb7F1m5I_95lD3fk2g0MW3q3IKvqr4P6BsJPHHXjeSkLl147Q-GH3rkU5z5z7UztaoIHmfZgc-SswnBcYXqSs",
   "original": {
    "name": "3kliksphilip_01",
    "image_inventory": "econ/music_kits/3kliksphilip_01"
   },
-  "marketHashName": "Music Kit | 3kliksphilip, Heading for the Source"
+  "marketHashName": "Music Kit | 3kliksphilip, Heading for the Source",
+  "slug": "music-kit-3kliksphilip-heading-for-the-source"
  },
  {
   "id": "music_kit-62_st",
@@ -2118,14 +2118,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | 3kliksphilip, Heading for the Source",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuZnCb7F1m5I_95lD3fk2g0MW3q3IKvqr4P6BsJPHHXjeSkLl147Q-GH3rkU5z5z7UztaoIHmfZgc-SswnBcYXqSs",
   "original": {
    "name": "3kliksphilip_01",
    "image_inventory": "econ/music_kits/3kliksphilip_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | 3kliksphilip, Heading for the Source"
+  "marketHashName": "StatTrak™ Music Kit | 3kliksphilip, Heading for the Source",
+  "slug": "stattraktm-music-kit-3kliksphilip-heading-for-the-source"
  },
  {
   "id": "music_kit-63",
@@ -2137,14 +2137,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Humanity's Last Breath, Void",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPXeV2gYkutf2ugHjR0T1yc7ir3EL6aD4av1od_WRWmHIxe134bBvHXDrl053tjvLioH-59nm0rc",
   "original": {
    "name": "hlb_01",
    "image_inventory": "econ/music_kits/hlb_01"
   },
-  "marketHashName": "Music Kit | Humanity's Last Breath, Void"
+  "marketHashName": "Music Kit | Humanity's Last Breath, Void",
+  "slug": "music-kit-humanity-s-last-breath-void"
  },
  {
   "id": "music_kit-63_st",
@@ -2156,14 +2156,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Humanity's Last Breath, Void",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPXeV2gYkutf2ugHjR0T1yc7ir3EL6aD4av1od_WRWmHIxe134bBvHXDrl053tjvLioH-59nm0rc",
   "original": {
    "name": "hlb_01",
    "image_inventory": "econ/music_kits/hlb_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Humanity's Last Breath, Void"
+  "marketHashName": "StatTrak™ Music Kit | Humanity's Last Breath, Void",
+  "slug": "stattraktm-music-kit-humanity-s-last-breath-void"
  },
  {
   "id": "music_kit-64",
@@ -2175,14 +2175,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Juelz, Shooters",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuP26S6UxKpNa6ul2yGE3zzZLkqyEOt_asafQ4dPWWXjeWlLx36LA_GnDlwx8isW7UysHpLyxdw4RVEg",
   "original": {
    "name": "juelz_01",
    "image_inventory": "econ/music_kits/juelz_01"
   },
-  "marketHashName": "Music Kit | Juelz, Shooters"
+  "marketHashName": "Music Kit | Juelz, Shooters",
+  "slug": "music-kit-juelz-shooters"
  },
  {
   "id": "music_kit-64_st",
@@ -2194,14 +2194,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Juelz, Shooters",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuP26S6UxKpNa6ul2yGE3zzZLkqyEOt_asafQ4dPWWXjeWlLx36LA_GnDlwx8isW7UysHpLyxdw4RVEg",
   "original": {
    "name": "juelz_01",
    "image_inventory": "econ/music_kits/juelz_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Juelz, Shooters"
+  "marketHashName": "StatTrak™ Music Kit | Juelz, Shooters",
+  "slug": "stattraktm-music-kit-juelz-shooters"
  },
  {
   "id": "music_kit-65",
@@ -2213,14 +2213,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Knock2, dashstar*",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPnWY5l0ny9elpFuwQhugx8G0qXVavqT_avw_I6HCDT-Vk-oi5rFtGnjjkBxy6zyGmNu3MSXAuEzdSoI",
   "original": {
    "name": "knock2_01",
    "image_inventory": "econ/music_kits/knock2_01"
   },
-  "marketHashName": "Music Kit | Knock2, dashstar*"
+  "marketHashName": "Music Kit | Knock2, dashstar*",
+  "slug": "music-kit-knock2-dashstar"
  },
  {
   "id": "music_kit-65_st",
@@ -2232,14 +2232,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Knock2, dashstar*",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPnWY5l0ny9elpFuwQhugx8G0qXVavqT_avw_I6HCDT-Vk-oi5rFtGnjjkBxy6zyGmNu3MSXAuEzdSoI",
   "original": {
    "name": "knock2_01",
    "image_inventory": "econ/music_kits/knock2_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Knock2, dashstar*"
+  "marketHashName": "StatTrak™ Music Kit | Knock2, dashstar*",
+  "slug": "stattraktm-music-kit-knock2-dashstar"
  },
  {
   "id": "music_kit-66",
@@ -2251,14 +2251,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Meechy Darko, Gothic Luxury",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuOH6S5l5s8Ibm4VbYEUy_y5Li-HsC6fT2afZoJqnKXDWUmbp3s7c4TSyxzB4j5WXQzduvI3OfaBhgVMWCMDEthw",
   "original": {
    "name": "meechydarko_01",
    "image_inventory": "econ/music_kits/meechydarko_01"
   },
-  "marketHashName": "Music Kit | Meechy Darko, Gothic Luxury"
+  "marketHashName": "Music Kit | Meechy Darko, Gothic Luxury",
+  "slug": "music-kit-meechy-darko-gothic-luxury"
  },
  {
   "id": "music_kit-66_st",
@@ -2270,14 +2270,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Meechy Darko, Gothic Luxury",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuOH6S5l5s8Ibm4VbYEUy_y5Li-HsC6fT2afZoJqnKXDWUmbp3s7c4TSyxzB4j5WXQzduvI3OfaBhgVMWCMDEthw",
   "original": {
    "name": "meechydarko_01",
    "image_inventory": "econ/music_kits/meechydarko_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Meechy Darko, Gothic Luxury"
+  "marketHashName": "StatTrak™ Music Kit | Meechy Darko, Gothic Luxury",
+  "slug": "stattraktm-music-kit-meechy-darko-gothic-luxury"
  },
  {
   "id": "music_kit-67",
@@ -2289,14 +2289,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Sullivan King, Lock Me Up",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJm6b6V9j9Yn_41fgfk2g0MG3rXUMvfH3OKc8IfOVXTPJxbwgs-BqTSuykUwm6mvTm9erdHmTbVU-SswnLnCCc2g",
   "original": {
    "name": "sullivanking_01",
    "image_inventory": "econ/music_kits/sullivanking_01"
   },
-  "marketHashName": "Music Kit | Sullivan King, Lock Me Up"
+  "marketHashName": "Music Kit | Sullivan King, Lock Me Up",
+  "slug": "music-kit-sullivan-king-lock-me-up"
  },
  {
   "id": "music_kit-67_st",
@@ -2308,14 +2308,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Sullivan King, Lock Me Up",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJm6b6V9j9Yn_41fgfk2g0MG3rXUMvfH3OKc8IfOVXTPJxbwgs-BqTSuykUwm6mvTm9erdHmTbVU-SswnLnCCc2g",
   "original": {
    "name": "sullivanking_01",
    "image_inventory": "econ/music_kits/sullivanking_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Sullivan King, Lock Me Up"
+  "marketHashName": "StatTrak™ Music Kit | Sullivan King, Lock Me Up",
+  "slug": "stattraktm-music-kit-sullivan-king-lock-me-up"
  },
  {
   "id": "music_kit-68",
@@ -2327,14 +2327,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Perfect World, 花脸 Hua Lian (Painted Face)",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJX6F41N24JD7-FXjfk2g0MLlqScOt6L7PPxrdfTLX2HDkbgi4OM7TX2wkRsm6j-Ewor8InueOwY-Sswnc1NbBcg",
   "original": {
    "name": "perfectworld_01",
    "image_inventory": "econ/music_kits/perfectworld_01"
   },
-  "marketHashName": "Music Kit | Perfect World, 花脸 Hua Lian (Painted Face)"
+  "marketHashName": "Music Kit | Perfect World, 花脸 Hua Lian (Painted Face)",
+  "slug": "music-kit-perfect-world-hua-lian-painted-face"
  },
  {
   "id": "music_kit-68_st",
@@ -2346,14 +2346,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Perfect World, 花脸 Hua Lian (Painted Face)",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJX6F41N24JD7-FXjfk2g0MLlqScOt6L7PPxrdfTLX2HDkbgi4OM7TX2wkRsm6j-Ewor8InueOwY-Sswnc1NbBcg",
   "original": {
    "name": "perfectworld_01",
    "image_inventory": "econ/music_kits/perfectworld_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Perfect World, 花脸 Hua Lian (Painted Face)"
+  "marketHashName": "StatTrak™ Music Kit | Perfect World, 花脸 Hua Lian (Painted Face)",
+  "slug": "stattraktm-music-kit-perfect-world-hua-lian-painted-face"
  },
  {
   "id": "music_kit-69",
@@ -2365,14 +2365,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Denzel Curry, ULTIMATE",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMX6Z_1N595Lm-EDYEUy_ncCzrXpZ6qf_avA9I6bADTeRxep05bA7SS-1wBl1sGTSy9z4Ii7EPxhgVMXpTAlXoQ",
   "original": {
    "name": "denzelcurry_01",
    "image_inventory": "econ/music_kits/denzelcurry_01"
   },
-  "marketHashName": "Music Kit | Denzel Curry, ULTIMATE"
+  "marketHashName": "Music Kit | Denzel Curry, ULTIMATE",
+  "slug": "music-kit-denzel-curry-ultimate"
  },
  {
   "id": "music_kit-69_st",
@@ -2384,14 +2384,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Denzel Curry, ULTIMATE",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMX6Z_1N595Lm-EDYEUy_ncCzrXpZ6qf_avA9I6bADTeRxep05bA7SS-1wBl1sGTSy9z4Ii7EPxhgVMXpTAlXoQ",
   "original": {
    "name": "denzelcurry_01",
    "image_inventory": "econ/music_kits/denzelcurry_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Denzel Curry, ULTIMATE"
+  "marketHashName": "StatTrak™ Music Kit | Denzel Curry, ULTIMATE",
+  "slug": "stattraktm-music-kit-denzel-curry-ultimate"
  },
  {
   "id": "music_kit-70",
@@ -2403,14 +2403,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": null,
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuI3qb81NKpNa66wu1Qx-mm8Kx-CYC6aD2bv0-IfPFWGHIkegh5LY4GXzlxU905W7UwsHpLywWgep6oQ",
   "original": {
    "name": "valve_01",
    "image_inventory": "econ/music_kits/valve_01"
   },
-  "marketHashName": "Valve, CS:GO"
+  "marketHashName": "Valve, CS:GO",
+  "slug": "valve-cs-go-music_kit-70"
  },
  {
   "id": "music_kit-71",
@@ -2422,14 +2422,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | DRYDEN, Feel The Power",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMWmO4VN7y9elpAiyEUynyZSwrSMOu6v-MaI8cqjCDzXIluwmtLRtHy2wzB4mtzuDyNi3MSXAPV825k0",
   "original": {
    "name": "dryden_01",
    "image_inventory": "econ/music_kits/dryden_01"
   },
-  "marketHashName": "Music Kit | DRYDEN, Feel The Power"
+  "marketHashName": "Music Kit | DRYDEN, Feel The Power",
+  "slug": "music-kit-dryden-feel-the-power"
  },
  {
   "id": "music_kit-71_st",
@@ -2441,14 +2441,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | DRYDEN, Feel The Power",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMWmO4VN7y9elpAiyEUynyZSwrSMOu6v-MaI8cqjCDzXIluwmtLRtHy2wzB4mtzuDyNi3MSXAPV825k0",
   "original": {
    "name": "dryden_01",
    "image_inventory": "econ/music_kits/dryden_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | DRYDEN, Feel The Power"
+  "marketHashName": "StatTrak™ Music Kit | DRYDEN, Feel The Power",
+  "slug": "stattraktm-music-kit-dryden-feel-the-power"
  },
  {
   "id": "music_kit-72",
@@ -2460,14 +2460,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | ISOxo, inhuman",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPGiY_VlKpNa671zmERmmy5Pi_3YMtqr5aqBpJaXFWGSRlL916LUxGS3nwBwk52TUz8HpLyyhdGnKfw",
   "original": {
    "name": "isoxo_01",
    "image_inventory": "econ/music_kits/isoxo_01"
   },
-  "marketHashName": "Music Kit | ISOxo, inhuman"
+  "marketHashName": "Music Kit | ISOxo, inhuman",
+  "slug": "music-kit-isoxo-inhuman"
  },
  {
   "id": "music_kit-72_st",
@@ -2479,14 +2479,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | ISOxo, inhuman",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPGiY_VlKpNa671zmERmmy5Pi_3YMtqr5aqBpJaXFWGSRlL916LUxGS3nwBwk52TUz8HpLyyhdGnKfw",
   "original": {
    "name": "isoxo_01",
    "image_inventory": "econ/music_kits/isoxo_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | ISOxo, inhuman"
+  "marketHashName": "StatTrak™ Music Kit | ISOxo, inhuman",
+  "slug": "stattraktm-music-kit-isoxo-inhuman"
  },
  {
   "id": "music_kit-73",
@@ -2498,14 +2498,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | KILL SCRIPT, All Night",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPnKb6UV25o7k_ma3EFPym86wqSAKu_H7PKE4JKiWV2GVx71z57k6Sy3hzURwsWjXyouod3KfcEZ-XaDU2Jmf",
   "original": {
    "name": "killscript_01",
    "image_inventory": "econ/music_kits/killscript_01"
   },
-  "marketHashName": "Music Kit | KILL SCRIPT, All Night"
+  "marketHashName": "Music Kit | KILL SCRIPT, All Night",
+  "slug": "music-kit-kill-script-all-night"
  },
  {
   "id": "music_kit-73_st",
@@ -2517,14 +2517,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | KILL SCRIPT, All Night",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPnKb6UV25o7k_ma3EFPym86wqSAKu_H7PKE4JKiWV2GVx71z57k6Sy3hzURwsWjXyouod3KfcEZ-XaDU2Jmf",
   "original": {
    "name": "killscript_01",
    "image_inventory": "econ/music_kits/killscript_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | KILL SCRIPT, All Night"
+  "marketHashName": "StatTrak™ Music Kit | KILL SCRIPT, All Night",
+  "slug": "stattraktm-music-kit-kill-script-all-night"
  },
  {
   "id": "music_kit-74",
@@ -2536,14 +2536,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Knock2, Make U SWEAT!",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPnWY5l0ny9empA21F0ijnMS3rXoO6qv2Oac4cKfDXz-Uw7p0tLk9TXHllkVx5W2HzNa3MSXAGLCr2ac",
   "original": {
    "name": "knock2_02",
    "image_inventory": "econ/music_kits/knock2_02"
   },
-  "marketHashName": "Music Kit | Knock2, Make U SWEAT!"
+  "marketHashName": "Music Kit | Knock2, Make U SWEAT!",
+  "slug": "music-kit-knock2-make-u-sweat"
  },
  {
   "id": "music_kit-74_st",
@@ -2555,14 +2555,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Knock2, Make U SWEAT!",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPnWY5l0ny9empA21F0ijnMS3rXoO6qv2Oac4cKfDXz-Uw7p0tLk9TXHllkVx5W2HzNa3MSXAGLCr2ac",
   "original": {
    "name": "knock2_02",
    "image_inventory": "econ/music_kits/knock2_02"
   },
-  "marketHashName": "StatTrak™ Music Kit | Knock2, Make U SWEAT!"
+  "marketHashName": "StatTrak™ Music Kit | Knock2, Make U SWEAT!",
+  "slug": "stattraktm-music-kit-knock2-make-u-sweat"
  },
  {
   "id": "music_kit-75",
@@ -2574,14 +2574,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Rad Cat, Reason",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJ3qT5ldhy9elpFq0FEmgzpDh-3INuaqtaqU0cKmWCzSSlr9ysrI_TCq1xx5ztmqDyd23MSXAcELeXMM",
   "original": {
    "name": "radcat_01",
    "image_inventory": "econ/music_kits/radcat_01"
   },
-  "marketHashName": "Music Kit | Rad Cat, Reason"
+  "marketHashName": "Music Kit | Rad Cat, Reason",
+  "slug": "music-kit-rad-cat-reason"
  },
  {
   "id": "music_kit-75_st",
@@ -2593,14 +2593,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Rad Cat, Reason",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJ3qT5ldhy9elpFq0FEmgzpDh-3INuaqtaqU0cKmWCzSSlr9ysrI_TCq1xx5ztmqDyd23MSXAcELeXMM",
   "original": {
    "name": "radcat_01",
    "image_inventory": "econ/music_kits/radcat_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Rad Cat, Reason"
+  "marketHashName": "StatTrak™ Music Kit | Rad Cat, Reason",
+  "slug": "stattraktm-music-kit-rad-cat-reason"
  },
  {
   "id": "music_kit-76",
@@ -2612,14 +2612,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | TWERL and Ekko & Sidetrack, Under Bright Lights",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuIWyS91pKpNa6s13lE0-jn8-1pXJauqf4O_xrdaLHDzPBwugh4bgwGHvjxR9-4G6HnMHpLyxvON_2ZA",
   "original": {
    "name": "twerl_01",
    "image_inventory": "econ/music_kits/twerl_01"
   },
-  "marketHashName": "Music Kit | TWERL, Ekko & Sidetrack, Under Bright Lights"
+  "marketHashName": "Music Kit | TWERL and Ekko & Sidetrack, Under Bright Lights",
+  "slug": "music-kit-twerl-and-ekko-sidetrack-under-bright-lights"
  },
  {
   "id": "music_kit-76_st",
@@ -2631,14 +2631,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | TWERL and Ekko & Sidetrack, Under Bright Lights",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuIWyS91pKpNa6s13lE0-jn8-1pXJauqf4O_xrdaLHDzPBwugh4bgwGHvjxR9-4G6HnMHpLyxvON_2ZA",
   "original": {
    "name": "twerl_01",
    "image_inventory": "econ/music_kits/twerl_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | TWERL and Ekko & Sidetrack, Under Bright Lights"
+  "marketHashName": "StatTrak™ Music Kit | TWERL and Ekko & Sidetrack, Under Bright Lights",
+  "slug": "stattraktm-music-kit-twerl-and-ekko-sidetrack-under-bright-lights"
  },
  {
   "id": "music_kit-78",
@@ -2650,14 +2650,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Austin Wintory, The Devil Went Clubbing in Georgia",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNG6E8V974476_lb1WCKhytiwpXNYv_aoO6JoI6DGWDKSkb9ytONsTSvhzU505z-BzoyvdX3Da1MnFNIuEmHVT0Jg",
   "original": {
    "name": "austinwintory_04",
    "image_inventory": "econ/music_kits/austinwintory_04"
   },
-  "marketHashName": "Music Kit | Austin Wintory, The Devil Went Clubbing In Georgia"
+  "marketHashName": "Music Kit | Austin Wintory, The Devil Went Clubbing in Georgia",
+  "slug": "music-kit-austin-wintory-the-devil-went-clubbing-in-georgia"
  },
  {
   "id": "music_kit-78_st",
@@ -2669,14 +2669,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Austin Wintory, The Devil Went Clubbing in Georgia",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNG6E8V974476_lb1WCKhytiwpXNYv_aoO6JoI6DGWDKSkb9ytONsTSvhzU505z-BzoyvdX3Da1MnFNIuEmHVT0Jg",
   "original": {
    "name": "austinwintory_04",
    "image_inventory": "econ/music_kits/austinwintory_04"
   },
-  "marketHashName": "StatTrak™ Music Kit | Austin Wintory, The Devil Went Clubbing In Georgia"
+  "marketHashName": "StatTrak™ Music Kit | Austin Wintory, The Devil Went Clubbing in Georgia",
+  "slug": "stattraktm-music-kit-austin-wintory-the-devil-went-clubbing-in-georgia"
  },
  {
   "id": "music_kit-79",
@@ -2688,14 +2688,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Ben Bromfield, Rabbit Hole",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuN36Z50R6-YH971Xjfk2g0MGw_nMJvKWtO6I9eaDCDWbJxO0utLI6TXjrzU934W6An46vdXqUPFc-Sswnvkalcgc",
   "original": {
    "name": "benbromfield_01",
    "image_inventory": "econ/music_kits/benbromfield_01"
   },
-  "marketHashName": "Music Kit | Ben Bromfield, Rabbit Hole"
+  "marketHashName": "Music Kit | Ben Bromfield, Rabbit Hole",
+  "slug": "music-kit-ben-bromfield-rabbit-hole"
  },
  {
   "id": "music_kit-79_st",
@@ -2707,14 +2707,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Ben Bromfield, Rabbit Hole",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuN36Z50R6-YH971Xjfk2g0MGw_nMJvKWtO6I9eaDCDWbJxO0utLI6TXjrzU934W6An46vdXqUPFc-Sswnvkalcgc",
   "original": {
    "name": "benbromfield_01",
    "image_inventory": "econ/music_kits/benbromfield_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Ben Bromfield, Rabbit Hole"
+  "marketHashName": "StatTrak™ Music Kit | Ben Bromfield, Rabbit Hole",
+  "slug": "stattraktm-music-kit-ben-bromfield-rabbit-hole"
  },
  {
   "id": "music_kit-80",
@@ -2726,14 +2726,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Daniel Sadowski, Dead Shot",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMXqZ7FN554bw5U70ShTOzsOuqnACvKD5P6Fpd6SWCGPFlu0u4eA_SyqwzEwmsTvQyNapdi_CPFMlDYwwG7Abj54DYw",
   "original": {
    "name": "danielsadowski_05",
    "image_inventory": "econ/music_kits/danielsadowski_05"
   },
-  "marketHashName": "Music Kit | Daniel Sadowski, Dead Shot"
+  "marketHashName": "Music Kit | Daniel Sadowski, Dead Shot",
+  "slug": "music-kit-daniel-sadowski-dead-shot"
  },
  {
   "id": "music_kit-80_st",
@@ -2745,14 +2745,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Daniel Sadowski, Dead Shot",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMXqZ7FN554bw5U70ShTOzsOuqnACvKD5P6Fpd6SWCGPFlu0u4eA_SyqwzEwmsTvQyNapdi_CPFMlDYwwG7Abj54DYw",
   "original": {
    "name": "danielsadowski_05",
    "image_inventory": "econ/music_kits/danielsadowski_05"
   },
-  "marketHashName": "StatTrak™ Music Kit | Daniel Sadowski, Dead Shot"
+  "marketHashName": "StatTrak™ Music Kit | Daniel Sadowski, Dead Shot",
+  "slug": "stattraktm-music-kit-daniel-sadowski-dead-shot"
  },
  {
   "id": "music_kit-81",
@@ -2764,14 +2764,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Dren McDonald, Coffee! Kofe! Kahveh!",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMWmS62klp8n3vQjkFkXymJe4-Xtavqf6bvM_dqOSC2PBlr8us7JtTH_rx0Ul5m3V1J_3JsxLaZwf",
   "original": {
    "name": "dren_03",
    "image_inventory": "econ/music_kits/dren_03"
   },
-  "marketHashName": "Music Kit | Dren McDonald, Coffee! Kofe! Kahveh!"
+  "marketHashName": "Music Kit | Dren McDonald, Coffee! Kofe! Kahveh!",
+  "slug": "music-kit-dren-mcdonald-coffee-kofe-kahveh"
  },
  {
   "id": "music_kit-81_st",
@@ -2783,14 +2783,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Dren McDonald, Coffee! Kofe! Kahveh!",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMWmS62klp8n3vQjkFkXymJe4-Xtavqf6bvM_dqOSC2PBlr8us7JtTH_rx0Ul5m3V1J_3JsxLaZwf",
   "original": {
    "name": "dren_03",
    "image_inventory": "econ/music_kits/dren_03"
   },
-  "marketHashName": "StatTrak™ Music Kit | Dren McDonald, Coffee! Kofe! Kahveh!"
+  "marketHashName": "StatTrak™ Music Kit | Dren McDonald, Coffee! Kofe! Kahveh!",
+  "slug": "stattraktm-music-kit-dren-mcdonald-coffee-kofe-kahveh"
  },
  {
   "id": "music_kit-82",
@@ -2802,14 +2802,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Matt Levine, Agency",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuOHqD8Vpw4o7672a3E1OnyJezrnNdu6r7bvNrI_HKVmGUw7h34eM8Hn_lxEVw6zuEyYqqd3vEcEZ-XfK-tm-7",
   "original": {
    "name": "mattlevine_02",
    "image_inventory": "econ/music_kits/mattlevine_02"
   },
-  "marketHashName": "Music Kit | Matt Levine, Agency"
+  "marketHashName": "Music Kit | Matt Levine, Agency",
+  "slug": "music-kit-matt-levine-agency"
  },
  {
   "id": "music_kit-82_st",
@@ -2821,14 +2821,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Matt Levine, Agency",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuOHqD8Vpw4o7672a3E1OnyJezrnNdu6r7bvNrI_HKVmGUw7h34eM8Hn_lxEVw6zuEyYqqd3vEcEZ-XfK-tm-7",
   "original": {
    "name": "mattlevine_02",
    "image_inventory": "econ/music_kits/mattlevine_02"
   },
-  "marketHashName": "StatTrak™ Music Kit | Matt Levine, Agency"
+  "marketHashName": "StatTrak™ Music Kit | Matt Levine, Agency",
+  "slug": "stattraktm-music-kit-matt-levine-agency"
  },
  {
   "id": "music_kit-83",
@@ -2840,14 +2840,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Sam Marshall, Clutch",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJnqa6Fdn54_15lXYEU-_zJe0qnYJ66utOvI0c6LLWz7AmL8u4Lc9S3zjwUxwtW_dmdascCqSPxhgVMUkssBXcw",
   "original": {
    "name": "sammarshall_02",
    "image_inventory": "econ/music_kits/sammarshall_02"
   },
-  "marketHashName": "Music Kit | Sam Marshall, Clutch"
+  "marketHashName": "Music Kit | Sam Marshall, Clutch",
+  "slug": "music-kit-sam-marshall-clutch"
  },
  {
   "id": "music_kit-83_st",
@@ -2859,14 +2859,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Sam Marshall, Clutch",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJnqa6Fdn54_15lXYEU-_zJe0qnYJ66utOvI0c6LLWz7AmL8u4Lc9S3zjwUxwtW_dmdascCqSPxhgVMUkssBXcw",
   "original": {
    "name": "sammarshall_02",
    "image_inventory": "econ/music_kits/sammarshall_02"
   },
-  "marketHashName": "StatTrak™ Music Kit | Sam Marshall, Clutch"
+  "marketHashName": "StatTrak™ Music Kit | Sam Marshall, Clutch",
+  "slug": "stattraktm-music-kit-sam-marshall-clutch"
  },
  {
   "id": "music_kit-84",
@@ -2878,14 +2878,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Tim Huling, Devil's Paintbrush",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuIXKa7UN5_Ynz1Qm1D0Six8Lh-SMDu6r5O6c8eaPBWzHJmb4i4-doFnvmxRl2tzvQy4yhJH2JLlh3Dy1Dksc",
   "original": {
    "name": "timhuling_02",
    "image_inventory": "econ/music_kits/timhuling_02"
   },
-  "marketHashName": "Music Kit | Tim Huling, Devil's Paintbrush"
+  "marketHashName": "Music Kit | Tim Huling, Devil's Paintbrush",
+  "slug": "music-kit-tim-huling-devil-s-paintbrush"
  },
  {
   "id": "music_kit-84_st",
@@ -2897,14 +2897,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Tim Huling, Devil's Paintbrush",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuIXKa7UN5_Ynz1Qm1D0Six8Lh-SMDu6r5O6c8eaPBWzHJmb4i4-doFnvmxRl2tzvQy4yhJH2JLlh3Dy1Dksc",
   "original": {
    "name": "timhuling_02",
    "image_inventory": "econ/music_kits/timhuling_02"
   },
-  "marketHashName": "StatTrak™ Music Kit | Tim Huling, Devil's Paintbrush"
+  "marketHashName": "StatTrak™ Music Kit | Tim Huling, Devil's Paintbrush",
+  "slug": "stattraktm-music-kit-tim-huling-devil-s-paintbrush"
  },
  {
   "id": "music_kit-85",
@@ -2916,14 +2916,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Tree Adams, Seventh Moon",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuIWmS4Fdx9Yrn1Qm2Dxz3zcKy-XFYv6P4PPQ_eaHCVjOSmep35rRrF32wwBh042vSmYmoInmJLlh3TYKTTis",
   "original": {
    "name": "treeadams_01",
    "image_inventory": "econ/music_kits/treeadams_01"
   },
-  "marketHashName": "Music Kit | Tree Adams, Seventh Moon"
+  "marketHashName": "Music Kit | Tree Adams, Seventh Moon",
+  "slug": "music-kit-tree-adams-seventh-moon"
  },
  {
   "id": "music_kit-85_st",
@@ -2935,14 +2935,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Tree Adams, Seventh Moon",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuIWmS4Fdx9Yrn1Qm2Dxz3zcKy-XFYv6P4PPQ_eaHCVjOSmep35rRrF32wwBh042vSmYmoInmJLlh3TYKTTis",
   "original": {
    "name": "treeadams_01",
    "image_inventory": "econ/music_kits/treeadams_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Tree Adams, Seventh Moon"
+  "marketHashName": "StatTrak™ Music Kit | Tree Adams, Seventh Moon",
+  "slug": "stattraktm-music-kit-tree-adams-seventh-moon"
  },
  {
   "id": "music_kit-86",
@@ -2954,14 +2954,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Perfect World, Ay Hey",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJX6F41N24JD7-FXjfk2j0M7ir3QOvKb8P6A1cPSSXzKSkbl14eU-GCu3x0V24jvWzo6veXuUbAQ-SswnjV5YWxY",
   "original": {
    "name": "perfectworld_02",
    "image_inventory": "econ/music_kits/perfectworld_02"
   },
-  "marketHashName": "Music Kit | Perfect World, Ay Hey"
+  "marketHashName": "Music Kit | Perfect World, Ay Hey",
+  "slug": "music-kit-perfect-world-ay-hey"
  },
  {
   "id": "music_kit-86_st",
@@ -2973,14 +2973,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Perfect World, Ay Hey",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJX6F41N24JD7-FXjfk2j0M7ir3QOvKb8P6A1cPSSXzKSkbl14eU-GCu3x0V24jvWzo6veXuUbAQ-SswnjV5YWxY",
   "original": {
    "name": "perfectworld_02",
    "image_inventory": "econ/music_kits/perfectworld_02"
   },
-  "marketHashName": "StatTrak™ Music Kit | Perfect World, Ay Hey"
+  "marketHashName": "StatTrak™ Music Kit | Perfect World, Ay Hey",
+  "slug": "stattraktm-music-kit-perfect-world-ay-hey"
  },
  {
   "id": "music_kit-87",
@@ -2992,14 +2992,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Adam Beyer, Red Room",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNH-W6FRw7YLm1Qm2D0ypm86w-CcL6vT-OP05caHDWmHHmOh35eI5HS_jwE4msmTXwtepcniJLlh3Piv7u7I",
   "original": {
    "name": "adambeyer_01",
    "image_inventory": "econ/music_kits/adambeyer_01"
   },
-  "marketHashName": "Music Kit | Adam Beyer, Red Room"
+  "marketHashName": "Music Kit | Adam Beyer, Red Room",
+  "slug": "music-kit-adam-beyer-red-room"
  },
  {
   "id": "music_kit-87_st",
@@ -3011,14 +3011,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Adam Beyer, Red Room",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNH-W6FRw7YLm1Qm2D0ypm86w-CcL6vT-OP05caHDWmHHmOh35eI5HS_jwE4msmTXwtepcniJLlh3Piv7u7I",
   "original": {
    "name": "adambeyer_01",
    "image_inventory": "econ/music_kits/adambeyer_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Adam Beyer, Red Room"
+  "marketHashName": "StatTrak™ Music Kit | Adam Beyer, Red Room",
+  "slug": "stattraktm-music-kit-adam-beyer-red-room"
  },
  {
   "id": "music_kit-88",
@@ -3030,14 +3030,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Ghost, Skeletá",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMnOY9kJKpNa6uwzmFkT1zMHlpXMMvKv5Oqc0caHBX2bCmb8ltbIxH37klE0h4W_cm8HpLyyghyHkLA",
   "original": {
    "name": "ghost_01",
    "image_inventory": "econ/music_kits/ghost_01"
   },
-  "marketHashName": "Music Kit | Ghost, Skeletá"
+  "marketHashName": "Music Kit | Ghost, Skeletá",
+  "slug": "music-kit-ghost-skeleta"
  },
  {
   "id": "music_kit-88_st",
@@ -3049,14 +3049,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Ghost, Skeletá",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuMnOY9kJKpNa6uwzmFkT1zMHlpXMMvKv5Oqc0caHBX2bCmb8ltbIxH37klE0h4W_cm8HpLyyghyHkLA",
   "original": {
    "name": "ghost_01",
    "image_inventory": "econ/music_kits/ghost_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Ghost, Skeletá"
+  "marketHashName": "StatTrak™ Music Kit | Ghost, Skeletá",
+  "slug": "stattraktm-music-kit-ghost-skeleta"
  },
  {
   "id": "music_kit-89",
@@ -3068,14 +3068,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | HEALTH, RAT WARS",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPX6W6UJ9y9elpAHkF0_wz8C5r3BeuvH4Pfw8IaPACzWSmbkgtrI6Hy2xwBh34mrcyt63MSXA80s-Xh8",
   "original": {
    "name": "health_01",
    "image_inventory": "econ/music_kits/health_01"
   },
-  "marketHashName": "Music Kit | HEALTH, RAT WARS"
+  "marketHashName": "Music Kit | HEALTH, RAT WARS",
+  "slug": "music-kit-health-rat-wars"
  },
  {
   "id": "music_kit-89_st",
@@ -3087,14 +3087,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | HEALTH, RAT WARS",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPX6W6UJ9y9elpAHkF0_wz8C5r3BeuvH4Pfw8IaPACzWSmbkgtrI6Hy2xwBh34mrcyt63MSXA80s-Xh8",
   "original": {
    "name": "health_01",
    "image_inventory": "econ/music_kits/health_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | HEALTH, RAT WARS"
+  "marketHashName": "StatTrak™ Music Kit | HEALTH, RAT WARS",
+  "slug": "stattraktm-music-kit-health-rat-wars"
  },
  {
   "id": "music_kit-90",
@@ -3106,14 +3106,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | James and the Cold Gun, Chewing Glass",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuP3qa4EV0-oPg4lzkThH1mYPuwnIKofD-PPxseajKDTCTkbgg6OI4TCzmxURw42yDzI6hcy-ebgN1XJEiQ-MU8k7vPe1y5g0",
   "original": {
    "name": "jamesandthecoldgun_01",
    "image_inventory": "econ/music_kits/jamesandthecoldgun_01"
   },
-  "marketHashName": "Music Kit | James and the Cold Gun, Chewing Glass"
+  "marketHashName": "Music Kit | James and the Cold Gun, Chewing Glass",
+  "slug": "music-kit-james-and-the-cold-gun-chewing-glass"
  },
  {
   "id": "music_kit-90_st",
@@ -3125,14 +3125,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | James and the Cold Gun, Chewing Glass",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuP3qa4EV0-oPg4lzkThH1mYPuwnIKofD-PPxseajKDTCTkbgg6OI4TCzmxURw42yDzI6hcy-ebgN1XJEiQ-MU8k7vPe1y5g0",
   "original": {
    "name": "jamesandthecoldgun_01",
    "image_inventory": "econ/music_kits/jamesandthecoldgun_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | James and the Cold Gun, Chewing Glass"
+  "marketHashName": "StatTrak™ Music Kit | James and the Cold Gun, Chewing Glass",
+  "slug": "stattraktm-music-kit-james-and-the-cold-gun-chewing-glass"
  },
  {
   "id": "music_kit-91",
@@ -3144,14 +3144,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Jonathan Young, Starship Velociraptor",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuP3SZ5EJ99Ynt5UzpRiKhz9i0-3YCvvD7P_xrJanECDWTme0m5-drHn7hwkpw52zTzYv9cH2eOA4nFNIuEiP11Fka",
   "original": {
    "name": "jonathanyoung_01",
    "image_inventory": "econ/music_kits/jonathanyoung_01"
   },
-  "marketHashName": "Music Kit | Jonathan Young, Starship Velociraptor"
+  "marketHashName": "Music Kit | Jonathan Young, Starship Velociraptor",
+  "slug": "music-kit-jonathan-young-starship-velociraptor"
  },
  {
   "id": "music_kit-91_st",
@@ -3163,14 +3163,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Jonathan Young, Starship Velociraptor",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuP3SZ5EJ99Ynt5UzpRiKhz9i0-3YCvvD7P_xrJanECDWTme0m5-drHn7hwkpw52zTzYv9cH2eOA4nFNIuEiP11Fka",
   "original": {
    "name": "jonathanyoung_01",
    "image_inventory": "econ/music_kits/jonathanyoung_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Jonathan Young, Starship Velociraptor"
+  "marketHashName": "StatTrak™ Music Kit | Jonathan Young, Starship Velociraptor",
+  "slug": "stattraktm-music-kit-jonathan-young-starship-velociraptor"
  },
  {
   "id": "music_kit-92",
@@ -3182,14 +3182,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Juelz, Floorspace",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuP26S6UxKpNW661yyF0Xwyc7kryMIuqCtOqdudaPEDTeUw-11seQ4H3G3zRwk4DuGn8HpLyxF_Gg6fw",
   "original": {
    "name": "juelz_02",
    "image_inventory": "econ/music_kits/juelz_02"
   },
-  "marketHashName": "Music Kit | Juelz, Floorspace"
+  "marketHashName": "Music Kit | Juelz, Floorspace",
+  "slug": "music-kit-juelz-floorspace"
  },
  {
   "id": "music_kit-92_st",
@@ -3201,14 +3201,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Juelz, Floorspace",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuP26S6UxKpNW661yyF0Xwyc7kryMIuqCtOqdudaPEDTeUw-11seQ4H3G3zRwk4DuGn8HpLyxF_Gg6fw",
   "original": {
    "name": "juelz_02",
    "image_inventory": "econ/music_kits/juelz_02"
   },
-  "marketHashName": "StatTrak™ Music Kit | Juelz, Floorspace"
+  "marketHashName": "StatTrak™ Music Kit | Juelz, Floorspace",
+  "slug": "stattraktm-music-kit-juelz-floorspace"
  },
  {
   "id": "music_kit-93",
@@ -3220,14 +3220,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Killer Mike, MICHAEL",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPnKb6VNn-Y7_72a3EFOlz8biqnRd6ab3bvA_cvTDC2XImOwi4-U8S37nxk5y5D7Sw9v9I37DcEZ-XeFRCz_X",
   "original": {
    "name": "killermike_01",
    "image_inventory": "econ/music_kits/killermike_01"
   },
-  "marketHashName": "Music Kit | Killer Mike, MICHAEL"
+  "marketHashName": "Music Kit | Killer Mike, MICHAEL",
+  "slug": "music-kit-killer-mike-michael"
  },
  {
   "id": "music_kit-93_st",
@@ -3239,14 +3239,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Killer Mike, MICHAEL",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuPnKb6VNn-Y7_72a3EFOlz8biqnRd6ab3bvA_cvTDC2XImOwi4-U8S37nxk5y5D7Sw9v9I37DcEZ-XeFRCz_X",
   "original": {
    "name": "killermike_01",
    "image_inventory": "econ/music_kits/killermike_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Killer Mike, MICHAEL"
+  "marketHashName": "StatTrak™ Music Kit | Killer Mike, MICHAEL",
+  "slug": "stattraktm-music-kit-killer-mike-michael"
  },
  {
   "id": "music_kit-94",
@@ -3258,14 +3258,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | PVRIS, Evergreen",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJW2F7EVKpNa671jlEk-pmpLj-HtZ6qv8Ofc6JaWRXGTIw750srVqSXCwlBgi423XmMHpLywuexEzEA",
   "original": {
    "name": "pvris_01",
    "image_inventory": "econ/music_kits/pvris_01"
   },
-  "marketHashName": "Music Kit | PVRIS, Evergreen"
+  "marketHashName": "Music Kit | PVRIS, Evergreen",
+  "slug": "music-kit-pvris-evergreen"
  },
  {
   "id": "music_kit-94_st",
@@ -3277,14 +3277,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | PVRIS, Evergreen",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJW2F7EVKpNa671jlEk-pmpLj-HtZ6qv8Ofc6JaWRXGTIw750srVqSXCwlBgi423XmMHpLywuexEzEA",
   "original": {
    "name": "pvris_01",
    "image_inventory": "econ/music_kits/pvris_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | PVRIS, Evergreen"
+  "marketHashName": "StatTrak™ Music Kit | PVRIS, Evergreen",
+  "slug": "stattraktm-music-kit-pvris-evergreen"
  },
  {
   "id": "music_kit-95",
@@ -3296,14 +3296,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Selective Response, No Love Only Pleasure",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJn6b4FVh_ZHx-Fz0URL_jZPfrXMVtqH2a_Q0cfLBDWbJk-p0sbNoHnrmxx8m42jdy9f7InieOgciDZZ1EPlK7EehqW9d7Q",
   "original": {
    "name": "selectiveresponse_01",
    "image_inventory": "econ/music_kits/selectiveresponse_01"
   },
-  "marketHashName": "Music Kit | Selective Response, No Love Only Pleasure"
+  "marketHashName": "Music Kit | Selective Response, No Love Only Pleasure",
+  "slug": "music-kit-selective-response-no-love-only-pleasure"
  },
  {
   "id": "music_kit-95_st",
@@ -3315,14 +3315,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Selective Response, No Love Only Pleasure",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJn6b4FVh_ZHx-Fz0URL_jZPfrXMVtqH2a_Q0cfLBDWbJk-p0sbNoHnrmxx8m42jdy9f7InieOgciDZZ1EPlK7EehqW9d7Q",
   "original": {
    "name": "selectiveresponse_01",
    "image_inventory": "econ/music_kits/selectiveresponse_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Selective Response, No Love Only Pleasure"
+  "marketHashName": "StatTrak™ Music Kit | Selective Response, No Love Only Pleasure",
+  "slug": "stattraktm-music-kit-selective-response-no-love-only-pleasure"
  },
  {
   "id": "music_kit-96",
@@ -3334,14 +3334,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Tigercub, The Perfume of Decay",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuIXKQ4ER24YXLugipQEn0mpPl_icD6qD4a6c7I6XGWTbFx7ZysbIxG3C3zEtz4G6BmImoImXXMFEshFifrQ",
   "original": {
    "name": "tigercub_01",
    "image_inventory": "econ/music_kits/tigercub_01"
   },
-  "marketHashName": "Music Kit | Tigercub, The Perfume of Decay"
+  "marketHashName": "Music Kit | Tigercub, The Perfume of Decay",
+  "slug": "music-kit-tigercub-the-perfume-of-decay"
  },
  {
   "id": "music_kit-96_st",
@@ -3353,14 +3353,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Tigercub, The Perfume of Decay",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuIXKQ4ER24YXLugipQEn0mpPl_icD6qD4a6c7I6XGWTbFx7ZysbIxG3C3zEtz4G6BmImoImXXMFEshFifrQ",
   "original": {
    "name": "tigercub_01",
    "image_inventory": "econ/music_kits/tigercub_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Tigercub, The Perfume of Decay"
+  "marketHashName": "StatTrak™ Music Kit | Tigercub, The Perfume of Decay",
+  "slug": "stattraktm-music-kit-tigercub-the-perfume-of-decay"
  },
  {
   "id": "music_kit-98",
@@ -3372,14 +3372,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | ALRT, DOPAMINE HIT",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNHeF8Wklpcmtu120GR6hy8O5-3MJ7Pb6PaY_I_bBXjHJmbd1s7Y8FyrkwEty5jjS1J_3JrXfbNYF",
   "original": {
    "name": "alrt_01",
    "image_inventory": "econ/music_kits/alrt_01"
   },
-  "marketHashName": "Music Kit | ALRT, DOPAMINE HIT"
+  "marketHashName": "Music Kit | ALRT, DOPAMINE HIT",
+  "slug": "music-kit-alrt-dopamine-hit"
  },
  {
   "id": "music_kit-98_st",
@@ -3391,14 +3391,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | ALRT, DOPAMINE HIT",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNHeF8Wklpcmtu120GR6hy8O5-3MJ7Pb6PaY_I_bBXjHJmbd1s7Y8FyrkwEty5jjS1J_3JrXfbNYF",
   "original": {
    "name": "alrt_01",
    "image_inventory": "econ/music_kits/alrt_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | ALRT, DOPAMINE HIT"
+  "marketHashName": "StatTrak™ Music Kit | ALRT, DOPAMINE HIT",
+  "slug": "stattraktm-music-kit-alrt-dopamine-hit"
  },
  {
   "id": "music_kit-99",
@@ -3410,14 +3410,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Altare, Change My Mind",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNHeD5ERwy9elpFq3Fx6hmJLlrHAJv_eqOKI1JKSVWDXGkLovtLJoF3Hik00htTzWyt-3MSXAv8iGC0E",
   "original": {
    "name": "altare_01",
    "image_inventory": "econ/music_kits/altare_01"
   },
-  "marketHashName": "Music Kit | Altare, Change My Mind"
+  "marketHashName": "Music Kit | Altare, Change My Mind",
+  "slug": "music-kit-altare-change-my-mind"
  },
  {
   "id": "music_kit-99_st",
@@ -3429,14 +3429,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Altare, Change My Mind",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuNHeD5ERwy9elpFq3Fx6hmJLlrHAJv_eqOKI1JKSVWDXGkLovtLJoF3Hik00htTzWyt-3MSXAv8iGC0E",
   "original": {
    "name": "altare_01",
    "image_inventory": "econ/music_kits/altare_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Altare, Change My Mind"
+  "marketHashName": "StatTrak™ Music Kit | Altare, Change My Mind",
+  "slug": "stattraktm-music-kit-altare-change-my-mind"
  },
  {
   "id": "music_kit-100",
@@ -3448,14 +3448,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | borne, Give It To Me",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuN3SF61NKpNa66VrjQhigmpCx-Xdf7qWvO_0_IfHBCmHCkrcm6LgwS3vkzUlzsD_Vm8HpLywQpLob3g",
   "original": {
    "name": "borne_01",
    "image_inventory": "econ/music_kits/borne_01"
   },
-  "marketHashName": "Music Kit | borne, Give It To Me"
+  "marketHashName": "Music Kit | borne, Give It To Me",
+  "slug": "music-kit-borne-give-it-to-me"
  },
  {
   "id": "music_kit-100_st",
@@ -3467,14 +3467,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | borne, Give It To Me",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuN3SF61NKpNa66VrjQhigmpCx-Xdf7qWvO_0_IfHBCmHCkrcm6LgwS3vkzUlzsD_Vm8HpLywQpLob3g",
   "original": {
    "name": "borne_01",
    "image_inventory": "econ/music_kits/borne_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | borne, Give It To Me"
+  "marketHashName": "StatTrak™ Music Kit | borne, Give It To Me",
+  "slug": "stattraktm-music-kit-borne-give-it-to-me"
  },
  {
   "id": "music_kit-101",
@@ -3486,14 +3486,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Pirapus, EVERYNITE",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJXKF5EZg57ikuxewRUmkmMaw_yZY6qf3OPY6JKeRD2XIk78m5udtS3G1xhx-tT-Hy96obzvJOYRCqud0",
   "original": {
    "name": "pirapus_01",
    "image_inventory": "econ/music_kits/pirapus_01"
   },
-  "marketHashName": "Music Kit | Pirapus, EVERYNITE"
+  "marketHashName": "Music Kit | Pirapus, EVERYNITE",
+  "slug": "music-kit-pirapus-everynite"
  },
  {
   "id": "music_kit-101_st",
@@ -3505,14 +3505,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Pirapus, EVERYNITE",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJXKF5EZg57ikuxewRUmkmMaw_yZY6qf3OPY6JKeRD2XIk78m5udtS3G1xhx-tT-Hy96obzvJOYRCqud0",
   "original": {
    "name": "pirapus_01",
    "image_inventory": "econ/music_kits/pirapus_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Pirapus, EVERYNITE"
+  "marketHashName": "StatTrak™ Music Kit | Pirapus, EVERYNITE",
+  "slug": "stattraktm-music-kit-pirapus-everynite"
  },
  {
   "id": "music_kit-102",
@@ -3524,14 +3524,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Repiet & Julia Kleijn, On And On",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJ36H7FNhy9elpFu3QkXyyZe3pHcI6_D8bPI0cvLCXzTCw7ovs7RtGXjhzEl-6z6Emda3MSXAtLvhCgA",
   "original": {
    "name": "repiet_01",
    "image_inventory": "econ/music_kits/repiet_01"
   },
-  "marketHashName": "Music Kit | Repiet & Julia Kleijn, On And On"
+  "marketHashName": "Music Kit | Repiet & Julia Kleijn, On And On",
+  "slug": "music-kit-repiet-julia-kleijn-on-and-on"
  },
  {
   "id": "music_kit-102_st",
@@ -3543,14 +3543,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Repiet & Julia Kleijn, On And On",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJ36H7FNhy9elpFu3QkXyyZe3pHcI6_D8bPI0cvLCXzTCw7ovs7RtGXjhzEl-6z6Emda3MSXAtLvhCgA",
   "original": {
    "name": "repiet_01",
    "image_inventory": "econ/music_kits/repiet_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Repiet & Julia Kleijn, On And On"
+  "marketHashName": "StatTrak™ Music Kit | Repiet & Julia Kleijn, On And On",
+  "slug": "stattraktm-music-kit-repiet-julia-kleijn-on-and-on"
  },
  {
   "id": "music_kit-103",
@@ -3562,14 +3562,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | ShockOne, Voices",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJnOY5l16-oLLugipEE7zmM63-SFfuKv-MPc6eKfLWDHJk74l6eJoHC23zEh-t2yHyN_7dWXXMFFiTTCrFg",
   "original": {
    "name": "shockone_01",
    "image_inventory": "econ/music_kits/shockone_01"
   },
-  "marketHashName": "Music Kit | ShockOne, Voices"
+  "marketHashName": "Music Kit | ShockOne, Voices",
+  "slug": "music-kit-shockone-voices"
  },
  {
   "id": "music_kit-103_st",
@@ -3581,14 +3581,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | ShockOne, Voices",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJnOY5l16-oLLugipEE7zmM63-SFfuKv-MPc6eKfLWDHJk74l6eJoHC23zEh-t2yHyN_7dWXXMFFiTTCrFg",
   "original": {
    "name": "shockone_01",
    "image_inventory": "econ/music_kits/shockone_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | ShockOne, Voices"
+  "marketHashName": "StatTrak™ Music Kit | ShockOne, Voices",
+  "slug": "stattraktm-music-kit-shockone-voices"
  },
  {
   "id": "music_kit-104",
@@ -3600,14 +3600,14 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "Music Kit | Starjunk 95, Industrial Sunset Memories",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJm-W91xg-oytv2a3EFOpycPlqCdatqGqOaE_I6nLVzbCw7pw4rZrTnHhwEtx6m-Dw43_JS-WcEZ-XYyGj8X1",
   "original": {
    "name": "starjunk95_01",
    "image_inventory": "econ/music_kits/starjunk95_01"
   },
-  "marketHashName": "Music Kit | Starjunk 95, Industrial Sunset Memories"
+  "marketHashName": "Music Kit | Starjunk 95, Industrial Sunset Memories",
+  "slug": "music-kit-starjunk-95-industrial-sunset-memories"
  },
  {
   "id": "music_kit-104_st",
@@ -3619,13 +3619,13 @@
    "name": "высшего класса",
    "color": "#4b69ff"
   },
-  "market_hash_name": "StatTrak™ Music Kit | Starjunk 95, Industrial Sunset Memories",
   "exclusive": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuJm-W91xg-oytv2a3EFOpycPlqCdatqGqOaE_I6nLVzbCw7pw4rZrTnHhwEtx6m-Dw43_JS-WcEZ-XYyGj8X1",
   "original": {
    "name": "starjunk95_01",
    "image_inventory": "econ/music_kits/starjunk95_01"
   },
-  "marketHashName": "StatTrak™ Music Kit | Starjunk 95, Industrial Sunset Memories"
+  "marketHashName": "StatTrak™ Music Kit | Starjunk 95, Industrial Sunset Memories",
+  "slug": "stattraktm-music-kit-starjunk-95-industrial-sunset-memories"
  }
 ]

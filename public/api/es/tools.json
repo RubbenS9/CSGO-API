@@ -8,7 +8,8 @@
   "original": {
    "image_inventory": "econ/tools/tag"
   },
-  "marketHashName": "Name Tag"
+  "marketHashName": "Name Tag",
+  "slug": "name-tag"
  },
  {
   "id": "tool-2",
@@ -19,7 +20,8 @@
   "original": {
    "image_inventory": "econ/tools/casket"
   },
-  "marketHashName": "Storage Unit"
+  "marketHashName": "Storage Unit",
+  "slug": "storage-unit"
  },
  {
   "id": "tool-3",
@@ -30,7 +32,8 @@
   "original": {
    "image_inventory": "econ/tools/stattrak_swap_tool"
   },
-  "marketHashName": "StatTrak™ Swap Tool"
+  "marketHashName": "StatTrak™ Swap Tool",
+  "slug": "stattraktm-swap-tool"
  },
  {
   "id": "tool-4",
@@ -41,7 +44,8 @@
   "original": {
    "image_inventory": "econ/tools/keychain_remove_tool"
   },
-  "marketHashName": "Charm Detachments"
+  "marketHashName": "Charm Detachments",
+  "slug": "charm-detachments"
  },
  {
   "id": "tool-5",
@@ -52,7 +56,8 @@
   "original": {
    "image_inventory": "econ/pets/chicken_egg"
   },
-  "marketHashName": "Chicken Egg"
+  "marketHashName": "Chicken Egg",
+  "slug": "chicken-egg"
  },
  {
   "id": "tool-6",
@@ -63,6 +68,7 @@
   "original": {
    "image_inventory": "econ/pets/chicken_feed_bag"
   },
-  "marketHashName": "Chicken Feed"
+  "marketHashName": "Chicken Feed",
+  "slug": "chicken-feed"
  }
 ]

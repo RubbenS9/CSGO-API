@@ -210,7 +210,9 @@ function analyzeStructure(items) {
         else if (key === "team") description = "Team information (CT/T)";
         else if (key === "type") description = "Item type";
         else if (key === "effect") description = "Sticker effect (Foil, Holo, etc.)";
-        else if (key === "market_hash_name") description = "Market hash name";
+        else if (key === "marketHashName")
+            description = "English market hash name. Steam listing name when it exists, otherwise the English item name";
+        else if (key === "slug") description = "URL slug generated from marketHashName";
         else if (key === "def_index") description = "Definition index";
         else if (key === "exclusive") description = "Whether it's exclusive";
         else if (key === "genuine") description = "Whether it's genuine";

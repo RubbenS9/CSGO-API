@@ -238,7 +238,8 @@
    "name": "#CSGO_set_community_3",
    "image_inventory": "econ/set_icons/set_community_3"
   },
-  "marketHashName": "The Huntsman Collection"
+  "marketHashName": "The Huntsman Collection",
+  "slug": "the-huntsman-collection"
  },
  {
   "id": "collection-set-weapons-i",
@@ -358,7 +359,8 @@
    "name": "#CSGO_set_weapons_i",
    "image_inventory": "econ/set_icons/set_weapons_i"
   },
-  "marketHashName": "The Arms Deal Collection"
+  "marketHashName": "The Arms Deal Collection",
+  "slug": "the-arms-deal-collection"
  },
  {
   "id": "collection-set-esports",
@@ -478,7 +480,8 @@
    "name": "#CSGO_set_esports",
    "image_inventory": "econ/set_icons/set_esports"
   },
-  "marketHashName": "The eSports 2013 Collection"
+  "marketHashName": "The eSports 2013 Collection",
+  "slug": "the-esports-2013-collection"
  },
  {
   "id": "collection-set-bravo-i",
@@ -664,7 +667,8 @@
    "name": "#CSGO_set_bravo_i",
    "image_inventory": "econ/set_icons/set_bravo_i"
   },
-  "marketHashName": "The Bravo Collection"
+  "marketHashName": "The Bravo Collection",
+  "slug": "the-bravo-collection"
  },
  {
   "id": "collection-set-weapons-ii",
@@ -817,7 +821,8 @@
    "name": "#CSGO_set_weapons_ii",
    "image_inventory": "econ/set_icons/set_weapons_ii"
   },
-  "marketHashName": "The Arms Deal 2 Collection"
+  "marketHashName": "The Arms Deal 2 Collection",
+  "slug": "the-arms-deal-2-collection"
  },
  {
   "id": "collection-set-esports-ii",
@@ -970,7 +975,8 @@
    "name": "#CSGO_set_esports_ii",
    "image_inventory": "econ/set_icons/set_esports_ii"
   },
-  "marketHashName": "The eSports 2013 Winter Collection"
+  "marketHashName": "The eSports 2013 Winter Collection",
+  "slug": "the-esports-2013-winter-collection"
  },
  {
   "id": "collection-set-community-1",
@@ -1134,7 +1140,8 @@
    "name": "#CSGO_set_community_1",
    "image_inventory": "econ/set_icons/set_community_1"
   },
-  "marketHashName": "The Winter Offensive Collection"
+  "marketHashName": "The Winter Offensive Collection",
+  "slug": "the-winter-offensive-collection"
  },
  {
   "id": "collection-set-weapons-iii",
@@ -1287,7 +1294,8 @@
    "name": "#CSGO_set_weapons_iii",
    "image_inventory": "econ/set_icons/set_weapons_iii"
   },
-  "marketHashName": "The Arms Deal 3 Collection"
+  "marketHashName": "The Arms Deal 3 Collection",
+  "slug": "the-arms-deal-3-collection"
  },
  {
   "id": "collection-set-community-2",
@@ -1451,7 +1459,8 @@
    "name": "#CSGO_set_community_2",
    "image_inventory": "econ/set_icons/set_community_2"
   },
-  "marketHashName": "The Phoenix Collection"
+  "marketHashName": "The Phoenix Collection",
+  "slug": "the-phoenix-collection"
  },
  {
   "id": "collection-set-community-4",
@@ -1626,7 +1635,8 @@
    "name": "#CSGO_set_community_4",
    "image_inventory": "econ/set_icons/set_community_4"
   },
-  "marketHashName": "The Breakout Collection"
+  "marketHashName": "The Breakout Collection",
+  "slug": "the-breakout-collection"
  },
  {
   "id": "collection-set-esports-iii",
@@ -1834,7 +1844,8 @@
    "name": "#CSGO_set_esports_iii",
    "image_inventory": "econ/set_icons/set_esports_iii"
   },
-  "marketHashName": "The eSports 2014 Summer Collection"
+  "marketHashName": "The eSports 2014 Summer Collection",
+  "slug": "the-esports-2014-summer-collection"
  },
  {
   "id": "collection-set-community-5",
@@ -2009,7 +2020,8 @@
    "name": "#CSGO_set_community_5",
    "image_inventory": "econ/set_icons/set_community_5"
   },
-  "marketHashName": "The Vanguard Collection"
+  "marketHashName": "The Vanguard Collection",
+  "slug": "the-vanguard-collection"
  },
  {
   "id": "collection-set-community-6",
@@ -2184,7 +2196,8 @@
    "name": "#CSGO_set_community_6",
    "image_inventory": "econ/set_icons/set_community_6"
   },
-  "marketHashName": "The Chroma Collection"
+  "marketHashName": "The Chroma Collection",
+  "slug": "the-chroma-collection"
  },
  {
   "id": "collection-set-community-7",
@@ -2370,7 +2383,8 @@
    "name": "#CSGO_set_community_7",
    "image_inventory": "econ/set_icons/set_community_7"
   },
-  "marketHashName": "The Chroma 2 Collection"
+  "marketHashName": "The Chroma 2 Collection",
+  "slug": "the-chroma-2-collection"
  },
  {
   "id": "collection-set-dust",
@@ -2484,7 +2498,8 @@
    "name": "#CSGO_set_dust",
    "image_inventory": "econ/set_icons/set_dust"
   },
-  "marketHashName": "The Dust Collection"
+  "marketHashName": "The Dust Collection",
+  "slug": "the-dust-collection"
  },
  {
   "id": "collection-set-aztec",
@@ -2565,7 +2580,8 @@
    "name": "#CSGO_set_aztec",
    "image_inventory": "econ/set_icons/set_aztec"
   },
-  "marketHashName": "The Aztec Collection"
+  "marketHashName": "The Aztec Collection",
+  "slug": "the-aztec-collection"
  },
  {
   "id": "collection-set-vertigo",
@@ -2652,7 +2668,8 @@
    "name": "#CSGO_set_vertigo",
    "image_inventory": "econ/set_icons/set_vertigo"
   },
-  "marketHashName": "The Vertigo Collection"
+  "marketHashName": "The Vertigo Collection",
+  "slug": "the-vertigo-collection"
  },
  {
   "id": "collection-set-inferno",
@@ -2774,7 +2791,8 @@
    "name": "#CSGO_set_inferno",
    "image_inventory": "econ/set_icons/set_inferno"
   },
-  "marketHashName": "The Inferno Collection"
+  "marketHashName": "The Inferno Collection",
+  "slug": "the-inferno-collection"
  },
  {
   "id": "collection-set-militia",
@@ -2910,7 +2928,8 @@
    "name": "#CSGO_set_militia",
    "image_inventory": "econ/set_icons/set_militia"
   },
-  "marketHashName": "The Militia Collection"
+  "marketHashName": "The Militia Collection",
+  "slug": "the-militia-collection"
  },
  {
   "id": "collection-set-nuke",
@@ -3065,7 +3084,8 @@
    "name": "#CSGO_set_nuke",
    "image_inventory": "econ/set_icons/set_nuke"
   },
-  "marketHashName": "The Nuke Collection"
+  "marketHashName": "The Nuke Collection",
+  "slug": "the-nuke-collection"
  },
  {
   "id": "collection-set-office",
@@ -3146,7 +3166,8 @@
    "name": "#CSGO_set_office",
    "image_inventory": "econ/set_icons/set_office"
   },
-  "marketHashName": "The Office Collection"
+  "marketHashName": "The Office Collection",
+  "slug": "the-office-collection"
  },
  {
   "id": "collection-set-assault",
@@ -3238,7 +3259,8 @@
    "name": "#CSGO_set_assault",
    "image_inventory": "econ/set_icons/set_assault"
   },
-  "marketHashName": "The Assault Collection"
+  "marketHashName": "The Assault Collection",
+  "slug": "the-assault-collection"
  },
  {
   "id": "collection-set-bravo-ii",
@@ -3429,7 +3451,8 @@
    "name": "#CSGO_set_bravo_ii",
    "image_inventory": "econ/set_icons/set_bravo_ii"
   },
-  "marketHashName": "The Alpha Collection"
+  "marketHashName": "The Alpha Collection",
+  "slug": "the-alpha-collection"
  },
  {
   "id": "collection-set-dust-2",
@@ -3686,7 +3709,8 @@
    "name": "#CSGO_set_dust_2",
    "image_inventory": "econ/set_icons/set_dust_2"
   },
-  "marketHashName": "The Dust 2 Collection"
+  "marketHashName": "The Dust 2 Collection",
+  "slug": "the-dust-2-collection"
  },
  {
   "id": "collection-set-train",
@@ -3927,7 +3951,8 @@
    "name": "#CSGO_set_train",
    "image_inventory": "econ/set_icons/set_train"
   },
-  "marketHashName": "The Train Collection"
+  "marketHashName": "The Train Collection",
+  "slug": "the-train-collection"
  },
  {
   "id": "collection-set-mirage",
@@ -4183,7 +4208,8 @@
    "name": "#CSGO_set_mirage",
    "image_inventory": "econ/set_icons/set_mirage"
   },
-  "marketHashName": "The Mirage Collection"
+  "marketHashName": "The Mirage Collection",
+  "slug": "the-mirage-collection"
  },
  {
   "id": "collection-set-italy",
@@ -4374,7 +4400,8 @@
    "name": "#CSGO_set_italy",
    "image_inventory": "econ/set_icons/set_italy"
   },
-  "marketHashName": "The Italy Collection"
+  "marketHashName": "The Italy Collection",
+  "slug": "the-italy-collection"
  },
  {
   "id": "collection-set-lake",
@@ -4565,7 +4592,8 @@
    "name": "#CSGO_set_lake",
    "image_inventory": "econ/set_icons/set_lake"
   },
-  "marketHashName": "The Lake Collection"
+  "marketHashName": "The Lake Collection",
+  "slug": "the-lake-collection"
  },
  {
   "id": "collection-set-safehouse",
@@ -4756,7 +4784,8 @@
    "name": "#CSGO_set_safehouse",
    "image_inventory": "econ/set_icons/set_safehouse"
   },
-  "marketHashName": "The Safehouse Collection"
+  "marketHashName": "The Safehouse Collection",
+  "slug": "the-safehouse-collection"
  },
  {
   "id": "collection-set-bank",
@@ -4953,7 +4982,8 @@
    "name": "#CSGO_set_bank",
    "image_inventory": "econ/set_icons/set_bank"
   },
-  "marketHashName": "The Bank Collection"
+  "marketHashName": "The Bank Collection",
+  "slug": "the-bank-collection"
  },
  {
   "id": "collection-set-overpass",
@@ -5224,7 +5254,8 @@
    "name": "#CSGO_set_overpass",
    "image_inventory": "econ/set_icons/set_overpass"
   },
-  "marketHashName": "The Overpass Collection"
+  "marketHashName": "The Overpass Collection",
+  "slug": "the-overpass-collection"
  },
  {
   "id": "collection-set-cobblestone",
@@ -5455,7 +5486,8 @@
    "name": "#CSGO_set_cobblestone",
    "image_inventory": "econ/set_icons/set_cobblestone"
   },
-  "marketHashName": "The Cobblestone Collection"
+  "marketHashName": "The Cobblestone Collection",
+  "slug": "the-cobblestone-collection"
  },
  {
   "id": "collection-set-baggage",
@@ -5635,7 +5667,8 @@
    "name": "#CSGO_set_baggage",
    "image_inventory": "econ/set_icons/set_baggage"
   },
-  "marketHashName": "The Baggage Collection"
+  "marketHashName": "The Baggage Collection",
+  "slug": "the-baggage-collection"
  },
  {
   "id": "collection-set-cache",
@@ -5854,7 +5887,8 @@
    "name": "#CSGO_set_cache",
    "image_inventory": "econ/set_icons/set_cache"
   },
-  "marketHashName": "The Cache Collection"
+  "marketHashName": "The Cache Collection",
+  "slug": "the-cache-collection"
  },
  {
   "id": "collection-set-gods-and-monsters",
@@ -6023,7 +6057,8 @@
    "name": "#CSGO_set_gods_and_monsters",
    "image_inventory": "econ/set_icons/set_gods_and_monsters"
   },
-  "marketHashName": "The Gods and Monsters Collection"
+  "marketHashName": "The Gods and Monsters Collection",
+  "slug": "the-gods-and-monsters-collection"
  },
  {
   "id": "collection-set-chopshop",
@@ -6214,7 +6249,8 @@
    "name": "#CSGO_set_chopshop",
    "image_inventory": "econ/set_icons/set_chopshop"
   },
-  "marketHashName": "The Chop Shop Collection"
+  "marketHashName": "The Chop Shop Collection",
+  "slug": "the-chop-shop-collection"
  },
  {
   "id": "collection-set-kimono",
@@ -6405,7 +6441,8 @@
    "name": "#CSGO_set_kimono",
    "image_inventory": "econ/set_icons/set_kimono"
   },
-  "marketHashName": "The Rising Sun Collection"
+  "marketHashName": "The Rising Sun Collection",
+  "slug": "the-rising-sun-collection"
  },
  {
   "id": "collection-set-community-8",
@@ -6602,7 +6639,8 @@
    "name": "#CSGO_set_community_8",
    "image_inventory": "econ/set_icons/set_community_8"
   },
-  "marketHashName": "The Falchion Collection"
+  "marketHashName": "The Falchion Collection",
+  "slug": "the-falchion-collection"
  },
  {
   "id": "collection-set-community-9",
@@ -6799,7 +6837,8 @@
    "name": "#CSGO_set_community_9",
    "image_inventory": "econ/set_icons/set_community_9"
   },
-  "marketHashName": "The Shadow Collection"
+  "marketHashName": "The Shadow Collection",
+  "slug": "the-shadow-collection"
  },
  {
   "id": "collection-set-community-10",
@@ -7007,7 +7046,8 @@
    "name": "#CSGO_set_community_10",
    "image_inventory": "econ/set_icons/set_community_10"
   },
-  "marketHashName": "The Revolver Case Collection"
+  "marketHashName": "The Revolver Case Collection",
+  "slug": "the-revolver-case-collection"
  },
  {
   "id": "collection-set-community-11",
@@ -7204,7 +7244,8 @@
    "name": "#CSGO_set_community_11",
    "image_inventory": "econ/set_icons/set_community_11"
   },
-  "marketHashName": "The Wildfire Collection"
+  "marketHashName": "The Wildfire Collection",
+  "slug": "the-wildfire-collection"
  },
  {
   "id": "collection-set-nuke-2",
@@ -7473,7 +7514,8 @@
    "name": "#CSGO_set_nuke_2",
    "image_inventory": "econ/set_icons/set_nuke_2"
   },
-  "marketHashName": "The 2018 Nuke Collection"
+  "marketHashName": "The 2018 Nuke Collection",
+  "slug": "the-2018-nuke-collection"
  },
  {
   "id": "collection-set-inferno-2",
@@ -7742,7 +7784,8 @@
    "name": "#CSGO_set_inferno_2",
    "image_inventory": "econ/set_icons/set_inferno_2"
   },
-  "marketHashName": "The 2018 Inferno Collection"
+  "marketHashName": "The 2018 Inferno Collection",
+  "slug": "the-2018-inferno-collection"
  },
  {
   "id": "collection-set-xraymachine",
@@ -7774,7 +7817,8 @@
    "name": "#CSGO_set_xraymachine",
    "image_inventory": "econ/set_icons/set_xraymachine"
   },
-  "marketHashName": "The X-Ray Collection"
+  "marketHashName": "The X-Ray Collection",
+  "slug": "the-x-ray-collection"
  },
  {
   "id": "collection-set-community-12",
@@ -7982,7 +8026,8 @@
    "name": "#CSGO_set_community_12",
    "image_inventory": "econ/set_icons/set_community_12"
   },
-  "marketHashName": "The Chroma 3 Collection"
+  "marketHashName": "The Chroma 3 Collection",
+  "slug": "the-chroma-3-collection"
  },
  {
   "id": "collection-set-community-13",
@@ -8190,7 +8235,8 @@
    "name": "#CSGO_set_community_13",
    "image_inventory": "econ/set_icons/set_community_13"
   },
-  "marketHashName": "The Gamma Collection"
+  "marketHashName": "The Gamma Collection",
+  "slug": "the-gamma-collection"
  },
  {
   "id": "collection-set-gamma-2",
@@ -8398,7 +8444,8 @@
    "name": "#CSGO_set_gamma_2",
    "image_inventory": "econ/set_icons/set_gamma_2"
   },
-  "marketHashName": "The Gamma 2 Collection"
+  "marketHashName": "The Gamma 2 Collection",
+  "slug": "the-gamma-2-collection"
  },
  {
   "id": "collection-set-community-15",
@@ -8606,7 +8653,8 @@
    "name": "#CSGO_set_community_15",
    "image_inventory": "econ/set_icons/set_community_15"
   },
-  "marketHashName": "The Glove Collection"
+  "marketHashName": "The Glove Collection",
+  "slug": "the-glove-collection"
  },
  {
   "id": "collection-set-community-16",
@@ -8814,7 +8862,8 @@
    "name": "#CSGO_set_community_16",
    "image_inventory": "econ/set_icons/set_community_16"
   },
-  "marketHashName": "The Spectrum Collection"
+  "marketHashName": "The Spectrum Collection",
+  "slug": "the-spectrum-collection"
  },
  {
   "id": "collection-set-community-17",
@@ -9022,7 +9071,8 @@
    "name": "#CSGO_set_community_17",
    "image_inventory": "econ/set_icons/set_community_17"
   },
-  "marketHashName": "The Operation Hydra Collection"
+  "marketHashName": "The Operation Hydra Collection",
+  "slug": "the-operation-hydra-collection"
  },
  {
   "id": "collection-set-community-18",
@@ -9230,7 +9280,8 @@
    "name": "#CSGO_set_community_18",
    "image_inventory": "econ/set_icons/set_community_18"
   },
-  "marketHashName": "The Spectrum 2 Collection"
+  "marketHashName": "The Spectrum 2 Collection",
+  "slug": "the-spectrum-2-collection"
  },
  {
   "id": "collection-set-blacksite",
@@ -9256,7 +9307,8 @@
    "name": "#CSGO_set_blacksite",
    "image_inventory": "econ/set_icons/set_blacksite"
   },
-  "marketHashName": "The Blacksite Collection"
+  "marketHashName": "The Blacksite Collection",
+  "slug": "the-blacksite-collection"
  },
  {
   "id": "collection-set-community-19",
@@ -9464,7 +9516,8 @@
    "name": "#CSGO_set_community_19",
    "image_inventory": "econ/set_icons/set_community_19"
   },
-  "marketHashName": "The Clutch Collection"
+  "marketHashName": "The Clutch Collection",
+  "slug": "the-clutch-collection"
  },
  {
   "id": "collection-set-community-20",
@@ -9672,7 +9725,8 @@
    "name": "#CSGO_set_community_20",
    "image_inventory": "econ/set_icons/set_community_20"
   },
-  "marketHashName": "The Horizon Collection"
+  "marketHashName": "The Horizon Collection",
+  "slug": "the-horizon-collection"
  },
  {
   "id": "collection-set-stmarc",
@@ -9885,7 +9939,8 @@
    "name": "#CSGO_set_stmarc",
    "image_inventory": "econ/set_icons/set_stmarc"
   },
-  "marketHashName": "The St. Marc Collection"
+  "marketHashName": "The St. Marc Collection",
+  "slug": "the-st-marc-collection"
  },
  {
   "id": "collection-set-canals",
@@ -10098,7 +10153,8 @@
    "name": "#CSGO_set_canals",
    "image_inventory": "econ/set_icons/set_canals"
   },
-  "marketHashName": "The Canals Collection"
+  "marketHashName": "The Canals Collection",
+  "slug": "the-canals-collection"
  },
  {
   "id": "collection-set-norse",
@@ -10311,7 +10367,8 @@
    "name": "#CSGO_set_norse",
    "image_inventory": "econ/set_icons/set_norse"
   },
-  "marketHashName": "The Norse Collection"
+  "marketHashName": "The Norse Collection",
+  "slug": "the-norse-collection"
  },
  {
   "id": "collection-set-op9-characters",
@@ -10546,7 +10603,8 @@
    "name": "#CSGO_set_op9_characters",
    "image_inventory": "econ/set_icons/set_op9_characters"
   },
-  "marketHashName": "Shattered Web Agents"
+  "marketHashName": "Shattered Web Agents",
+  "slug": "shattered-web-agents"
  },
  {
   "id": "collection-set-op10-characters",
@@ -10761,7 +10819,8 @@
    "name": "#CSGO_set_op10_characters",
    "image_inventory": "econ/set_icons/set_op10_characters"
   },
-  "marketHashName": "Broken Fang Agents"
+  "marketHashName": "Broken Fang Agents",
+  "slug": "broken-fang-agents"
  },
  {
   "id": "collection-set-op11-characters",
@@ -10986,7 +11045,8 @@
    "name": "#CSGO_set_op11_characters",
    "image_inventory": "econ/set_icons/set_op11_characters"
   },
-  "marketHashName": "Operation Riptide Agents"
+  "marketHashName": "Operation Riptide Agents",
+  "slug": "operation-riptide-agents"
  },
  {
   "id": "collection-set-community-21",
@@ -11194,7 +11254,8 @@
    "name": "#CSGO_set_community_21",
    "image_inventory": "econ/set_icons/set_community_21"
   },
-  "marketHashName": "The Danger Zone Collection"
+  "marketHashName": "The Danger Zone Collection",
+  "slug": "the-danger-zone-collection"
  },
  {
   "id": "collection-set-community-22",
@@ -11402,7 +11463,8 @@
    "name": "#CSGO_set_community_22",
    "image_inventory": "econ/set_icons/set_community_22"
   },
-  "marketHashName": "The Prisma Collection"
+  "marketHashName": "The Prisma Collection",
+  "slug": "the-prisma-collection"
  },
  {
   "id": "collection-set-community-23",
@@ -11610,7 +11672,8 @@
    "name": "#CSGO_set_community_23",
    "image_inventory": "econ/set_icons/set_community_23"
   },
-  "marketHashName": "The Shattered Web Collection"
+  "marketHashName": "The Shattered Web Collection",
+  "slug": "the-shattered-web-collection"
  },
  {
   "id": "collection-set-community-24",
@@ -11818,7 +11881,8 @@
    "name": "#CSGO_set_community_24",
    "image_inventory": "econ/set_icons/set_community_24"
   },
-  "marketHashName": "The CS20 Collection"
+  "marketHashName": "The CS20 Collection",
+  "slug": "the-cs20-collection"
  },
  {
   "id": "collection-set-dust-2-2021",
@@ -12073,7 +12137,8 @@
    "name": "#CSGO_set_dust_2_2021",
    "image_inventory": "econ/set_icons/set_dust_2_2021"
   },
-  "marketHashName": "The 2021 Dust 2 Collection"
+  "marketHashName": "The 2021 Dust 2 Collection",
+  "slug": "the-2021-dust-2-collection"
  },
  {
   "id": "collection-set-mirage-2021",
@@ -12338,7 +12403,8 @@
    "name": "#CSGO_set_mirage_2021",
    "image_inventory": "econ/set_icons/set_mirage_2021"
   },
-  "marketHashName": "The 2021 Mirage Collection"
+  "marketHashName": "The 2021 Mirage Collection",
+  "slug": "the-2021-mirage-collection"
  },
  {
   "id": "collection-set-community-25",
@@ -12546,7 +12612,8 @@
    "name": "#CSGO_set_community_25",
    "image_inventory": "econ/set_icons/set_community_25"
   },
-  "marketHashName": "The Prisma 2 Collection"
+  "marketHashName": "The Prisma 2 Collection",
+  "slug": "the-prisma-2-collection"
  },
  {
   "id": "collection-set-community-26",
@@ -12754,7 +12821,8 @@
    "name": "#CSGO_set_community_26",
    "image_inventory": "econ/set_icons/set_community_26"
   },
-  "marketHashName": "The Fracture Collection"
+  "marketHashName": "The Fracture Collection",
+  "slug": "the-fracture-collection"
  },
  {
   "id": "collection-set-community-27",
@@ -12962,7 +13030,8 @@
    "name": "#CSGO_set_community_27",
    "image_inventory": "econ/set_icons/set_community_27"
   },
-  "marketHashName": "The Operation Broken Fang Collection"
+  "marketHashName": "The Operation Broken Fang Collection",
+  "slug": "the-operation-broken-fang-collection"
  },
  {
   "id": "collection-set-op10-ct",
@@ -13186,7 +13255,8 @@
    "name": "#CSGO_set_op10_ct",
    "image_inventory": "econ/set_icons/set_op10_ct"
   },
-  "marketHashName": "The Control Collection"
+  "marketHashName": "The Control Collection",
+  "slug": "the-control-collection"
  },
  {
   "id": "collection-set-op10-t",
@@ -13410,7 +13480,8 @@
    "name": "#CSGO_set_op10_t",
    "image_inventory": "econ/set_icons/set_op10_t"
   },
-  "marketHashName": "The Havoc Collection"
+  "marketHashName": "The Havoc Collection",
+  "slug": "the-havoc-collection"
  },
  {
   "id": "collection-set-op10-ancient",
@@ -13675,7 +13746,8 @@
    "name": "#CSGO_set_op10_ancient",
    "image_inventory": "econ/set_icons/set_op10_ancient"
   },
-  "marketHashName": "The Ancient Collection"
+  "marketHashName": "The Ancient Collection",
+  "slug": "the-ancient-collection"
  },
  {
   "id": "collection-set-community-28",
@@ -13883,7 +13955,8 @@
    "name": "#CSGO_set_community_28",
    "image_inventory": "econ/set_icons/set_community_28"
   },
-  "marketHashName": "The Snakebite Collection"
+  "marketHashName": "The Snakebite Collection",
+  "slug": "the-snakebite-collection"
  },
  {
   "id": "collection-set-train-2021",
@@ -14134,7 +14207,8 @@
    "name": "#CSGO_set_train_2021",
    "image_inventory": "econ/set_icons/set_train_2021"
   },
-  "marketHashName": "The 2021 Train Collection"
+  "marketHashName": "The 2021 Train Collection",
+  "slug": "the-2021-train-collection"
  },
  {
   "id": "collection-set-vertigo-2021",
@@ -14389,7 +14463,8 @@
    "name": "#CSGO_set_vertigo_2021",
    "image_inventory": "econ/set_icons/set_vertigo_2021"
   },
-  "marketHashName": "The 2021 Vertigo Collection"
+  "marketHashName": "The 2021 Vertigo Collection",
+  "slug": "the-2021-vertigo-collection"
  },
  {
   "id": "collection-set-anubis",
@@ -14639,7 +14714,8 @@
    "name": "#CSGO_set_anubis",
    "image_inventory": "econ/set_icons/set_anubis"
   },
-  "marketHashName": "The Anubis Collection"
+  "marketHashName": "The Anubis Collection",
+  "slug": "the-anubis-collection"
  },
  {
   "id": "collection-set-community-29",
@@ -14847,7 +14923,8 @@
    "name": "#CSGO_set_community_29",
    "image_inventory": "econ/set_icons/set_community_29"
   },
-  "marketHashName": "The Operation Riptide Collection"
+  "marketHashName": "The Operation Riptide Collection",
+  "slug": "the-operation-riptide-collection"
  },
  {
   "id": "collection-set-community-30",
@@ -15055,7 +15132,8 @@
    "name": "#CSGO_set_community_30",
    "image_inventory": "econ/set_icons/set_community_30"
   },
-  "marketHashName": "The Dreams & Nightmares Collection"
+  "marketHashName": "The Dreams & Nightmares Collection",
+  "slug": "the-dreams-nightmares-collection"
  },
  {
   "id": "collection-set-community-31",
@@ -15263,7 +15341,8 @@
    "name": "#CSGO_set_community_31",
    "image_inventory": "econ/set_icons/set_community_31"
   },
-  "marketHashName": "The Recoil Collection"
+  "marketHashName": "The Recoil Collection",
+  "slug": "the-recoil-collection"
  },
  {
   "id": "collection-set-community-32",
@@ -15471,17 +15550,18 @@
    "name": "#CSGO_set_community_32",
    "image_inventory": "econ/set_icons/set_community_32"
   },
-  "marketHashName": "The Revolution Collection"
+  "marketHashName": "The Revolution Collection",
+  "slug": "the-revolution-collection"
  },
  {
   "id": "collection-set-community-33",
-  "name": "Colección Kilovatio",
+  "name": "Colección Kilovatio",
   "description": null,
   "release_date": "2024-02-07",
   "crates": [
    {
     "id": "crate-4904",
-    "name": "Caja Kilovatio",
+    "name": "Caja Kilovatio",
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnEVvqf_a6VoIfGSXz7Hlbwg57QwSS_mxhl15jiGyN37c3_GZw91W8BwRflK7EfKsa2sfw"
    }
   ],
@@ -15679,7 +15759,8 @@
    "name": "#CSGO_set_community_33",
    "image_inventory": "econ/set_icons/set_community_33"
   },
-  "marketHashName": "The Kilowatt Collection"
+  "marketHashName": "The Kilowatt Collection",
+  "slug": "the-kilowatt-collection"
  },
  {
   "id": "collection-set-community-34",
@@ -15887,7 +15968,8 @@
    "name": "#CSGO_set_community_34",
    "image_inventory": "econ/set_icons/set_community_34"
   },
-  "marketHashName": "The Gallery Collection"
+  "marketHashName": "The Gallery Collection",
+  "slug": "the-gallery-collection"
  },
  {
   "id": "collection-set-community-35",
@@ -16095,7 +16177,8 @@
    "name": "#CSGO_set_community_35",
    "image_inventory": "econ/set_icons/set_community_35"
   },
-  "marketHashName": "The Fever Collection"
+  "marketHashName": "The Fever Collection",
+  "slug": "the-fever-collection"
  },
  {
   "id": "collection-set-arabesque",
@@ -16297,7 +16380,8 @@
    "name": "#CSGO_set_arabesque",
    "image_inventory": "econ/set_icons/set_arabesque"
   },
-  "marketHashName": "The Arabesque Collection"
+  "marketHashName": "The Arabesque Collection",
+  "slug": "the-arabesque-collection"
  },
  {
   "id": "collection-set-community-36",
@@ -16505,7 +16589,8 @@
    "name": "#CSGO_set_community_36",
    "image_inventory": "econ/set_icons/set_community_36"
   },
-  "marketHashName": "The Genesis Collection"
+  "marketHashName": "The Genesis Collection",
+  "slug": "the-genesis-collection"
  },
  {
   "id": "collection-set-community-37",
@@ -16713,7 +16798,8 @@
    "name": "#CSGO_set_community_37",
    "image_inventory": "econ/set_icons/set_community_37"
   },
-  "marketHashName": "The Dead Hand Collection"
+  "marketHashName": "The Dead Hand Collection",
+  "slug": "the-dead-hand-collection"
  },
  {
   "id": "collection-set-graphic-design",
@@ -16904,7 +16990,8 @@
    "name": "#CSGO_set_graphic_design",
    "image_inventory": "econ/set_icons/set_graphic_design"
   },
-  "marketHashName": "The Graphic Design Collection"
+  "marketHashName": "The Graphic Design Collection",
+  "slug": "the-graphic-design-collection"
  },
  {
   "id": "collection-set-overpass-2024",
@@ -17101,7 +17188,8 @@
    "name": "#CSGO_set_overpass_2024",
    "image_inventory": "econ/set_icons/set_overpass_2024"
   },
-  "marketHashName": "The Overpass 2024 Collection"
+  "marketHashName": "The Overpass 2024 Collection",
+  "slug": "the-overpass-2024-collection"
  },
  {
   "id": "collection-set-realism-camo",
@@ -17292,7 +17380,8 @@
    "name": "#CSGO_set_realism_camo",
    "image_inventory": "econ/set_icons/set_realism_camo"
   },
-  "marketHashName": "The Sport & Field Collection"
+  "marketHashName": "The Sport & Field Collection",
+  "slug": "the-sport-field-collection"
  },
  {
   "id": "collection-set-spy-tech",
@@ -17494,7 +17583,8 @@
    "name": "#CSGO_set_spy_tech",
    "image_inventory": "econ/set_icons/set_spy_tech"
   },
-  "marketHashName": "The Spy Tech Collection"
+  "marketHashName": "The Spy Tech Collection",
+  "slug": "the-spy-tech-collection"
  },
  {
   "id": "collection-set-timed-drops-achroma",
@@ -17729,7 +17819,8 @@
    "name": "#CSGO_set_timed_drops_achroma",
    "image_inventory": "econ/set_icons/set_timed_drops_achroma"
   },
-  "marketHashName": "The Achroma Collection"
+  "marketHashName": "The Achroma Collection",
+  "slug": "the-achroma-collection"
  },
  {
   "id": "collection-set-timed-drops-cool",
@@ -18052,7 +18143,8 @@
    "name": "#CSGO_set_timed_drops_cool",
    "image_inventory": "econ/set_icons/set_timed_drops_cool"
   },
-  "marketHashName": "The Ascent Collection"
+  "marketHashName": "The Ascent Collection",
+  "slug": "the-ascent-collection"
  },
  {
   "id": "collection-set-timed-drops-exuberant",
@@ -18276,7 +18368,8 @@
    "name": "#CSGO_set_timed_drops_exuberant",
    "image_inventory": "econ/set_icons/set_timed_drops_exuberant"
   },
-  "marketHashName": "The Harlequin Collection"
+  "marketHashName": "The Harlequin Collection",
+  "slug": "the-harlequin-collection"
  },
  {
   "id": "collection-set-timed-drops-neutral",
@@ -18610,7 +18703,8 @@
    "name": "#CSGO_set_timed_drops_neutral",
    "image_inventory": "econ/set_icons/set_timed_drops_neutral"
   },
-  "marketHashName": "The Boreal Collection"
+  "marketHashName": "The Boreal Collection",
+  "slug": "the-boreal-collection"
  },
  {
   "id": "collection-set-timed-drops-warm",
@@ -18933,7 +19027,8 @@
    "name": "#CSGO_set_timed_drops_warm",
    "image_inventory": "econ/set_icons/set_timed_drops_warm"
   },
-  "marketHashName": "The Radiant Collection"
+  "marketHashName": "The Radiant Collection",
+  "slug": "the-radiant-collection"
  },
  {
   "id": "collection-set-train-2025",
@@ -19135,7 +19230,8 @@
    "name": "#CSGO_set_train_2025",
    "image_inventory": "econ/set_icons/set_train_2025"
   },
-  "marketHashName": "The Train 2025 Collection"
+  "marketHashName": "The Train 2025 Collection",
+  "slug": "the-train-2025-collection"
  },
  {
   "id": "collection-set-xpshop-wpn-01",
@@ -19194,7 +19290,8 @@
    "name": "#CSGO_set_xpshop_wpn_01",
    "image_inventory": "econ/set_icons/set_xpshop_wpn_01"
   },
-  "marketHashName": "Limited Edition Item"
+  "marketHashName": "Limited Edition Item",
+  "slug": "limited-edition-item"
  },
  {
   "id": "collection-set-auto-racing",
@@ -19489,7 +19586,8 @@
    "name": "#CSGO_set_auto_racing",
    "image_inventory": "econ/set_icons/set_auto_racing"
   },
-  "marketHashName": "Auto Racing Sticker Collection"
+  "marketHashName": "Auto Racing Sticker Collection",
+  "slug": "auto-racing-sticker-collection"
  },
  {
   "id": "collection-set-community-2025",
@@ -19794,7 +19892,8 @@
    "name": "#CSGO_set_community_2025",
    "image_inventory": "econ/set_icons/set_community_2025"
   },
-  "marketHashName": "2025 Community Sticker Collection"
+  "marketHashName": "2025 Community Sticker Collection",
+  "slug": "2025-community-sticker-collection"
  },
  {
   "id": "collection-set-fruits-veggies",
@@ -20079,7 +20178,8 @@
    "name": "#CSGO_set_fruits_veggies",
    "image_inventory": "econ/set_icons/set_fruits_veggies"
   },
-  "marketHashName": "Fruits And Veggies Sticker Collection"
+  "marketHashName": "Fruits And Veggies Sticker Collection",
+  "slug": "fruits-and-veggies-sticker-collection"
  },
  {
   "id": "collection-set-kc-drboom",
@@ -20314,7 +20414,8 @@
    "name": "#CSGO_set_kc_drboom",
    "image_inventory": "econ/set_icons/set_kc_drboom"
   },
-  "marketHashName": "Dr Boom Charm Collection"
+  "marketHashName": "Dr Boom Charm Collection",
+  "slug": "dr-boom-charm-collection"
  },
  {
   "id": "collection-set-kc-missinglink",
@@ -20499,7 +20600,8 @@
    "name": "#CSGO_set_kc_missinglink",
    "image_inventory": "econ/set_icons/set_kc_missinglink"
   },
-  "marketHashName": "Missing Link Charm Collection"
+  "marketHashName": "Missing Link Charm Collection",
+  "slug": "missing-link-charm-collection"
  },
  {
   "id": "collection-set-kc-ml-community-01",
@@ -20744,7 +20846,8 @@
    "name": "#CSGO_set_kc_ml_community_01",
    "image_inventory": "econ/set_icons/set_kc_ml_community_01"
   },
-  "marketHashName": "Missing Link Community Charm Collection"
+  "marketHashName": "Missing Link Community Charm Collection",
+  "slug": "missing-link-community-charm-collection"
  },
  {
   "id": "collection-set-kc-weapon-01",
@@ -20919,7 +21022,8 @@
    "name": "#CSGO_set_kc_weapon_01",
    "image_inventory": "econ/set_icons/set_kc_weapon_01"
   },
-  "marketHashName": "Small Arms Charm Collection"
+  "marketHashName": "Small Arms Charm Collection",
+  "slug": "small-arms-charm-collection"
  },
  {
   "id": "collection-set-stkr-craft-01",
@@ -21194,7 +21298,8 @@
    "name": "#CSGO_set_stkr_craft_01",
    "image_inventory": "econ/set_icons/set_stkr_craft_01"
   },
-  "marketHashName": "Elemental Craft Sticker Pack"
+  "marketHashName": "Elemental Craft Sticker Pack",
+  "slug": "elemental-craft-sticker-pack"
  },
  {
   "id": "collection-set-stkr-craft-02",
@@ -21459,7 +21564,8 @@
    "name": "#CSGO_set_stkr_craft_02",
    "image_inventory": "econ/set_icons/set_stkr_craft_02"
   },
-  "marketHashName": "Character Craft Sticker Pack"
+  "marketHashName": "Character Craft Sticker Pack",
+  "slug": "character-craft-sticker-pack"
  },
  {
   "id": "collection-set-sugarface2",
@@ -21564,7 +21670,8 @@
    "name": "#CSGO_set_sugarface2",
    "image_inventory": "econ/set_icons/set_sugarface2"
   },
-  "marketHashName": "Sugarface 2 Sticker Collection"
+  "marketHashName": "Sugarface 2 Sticker Collection",
+  "slug": "sugarface-2-sticker-collection"
  },
  {
   "id": "collection-4617",
@@ -24620,7 +24727,8 @@
    "item_name": "#CSGO_crate_spray_std3",
    "image_inventory": "econ/weapon_cases/crate_spray_std3"
   },
-  "marketHashName": "CS:GO Graffiti #3 Collection"
+  "marketHashName": "CS:GO Graffiti #3 Collection",
+  "slug": "cs-go-graffiti-3-collection"
  },
  {
   "id": "collection-4618",
@@ -27866,7 +27974,8 @@
    "item_name": "#CSGO_crate_spray_std2_2",
    "image_inventory": "econ/weapon_cases/crate_spray_std2"
   },
-  "marketHashName": "Trolling Graffiti Collection"
+  "marketHashName": "Trolling Graffiti Collection",
+  "slug": "trolling-graffiti-collection"
  },
  {
   "id": "collection-4621",
@@ -31322,6 +31431,7 @@
    "item_name": "#CSGO_crate_spray_std2_1",
    "image_inventory": "econ/weapon_cases/crate_spray_std2"
   },
-  "marketHashName": "CS:GO Graffiti #2 Collection"
+  "marketHashName": "CS:GO Graffiti #2 Collection",
+  "slug": "cs-go-graffiti-2-collection"
  }
 ]

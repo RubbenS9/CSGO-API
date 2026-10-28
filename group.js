@@ -1,6 +1,7 @@
 import fs from "fs";
 import path from "path";
 import { getLanguages, parseLanguagesArg } from "./utils/languages.js";
+import { normalizeApiData } from "./utils/saveDataJson.js";
 import { getManifestId, getImagesJsonSha } from "./services/main.js";
 
 const args = process.argv.slice(2);
@@ -80,7 +81,9 @@ if (isForce) {
     }
 }
 
-for (let langObj of languages) {
+const orderedLanguages = [...languages].sort((a, b) => Number(b.folder === "en") - Number(a.folder === "en"));
+
+for (let langObj of orderedLanguages) {
     const lang = langObj.folder;
     const allData = {};
 
@@ -103,6 +106,7 @@ for (let langObj of languages) {
     }
 
     const outputFilePath = `./public/api/${lang}/all.json`;
+    normalizeApiData(outputFilePath, allData);
     fs.writeFileSync(outputFilePath, JSON.stringify(allData));
 
     console.log(`all.json for ${lang} has been generated.`);

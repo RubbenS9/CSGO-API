@@ -1,6 +1,6 @@
 import fs from "fs";
 import path from "path";
-import { saveDataJson } from "../utils/saveDataJson.js";
+import { isMarketableItem, saveDataJson } from "../utils/saveDataJson.js";
 import { languageData } from "./translations.js";
 
 const formatInventoryData = ({
@@ -27,6 +27,7 @@ const formatInventoryData = ({
         items["skins"][skin.weapon.weapon_id][skin.paint_index] = {
             name: skin.name,
             marketHashName: skin.marketHashName,
+            slug: skin.slug,
             rarity: skin.rarity,
             marketable: true,
             image: skin.image,
@@ -41,8 +42,9 @@ const formatInventoryData = ({
         items["crates"][crate.id.replace("crate-", "")] = {
             name: crate.name,
             marketHashName: crate.marketHashName,
+            slug: crate.slug,
             rarity: crate.rarity,
-            marketable: !!crate.market_hash_name,
+            marketable: isMarketableItem(crate),
             image: crate.image,
         };
     });
@@ -55,8 +57,9 @@ const formatInventoryData = ({
         items["collectibles"][collectible.id.replace("collectible-", "")] = {
             name: collectible.name,
             marketHashName: collectible.marketHashName,
+            slug: collectible.slug,
             rarity: collectible.rarity,
-            marketable: !!collectible.market_hash_name,
+            marketable: isMarketableItem(collectible),
             image: collectible.image,
         };
     });
@@ -69,8 +72,9 @@ const formatInventoryData = ({
         items["stickers"][sticker.id.replace("sticker-", "")] = {
             name: sticker.name,
             marketHashName: sticker.marketHashName,
+            slug: sticker.slug,
             rarity: sticker.rarity,
-            marketable: !!sticker.market_hash_name,
+            marketable: isMarketableItem(sticker),
             image: sticker.image,
         };
     });
@@ -83,8 +87,9 @@ const formatInventoryData = ({
         items["graffiti"][graffiti.id.replace("graffiti-", "")] = {
             name: graffiti.name,
             marketHashName: graffiti.marketHashName,
+            slug: graffiti.slug,
             rarity: graffiti.rarity,
-            marketable: !!graffiti.market_hash_name,
+            marketable: isMarketableItem(graffiti),
             image: graffiti.image,
         };
     });
@@ -98,8 +103,9 @@ const formatInventoryData = ({
             items["music_kits"][musicKit.id.replace("music_kit-", "")] = {
                 name: musicKit.name,
                 marketHashName: musicKit.marketHashName,
+                slug: musicKit.slug,
                 rarity: musicKit.rarity,
-                marketable: !!musicKit.market_hash_name,
+                marketable: isMarketableItem(musicKit),
                 image: musicKit.image,
             };
         }
@@ -110,8 +116,9 @@ const formatInventoryData = ({
         items["keychains"][keychain.id.replace("keychain-", "")] = {
             name: keychain.name,
             marketHashName: keychain.marketHashName,
+            slug: keychain.slug,
             rarity: keychain.rarity,
-            marketable: !!keychain.market_hash_name,
+            marketable: isMarketableItem(keychain),
             image: keychain.image,
         };
     });
@@ -121,8 +128,9 @@ const formatInventoryData = ({
         items["highlights"][highlight.id.replace("highlight-", "")] = {
             name: highlight.name,
             marketHashName: highlight.marketHashName,
+            slug: highlight.slug,
             rarity: highlight.rarity ?? null,
-            marketable: !!highlight.market_hash_name,
+            marketable: isMarketableItem(highlight),
             image: highlight.image,
         };
     });
@@ -132,8 +140,9 @@ const formatInventoryData = ({
         items["agents"][agent.id.replace("agent-", "")] = {
             name: agent.name,
             marketHashName: agent.marketHashName,
+            slug: agent.slug,
             rarity: agent.rarity,
-            marketable: !!agent.market_hash_name,
+            marketable: isMarketableItem(agent),
             image: agent.image,
         };
     });
@@ -143,8 +152,9 @@ const formatInventoryData = ({
         items["patches"][patch.id.replace("patch-", "")] = {
             name: patch.name,
             marketHashName: patch.marketHashName,
+            slug: patch.slug,
             rarity: patch.rarity,
-            marketable: !!patch.market_hash_name,
+            marketable: isMarketableItem(patch),
             image: patch.image,
         };
     });
@@ -154,8 +164,9 @@ const formatInventoryData = ({
         items["keys"][key.id.replace("key-", "")] = {
             name: key.name,
             marketHashName: key.marketHashName,
+            slug: key.slug,
             rarity: key.rarity ?? null,
-            marketable: !!key.market_hash_name,
+            marketable: isMarketableItem(key),
             image: key.image,
         };
     });
@@ -165,8 +176,9 @@ const formatInventoryData = ({
         items["sticker_slabs"][stickerSlab.id.replace("sticker_slab-", "")] = {
             name: stickerSlab.name,
             marketHashName: stickerSlab.marketHashName,
+            slug: stickerSlab.slug,
             rarity: stickerSlab.rarity,
-            marketable: !!stickerSlab.market_hash_name,
+            marketable: isMarketableItem(stickerSlab),
             image: stickerSlab.image,
         };
     });
@@ -176,8 +188,9 @@ const formatInventoryData = ({
         items["tools"][tool.id.replace("tool-", "")] = {
             name: tool.name,
             marketHashName: tool.marketHashName,
+            slug: tool.slug,
             rarity: tool.rarity ?? null,
-            marketable: !!tool.market_hash_name,
+            marketable: isMarketableItem(tool),
             image: tool.image,
         };
     });
