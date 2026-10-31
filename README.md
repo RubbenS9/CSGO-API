@@ -40,6 +40,27 @@ Set `LANGUAGES` under **Settings → Secrets and variables → Actions → Varia
 
 Full list with display names in [`constants.js`](constants.js).
 
+## Slim catalogs and listing indexes
+
+The files directly under `public/api/{language}/` are unchanged. Two extra trees are generated with them (`node update.js`, or `npm run generate-derived` from the published JSON):
+
+```http
+GET https://raw.githubusercontent.com/RubbenS9/CSGO-API/main/public/api/{language}/index/{category}.json
+GET https://raw.githubusercontent.com/RubbenS9/CSGO-API/main/public/api/{language}/slim/{category}.json
+```
+
+`{category}` is one of `agents`, `base_weapons`, `collectibles`, `collections`, `crates`, `graffiti`, `highlights`, `keychains`, `keys`, `music_kits`, `patches`, `sticker_slabs`, `stickers`, `tools`, `weapons`. There is no slim or index for `all.json`.
+
+Listing pages should read `index/`. Each entry keeps only card and filter fields: `id`, `name`, `marketHashName`, `image`, `rarity` (`id`, `name`, `color`), `weapon` (`id`, `name`), `category` (`id`, `name`), `pattern` (`id`, `name`), `stattrak`, `souvenir`, `collections` (ids), `team` (`id`, `name`), plus `type`, `effect`, `tournament` (`id`, `name`) and `player` (`id`, `name`) when that category has them. Missing keys mean "not on this item".
+
+Detail pages should read `slim/`. It is the same array, in the same order, with redundant data removed:
+
+- `crates`, `collections`, `contains` and `contains_rare` are id lists. Resolve them against that category's index or slim file.
+- `original` is omitted (game keys already resolved into `name` and `image`).
+- Nulls, empty strings and empty arrays are omitted.
+- On skins, `wears` is only `{id, name}`. Wear market names and images live on `variants`. A variant omits `image` when it equals the parent `image`.
+- When almost every item shares a long description, that paragraph is stored once in `slim/{category}.boilerplate.json` as `{ "description": "..." }` and replaced in items by `{{boilerplate}}`. Rebuild with `item.description.replaceAll("{{boilerplate}}", boilerplate.description)`. If `description` is absent, the item had no description.
+
 ### All items
 
 ```http

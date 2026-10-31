@@ -57,6 +57,12 @@ jobs:
       - name: Group data
         id: group-data
         run: node group.js $FORCE_FLAG ${LANGUAGES:+--languages "$LANGUAGES"}
+
+      # Also emitted by saveDataJson during Update data. This pass covers a
+      # no-op update (manifest unchanged) and refreshes slim/index from the
+      # published catalogs without rewriting them.
+      - name: Slim catalogs and listing indexes
+        run: node scripts/generate-derived.js
       
       - name: Read manifestIdGroup.txt
         id: manifestIdGroup
