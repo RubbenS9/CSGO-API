@@ -1,5 +1,6 @@
 import * as fs from "fs";
 import { assignSlugs } from "./slugify.js";
+import { writeDerivedCatalog } from "./derivedCatalog.js";
 
 const englishNamesByFile = new Map();
 
@@ -202,8 +203,15 @@ export const saveDataJson = (file, data) => {
         fs.writeFile(file, json, err => {
             if (err) {
                 reject(err);
-            } else {
+                return;
+            }
+
+            try {
+                // Slim and index files are extra outputs. The catalog just written is unchanged.
+                writeDerivedCatalog(file, data);
                 resolve();
+            } catch (error) {
+                reject(error);
             }
         });
     });

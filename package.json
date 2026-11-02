@@ -9,6 +9,7 @@
   },
   "scripts": {
     "generate-docs": "node scripts/generate-docs.js",
+    "generate-derived": "node scripts/generate-derived.js",
     "format": "prettier --write \"**/*.js\" --ignore-path .gitignore"
   }
 }
